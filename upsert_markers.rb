@@ -3,6 +3,8 @@
 
 MARKERS_YAML = 'markers.yaml'
 BASE_URL     = 'https://takadanobaba.keizai.biz/mapnews/'
+CASE_LAT     = '35.7120933'
+CASE_LNG     = '139.7047394'
 #BASE_MAP    = 'https://maps.google.com/maps?q='
 
 require 'mechanize'
@@ -13,8 +15,9 @@ existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
                       [0]
 upserted_marker_data = File.read('markers.yaml')
 
-(1..50).each do |id|
-  next if existing_marker_ids.include? id
+(1..100).each do |id|
+  next      if existing_marker_ids.include? id
+  sleep(10) if id % 11 == 0 # Add time interbal before fetching for servers
 
   begin
     html  = mechanize.get(BASE_URL + id.to_s)
@@ -23,30 +26,31 @@ upserted_marker_data = File.read('markers.yaml')
   end
 
   if html.search('time').text.empty? == false
-    date  = html.search('time').text
-    link  = html.search('li.send a').attribute('href').value
-    title = html.search('h1').last.text
+    date    = html.search('time').text
+    link    = html.search('li.send a').attribute('href').value
+    title   = html.search('h1').last.text
     lat,lng = html.search('p#mapLink a').attribute('href').value[31..].split(',')
-    puts format("[%04d] #{title}", id)
+    puts "[#{id.to_s.rjust(4, '0')}] #{title}"
 
+    # 位置情報が抜けている場合は CASE Shinjuku の位置情報を入力
     upserted_marker_data << <<~NEW_MARKER
-    - id:    #{id}
-      link:  #{link}
-      date:  #{date}
-      title: '#{title}'
-      lat:   #{lat}
-      lng:   #{lng}
-    NEW_MARKER
+      - id:    #{id}
+        link:  #{link}
+        date:  #{date}
+        title: '#{title}'
+        lat:   #{lat.nil? ? CASE_LAT + ' # NOT_FOUND' : lat }
+        lng:   #{lng.nil? ? CASE_LNG + ' # NOT_FOUND' : lng }
+      NEW_MARKER
   else
     puts "[#{id.to_s.rjust(4, '0')}] 404 Not Found"
     upserted_marker_data << <<~NEW_MARKER
-    - id:    #{id}
-      link:  https://takadanobaba.keizai.biz/
-      date:  2000-01-23
-      title: 404_Not_Found
-      lat:   35.7120933
-      lng:   139.7047394
-    NEW_MARKER
+      - id:    #{id}
+        link:  https://takadanobaba.keizai.biz/
+        date:  2000-01-23
+        title: 404_Not_Found
+        lat:   CASE_LAT
+        lng:   CASE_LNG
+      NEW_MARKER
   end
 
   #puts upserted_marker_data
