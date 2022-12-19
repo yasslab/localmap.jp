@@ -9,13 +9,17 @@ BASE_URL = 'https://takadanobaba.keizai.biz/mapnews/'
 agent = Mechanize.new
 
 features = []
+skipped_ids = [958]
 #article_ids = [1000,997,996,993,987,984,979,977,970,964] # for debugging
 #article_ids.each do |id|
-(900..920).each do |id|
+(900..1000).each do |id|
+  next if skipped_ids.include? id
+  sleep(10) if id % 11 == 0 # Add interbal to fetch for servers
+
   html  = agent.get(BASE_URL + id.to_s)
   date  = html.search('time').text
   link  = html.search('li.send a').attribute('href').value
-  title = html.search('h1').text
+  title = html.search('h1').last.text
   #lng,lat = html.search('p#mapLink a').attribute('href').value.delete(BASE_MAP).split(',')
   lat,lng = html.search('p#mapLink a').attribute('href').value[31..].split(',')
   p "[#{id}] #{title} "
