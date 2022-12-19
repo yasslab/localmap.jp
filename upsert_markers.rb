@@ -15,7 +15,7 @@ existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
                       [0]
 upserted_marker_data = File.read('markers.yaml')
 
-(1..500).each do |id|
+(1..600).each do |id|
   next      if existing_marker_ids.include? id
   sleep(10) if id % 11 == 0 # Add time interbal before fetching for servers
 
