@@ -29,7 +29,7 @@ upserted_marker_data = File.read('markers.yaml')
     date    = html.search('time').text
     link    = html.search('li.send a').attribute('href').value
     title   = html.search('h1').last.text
-    image   = html.at('meta[property="og:image"]').attributes['content'].value
+    image   = html.at('meta[property="og:image"]').attributes['content'].value.gsub('mapnews','headline')
     lat,lng = html.search('p#mapLink a').attribute('href').value[31..].split(',')
     puts "[#{id.to_s.rjust(4, '0')}] #{title}"
 
