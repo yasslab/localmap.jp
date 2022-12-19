@@ -9,7 +9,7 @@ marker_data  = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
 
 features    = []
 marker_data.each do |marker|
-  next if marker[:title].eql? '404_Not_Found'
+  next if marker[:title].chomp.eql? '404_Not_Found'
 
   features << {
     type: "Feature",
