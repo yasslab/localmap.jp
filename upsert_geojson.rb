@@ -2,15 +2,11 @@
 # -*- coding: utf-8 -*-
 
 require 'json'
-require 'mechanize'
 
 MARKERS_YAML = 'markers.yaml'
-BASE_URL     = 'https://takadanobaba.keizai.biz/mapnews/'
+marker_data  = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
 
-mechanize   = Mechanize.new
 features    = []
-marker_data = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
-
 marker_data.each do |marker|
   next if marker[:title].eql? '404_Not_Found'
 

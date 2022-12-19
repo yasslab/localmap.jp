@@ -1,13 +1,11 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
-require 'yaml'
-require 'mechanize'
-
 MARKERS_YAML = 'markers.yaml'
 BASE_URL     = 'https://takadanobaba.keizai.biz/mapnews/'
 #BASE_MAP    = 'https://maps.google.com/maps?q='
 
+require 'mechanize'
 mechanize                  = Mechanize.new
 mechanize.user_agent_alias = 'Windows Chrome'
 existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
