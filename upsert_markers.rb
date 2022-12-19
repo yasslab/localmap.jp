@@ -51,8 +51,8 @@ upserted_marker_data = File.read('markers.yaml')
         date:  2000-01-23
         title: 404_Not_Found
         image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
-        lat:   CASE_LAT
-        lng:   CASE_LNG
+        lat:   #{CASE_LAT}
+        lng:   #{CASE_LNG}
       NEW_MARKER
   end
 
