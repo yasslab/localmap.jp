@@ -34,8 +34,9 @@ skipped_ids = [958]
       coordinates: [lng, lat]
     },
     properties: {
-      'marker-size'  => 'small',
-      'marker-color' => 'rgba(45, 105, 176, 0.7)', # BabaKeizai Blue
+      'marker-size'   => 'small',
+      'marker-color'  => 'rgba(45, 105, 176, 0.7)', # BabaKeizai Blue
+      'marker-symbol' => 'minkei',
       #'marker-color' => 'rgba(237, 208, 70, 0.8)', # BabaKeizai Yellow
       description: "<a target='_blank' rel='noopener' href='#{link}'>#{title}</a> <small>(#{date})</small>"
     }
