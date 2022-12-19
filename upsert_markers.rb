@@ -13,7 +13,7 @@ existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
                       [0]
 upserted_marker_data = File.read('markers.yaml')
 
-(1..35).each do |id|
+(1..50).each do |id|
   next if existing_marker_ids.include? id
 
   begin
