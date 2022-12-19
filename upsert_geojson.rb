@@ -20,7 +20,7 @@ marker_data.each do |marker|
     properties: {
       #'marker-size'   => 'small',
       'marker-size'   => 'medium',
-      #'marker-symbol' => 'minkei',
+      'marker-symbol' => 'minkei',
       #'marker-color'  => 'rgba(45, 105, 176, 0.7)', # BabaKeizai Blue
       'marker-color' => 'rgba(237, 208, 70, 0.8)', # BabaKeizai Yellow
       description: "<a target='_blank' rel='noopener' href='#{marker[:link]}'>#{marker[:title]}</a> <small>(#{marker[:date]})</small>"
