@@ -17,7 +17,7 @@ existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
 upserted_marker_data = File.read('markers.yaml')
 
 count_request = 0
-(1..600).each do |id|
+(1..1000).each do |id|
   next  if existing_marker_ids.include? id
   break if (count_request += 1) > MAX_GET_REQS # Restrict max GET requests to send
 
