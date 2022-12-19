@@ -8,7 +8,7 @@ CASE_LNG     = '139.7047394'
 #BASE_MAP    = 'https://maps.google.com/maps?q='
 
 require 'mechanize'
-mechanize                  = Mechanize.new
+mechanize = Mechanize.new
 mechanize.user_agent_alias = 'Windows Chrome'
 existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
                       YAML.unsafe_load_file(MARKERS_YAML).map{|h| h['id']} :
@@ -29,6 +29,7 @@ upserted_marker_data = File.read('markers.yaml')
     date    = html.search('time').text
     link    = html.search('li.send a').attribute('href').value
     title   = html.search('h1').last.text
+    image   = html.at('meta[property="og:image"]').attributes['content'].value
     lat,lng = html.search('p#mapLink a').attribute('href').value[31..].split(',')
     puts "[#{id.to_s.rjust(4, '0')}] #{title}"
 
@@ -38,6 +39,7 @@ upserted_marker_data = File.read('markers.yaml')
         link:  #{link}
         date:  #{date}
         title: '#{title}'
+        image: #{image}
         lat:   #{lat.nil? ? CASE_LAT + ' # NOT_FOUND' : lat }
         lng:   #{lng.nil? ? CASE_LNG + ' # NOT_FOUND' : lng }
       NEW_MARKER
@@ -48,6 +50,7 @@ upserted_marker_data = File.read('markers.yaml')
         link:  https://takadanobaba.keizai.biz/
         date:  2000-01-23
         title: 404_Not_Found
+        image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
         lat:   CASE_LAT
         lng:   CASE_LNG
       NEW_MARKER
