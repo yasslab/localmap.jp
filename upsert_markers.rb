@@ -22,7 +22,7 @@ upserted_marker_data = File.read('markers.yaml')
   begin
     html  = mechanize.get(BASE_URL + id.to_s)
   rescue Mechanize::ResponseCodeError => error
-    puts 'ERROR: ' + error.response_code
+    puts 'ERROR: ' + error.response_code + ' - ' + BASE_URL + id.to_s
   end
 
   if html.search('time').text.empty? == false
