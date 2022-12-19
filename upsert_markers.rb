@@ -5,6 +5,7 @@ MARKERS_YAML = 'markers.yaml'
 BASE_URL     = 'https://takadanobaba.keizai.biz/mapnews/'
 CASE_LAT     = '35.7120933'
 CASE_LNG     = '139.7047394'
+MAX_GET_REQS = 20
 #BASE_MAP    = 'https://maps.google.com/maps?q='
 
 require 'mechanize'
@@ -15,9 +16,10 @@ existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
                       [0]
 upserted_marker_data = File.read('markers.yaml')
 
+count_request = 0
 (1..600).each do |id|
-  next      if existing_marker_ids.include? id
-  sleep(10) if id % 11 == 0 # Add time interbal before fetching for servers
+  next  if existing_marker_ids.include? id
+  break if (count_request += 1) > MAX_GET_REQS # Restrict max GET requests to send
 
   begin
     html  = mechanize.get(BASE_URL + id.to_s)
@@ -36,23 +38,25 @@ upserted_marker_data = File.read('markers.yaml')
     # 位置情報が抜けている場合は CASE Shinjuku の位置情報を入力
     upserted_marker_data << <<~NEW_MARKER
       - id:    #{id}
-        link:  #{link}
-        date:  #{date}
-        title: '#{title}'
-        image: #{image}
         lat:   #{lat.nil? ? CASE_LAT + ' # NOT_FOUND' : lat }
         lng:   #{lng.nil? ? CASE_LNG + ' # NOT_FOUND' : lng }
+        link:  #{link}
+        date:  #{date}
+        image: #{image}
+        title: >
+          #{title}
       NEW_MARKER
   else
     puts "[#{id.to_s.rjust(4, '0')}] 404 Not Found"
     upserted_marker_data << <<~NEW_MARKER
       - id:    #{id}
-        link:  https://takadanobaba.keizai.biz/
-        date:  2000-01-23
-        title: 404_Not_Found
-        image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
         lat:   #{CASE_LAT}
         lng:   #{CASE_LNG}
+        link:  https://takadanobaba.keizai.biz/
+        date:  2000-01-23
+        image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
+        title: >
+          404_Not_Found
       NEW_MARKER
   end
 
