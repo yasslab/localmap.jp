@@ -43,7 +43,7 @@ count_request = 0
         link:  #{link}
         date:  #{date}
         image: #{image}
-        title: |
+        title: |-
           #{title}
       NEW_MARKER
   else
@@ -55,7 +55,7 @@ count_request = 0
         link:  https://takadanobaba.keizai.biz/
         date:  2000-01-23
         image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
-        title: |
+        title: |-
           404_Not_Found
       NEW_MARKER
   end
