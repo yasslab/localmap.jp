@@ -65,4 +65,10 @@ end
 
 descending_result = YAML.unsafe_load(upserted_marker_data).sort_by{ |marker| marker['id'] }.reverse
 
+# NOTE: Correct or debug YAML data here whenever you want.
+#descending_result = YAML.unsafe_load_file(MARKERS_YAML).sort_by{ |marker| marker['id'] }.reverse
+#descending_result = descending_result.each do |marker|
+#  marker['title'].chomp!
+#end
+
 YAML.dump(descending_result, File.open(MARKERS_YAML, 'w')) unless upserted_marker_data.empty?
