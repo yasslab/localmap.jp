@@ -43,7 +43,7 @@ count_request = 0
         link:  #{link}
         date:  #{date}
         image: #{image}
-        title: >
+        title: |
           #{title}
       NEW_MARKER
   else
@@ -55,7 +55,7 @@ count_request = 0
         link:  https://takadanobaba.keizai.biz/
         date:  2000-01-23
         image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
-        title: >
+        title: |
           404_Not_Found
       NEW_MARKER
   end
@@ -63,4 +63,6 @@ count_request = 0
   #puts upserted_marker_data
 end
 
-IO.write(MARKERS_YAML, upserted_marker_data) unless upserted_marker_data.empty?
+descending_result = YAML.unsafe_load(upserted_marker_data).sort_by{ |marker| marker['id'] }.reverse
+
+YAML.dump(descending_result, File.open(MARKERS_YAML, 'w')) unless upserted_marker_data.empty?
