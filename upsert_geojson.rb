@@ -25,7 +25,8 @@ marker_data.each do |marker|
       'marker-color' => 'rgba(237, 208, 70, 0.8)', # BabaKeizai Yellow
       description: <<~DESCRIPTION
         <a target='_blank' rel='noopener' href='#{marker[:link]}'>
-          <img src='#{marker[:image]}' width='100%'/>
+          <img src='#{marker[:image]}' alt='#{marker[:title]}'
+               width='100%' loading='lazy' />
         </a>
         <a target='_blank' rel='noopener' href='#{marker[:link]}'>#{marker[:title]}</a>
         <small>(#{marker[:date]})</small>
