@@ -1,4 +1,11 @@
 ---
+- id: 1001
+  lat: 35.7120933
+  lng: 139.7047394
+  link: https://takadanobaba.keizai.biz/headline/1001/
+  date: 2022.12.08
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1670477861_photo.png
+  title: 高田馬場経済新聞が1000記事到達　「バババレー」タグや音声配信も
 - id: 1000
   lat: 35.7078531
   lng: 139.725188
