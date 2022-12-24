@@ -1,0 +1,56 @@
+name: Deploy to GitHub Pages
+on:
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 📥 Download codes from GitHub
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 2
+
+    - name: 💎 Set up Ruby
+      uses: ruby/setup-ruby@v1
+      #with:
+      #  bundler-cache: true
+
+    - name: 🧪 Install gems
+      run: |
+        bundle install --jobs 4 --retry 3
+
+    - name: 🔧 Build & Test
+      run: |
+        JEKYLL_ENV=production bundle exec jekyll build
+        JEKYLL_ENV=production bundle exec jekyll doctor
+        # SKIP_BUILD=true       bundle exec rake test
+
+    # This is NOT for security reason but for others, especially who fork,
+    # to easier find out which API key they need to replace with their own.
+    # Check out the official tutorial for details: https://docs.geolonia.com/tutorial
+    - name: 🔑 Pass Geolonia YOUR-API-KEY from secrets
+      env:
+        GEOLONIA_API_KEY: ${{ secrets.GEOLONIA_API_KEY }}
+      run: |
+        ruby -i -pe '$_.gsub!("geolonia-api-key=YOUR-API-KEY",
+                              "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' _site/index.html
+
+    - name: 🚀 Deploy to GitHub Pages
+      if:   github.ref == 'refs/heads/main' && job.status == 'success'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir:    ./_site
+
+    - name: 🔔 Notify results
+      env:
+        IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+      if: always() && ( env.IDOBATA_GITHUB_ACTIONS!= null )
+      uses: yasslab/idobata_notify@main # https://github.com/yasslab/idobata_notify
+      with:
+        idobata_hook_url: ${{ env.IDOBATA_GITHUB_ACTIONS }}
