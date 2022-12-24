@@ -1,0 +1,107 @@
+name: Scheduler (Daily)
+
+# NOTE: GitHub Action's scheduler is always set to UTC+0. So 9am should be set at 0am for JST (UTC+9)
+# https://docs.github.com/en/actions/reference/events-that-trigger-workflows#scheduled-events-schedule
+
+# '0 23 * * *' ==  8am in JST (UTC+9)
+# '0 0 * * *'  ==  9am in JST (UTC+9)
+# '0 1 * * *'  == 10am in JST (UTC+9)
+# '59 23 * * *' task will be completed after 9am in JST
+on:
+  schedule:
+    - cron:  '59 20 * * *'
+
+    # [DEBUG ONLY] Every 5 minutes
+    # https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing
+    #- cron:  '*/5 * * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 📥 Download codes from GitHub
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 2
+
+    - name: 💎 Set up Ruby
+      uses: ruby/setup-ruby@v1
+      #with:
+      #  bundler-cache: true
+        #ruby-version: 3.2 # Not necessary if .ruby-version is given
+
+    - name: 🧪 Install Ruby gems
+      run: |
+        bundle install --jobs 4 --retry 3
+
+    - name: 📰 Fetch map data for BabaMap
+      run: |
+        bundle exec ruby upsert_markers.rb
+
+    - name: 📍 Generate geojson for BabaMap
+      run: |
+        bundle exec ruby upsert_geojson.rb
+
+    - name: 🆙 Commit latest data to update BabaMap (if any)
+      run: |
+        if [ -n "$(git status --porcelain)" ]; then
+          git config --global user.name  "Yohei Yasukawa"
+          git config --global user.email "yohei@yasslab.jp"
+          git checkout main
+          git add Gemfile.lock
+          git add markers.yaml
+          git add markers.geojson
+          git commit -m '🤖 Upsert map data for BabaMap'
+          git push origin main
+        fi
+      env:
+        GITHUB_TOKEN:
+
+    - name: 🔧 Build & Test
+      run: |
+        JEKYLL_ENV=production bundle exec jekyll build
+        JEKYLL_ENV=production bundle exec jekyll doctor
+        # SKIP_BUILD=true       bundle exec rake test
+
+    # This is NOT for security reason but for others, especially who fork,
+    # to easier find out which API key they need to replace with their own.
+    # Check out the official tutorial for details: https://docs.geolonia.com/tutorial
+    - name: 🔑 Pass Geolonia YOUR-API-KEY from secrets
+      env:
+        GEOLONIA_API_KEY: ${{ secrets.GEOLONIA_API_KEY }}
+      run: |
+        ruby -i -pe '$_.gsub!("geolonia-api-key=YOUR-API-KEY",
+                              "geolonia-api-key=${{ env.GEOLONIA_API_KEY }}")' _site/index.html
+
+    - name: 🚀 Deploy to GitHub Pages
+      if:   github.ref == 'refs/heads/main' && job.status == 'success'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir:    ./_site
+
+    - name: 🔔 Notify results
+      env:
+        IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS_SCHEDULER }}
+      if: always() && (env.IDOBATA_GITHUB_ACTIONS_SCHEDULER != null)
+      uses: mahaker/actions-idobata@v1.1.2
+      with:
+        hookUrl: ${{ secrets.IDOBATA_GITHUB_ACTIONS_SCHEDULER }}
+        format: 'markdown'
+        message: |
+          BabaMap データを更新しました
+
+    - name: 🚨 Notify if tasks in GitHub Actions failed
+      env:
+        IDOBATA_GITHUB_ACTIONS: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+      if: failure() && (env.IDOBATA_GITHUB_ACTIONS != null)
+      uses: mahaker/actions-idobata@v1.1.2
+      with:
+        hookUrl: ${{ secrets.IDOBATA_GITHUB_ACTIONS }}
+        format: 'markdown'
+        message: |
+          <span class='label label-danger'>failed</span> @yasulab :warning: GitHub Actions のタスク実行に失敗しました >< :sweat_drops: ([build](https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}))
