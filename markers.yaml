@@ -1,4 +1,88 @@
 ---
+- id: 1013
+  lat: 35.7139323
+  lng: 139.7045
+  link: https://takadanobaba.keizai.biz/headline/1013/
+  date: 2022.12.26
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1672041002_photo.jpg
+  title: 高田馬場のクリスマスイブの夜　武人姿の2人が並んで練り歩き
+- id: 1012
+  lat: 35.7106024
+  lng: 139.7119735
+  link: https://takadanobaba.keizai.biz/headline/1012/
+  date: 2022.12.23
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1671777272_photo.jpg
+  title: 高田馬場・早稲田「ラーメンラリー＆総選挙」今月末まで　「すでに100以上の応募」
+- id: 1011
+  lat: 35.7145439
+  lng: 139.7046396
+  link: https://takadanobaba.keizai.biz/headline/1011/
+  date: 2022.12.22
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1671680824_photo.jpg
+  title: 高田馬場の「静岡おでんガッツ」が10周年　「お薦め料理は特にない」
+- id: 1010
+  lat: 35.7108581
+  lng: 139.7036355
+  link: https://takadanobaba.keizai.biz/headline/1010/
+  date: 2022.12.21
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1671587034_photo.jpg
+  title: 高田馬場創業支援センターが利用者募集　「事業立ち上げ、拡大のきっかけに」
+- id: 1009
+  lat: 35.7130056
+  lng: 139.7051785
+  link: https://takadanobaba.keizai.biz/headline/1009/
+  date: 2022.12.20
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1671505821_photo.jpg
+  title: 馬場の「焼爺」が「焼かない焼き油そば」　「って油そばよね？」と自らツイートも
+- id: 1008
+  lat: 35.7078726
+  lng: 139.7237414
+  link: https://takadanobaba.keizai.biz/headline/1008/
+  date: 2022.12.19
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1671418992_photo.jpg
+  title: 早大通りに創作和食の店「ごはん屋たまり」　「天栄米の魅力、引き出す料理を」
+- id: 1007
+  lat: 35.7129978
+  lng: 139.7049388
+  link: https://takadanobaba.keizai.biz/headline/1007/
+  date: 2022.12.16
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1671163214_photo.jpg
+  title: ババ経の2022年PVランキング　1位は「博多ラーメンはなぜ臭いのか」
+- id: 1006
+  lat: 35.7128271
+  lng: 139.7051383
+  link: https://takadanobaba.keizai.biz/headline/1006/
+  date: 2022.12.15
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1671073849_photo.jpg
+  title: 芳林堂書店で中世サバゲー「ナイトウォーズ」　騎士使用の武具や防具を再現
+- id: 1005
+  lat: 35.7096019
+  lng: 139.7230381
+  link: https://takadanobaba.keizai.biz/headline/1005/
+  date: 2022.12.14
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1670992910_photo.jpg
+  title: 早大と東電HDが「カーボンニュートラル社会実現」へ連携　「新しい社会価値を」
+- id: 1004
+  lat: 35.7116636
+  lng: 139.7079046
+  link: https://takadanobaba.keizai.biz/headline/1004/
+  date: 2022.12.13
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1670904802_photo.jpg
+  title: 早稲田通りに「ととけむり」　古民家風の店内で板前出身店長の創作料理など
+- id: 1003
+  lat: 35.7077368
+  lng: 139.7200453
+  link: https://takadanobaba.keizai.biz/headline/1003/
+  date: 2022.12.12
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1670826570_photo.jpg
+  title: 早大近くに洋食店「キッチン南国」　レシピを引き継ぎ「キッチン南海」継承
+- id: 1002
+  lat: 35.7120933
+  lng: 139.7047394
+  link: https://takadanobaba.keizai.biz/headline/1002/
+  date: 2022.12.09
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1670559280_photo.jpg
+  title: 全国のコーダー道場が地図から探せる「DojoMap」　オープンソースで提供
 - id: 1001
   lat: 35.7120933
   lng: 139.7047394
