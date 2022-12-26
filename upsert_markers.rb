@@ -16,18 +16,22 @@ existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
                       [0]
 upserted_marker_data = File.read('markers.yaml')
 
-count_request = 0
-(1..1001).each do |id|
+count_request  = 0
+is_end_article = false
+(1..).each do |id|
   next  if existing_marker_ids.include? id
   break if (count_request += 1) > MAX_GET_REQS # Restrict max GET requests to send
 
   begin
     html  = mechanize.get(BASE_URL + id.to_s)
   rescue Mechanize::ResponseCodeError => error
+    # 該当記事が無い場合は 404 で処理が止まり、html には nil が代入され、
+    # 以降は /404.html ページにリダイレクトされる処理がキャッシュされる。
     puts 'ERROR: ' + error.response_code + ' - ' + BASE_URL + id.to_s
   end
 
-  if html.search('time').text.empty? == false
+  # nil ガードを付けて、取得できた位置情報を YAML ファイルに格納する
+  if html && !html.search('time').text.empty?
     date    = html.search('time').text
     link    = html.search('li.send a').attribute('href').value
     title   = html.search('h1').last.text
@@ -48,16 +52,20 @@ count_request = 0
       NEW_MARKER
   else
     puts "[#{id.to_s.rjust(4, '0')}] 404 Not Found"
-    upserted_marker_data << <<~NEW_MARKER
-      - id:    #{id}
-        lat:   #{CASE_LAT}
-        lng:   #{CASE_LNG}
-        link:  https://takadanobaba.keizai.biz/
-        date:  2000-01-23
-        image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
-        title: |-
-          404_Not_Found
-      NEW_MARKER
+    puts "Successfully stopped searching articles ..."
+    puts
+    break
+
+    #upserted_marker_data << <<~NEW_MARKER
+    #  - id:    #{id}
+    #    lat:   #{CASE_LAT}
+    #    lng:   #{CASE_LNG}
+    #    link:  https://takadanobaba.keizai.biz/
+    #    date:  2000-01-23
+    #    image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
+    #    title: |-
+    #      404_Not_Found
+    #  NEW_MARKER
   end
 
   #puts upserted_marker_data
