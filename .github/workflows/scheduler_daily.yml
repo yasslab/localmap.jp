@@ -53,6 +53,7 @@ jobs:
           git config --global user.email "yohei@yasslab.jp"
           git checkout main
           git add Gemfile.lock
+          git add .bundle
           git add markers.yaml
           git add markers.geojson
           git commit -m '🤖 Upsert map data for BabaMap'
