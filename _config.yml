@@ -3,7 +3,6 @@ url:     "https://https://yasulab.github.io/takadanobaba-keizai-map"
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 exclude:
-  - .nojekyll
   - README.md
   - CODE_OF_CONDUCT.md
   - cover.jpg
