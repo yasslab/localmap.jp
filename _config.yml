@@ -1,5 +1,5 @@
 # the base hostname & protocol for your site, e.g. http://example.com
-url:     "https://https://yasulab.github.io/takadanobaba-keizai-map"
+url:     "https://babamap.net"
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 exclude:
