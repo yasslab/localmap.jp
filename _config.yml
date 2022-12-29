@@ -4,9 +4,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 
 exclude:
   - README.md
-  - CODE_OF_CONDUCT.md
   - cover.jpg
-  - sample.html
   - minkei.pxd
   - markers.yaml
   - upsert_geojson.rb
