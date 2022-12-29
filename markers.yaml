@@ -1,4 +1,18 @@
 ---
+- id: 1015
+  lat: 35.7132844
+  lng: 139.7049388
+  link: https://takadanobaba.keizai.biz/headline/1015/
+  date: 2022.12.29
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1672271228_photo.jpg
+  title: 広域高田馬場圏の公共交通機関、年末年始の運転予定　山手線は終夜運転
+- id: 1014
+  lat: 35.7100324
+  lng: 139.7140152
+  link: https://takadanobaba.keizai.biz/headline/1014/
+  date: 2022.12.28
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1672193653_photo.jpg
+  title: 西早稲田の「らぁ麺やまぐち」が10周年　記念の限定ラーメン提供も
 - id: 1013
   lat: 35.7139323
   lng: 139.7045
