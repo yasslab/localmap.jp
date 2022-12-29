@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
-MARKERS_YAML = 'markers.yaml'
+MARKERS_YAML = 'markers.yml'
 BASE_URL     = 'https://takadanobaba.keizai.biz/mapnews/'
 CASE_LAT     = '35.7120933'
 CASE_LNG     = '139.7047394'
@@ -14,7 +14,7 @@ mechanize.user_agent_alias = 'Windows Chrome'
 existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
                       YAML.unsafe_load_file(MARKERS_YAML).map{|h| h['id']} :
                       [0]
-upserted_marker_data = File.read('markers.yaml')
+upserted_marker_data = File.read(MARKERS_YAML)
 
 count_request  = 0
 is_end_article = false

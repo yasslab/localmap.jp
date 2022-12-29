@@ -4,7 +4,7 @@
 require 'yaml'
 require 'json'
 
-MARKERS_YAML = 'markers.yaml'
+MARKERS_YAML = 'markers.yml'
 marker_data  = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
 
 features    = []
