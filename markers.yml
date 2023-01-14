@@ -1,4 +1,11 @@
 ---
+- id: 1020
+  lat: 35.7049621
+  lng: 139.7081303
+  link: https://takadanobaba.keizai.biz/headline/1020/
+  date: 2023.01.13
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1673592295_photo.jpg
+  title: 新宿コズミックセンターのプラネタリウムでライブ　星空と「穏やかな音楽」
 - id: 1019
   lat: 35.7145439
   lng: 139.7046396
