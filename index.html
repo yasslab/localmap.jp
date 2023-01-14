@@ -80,10 +80,10 @@
 
     <script
       type="text/javascript"
-      {% if jekyll.environment == 'development' %}
-      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key=YOUR-API-KEY"
+      {% if site.env.GEOLONIA_API_KEY %}
+      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key={{ site.env.GEOLONIA_API_KEY }}"
       {% else %}
-      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key={{ jekyll.environment }}"
+      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key=YOUR-API-KEY"
       {% endif %}
     ></script>
 
