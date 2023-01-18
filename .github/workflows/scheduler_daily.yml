@@ -52,6 +52,7 @@ jobs:
           git add Gemfile.lock
           git add takadanobaba.yml
           git add takadanobaba.geojson
+          git add takadanobaba.min.geojson
           git commit -m '🤖 Upsert map data for BabaMap'
           git push origin main
         fi
