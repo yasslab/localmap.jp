@@ -13,7 +13,6 @@ end
 
 GIVEN_AREA    = ARGV[0].downcase
 TARGETS_YAML  = 'targets.yml'
-MARKERS_YAML  = 'markers.yml'
 ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
 unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
   puts "Sorry, the given area '#{GIVEN_AREA}' is not allowed to aggregate."
@@ -29,7 +28,8 @@ BASE_LNG     = TARGET_AREA[:lng]
 MAX_GET_REQS = 20
 #BASE_MAP    = 'https://maps.google.com/maps?q='
 
-mechanize = Mechanize.new
+MARKERS_YAML = "#{TARGET_AREA[:name]}.yml"
+mechanize    = Mechanize.new
 mechanize.user_agent_alias = 'Windows Chrome'
 existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
                       YAML.unsafe_load_file(MARKERS_YAML).map{|h| h['id']} :

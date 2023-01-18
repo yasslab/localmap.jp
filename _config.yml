@@ -6,7 +6,7 @@ exclude:
   - README.md
   - cover.jpg
   - minkei.pxd
-  - markers.yml
+  - takadanobaba.yml
   - upsert_geojson.rb
   - upsert_markers.rb
 

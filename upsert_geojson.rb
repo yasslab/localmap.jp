@@ -14,7 +14,6 @@ end
 
 GIVEN_AREA    = ARGV[0].downcase
 TARGETS_YAML  = 'targets.yml'
-MARKERS_YAML  = 'markers.yml'
 ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
 unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
   puts "Sorry, the given area '#{GIVEN_AREA}' is not allowed to aggregate."
@@ -24,6 +23,7 @@ unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
 end
 TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
 
+MARKERS_YAML = "#{TARGET_AREA[:name]}.yml"
 marker_data  = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
 features    = []
 marker_data.each do |marker|
@@ -58,6 +58,6 @@ geojson = {
   "features": features
 }
 
-File.open("markers.geojson", "w") do |file|
+File.open("#{TARGET_AREA[:name]}.geojson", "w") do |file|
   JSON.dump(geojson, file)
 end
