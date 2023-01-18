@@ -1,14 +1,34 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
-MARKERS_YAML = 'markers.yml'
-BASE_URL     = 'https://takadanobaba.keizai.biz/mapnews/'
-CASE_LAT     = '35.7120933'
-CASE_LNG     = '139.7047394'
+require 'mechanize'
+
+if ARGV.length != 1
+  puts "Usage: ./upsert_markers.rb MINKEI_TARGET"
+  puts " e.g.: ./upsert_markers.rb takadanobaba"
+  puts "       This above fetches Takadanobaba's map data to generate 馬場経マップ"
+  puts ""
+  exit(1)
+end
+
+GIVEN_AREA    = ARGV[0].downcase
+TARGETS_YAML  = 'targets.yml'
+MARKERS_YAML  = 'markers.yml'
+ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
+unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
+  puts "Sorry, the given area '#{GIVEN_AREA}' is not allowed to aggregate."
+  puts "ALLOED_AREAS: " + ALLOWED_AREAS.map{|h| h[:name]}.join(', ')
+  puts ""
+  exit(1)
+end
+TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
+
+BASE_URL     = "https://#{TARGET_AREA[:name]}.keizai.biz/mapnews/"
+BASE_LAT     = TARGET_AREA[:lat]
+BASE_LNG     = TARGET_AREA[:lng]
 MAX_GET_REQS = 20
 #BASE_MAP    = 'https://maps.google.com/maps?q='
 
-require 'mechanize'
 mechanize = Mechanize.new
 mechanize.user_agent_alias = 'Windows Chrome'
 existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
@@ -42,8 +62,8 @@ is_end_article = false
     # 位置情報が抜けている場合は CASE Shinjuku の位置情報を入力
     upserted_marker_data << <<~NEW_MARKER
       - id:    #{id}
-        lat:   #{lat.nil? ? CASE_LAT + ' # NOT_FOUND' : lat }
-        lng:   #{lng.nil? ? CASE_LNG + ' # NOT_FOUND' : lng }
+        lat:   #{lat.nil? ? BASE_LAT + ' # NOT_FOUND' : lat }
+        lng:   #{lng.nil? ? BASE_LNG + ' # NOT_FOUND' : lng }
         link:  #{link}
         date:  #{date}
         image: #{image}
@@ -58,8 +78,8 @@ is_end_article = false
 
     #upserted_marker_data << <<~NEW_MARKER
     #  - id:    #{id}
-    #    lat:   #{CASE_LAT}
-    #    lng:   #{CASE_LNG}
+    #    lat:   #{BASE_LAT}
+    #    lng:   #{BASE_LNG}
     #    link:  https://takadanobaba.keizai.biz/
     #    date:  2000-01-23
     #    image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
