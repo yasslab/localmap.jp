@@ -58,6 +58,8 @@ geojson = {
   "features": features
 }
 
+PRETTY_GEOJSON = JSON.pretty_generate(geojson)
 File.open("#{TARGET_AREA[:name]}.geojson", "w") do |file|
-  JSON.dump(geojson, file)
+  file.write(PRETTY_GEOJSON)
+  #JSON.dump(geojson, file)
 end
