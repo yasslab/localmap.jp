@@ -44,7 +44,7 @@ jobs:
 
     - name: 📍 Generate geojson for target area：高田馬場
       run: |
-        bundle exec ruby upsert_geojson.rb
+        bundle exec ruby upsert_geojson.rb takadanobaba
 
     - name: 🆙 Commit latest data to update BabaMap (if any)
       run: |
