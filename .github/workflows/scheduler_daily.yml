@@ -38,11 +38,11 @@ jobs:
       run: |
         bundle install --jobs 4 --retry 3
 
-    - name: 📰 Fetch map data for target area: 高田馬場
+    - name: 📰 Fetch map data for target area：高田馬場
       run: |
         bundle exec ruby upsert_markers.rb takadanobaba
 
-    - name: 📍 Generate geojson for target area: 高田馬場
+    - name: 📍 Generate geojson for target area：高田馬場
       run: |
         bundle exec ruby upsert_geojson.rb
 
