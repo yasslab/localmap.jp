@@ -52,7 +52,6 @@ jobs:
           git config --global user.email "yohei@yasslab.jp"
           git checkout main
           git add Gemfile.lock
-          git add .bundle
           git add takadanobaba.yml
           git add takadanobaba.geojson
           git commit -m '🤖 Upsert map data for BabaMap'
