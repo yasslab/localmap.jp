@@ -25,6 +25,8 @@ TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
 BASE_URL     = "https://#{TARGET_AREA[:name]}.keizai.biz/mapnews/"
 BASE_LAT     = TARGET_AREA[:lat]
 BASE_LNG     = TARGET_AREA[:lng]
+BASE_DATE    = '2000-01-23'
+BASE_LOGO    = TARGET_AREA[:logo]
 MAX_GET_REQS = 20
 #BASE_MAP    = 'https://maps.google.com/maps?q='
 
@@ -74,18 +76,19 @@ is_end_article = false
     puts "[#{id.to_s.rjust(4, '0')}] 404 Not Found"
     puts "Successfully stopped searching articles ..."
     puts
-    break
 
     #upserted_marker_data << <<~NEW_MARKER
     #  - id:    #{id}
     #    lat:   #{BASE_LAT}
     #    lng:   #{BASE_LNG}
-    #    link:  https://takadanobaba.keizai.biz/
-    #    date:  2000-01-23
-    #    image: https://images.keizai.biz/img/logo/takadanobaba_keizai.png
+    #    link:  #{BASE_URL}
+    #    date:  #{BASE_DATE}
+    #    image: #{BASE_LOGO}
     #    title: |-
     #      404_Not_Found
     #  NEW_MARKER
+
+    break
   end
 
   #puts upserted_marker_data
