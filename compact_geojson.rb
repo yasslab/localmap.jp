@@ -20,10 +20,9 @@ unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
   exit(1)
 end
 TARGET_AREA = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
-TARGET_JSON = TARGET_AREA[:name] + '.geojson'
 
 # Just compact it for better loading by Computer
-geojson = JSON.load(File.read TARGET_JSON)
-File.open(TARGET_JSON, 'w') do |file|
+geojson = JSON.load(File.read "#{TARGET_AREA[:name]}.geojson")
+File.open("#{TARGET_AREA[:name]}.min.geojson", 'w') do |file|
   JSON.dump(geojson, file)
 end

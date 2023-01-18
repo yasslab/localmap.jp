@@ -37,13 +37,11 @@ jobs:
       run: |
         bundle install --jobs 4 --retry 3
 
-    - name: 📰 Fetch map data for target area：高田馬場
+    - name: 📍 Fetch data, generate geojson, and compact it for target area：高田馬場
       run: |
-        bundle exec ruby upsert_markers.rb takadanobaba
-
-    - name: 📍 Generate geojson for target area：高田馬場
-      run: |
-        bundle exec ruby upsert_geojson.rb takadanobaba
+        bundle exec ruby upsert_markers.rb  takadanobaba
+        bundle exec ruby upsert_geojson.rb  takadanobaba
+        bundle exec ruby compact_geojson.rb takadanobaba
 
     - name: 🆙 Commit latest data to update BabaMap (if any)
       run: |
