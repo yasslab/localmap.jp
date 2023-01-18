@@ -77,18 +77,18 @@ is_end_article = false
     puts "Successfully stopped searching articles ..."
     puts
 
-    upserted_marker_data << <<~NEW_MARKER
-      - id:    #{id}
-        lat:   #{BASE_LAT}
-        lng:   #{BASE_LNG}
-        link:  #{BASE_URL}
-        date:  #{BASE_DATE}
-        image: #{BASE_LOGO}
-        title: |-
-          404_Not_Found
-      NEW_MARKER
+    #upserted_marker_data << <<~NEW_MARKER
+    #  - id:    #{id}
+    #    lat:   #{BASE_LAT}
+    #    lng:   #{BASE_LNG}
+    #    link:  #{BASE_URL}
+    #    date:  #{BASE_DATE}
+    #    image: #{BASE_LOGO}
+    #    title: |-
+    #      404_Not_Found
+    #  NEW_MARKER
 
-    #break
+    break
   end
 
   #puts upserted_marker_data
