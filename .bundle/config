@@ -1,5 +1,3 @@
 ---
 BUNDLE_RETRY: "3"
 BUNDLE_JOBS: "4"
-BUNDLE_PATH: "/home/runner/work/babamap.net/babamap.net/vendor/bundle"
-BUNDLE_DEPLOYMENT: "true"
