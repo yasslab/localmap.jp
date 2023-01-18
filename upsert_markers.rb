@@ -23,8 +23,8 @@ end
 TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
 
 BASE_URL     = "https://#{TARGET_AREA[:name]}.keizai.biz/mapnews/"
-BASE_LAT     = TARGET_AREA[:lat]
-BASE_LNG     = TARGET_AREA[:lng]
+BASE_LAT     = TARGET_AREA[:lat].to_s
+BASE_LNG     = TARGET_AREA[:lng].to_s
 BASE_DATE    = '2000-01-23'
 BASE_LOGO    = TARGET_AREA[:logo]
 MAX_GET_REQS = 20
@@ -77,18 +77,18 @@ is_end_article = false
     puts "Successfully stopped searching articles ..."
     puts
 
-    #upserted_marker_data << <<~NEW_MARKER
-    #  - id:    #{id}
-    #    lat:   #{BASE_LAT}
-    #    lng:   #{BASE_LNG}
-    #    link:  #{BASE_URL}
-    #    date:  #{BASE_DATE}
-    #    image: #{BASE_LOGO}
-    #    title: |-
-    #      404_Not_Found
-    #  NEW_MARKER
+    upserted_marker_data << <<~NEW_MARKER
+      - id:    #{id}
+        lat:   #{BASE_LAT}
+        lng:   #{BASE_LNG}
+        link:  #{BASE_URL}
+        date:  #{BASE_DATE}
+        image: #{BASE_LOGO}
+        title: |-
+          404_Not_Found
+      NEW_MARKER
 
-    break
+    #break
   end
 
   #puts upserted_marker_data
