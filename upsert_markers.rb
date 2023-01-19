@@ -70,6 +70,7 @@ count_request  = 0
     # 無ければデフォルトの位置情報を YAML ファイルに追記する。
     upserted_marker_data << <<~NEW_MARKER
       - id:    #{id}
+        src:   #{BASE_URL + '/mapnews/' + id.to_s}
         lat:   #{lat.nil? ? BASE_LAT + ' # NOT_FOUND' : lat }
         lng:   #{lng.nil? ? BASE_LNG + ' # NOT_FOUND' : lng }
         link:  #{link}
@@ -85,6 +86,7 @@ count_request  = 0
     puts
     puts '[DEBUG INFO]' # This corresponds to 'upserted_marker_data << <<~NEW_MARKER' above.
     puts "- id:    #{id}"
+    puts "  src:   #{BASE_URL + '/mapnews/' + id.to_s}"
     puts "  lat:   #{BASE_LAT}"
     puts "  lng:   #{BASE_LNG}"
     puts "  link:  #{BASE_URL}"
