@@ -42,6 +42,7 @@ mechanize                  = Mechanize.new
 mechanize.user_agent_alias = 'Windows Chrome'
 latest_article = mechanize.get(BASE_URL).search('div.main a').attribute('href').value.split('/').last
 count_request  = 0
+debug_mode     = false
 (1..).each do |id|
   next (puts "Skipped: #{id}") if existing_marker_ids.include? id # Skip if already fetched marker datum
   break(puts "Reached to End") if id > latest_article.to_i # Break if reached to latest article's number
@@ -50,11 +51,11 @@ count_request  = 0
   begin
     html  = mechanize.get(BASE_URL + '/mapnews/' + id.to_s)
   rescue Mechanize::ResponseCodeError => error
-    # 該当記事が無い場合は 404 で処理が止まり、html には nil が代入され、
-    # 以降は /404.html ページにリダイレクトされる処理がキャッシュされる。
-    # ただし最新の記事番号以降にはアクセスしないためココに入ることはない（はず）。
-    puts 'ERROR: ' + error.response_code + ' - ' + BASE_URL + '/mapnews/' + id.to_s
-    break
+    # 該当記事が削除されていたり、存在しない場合がある。
+    # その場合は 404 ページが表示されるので、html には nil が代入される。
+    # （以降は /404.html にリダイレクトされる処理がキャッシュされる。）
+
+    puts "ERROR: #{error.response_code} - #{BASE_URL}/mapnews/#{id.to_s}" if debug_mode
   end
 
   # mapnews から取得できた位置情報を YAML ファイルに格納する
@@ -80,22 +81,37 @@ count_request  = 0
           #{title}
       NEW_MARKER
   else
-    # 例外処理: ネット環境が不調だったり、HTTP Request に失敗した場合など
+    # 該当記事が削除されていた場合や、HTTP Request に失敗した場合は、
+    # 当該記事にデフォルト値を入力して、スキップ。次の記事に進む。
     puts "[#{id.to_s.rjust(4, '0')}] 404 Not Found (ERROR)"
-    puts 'Please investigate why no map data found in this process.'
-    puts
-    puts '[DEBUG INFO]' # This corresponds to 'upserted_marker_data << <<~NEW_MARKER' above.
-    puts "- id:    #{id}"
-    puts "  src:   #{BASE_URL + '/mapnews/' + id.to_s}"
-    puts "  lat:   #{BASE_LAT}"
-    puts "  lng:   #{BASE_LNG}"
-    puts "  link:  #{BASE_URL}"
-    puts "  date:  #{BASE_DATE}"
-    puts "  image: #{BASE_LOGO}"
-    puts "  title: 404_Not_Found"
-    puts
 
-    break
+    if debug_mode
+      puts 'Please investigate why no map data found in this process.'
+      puts
+      puts '[DEBUG INFO]' # This corresponds to 'upserted_marker_data << <<~NEW_MARKER' above.
+      puts "- id:    #{id}"
+      puts "  src:   #{BASE_URL + '/mapnews/' + id.to_s}"
+      puts "  lat:   #{BASE_LAT}"
+      puts "  lng:   #{BASE_LNG}"
+      puts "  link:  #{BASE_URL}"
+      puts "  date:  #{BASE_DATE}"
+      puts "  image: #{BASE_LOGO}"
+      puts "  title: 404_Not_Found"
+      puts
+    end
+
+    upserted_marker_data << <<~NEW_MARKER
+      - id:    #{id}
+        src:   #{BASE_URL + '/mapnews/' + id.to_s}
+        lat:   #{BASE_LAT}
+        lng:   #{BASE_LNG}
+        link:  #{BASE_URL}
+        date:  #{BASE_DATE}
+        image: #{BASE_LOGO}
+        title: 404_Not_Found
+      NEW_MARKER
+
+    #break # 失敗した時点で処理を止めたい場合はココで break する
   end
 
   #puts upserted_marker_data
