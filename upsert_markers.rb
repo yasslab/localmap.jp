@@ -28,18 +28,20 @@ BASE_LNG     = TARGET_AREA[:lng].to_s
 BASE_DATE    = '2000-01-23'
 BASE_LOGO    = TARGET_AREA[:logo]
 MAX_GET_REQS = 20
-#BASE_MAP    = 'https://maps.google.com/maps?q='
 
+# NOTE: If no data found, then YAML.unsafe_load_file() returns 'false'.
 MARKERS_YAML = "#{TARGET_AREA[:name]}.yml"
-mechanize    = Mechanize.new
-mechanize.user_agent_alias = 'Windows Chrome'
+FileUtils.touch MARKERS_YAML
 existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
                       YAML.unsafe_load_file(MARKERS_YAML).map{|h| h['id']} :
                       [0]
 upserted_marker_data = File.read(MARKERS_YAML)
 
-count_request  = 0
+# Start fetching articles from allowed and targeted Minkei papers
+mechanize    = Mechanize.new
+mechanize.user_agent_alias = 'Windows Chrome'
 latest_article = mechanize.get(BASE_URL).search('div.main a').attribute('href').value.split('/').last
+count_request  = 0
 (1..).each do |id|
   next (puts "Skipped: #{id}") if existing_marker_ids.include? id # Skip if already fetched marker datum
   break(puts "Reached to End") if id > latest_article.to_i # Break if reached to latest article's number
