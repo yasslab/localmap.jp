@@ -38,7 +38,7 @@ existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
 upserted_marker_data = File.read(MARKERS_YAML)
 
 # Start fetching articles from allowed and targeted Minkei papers
-mechanize    = Mechanize.new
+mechanize                  = Mechanize.new
 mechanize.user_agent_alias = 'Windows Chrome'
 latest_article = mechanize.get(BASE_URL).search('div.main a').attribute('href').value.split('/').last
 count_request  = 0
