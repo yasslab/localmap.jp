@@ -1,6 +1,6 @@
 _site
 sample.html
 .envrc
-.bundle
-vendor
+/bundle/*
+/vendor/*
 
