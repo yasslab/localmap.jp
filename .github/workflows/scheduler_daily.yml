@@ -43,7 +43,7 @@ jobs:
         bundle exec ruby upsert_geojson.rb  takadanobaba
         bundle exec ruby compact_geojson.rb takadanobaba
 
-    - name: 🆙 Commit latest data to update BabaMap (if any)
+    - name: 🆙 Commit latest data to update LocalMap (if any)
       run: |
         if [ -n "$(git status --porcelain)" ]; then
           git config --global user.name  "Yohei Yasukawa"
@@ -53,7 +53,7 @@ jobs:
           git add takadanobaba.yml
           git add takadanobaba.geojson
           git add takadanobaba.min.geojson
-          git commit -m '🤖 Upsert map data for BabaMap'
+          git commit -m '🤖 Upsert map data for LocalMap'
           git push origin main
         fi
       env:
