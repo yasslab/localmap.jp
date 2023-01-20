@@ -1,4 +1,12 @@
 ---
+- id: 1023
+  src: https://takadanobaba.keizai.biz/mapnews/1023
+  lat: 35.7119928
+  lng: 139.7081902
+  link: https://takadanobaba.keizai.biz/headline/1023/
+  date: 2023.01.19
+  image: https://images.keizai.biz/takadanobaba_keizai/headline/1674107982_photo.jpg
+  title: 高田馬場の純喫茶「エスペラント」が閉店　56年の歴史、客から「素晴らしかった」の声
 - id: 1022
   src: https://takadanobaba.keizai.biz/mapnews/1022
   lat: 35.7105428
