@@ -1,4 +1,4 @@
-The MIT License (MIT) on [Source Codes](https://github.com/yasslab/babamap.net#readme)
+The MIT License (MIT) on [Source Codes](https://github.com/yasslab/localmap.jp#readme)
 
 Copyright &copy; [@YassLab](https://github.com/yasslab) Inc.
 
