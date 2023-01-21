@@ -36,11 +36,11 @@ MAX_GET_REQS = 20
 MARKERS_YAML = "#{TARGET_AREA[:name]}.yml"
 FileUtils.touch MARKERS_YAML
 existing_markers = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true) ?
-                   YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true) : [0]
-upserted_marker_data = File.read(MARKERS_YAML)
+                   YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true) : []
 
 class Array
   def pluck(id)
+    return false if self.empty?
     self.find{|marker| marker[:id] == id}
   end
 end
@@ -61,9 +61,9 @@ debug_mode     = false
     puts
     puts '[AFTER]'
   else
-    break(puts "Reached to End") if id > latest_article.to_i # Break if reached to latest article number
-    break(puts "Reached to Max") if (count_request += 1) > MAX_GET_REQS # Break if reached to max reqs
     next (puts "Skipped: #{id}") if existing_markers.pluck(id) # Skip if target marker already exists
+    break(puts "Reached to Max") if (count_request += 1) > MAX_GET_REQS # Break if reached to max reqs
+    break(puts "Reached to End") if id > latest_article.to_i # Break if reached to latest article number
   end
 
   begin
@@ -110,7 +110,7 @@ debug_mode     = false
     if debug_mode
       puts 'Please investigate why no map data found in this process.'
       puts
-      puts '[DEBUG INFO]' # This corresponds to 'upserted_marker_data << <<~NEW_MARKER' above.
+      puts '[DEBUG INFO]' # Dump current marker data
       puts "- id:    #{id}"
       puts "  src:   #{BASE_URL + '/mapnews/' + id.to_s}"
       puts "  lat:   #{BASE_LAT}"
@@ -137,14 +137,14 @@ debug_mode     = false
     #break # 失敗した時点で処理を止めたい場合はココで break する
   end
 
-  #puts upserted_marker_data
+  #puts existing_markers
 end
 
 puts existing_markers.pluck(PATCHING_ID).to_yaml if IS_PATCH_MODE
 
 YAML.dump(
      existing_markers.sort_by {|marker| marker[:id] }.reverse,
-     File.open(MARKERS_YAML, 'w')) unless upserted_marker_data.empty?
+     File.open(MARKERS_YAML, 'w'))
 
 # NOTE: Correct or debug YAML data here whenever you want.
 #descending_result = YAML.unsafe_load_file(MARKERS_YAML).sort_by{ |marker| marker['id'] }.reverse
