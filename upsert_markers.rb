@@ -3,15 +3,17 @@
 
 require 'mechanize'
 
-if ARGV.length != 1
+if ARGV.length < 1 || ARGV.length > 2
   puts "Usage: ./upsert_markers.rb MINKEI_TARGET"
-  puts " e.g.: ./upsert_markers.rb takadanobaba"
+  puts " e.g.: ./upsert_markers.rb takadanobaba [TARGET_ARTICLE_ID]"
   puts "       This above fetches Takadanobaba's map data to generate 馬場経マップ"
+  puts "       If given TARGET_ARTICLE_ID, this script updates the article only for patch."
   puts ""
   exit(1)
 end
 
 GIVEN_AREA    = ARGV[0].downcase
+IS_PATCH_MODE = !ARGV[1].nil?
 TARGETS_YAML  = 'targets.yml'
 ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
 unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
