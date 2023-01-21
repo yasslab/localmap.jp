@@ -28,7 +28,7 @@ TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
 BASE_URL     = "https://#{TARGET_AREA[:name]}.keizai.biz"
 BASE_LAT     = TARGET_AREA[:lat].to_f
 BASE_LNG     = TARGET_AREA[:lng].to_f
-BASE_DATE    = '2000-01-23'
+BASE_DATE    = '2000.01.12'
 BASE_LOGO    = TARGET_AREA[:logo]
 MAX_GET_REQS = 20
 
