@@ -26,8 +26,8 @@ end
 TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
 
 BASE_URL     = "https://#{TARGET_AREA[:name]}.keizai.biz"
-BASE_LAT     = TARGET_AREA[:lat].to_s
-BASE_LNG     = TARGET_AREA[:lng].to_s
+BASE_LAT     = TARGET_AREA[:lat].to_f
+BASE_LNG     = TARGET_AREA[:lng].to_f
 BASE_DATE    = '2000-01-23'
 BASE_LOGO    = TARGET_AREA[:logo]
 MAX_GET_REQS = 20
@@ -53,7 +53,7 @@ count_request  = 0
 debug_mode     = false
 (1..).each do |id|
   if IS_PATCH_MODE
-    break(puts "") if id > latest_article.to_i # Break if reached to latest article number
+    break if id > latest_article.to_i # Break if reached to latest article number
     next unless id == PATCHING_ID
     puts 'Patching article below ...' + PATCHING_ID.to_s
     puts '[BEFORE]'
@@ -86,7 +86,8 @@ debug_mode     = false
     puts "[#{id.to_s.rjust(4, '0')}] #{title}" unless IS_PATCH_MODE
     #puts existing_markers.pluck(id)
 
-    puts existing_markers.pluck(PATCHING_ID).to_yaml if IS_PATCH_MODE
+    #puts existing_markers.count{|m| m[:id] == PATCHING_ID} if IS_PATCH_MODE
+    existing_markers.delete_if {|m| m[:id] == PATCHING_ID}  if IS_PATCH_MODE
 
     # 一部の記事には位置情報が無い mapnews もある。
     # 無ければデフォルトの位置情報を YAML ファイルに追記する。
@@ -94,8 +95,8 @@ debug_mode     = false
       .push(
         id:    id,
         src:   BASE_URL + '/mapnews/' + id.to_s,
-        lat:   lat.nil? ? BASE_LAT + ' # NOT_FOUND' : lat,
-        lng:   lng.nil? ? BASE_LNG + ' # NOT_FOUND' : lng,
+        lat:   lat.nil? ? BASE_LAT : lat.to_f,
+        lng:   lng.nil? ? BASE_LNG : lng.to_f,
         link:  link,
         date:  date,
         image: image,
@@ -139,10 +140,10 @@ debug_mode     = false
   #puts upserted_marker_data
 end
 
+puts existing_markers.pluck(PATCHING_ID).to_yaml if IS_PATCH_MODE
+
 YAML.dump(
-     existing_markers
-       .uniq!   {|marker| marker[:id] }
-       .sort_by {|marker| marker[:id] }.reverse,
+     existing_markers.sort_by {|marker| marker[:id] }.reverse,
      File.open(MARKERS_YAML, 'w')) unless upserted_marker_data.empty?
 
 # NOTE: Correct or debug YAML data here whenever you want.
