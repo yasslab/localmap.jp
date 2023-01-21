@@ -92,6 +92,7 @@
       {% endif %}
     ></script>
 
+    {% if site.env.JEKYLL_ENV == 'production' %}
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62337761-11"></script>
     <script>
@@ -101,5 +102,6 @@
 
       gtag('config', 'UA-62337761-11');
     </script>
+    {% endif %}
   </body>
 </html>
