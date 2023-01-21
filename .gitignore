@@ -3,4 +3,4 @@ sample.html
 .envrc
 /.bundle/*
 /vendor/*
-
+./patch_articles.txt

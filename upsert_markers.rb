@@ -3,15 +3,18 @@
 
 require 'mechanize'
 
-if ARGV.length != 1
+if ARGV.length < 1 || ARGV.length > 2
   puts "Usage: ./upsert_markers.rb MINKEI_TARGET"
-  puts " e.g.: ./upsert_markers.rb takadanobaba"
+  puts " e.g.: ./upsert_markers.rb takadanobaba [TARGET_ARTICLE_ID]"
   puts "       This above fetches Takadanobaba's map data to generate 馬場経マップ"
+  puts "       If given TARGET_ARTICLE_ID, this script updates the article only for patch."
   puts ""
   exit(1)
 end
 
 GIVEN_AREA    = ARGV[0].downcase
+IS_PATCH_MODE = !ARGV[1].nil?
+PATCHING_ID   = ARGV[1].to_i
 TARGETS_YAML  = 'targets.yml'
 ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
 unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
@@ -23,8 +26,8 @@ end
 TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
 
 BASE_URL     = "https://#{TARGET_AREA[:name]}.keizai.biz"
-BASE_LAT     = TARGET_AREA[:lat].to_s
-BASE_LNG     = TARGET_AREA[:lng].to_s
+BASE_LAT     = TARGET_AREA[:lat].to_f
+BASE_LNG     = TARGET_AREA[:lng].to_f
 BASE_DATE    = '2000-01-23'
 BASE_LOGO    = TARGET_AREA[:logo]
 MAX_GET_REQS = 20
@@ -32,10 +35,15 @@ MAX_GET_REQS = 20
 # NOTE: If no data found, then YAML.unsafe_load_file() returns 'false'.
 MARKERS_YAML = "#{TARGET_AREA[:name]}.yml"
 FileUtils.touch MARKERS_YAML
-existing_marker_ids = YAML.unsafe_load_file(MARKERS_YAML) ?
-                      YAML.unsafe_load_file(MARKERS_YAML).map{|h| h['id']} :
-                      [0]
+existing_markers = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true) ?
+                   YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true) : [0]
 upserted_marker_data = File.read(MARKERS_YAML)
+
+class Array
+  def pluck(id)
+    self.find{|marker| marker[:id] == id}
+  end
+end
 
 # Start fetching articles from allowed and targeted Minkei papers
 mechanize                  = Mechanize.new
@@ -44,9 +52,19 @@ latest_article = mechanize.get(BASE_URL).search('div.main a').attribute('href').
 count_request  = 0
 debug_mode     = false
 (1..).each do |id|
-  next (puts "Skipped: #{id}") if existing_marker_ids.include? id # Skip if already fetched marker datum
-  break(puts "Reached to End") if id > latest_article.to_i # Break if reached to latest article's number
-  break(puts "Reached to Max") if (count_request += 1) > MAX_GET_REQS # Break if reached to the max reqs
+  if IS_PATCH_MODE
+    break if id > latest_article.to_i # Break if reached to latest article number
+    next unless id == PATCHING_ID
+    puts 'Patching article below ...' + PATCHING_ID.to_s
+    puts '[BEFORE]'
+    puts existing_markers.pluck(PATCHING_ID).to_yaml
+    puts
+    puts '[AFTER]'
+  else
+    break(puts "Reached to End") if id > latest_article.to_i # Break if reached to latest article number
+    break(puts "Reached to Max") if (count_request += 1) > MAX_GET_REQS # Break if reached to max reqs
+    next (puts "Skipped: #{id}") if existing_markers.pluck(id) # Skip if target marker already exists
+  end
 
   begin
     html  = mechanize.get(BASE_URL + '/mapnews/' + id.to_s)
@@ -64,22 +82,26 @@ debug_mode     = false
     link    = html.search('li.send a').attribute('href').value
     title   = html.search('h1').last.text
     image   = html.at('meta[property="og:image"]').attributes['content'].value.gsub('mapnews','headline')
-    lat,lng = html.search('p#mapLink a').attribute('href').value[31..].split(',')
-    puts "[#{id.to_s.rjust(4, '0')}] #{title}"
+    lat,lng = html.search('p#mapLink a').attribute('href').value.split('?q=').last.split(',')
+    puts "[#{id.to_s.rjust(4, '0')}] #{title}" unless IS_PATCH_MODE
+    #puts existing_markers.pluck(id)
+
+    #puts existing_markers.count{|m| m[:id] == PATCHING_ID} if IS_PATCH_MODE
+    existing_markers.delete_if {|m| m[:id] == PATCHING_ID}  if IS_PATCH_MODE
 
     # 一部の記事には位置情報が無い mapnews もある。
     # 無ければデフォルトの位置情報を YAML ファイルに追記する。
-    upserted_marker_data << <<~NEW_MARKER
-      - id:    #{id}
-        src:   #{BASE_URL + '/mapnews/' + id.to_s}
-        lat:   #{lat.nil? ? BASE_LAT + ' # NOT_FOUND' : lat }
-        lng:   #{lng.nil? ? BASE_LNG + ' # NOT_FOUND' : lng }
-        link:  #{link}
-        date:  #{date}
-        image: #{image}
-        title: |-
-          #{title}
-      NEW_MARKER
+    existing_markers
+      .push(
+        id:    id,
+        src:   BASE_URL + '/mapnews/' + id.to_s,
+        lat:   lat.nil? ? BASE_LAT : lat.to_f,
+        lng:   lng.nil? ? BASE_LNG : lng.to_f,
+        link:  link,
+        date:  date,
+        image: image,
+        title: title,
+      )
   else
     # 該当記事が削除されていた場合や、HTTP Request に失敗した場合は、
     # 当該記事にデフォルト値を入力して、スキップ。次の記事に進む。
@@ -100,16 +122,17 @@ debug_mode     = false
       puts
     end
 
-    upserted_marker_data << <<~NEW_MARKER
-      - id:    #{id}
-        src:   #{BASE_URL + '/mapnews/' + id.to_s}
-        lat:   #{BASE_LAT}
-        lng:   #{BASE_LNG}
-        link:  #{BASE_URL}
-        date:  #{BASE_DATE}
-        image: #{BASE_LOGO}
-        title: 404_Not_Found
-      NEW_MARKER
+    existing_markers
+      .push(
+        id:    id,
+        src:   BASE_URL + '/mapnews/' + id.to_s,
+        lat:   BASE_LAT,
+        lng:   BASE_LNG,
+        link:  BASE_URL,
+        date:  BASE_DATE,
+        image: BASE_LOGO,
+        title: '404_Not_Found',
+      )
 
     #break # 失敗した時点で処理を止めたい場合はココで break する
   end
@@ -117,12 +140,14 @@ debug_mode     = false
   #puts upserted_marker_data
 end
 
-descending_result = YAML.unsafe_load(upserted_marker_data).sort_by{ |marker| marker['id'] }.reverse
+puts existing_markers.pluck(PATCHING_ID).to_yaml if IS_PATCH_MODE
+
+YAML.dump(
+     existing_markers.sort_by {|marker| marker[:id] }.reverse,
+     File.open(MARKERS_YAML, 'w')) unless upserted_marker_data.empty?
 
 # NOTE: Correct or debug YAML data here whenever you want.
 #descending_result = YAML.unsafe_load_file(MARKERS_YAML).sort_by{ |marker| marker['id'] }.reverse
 #descending_result = descending_result.each do |marker|
 #  marker['title'].chomp!
 #end
-
-YAML.dump(descending_result, File.open(MARKERS_YAML, 'w')) unless upserted_marker_data.empty?

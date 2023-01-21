@@ -13,3 +13,10 @@ module Jekyll
     end
   end
 end
+
+Jekyll::Hooks.register :site, :after_init do |page|
+  # Auto-exec Compact GeoJson upon build/serve
+  YAML.unsafe_load_file('targets.yml', symbolize_names: true).each do |target|
+    system("ruby compact_geojson.rb #{target[:name]}")
+  end
+end
