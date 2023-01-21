@@ -33,7 +33,10 @@ marker_data.each do |marker|
     type: "Feature",
     geometry: {
       type: "Point",
-      coordinates: [marker[:lng], marker[:lat]]
+      coordinates: [
+        marker[:lng],
+        marker[:lat],
+      ],
     },
     properties: {
       'marker-size'   => 'small',
