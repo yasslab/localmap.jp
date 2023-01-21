@@ -14,6 +14,7 @@ end
 
 GIVEN_AREA    = ARGV[0].downcase
 IS_PATCH_MODE = !ARGV[1].nil?
+PATCHING_ID   = ARGV[1].to_i
 TARGETS_YAML  = 'targets.yml'
 ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
 unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
@@ -51,9 +52,19 @@ latest_article = mechanize.get(BASE_URL).search('div.main a').attribute('href').
 count_request  = 0
 debug_mode     = false
 (1..).each do |id|
-  next (puts "Skipped: #{id}") if existing_markers.pluck(id) # Skip if target marker data already exist
-  break(puts "Reached to End") if id > latest_article.to_i # Break if reached to latest article's number
-  break(puts "Reached to Max") if (count_request += 1) > MAX_GET_REQS # Break if reached to the max reqs
+  if IS_PATCH_MODE
+    break(puts "") if id > latest_article.to_i # Break if reached to latest article number
+    next unless id == PATCHING_ID
+    puts 'Patching article below ...' + PATCHING_ID.to_s
+    puts '[BEFORE]'
+    puts existing_markers.pluck(PATCHING_ID).to_yaml
+    puts
+    puts '[AFTER]'
+  else
+    break(puts "Reached to End") if id > latest_article.to_i # Break if reached to latest article number
+    break(puts "Reached to Max") if (count_request += 1) > MAX_GET_REQS # Break if reached to max reqs
+    next (puts "Skipped: #{id}") if existing_markers.pluck(id) # Skip if target marker already exists
+  end
 
   begin
     html  = mechanize.get(BASE_URL + '/mapnews/' + id.to_s)
@@ -71,9 +82,11 @@ debug_mode     = false
     link    = html.search('li.send a').attribute('href').value
     title   = html.search('h1').last.text
     image   = html.at('meta[property="og:image"]').attributes['content'].value.gsub('mapnews','headline')
-    lat,lng = html.search('p#mapLink a').attribute('href').value[31..].split(',')
-    puts "[#{id.to_s.rjust(4, '0')}] #{title}"
+    lat,lng = html.search('p#mapLink a').attribute('href').value.split('?q=').last.split(',')
+    puts "[#{id.to_s.rjust(4, '0')}] #{title}" unless IS_PATCH_MODE
     #puts existing_markers.pluck(id)
+
+    puts existing_markers.pluck(PATCHING_ID).to_yaml if IS_PATCH_MODE
 
     # 一部の記事には位置情報が無い mapnews もある。
     # 無ければデフォルトの位置情報を YAML ファイルに追記する。
@@ -127,7 +140,9 @@ debug_mode     = false
 end
 
 YAML.dump(
-     existing_markers.sort_by{|marker| marker[:id]}.reverse,
+     existing_markers
+       .uniq!   {|marker| marker[:id] }
+       .sort_by {|marker| marker[:id] }.reverse,
      File.open(MARKERS_YAML, 'w')) unless upserted_marker_data.empty?
 
 # NOTE: Correct or debug YAML data here whenever you want.
@@ -135,4 +150,3 @@ YAML.dump(
 #descending_result = descending_result.each do |marker|
 #  marker['title'].chomp!
 #end
-
