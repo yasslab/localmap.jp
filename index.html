@@ -5,8 +5,9 @@
 <html lang="ja">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport"     content="width=device-width, initial-scale=1.0" />
-    <meta name="description"  content="高田馬場の出来事を地図から探そう" />
+    <meta name="viewport"      content="width=device-width, initial-scale=1.0" />
+    <meta name="description"   content="高田馬場の出来事を地図から探そう" />
+    <meta http-equiv="refresh" content="0;URL=https://localmap.jp/takadanobaba">
     <title>馬場経マップ - 高田馬場経済新聞</title>
 
     <!-- OGP Settings-->
@@ -64,29 +65,6 @@
     </style>
   </head>
   <body>
-    <div
-      class="geolonia"
-      data-lat="35.713053"
-      data-lng="139.703854"
-      data-zoom="14"
-      data-marker="off"
-      data-custom-marker="#custom-marker"
-      data-custom-marker-offset="0, 0"
-      data-geojson="./takadanobaba.min.geojson"
-      data-geolocate-control="on"
-      data-cluster="on"
-      data-cluster-color="rgba(237, 208, 70, 0.8)"
-    ></div>
-
-    <script
-      type="text/javascript"
-      {% if site.env.GEOLONIA_API_KEY %}
-      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key={{ site.env.GEOLONIA_API_KEY }}"
-      {% else %}
-      src="https://cdn.geolonia.com/v1/embed?geolonia-api-key=YOUR-API-KEY"
-      {% endif %}
-    ></script>
-
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62337761-11"></script>
     <script>
