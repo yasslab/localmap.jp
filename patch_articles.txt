@@ -1,0 +1,9 @@
+# 緯度経度情報などを更新したい記事を更新するスクリプトです。
+# 実装例: https://github.com/yasslab/localmap.jp/pull/2
+# 実行例: $ ./patch_articles.rb
+
+https://takadanobaba.keizai.biz/headline/944/
+https://takadanobaba.keizai.biz/headline/940/
+https://takadanobaba.keizai.biz/headline/4/
+https://takadanobaba.keizai.biz/headline/1/
+https://takadanobaba.keizai.biz/headline/1000/
