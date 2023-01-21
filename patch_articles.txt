@@ -3,7 +3,9 @@
 # 実行例: $ ./patch_articles.rb
 
 https://takadanobaba.keizai.biz/headline/944/
-https://takadanobaba.keizai.biz/headline/940/
-https://takadanobaba.keizai.biz/headline/4/
-https://takadanobaba.keizai.biz/headline/1/
-https://takadanobaba.keizai.biz/headline/1000/
+https://takadanobaba.keizai.biz/headline/825/
+https://takadanobaba.keizai.biz/headline/802/
+https://takadanobaba.keizai.biz/headline/694/
+https://takadanobaba.keizai.biz/headline/664/
+https://takadanobaba.keizai.biz/headline/592/
+https://takadanobaba.keizai.biz/headline/386/
