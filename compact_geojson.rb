@@ -11,7 +11,7 @@ if ARGV.length != 1
 end
 
 GIVEN_AREA    = ARGV[0].downcase
-TARGETS_YAML  = 'targets.yml'
+TARGETS_YAML  = '_data/targets.yml'
 ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
 unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
   puts "Sorry, the given area '#{GIVEN_AREA}' is not allowed to aggregate."
@@ -23,6 +23,6 @@ TARGET_AREA = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
 
 # Just compact it for better loading by Computer
 geojson = JSON.load(File.read "#{TARGET_AREA[:name]}.geojson")
-File.open("#{TARGET_AREA[:name]}.min.geojson", 'w') do |file|
+File.open("_data/#{TARGET_AREA[:name]}.min.geojson", 'w') do |file|
   JSON.dump(geojson, file)
 end

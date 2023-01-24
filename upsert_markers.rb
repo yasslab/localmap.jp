@@ -15,25 +15,25 @@ end
 GIVEN_AREA    = ARGV[0].downcase
 IS_PATCH_MODE = !ARGV[1].nil?
 PATCHING_ID   = ARGV[1].to_i
-TARGETS_YAML  = 'targets.yml'
+TARGETS_YAML  = '_data/targets.yml'
 ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
-unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
+unless ALLOWED_AREAS.map{|h| h[:id]}.include? GIVEN_AREA
   puts "Sorry, the given area '#{GIVEN_AREA}' is not allowed to aggregate."
-  puts "ALLOED_AREAS: " + ALLOWED_AREAS.map{|h| h[:name]}.join(', ')
+  puts "ALLOED_AREAS: " + ALLOWED_AREAS.map{|h| h[:id]}.join(', ')
   puts ""
   exit(1)
 end
-TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
+TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:id] == GIVEN_AREA }.first
 
-BASE_URL     = "https://#{TARGET_AREA[:name]}.keizai.biz"
+BASE_URL     = "https://#{TARGET_AREA[:id]}.keizai.biz"
 BASE_LAT     = TARGET_AREA[:lat].to_f
 BASE_LNG     = TARGET_AREA[:lng].to_f
-BASE_DATE    = '2000.01.12'
+BASE_DATE    = '2000.01.23'
 BASE_LOGO    = TARGET_AREA[:logo]
 MAX_GET_REQS = 20
 
 # NOTE: If no data found, then YAML.unsafe_load_file() returns 'false'.
-MARKERS_YAML = "#{TARGET_AREA[:name]}.yml"
+MARKERS_YAML = "_data/#{TARGET_AREA[:id]}.yml"
 FileUtils.touch MARKERS_YAML
 existing_markers = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true) ?
                    YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true) : []
@@ -142,12 +142,7 @@ end
 
 puts existing_markers.pluck(PATCHING_ID).to_yaml if IS_PATCH_MODE
 
+# Generate YAML file like 'takadanobaba.yml'
 YAML.dump(
      existing_markers.sort_by {|marker| marker[:id] }.reverse,
      File.open(MARKERS_YAML, 'w'))
-
-# NOTE: Correct or debug YAML data here whenever you want.
-#descending_result = YAML.unsafe_load_file(MARKERS_YAML).sort_by{ |marker| marker['id'] }.reverse
-#descending_result = descending_result.each do |marker|
-#  marker['title'].chomp!
-#end

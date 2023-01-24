@@ -13,17 +13,17 @@ if ARGV.length != 1
 end
 
 GIVEN_AREA    = ARGV[0].downcase
-TARGETS_YAML  = 'targets.yml'
+TARGETS_YAML  = '_data/targets.yml'
 ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
-unless ALLOWED_AREAS.map{|h| h[:name]}.include? GIVEN_AREA
+unless ALLOWED_AREAS.map{|h| h[:id]}.include? GIVEN_AREA
   puts "Sorry, the given area '#{GIVEN_AREA}' is not allowed to aggregate."
-  puts "ALLOED_AREAS: " + ALLOWED_AREAS.map{|h| h[:name]}.join(', ')
+  puts "ALLOED_AREAS: " + ALLOWED_AREAS.map{|h| h[:id]}.join(', ')
   puts ""
   exit(1)
 end
-TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:name] == GIVEN_AREA }.first
+TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:id] == GIVEN_AREA }.first
 
-MARKERS_YAML = "#{TARGET_AREA[:name]}.yml"
+MARKERS_YAML = "#{TARGET_AREA[:id]}.yml"
 marker_data  = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
 features    = []
 marker_data.each do |marker|
@@ -62,7 +62,7 @@ geojson = {
 }
 
 PRETTY_GEOJSON = JSON.pretty_generate(geojson)
-File.open("#{TARGET_AREA[:name]}.geojson", "w") do |file|
+File.open("_data/#{TARGET_AREA[:id]}.geojson", "w") do |file|
   file.write(PRETTY_GEOJSON)
   #JSON.dump(geojson, file)
 end
