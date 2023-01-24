@@ -8,3 +8,16 @@
   lat:  35.777615
   lng:  139.7209868
   logo: https://i.gyazo.com/27206abd7973fdaff71c63af26943f67.jpg
+- name: omiya
+  lat:  35.9064528
+  lng:  139.6216608
+  logo: https://i.gyazo.com/d1fc22ec58b3721fd169a54fef84610f.png
+- name: urawa
+  lat:  35.8587763
+  lng:  139.6534162
+  logo: https://i.gyazo.com/b57b17d73f797862f4b4bcf802b0b06b.png
+- name: chichibu
+  lat:  35.9988245
+  lng:  139.0794146
+  logo: https://i.gyazo.com/75c8acb3ac4d4d3fcfcd4e004464c607.png
+
