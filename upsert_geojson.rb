@@ -23,7 +23,14 @@ unless ALLOWED_AREAS.map{|h| h[:id]}.include? GIVEN_AREA
 end
 TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:id] == GIVEN_AREA }.first
 
-MARKERS_YAML = "#{TARGET_AREA[:id]}.yml"
+MARKERS_YAML = "_data/#{TARGET_AREA[:id]}.yml"
+unless File.exist? MARKERS_YAML
+  puts "No File Found: #{MARKERS_YAML}"
+  puts "Did you exec? `$ ./upsert_markers.rb #{TARGET_AREA[:id]}`"
+  puts
+  exit(1)
+end
+
 marker_data  = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
 features    = []
 marker_data.each do |marker|
