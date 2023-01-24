@@ -1,4 +1,12 @@
 ---
+- :id: 1024
+  :src: https://takadanobaba.keizai.biz/mapnews/1024
+  :lat: 35.7063955
+  :lng: 139.718524
+  :link: https://takadanobaba.keizai.biz/headline/1024/
+  :date: 2023.01.23
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1674455016_photo.jpg
+  :title: 馬場下町の油そば専門店「麺爺」が復活　客から「営業再開、うれしい」の声
 - :id: 1023
   :src: https://takadanobaba.keizai.biz/mapnews/1023
   :lat: 35.7119928
