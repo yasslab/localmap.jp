@@ -23,6 +23,6 @@ TARGET_AREA = ALLOWED_AREAS.select{|area| area[:id] == GIVEN_AREA }.first
 
 # Just compact it for better loading by Computer
 geojson = JSON.load(File.read "_data/#{TARGET_AREA[:id]}.geojson")
-File.open("#{TARGET_AREA[:id]}.min.geojson", 'w') do |file|
+File.open("./public/#{TARGET_AREA[:id]}.min.geojson", 'w') do |file|
   JSON.dump(geojson, file)
 end

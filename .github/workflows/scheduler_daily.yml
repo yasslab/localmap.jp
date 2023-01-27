@@ -50,6 +50,7 @@ jobs:
           git config --global user.email "yohei@yasslab.jp"
           git checkout main
           git add _data
+          git add public
           git add Gemfile.lock
           git commit -m '🤖 Upsert map data for LocalMap'
           git push origin main
