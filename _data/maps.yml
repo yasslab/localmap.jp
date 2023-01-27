@@ -39,3 +39,9 @@
   lng:  139.9831875
   logo: https://i.gyazo.com/2ad35d468282f99298bbefe89f344544.png
   zoom: 12
+- area: 福島
+  id:   fukushima
+  lat:  37.75434
+  lng:  140.4592361
+  logo: https://i.gyazo.com/db6eeeb20f014a368f4a950a27c22a29.png
+  zoom: 12
