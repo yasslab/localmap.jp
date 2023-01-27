@@ -1,20 +1,30 @@
 ---
 ---
 
+{% assign id  = page.path | remove: '.html' %}
+{% assign map = site.data.targets | where: 'id', id | first %}
+{% assign debug_mode = false %}
+
+{% if debug_mode %}
+[DEBUG INFO]<br>
+Map: {{ map }}<br>
+ID:  {{ id }}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="ja">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport"     content="width=device-width, initial-scale=1.0" />
-    <meta name="description"  content="{{ page.area }}の出来事を地図から探そう" />
-    {% if page.title %}
-    <title>{{ page.title }} - {{ page.area }}経済新聞</title>
+    <meta name="description"  content="{{ map['area'] }}の出来事を地図から探そう" />
+    {% if map['title'] %}
+    <title>{{ map['title'] }} - {{ map['area'] }}経済新聞</title>
     {% else %}
-    <title>{{ page.area }}マップ - {{ page.area }}経済新聞</title>
+    <title>{{ map['area'] }}マップ - {{ map['area'] }}経済新聞</title>
     {% endif %}
     <script type="text/javascript">
-      if (window.location.href== "https://babamap.net/{{ page.id }}") {
-        window.location.href = 'https://localmap.jp/{{ page.id }}';
+      if (window.location.href== "https://babamap.net/{{ map['id'] }}") {
+        window.location.href = 'https://localmap.jp/{{ map['id'] }}';
       }
     </script>
 
@@ -23,25 +33,25 @@
     <meta property="fb:admins"       content="100001334499453">
     <meta property="og:locale"       content="ja_JP">
     <meta property="og:type"         content="website">
-    <meta property="og:site_name"    content="{{ page.area }}経済新聞">
-    {% if page.title %}
-    <meta property="og:title"        content="{{ page.title }} - {{ page.area }}経済新聞">
+    <meta property="og:site_name"    content="{{ map['area'] }}経済新聞">
+    {% if map['title'] %}
+    <meta property="og:title"        content="{{ map['title'] }} - {{ map['area'] }}経済新聞">
     {% else %}
-    <meta property="og:title"        content="{{ page.area }}マップ - {{ page.area }}経済新聞">
+    <meta property="og:title"        content="{{ map['area'] }}マップ - {{ map['area'] }}経済新聞">
     {% endif %}
-    <meta property="og:description"  content="{{ page.area }}の出来事を地図から探そう">
+    <meta property="og:description"  content="{{ map['area'] }}の出来事を地図から探そう">
     <meta property="og:url"          content="https://localmap.jp/">
     <meta property="og:image"        content="https://localmap.jp/cover.png">
     <meta property="og:image:type"   content="image/png">
 
     <meta name="twitter:card"        content="summary_large_image">
-    {% if page.twitter %}
-    <meta name="twitter:site"        content="@{{ page.twitter }}">
+    {% if map['twitter'] %}
+    <meta name="twitter:site"        content="@{{ map['twitter'] }}">
     {% endif %}
     
     <meta name="twitter:image"       content="https://localmap.jp/cover.png">
-    <meta name="twitter:title"       content="{{ page.area }}経済新聞">
-    <meta name="twitter:description" content="{{ page.area }}の出来事を地図から探そう">
+    <meta name="twitter:title"       content="{{ map['area'] }}経済新聞">
+    <meta name="twitter:description" content="{{ map['area'] }}の出来事を地図から探そう">
 
     <!-- Icons for iOS, Android, and Windows -->
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -82,13 +92,13 @@
   <body>
     <div
       class="geolonia"
-      data-lat="35.713053"
-      data-lng="139.703854"
+      data-lat="{{ map['lat'] }}"
+      data-lng="{{ map['lng'] }}"
       data-zoom="14"
       data-marker="off"
       data-custom-marker="#custom-marker"
       data-custom-marker-offset="0, 0"
-      data-geojson="./{{ page.id }}.min.geojson"
+      data-geojson="./{{ map['id'] }}.min.geojson"
       data-geolocate-control="on"
       data-cluster="on"
       data-cluster-color="rgba(237, 208, 70, 0.8)"
