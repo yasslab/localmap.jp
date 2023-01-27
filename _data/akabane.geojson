@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7209868,
+          35.777615
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://akabane.keizai.biz/headline/498/'>\n  <img src='https://images.keizai.biz/akabane_keizai/headline/1674532395_photo.jpg' alt='東商北支部、北とぴあで新年祝賀式　会長「若い人が活躍できる場所に」'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://akabane.keizai.biz/headline/498/'>東商北支部、北とぴあで新年祝賀式　会長「若い人が活躍できる場所に」</a>\n<small>(2023.01.24)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7364112,
           35.75523
         ]

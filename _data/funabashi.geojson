@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.9752691,
+          35.781887
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://funabashi.keizai.biz/headline/3161/'>\n  <img src='https://images.keizai.biz/funabashi_keizai/headline/1674828338_photo.jpg' alt='新京成電鉄が「新京成で行くいちご狩り」　過去最多9園と連携'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://funabashi.keizai.biz/headline/3161/'>新京成電鉄が「新京成で行くいちご狩り」　過去最多9園と連携</a>\n<small>(2023.01.27)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.0433135,
           35.7214813
         ]
