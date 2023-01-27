@@ -37,7 +37,7 @@ jobs:
       run: |
         bundle install --jobs 4 --retry 3
 
-    - name: 📍 Fetch data, generate geojson, and compact it for target area：高田馬場
+    - name: 📍 Fetch data, generate geojson, and compact it on each area
       run: |
         bundle exec rake upsert_markers
         bundle exec rake upsert_geojson
