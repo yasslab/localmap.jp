@@ -1,18 +1,25 @@
 task default: 'test'
+MAPS_YAML = '_data/maps.yml'
 
 desc 'Upsert markers by fetching map data'
 task :upsert_markers do
-  ruby "upsert_markers.rb"
+  YAML.unsafe_load_file(MAPS_YAML, symbolize_names: true).each do |map|
+    ruby "upsert_markers.rb #{map[:id]}"
+  end
 end
 
 desc 'Generate geojson by loading YAML data'
 task :upsert_geojson do
-  ruby "upsert_geojson.rb"
+  YAML.unsafe_load_file(MAPS_YAML, symbolize_names: true).each do |map|
+    ruby "upsert_geojson.rb #{map[:id]}"
+  end
 end
 
 desc 'Compact GeoJson to be browser-friendly'
 task :compact_geojson do
-  ruby "compact_geojson.rb"
+  YAML.unsafe_load_file(MAPS_YAML, symbolize_names: true).each do |map|
+    ruby "compact_geojson.rb #{map[:id]}"
+  end
 end
 
 # cf. GitHub - gjtorikian/html-proofer

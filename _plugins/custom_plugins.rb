@@ -16,7 +16,5 @@ end
 
 Jekyll::Hooks.register :site, :after_init do |page|
   # Auto-exec Compact GeoJson upon build/serve
-  YAML.unsafe_load_file('_data/maps.yml', symbolize_names: true).each do |target|
-    system("ruby compact_geojson.rb #{target[:id]}")
-  end
+  system "bundle exec rake compact_geojson"
 end
