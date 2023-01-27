@@ -60,10 +60,14 @@ debug_mode     = false
     puts existing_markers.pluck(PATCHING_ID).to_yaml
     puts
     puts '[AFTER]'
-  else
+  elsif debug_mode
     next (puts "Skipped: #{id}") if existing_markers.pluck(id) # Skip if target marker already exists
     break(puts "Reached to Max") if (count_request += 1) > MAX_GET_REQS # Break if reached to max reqs
     break(puts "Reached to End") if id > latest_article.to_i # Break if reached to latest article number
+  else
+    next  if existing_markers.pluck(id) # Skip if target marker already exists
+    break if (count_request += 1) > MAX_GET_REQS # Break if reached to max reqs
+    break if id > latest_article.to_i # Break if reached to latest article number
   end
 
   begin
