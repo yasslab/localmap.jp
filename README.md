@@ -1,5 +1,9 @@
-[![CoverPhoto](https://github.com/yasslab/localmap.jp/blob/main/cover.jpg?raw=true)](https://takadanobaba.keizai.biz/)
-[![Screenshot](https://github.com/yasslab/localmap.jp/blob/main/cover.png?raw=true)](https://localmap.jp)
+<a href='https://takadanobaba.keizai.biz/'>
+  <img alt='CoverPhoto' src='https://github.com/yasslab/localmap.jp/blob/main/cover.jpg?raw=true' width='100%' />
+</a>
+<a href='https://localmap.jp'>
+  <img slt='LocalMap Demo' src='https://github.com/yasslab/localmap.jp/blob/main/cover.png?raw=true' width='100%' />
+</a>
 
 [📍 LocalMap](https://localmap.jp) shows what happened in your local areas, like [Takadanobaba](https://en.wikipedia.org/wiki/Takadanobaba) and [Ōmiya](https://en.wikipedia.org/wiki/%C5%8Cmiya-ku,_Saitama), by using [Geolonia Maps](https://geolonia.com/maps/) service.
 
