@@ -4,4 +4,4 @@ sample.html
 /.bundle/*
 /vendor/*
 ./patch_articles.txt
-*.min.geojson
+/public/*.min.geojson
