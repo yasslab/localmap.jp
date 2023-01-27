@@ -50,7 +50,7 @@ mechanize                  = Mechanize.new
 mechanize.user_agent_alias = 'Windows Chrome'
 latest_article = mechanize.get(BASE_URL).search('div.main a').attribute('href').value.split('/').last
 count_request  = 0
-debug_mode     = false
+debug_mode     = ENV['DEBUG_MODE'].to_s.downcase == 'true'
 (1..).each do |id|
   if IS_PATCH_MODE
     break if id > latest_article.to_i # Break if reached to latest article number
