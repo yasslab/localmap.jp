@@ -39,9 +39,9 @@ jobs:
 
     - name: 📍 Fetch data, generate geojson, and compact it for target area：高田馬場
       run: |
-        bundle exec ruby upsert_markers.rb  takadanobaba
-        bundle exec ruby upsert_geojson.rb  takadanobaba
-        bundle exec ruby compact_geojson.rb takadanobaba
+        bundle exec rake upsert_markers
+        bundle exec rake upsert_geojson
+        bundle exec rake compact_geojson
 
     - name: 🆙 Commit latest data to update LocalMap (if any)
       run: |
@@ -51,7 +51,6 @@ jobs:
           git checkout main
           git add _data
           git add Gemfile.lock
-          git add takadanobaba.min.geojson
           git commit -m '🤖 Upsert map data for LocalMap'
           git push origin main
         fi
