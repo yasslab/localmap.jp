@@ -6,10 +6,15 @@ timezone: 'Asia/Tokyo'
 exclude:
   - README.md
   - LICENSE.md
+  - CODE_OF_CONDUCT.md
+  - Rakefile
   - cover.jpg
   - minkei.pxd
   - upsert_geojson.rb
   - upsert_markers.rb
+  - patch_articles.rb
+  - patch_articles.txt
+  - compact_geojson.rb
 
 # See the official README for more options:
 # https://github.com/digitalsparky/jekyll-minifier
