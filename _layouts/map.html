@@ -3,13 +3,12 @@
 
 {% assign id  = page.path | remove: '.html' %}
 {% assign map = site.data.targets | where: 'id', id | first %}
-{% assign debug_mode = false %}
 
-{% if debug_mode %}
-[DEBUG INFO]<br>
-Map: {{ map }}<br>
-ID:  {{ id }}
-{% endif %}
+{% unless site.env.JEKYLL_ENV == 'production' %}
+<b>[DEBUG INFO] (Development Mode Only)</b><br>
+<b>ID:</b>  {{ id }} (fetched from filename)<br>
+<b>Map:</b> {{ map }}
+{% endunless %}
 
 <!DOCTYPE html>
 <html lang="ja">
