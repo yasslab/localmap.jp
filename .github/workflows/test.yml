@@ -24,7 +24,11 @@ jobs:
       run: |
         bundle install --jobs 4 --retry 3
 
-    - name: 🔧 Build & Test
+    - name: 🔧 Build
       run: |
         JEKYLL_ENV=production bundle exec jekyll build
         JEKYLL_ENV=production bundle exec jekyll doctor
+
+    - name: 🔍 Test
+      run: |
+        SKIP_BUILD=true bundle exec rake test
