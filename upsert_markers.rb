@@ -28,8 +28,8 @@ TARGET_AREA  = ALLOWED_AREAS.select{|area| area[:id] == GIVEN_AREA }.first
 BASE_URL     = "https://#{TARGET_AREA[:id]}.keizai.biz"
 BASE_LAT     = TARGET_AREA[:lat].to_f
 BASE_LNG     = TARGET_AREA[:lng].to_f
-BASE_DATE    = '2000.01.23'
 BASE_LOGO    = TARGET_AREA[:logo]
+BASE_DATE    = '2000.01.23'
 MAX_GET_REQS = 20
 
 # NOTE: If no data found, then YAML.unsafe_load_file() returns 'false'.
