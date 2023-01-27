@@ -10,6 +10,11 @@ task :upsert_geojson do
   ruby "upsert_geojson.rb"
 end
 
+desc 'Compact GeoJson to be browser-friendly'
+task :compact_geojson do
+  ruby "compact_geojson.rb"
+end
+
 # cf. GitHub - gjtorikian/html-proofer
 # https://github.com/gjtorikian/html-proofer
 require 'html-proofer'
