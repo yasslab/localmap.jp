@@ -2,7 +2,7 @@ task default: 'test'
 
 desc 'Upsert markers by fetching map data'
 task :upsert_markers do
-  ruby "upsert_project_pages_by_data.rb"
+  ruby "upsert_markers.rb"
 end
 
 desc 'Generate geojson by loading YAML data'
