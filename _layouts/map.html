@@ -2,7 +2,7 @@
 ---
 
 {% assign id  = page.path | remove: '.html' %}
-{% assign map = site.data.targets | where: 'id', id | first %}
+{% assign map = site.data.maps | where: 'id', id | first %}
 
 {% unless site.env.JEKYLL_ENV == 'production' %}
 <b>[DEBUG INFO] (Development Mode Only)</b><br>

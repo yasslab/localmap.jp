@@ -15,7 +15,7 @@ end
 GIVEN_AREA    = ARGV[0].downcase
 IS_PATCH_MODE = !ARGV[1].nil?
 PATCHING_ID   = ARGV[1].to_i
-TARGETS_YAML  = '_data/targets.yml'
+TARGETS_YAML  = '_data/maps.yml'
 ALLOWED_AREAS = YAML.unsafe_load_file(TARGETS_YAML, symbolize_names: true)
 unless ALLOWED_AREAS.map{|h| h[:id]}.include? GIVEN_AREA
   puts "Sorry, the given area '#{GIVEN_AREA}' is not allowed to aggregate."
