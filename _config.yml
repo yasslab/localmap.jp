@@ -8,7 +8,6 @@ exclude:
   - LICENSE.md
   - CODE_OF_CONDUCT.md
   - Rakefile
-  - minkei.pxd
   - upsert_geojson.rb
   - upsert_markers.rb
   - patch_articles.rb
