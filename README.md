@@ -1,5 +1,5 @@
 <a href='https://takadanobaba.keizai.biz/'>
-  <img alt='Cover Photo' src='https://github.com/yasslab/localmap.jp/blob/main/cover.jpg?raw=true' width='100%' />
+  <img alt='Cover Photo' src='https://github.com/yasslab/localmap.jp/blob/main/babakei.jpg?raw=true' width='100%' />
 </a>
 <img slt='LocalMap Demo' src='https://github.com/yasslab/localmap.jp/blob/main/cover.png?raw=true' width='100%' />
 
