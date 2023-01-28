@@ -14,7 +14,7 @@ Other files, like images and YAML/Geojson data, are owned by the following copyr
 - 🗺 Map Data: [GSI Japan](https://www.gsi.go.jp/) & [Geolonia](https://geolonia.com/) & [OpenStreetMap](https://www.openstreetmap.org/).
 - 🛠 Source Codes: [@YassLab](https://github.com/yasslab) Inc.
 
-LocalMap is organized by [高田馬場経済新聞](https://takadanobaba.keizai.biz/).
+[📍 LocalMap](https://localmap.jp) is organized by [高田馬場経済新聞](https://takadanobaba.keizai.biz/).
 
 <a href='https://takadanobaba.keizai.biz/'>
   <img alt='高田馬場経済新聞' src='https://github.com/yasslab/localmap.jp/blob/main/images/babakei.jpg?raw=true' width='100%'>
