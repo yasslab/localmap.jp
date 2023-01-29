@@ -196,6 +196,36 @@ hr {
 }
 
 /*!
+ * Main Content
+ */
+#maincontent h2 {
+  font-size: calc(5.5rem + 1 * (100vw - 768px) / 224);
+}
+#maincontent p {
+  font-size: calc(2.5rem + 1 * (100vw - 768px) / 224);
+}
+#maincontent li {
+  font-size: calc(2.5rem + 1 * (100vw - 768px) / 224);
+}
+@media screen and (min-width: 768px) {
+  #maincontent h2 {
+    font-size: 5.0rem;
+  }
+  #maincontent p, #maincontent li {
+    font-size: 2.5rem;
+  }
+}
+
+.footer-localmap p {
+  font-size: 2.0rem;
+}
+@media screen and (min-width: 768px) {
+  .footer-localmap p {
+    font-size: 3.0rem;
+  }
+}
+
+/*!
  * Footer
  */
 .footer-localmap {
