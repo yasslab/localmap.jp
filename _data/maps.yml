@@ -3,18 +3,21 @@
 - area:    高田馬場
   title:   馬場経マップ
   twitter: baba_keizai
+  pref: 東京
   id:   takadanobaba
   lat:  35.7120933
   lng:  139.7047394
   logo: /images/takadanobaba.png
   zoom: 14
 - area: 赤羽
+  pref: 東京
   id:   akabane
   lat:  35.777615
   lng:  139.7209868
   logo: /images/akabane.png
   zoom: 14
-- area:    大宮
+- area: 大宮
+  pref: 埼玉
   twitter: omiyakeizai
   id:   omiya
   lat:  35.9064528
@@ -22,26 +25,31 @@
   logo: /images/omiya.png
   zoom: 12
 - area: 浦和
+  pref: 埼玉
   id:   urawa
   lat:  35.8587763
   lng:  139.6534162
   logo: /images/urawa.png
   zoom: 12
 - area: 秩父
+  pref: 埼玉
   id:   chichibu
   lat:  35.9988245
   lng:  139.0794146
   logo: /images/chichibu.png
   zoom: 12
 - area: 船橋
+  pref: 千葉
   id:   funabashi
   lat:  35.70174
   lng:  139.9831875
   logo: /images/funabashi.png
   zoom: 12
 - area: 福島
+  pref: 福島
   id:   fukushima
   lat:  37.75434
   lng:  140.4592361
   logo: /images/fukushima.png
   zoom: 12
+  draft: true

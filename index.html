@@ -4,71 +4,166 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport"      content="width=device-width, initial-scale=1.0" />
-    <meta name="description"   content="高田馬場の出来事を地図で振り返ろう" />
-    {% if site.env.JEKYLL_ENV == 'production' %}
-    <meta http-equiv="refresh" content="0;URL=https://localmap.jp/takadanobaba">
-    {% else %}
-    <meta http-equiv="refresh" content="0;URL=/takadanobaba">
-    {% endif %}
-    <title>馬場経マップ - 高田馬場経済新聞</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>LocalMap.jp - 地図で振り返る、地域の出来事</title>
+    
+    <!-- Atom feed / RSS 2.0 feed -->
+    <!--
+    <link href="https://localmap.jp/atom.xml" type="application/atom+xml" rel="alternate" title="Atom feed LoclaMap.jp">
+    <link href="https://localmap.jp/rss.xml"  type="application/rss+xml"  rel="alternate" title="RSS 2.0 feed LocalMap.jp">
+    -->
 
-    <!-- OGP Settings-->
-    <meta property="fb:app_id"       content="2063612603708968">
-    <meta property="fb:admins"       content="100001334499453">
-    <meta property="og:locale"       content="ja_JP">
-    <meta property="og:type"         content="website">
-    <meta property="og:site_name"    content="高田馬場経済新聞">
-    <meta property="og:title"        content="馬場経マップ - 高田馬場経済新聞">
-    <meta property="og:description"  content="高田馬場の出来事を地図で振り返ろう">
-    <meta property="og:url"          content="https://localmap.jp/takadanobaba">
-    <meta property="og:image"        content="https://localmap.jp/images/cover.png">
-    <meta property="og:image:type"   content="image/png">
+    <!-- Meta tags -->
+    <meta name="author"      content="高田馬場経済新聞">
+    <meta name="copyright"   content="高田馬場経済新聞">
+    <meta name="description" content="みんなの経済新聞ネットワークの各エリアで配信されたニュース記事の一部をプロットした地図です。">
+    <meta name="thumbnail" content="https://localmap.jp/images/cover.png">
+    <meta name="robots"    content="index, follow">
+    <meta name="keywords"  content="みんなの経済新聞,地図,ニュース,マップ,minkei">
 
+    <!-- OpenGraph -->
+    <meta property="fb:app_id"      content="2063612603708968">
+    <meta property="fb:admins"      content="100001334499453">
+    <meta property="og:title"       content="LocalMap.jp - 地図で振り返る、地域の出来事">
+    <meta property="og:description" content="みんなの経済新聞ネットワークの各エリアで配信されたニュース記事の一部をプロットした地図です。">
+    <meta property="og:site_name"   content="高田馬場経済新聞">
+    <meta property="og:url"         content="https://localmap.jp/">
+    <meta property="og:type"        content="website">
+    <meta property="og:locale"      content="ja_JP">
+    <meta property="og:image"       content="https://localmap.jp/images/cover.png">
+    <meta property="og:image:type"  content="image/png">
+
+    <!-- Twitter Cards -->
     <meta name="twitter:card"        content="summary_large_image">
     <meta name="twitter:site"        content="@baba_keizai">
     <meta name="twitter:image"       content="https://localmap.jp/images/cover.png">
-    <meta name="twitter:title"       content="高田馬場経済新聞">
-    <meta name="twitter:description" content="高田馬場の出来事を地図で振り返ろう">
+    <meta name="twitter:title"       content="LocalMap.jp - 地図で振り返る、地域の出来事">
+    <meta name="twitter:description" content="みんなの経済新聞ネットワークの各エリアで配信されたニュース記事の一部をプロットした地図です。">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+
+    <!-- Fontawesome-->
+    <script src="https://kit.fontawesome.com/82f32b9df5.js" crossorigin="anonymous"></script>
+
+    <!-- CSS with Bootstrap -->
+    <link rel="stylesheet" href="./stylesheets/main.css">
+    <link rel="stylesheet" href="./stylesheets/bootstrap.css">
 
     <!-- Icons for iOS, Android, and Windows -->
+    <!-- cf. https://realfavicongenerator.net/ -->
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/images/minkei.png">
     <meta name="theme-color"             content="#ffffff">
+    <link href="https://localmap.jp/"            rel="canonical">
     <link href="https://localmap.jp/favicon.ico" rel="shortcut icon">
     <link href="/manifest.json"     rel="manifest">
-    <link href="/images/minkei.svg" rel="mask-icon" color="#1373ce">
+    <link href="/images/minkei.svg" rel="mask-icon" color="#3171be">
+    <link href="/images/minkei.png" rel="icon" type="image/png" sizes="16x16">
+    <link href="/images/minkei.png" rel="icon" type="image/png" sizes="32x32">
     <link href="/images/minkei.png" rel="icon" type="image/png" sizes="96x96">
     <link href="/images/minkei.png" rel="icon" type="image/png" sizes="192x192" >
     <link href="/images/minkei.png" rel="apple-touch-icon"      sizes="180x180">
-    
-    <style>
-      body,
-      html {
-        width:  100%;
-        height: 100%;
-        margin:    0;
-        padding:   0;
-      }
-
-      .geolonia {
-        width:  100%;
-        height: 100%;
-      }
-      #custom-marker {
-	width:   50px;
-	height:  50px;
-	cursor:  pointer;
-	display: none;
-      }
-      #custom-marker img {
-	max-width: 100%;
-	height:    auto;
-      }
-    </style>
+    <link href="/favicon.ico"       rel="shortcut icon">
+    <meta name="apple-mobile-web-app-title" content="LocalMap.jp">
+    <meta name="application-name"           content="LocalMap.jp">
+    <meta name="msapplication-TileColor"    content="#3171be">
+    <meta name="theme-color"                content="#3171be">
+    <!--<meta name="msapplication-config"       content="/browserconfig.xml">-->
   </head>
-  <body>
+
+  <body class="d-flex flex-column h-entry" id="body">
+    <div class="localmap-bg-landingpage">
+      <header class="d-flex align-items-center splash-localmap-image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url(/images/cover.png)">
+	<div class="container-lg">
+	  <h1 class="p-name" style='padding-top: 300px;'>
+	    <span class="localmap">📍 LocalMap.jp</span>
+	  </h1>
+	  <hr class="my-3">
+	  <p class="localmap-subtitle p-summary">地図で振り返る、地域の出来事</p>
+	</div>
+      </header>
+    </div>
+
+    <div class="localmap-bg-landingpage flex-fill">
+      <main class="container-lg  pb-3 localmap-bg-landingpage">
+	<div class="row pt-2">
+	  <aside class="col-lg-2 mt-lg-3 small"></aside>
+	  <article id="maincontent" class="col-lg-8 mt-3 e-content">
+	    <div class="text-center">
+	      <div class="text-center my-4 py-5 px-3">
+		<p><i class="fas fa-map-pin fa-3x"></i></p>
+		<h2 class="font-weight-bold py-3">LocalMap.jp とは？</h2>
+		<p class="lead font-weight-light py-2">
+		  LocalMap.jp は<a href='https://minkei.net/'>みんなの経済新聞ネットワーク</a>の各エリアで配信されたニュース記事の一部をプロットした地図です。
+		</p>
+		<p class="lead font-weight-light py-2">
+		  地図上のアイコンをクリックすると、その場所で起こった出来事の記事が閲覧できます。
+		</p>
+		<video alt="Video from Gyazo" width="100%" autoplay muted loop playsinline controls><source src="https://i.gyazo.com/7c2648f8541cfc6f0799ee0a60e09052.mp4" type="video/mp4" /></video>
+		<small>※ 情報は公開当時のものです。飲食店の利用などの際には、営業日時など現在の情報を必ずご確認ください。</small>
+	      </div>
+
+	      <div class="text-center my-4 py-5 px-3">
+		<p><i class="fas fa-map fa-3x"></i></p>
+		<h2 class="font-weight-light py-3">対応エリア</h2>
+		<p class="lead font-weight-light py-2">LocalMap.jp は現在以下のエリアに対応しています。</p>
+		<ul style='list-style: none; margin-left: -50px;'>
+		{% for map in site.data.maps %}
+		  {% unless map['draft'] %}
+		  <li><a href="/{{ map['id'] }}">{{ map['area'] }}（{{ map['pref'] }}）</a></li>
+		  {% endunless %}
+		{% endfor %}
+		</ul>
+	      </div>
+
+	      <div class="text-center my-4 py-5 px-3">
+		<p><i class="fas fa-newspaper fa-3x"></i></p>
+		<h2 class="font-weight-light py-3">地図作成について</h2>
+		<p class="lead font-weight-light py-2">
+		  <a href='https://minkei.net/list.html'>みんなの経済新聞ネットワーク</a>内のメディアであれば地図を作成できます。掲載をご希望の場合は<a href='https://takadanobaba.keizai.biz/contact/contact.html'>高田馬場経済新聞までお問い合わせ</a>ください。
+	      </div>
+	    </div>
+	  </article>
+	</div>
+      </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer-localmap text-center mt-0 pt-3">
+      <div class="container">
+	<div class="row">
+	  <div class="col-xl-10 offset-xl-1">
+	    <div role="navigation" class="d-flex flex-wrap justify-content-center">
+	      <a href="https://twitter.com/baba_keizai" title="Twitterアカウントを見る" class="localmap-footer-sociallink lead">
+		<span class="fa-stack fa-lg" aria-hidden="true">
+		  <i class="fa-brands fa-twitter fa-stack-1x fa-inverse"></i>
+		</span>
+		<span class="sr-only">Twitter</span>
+              </a>
+	      <a href="https://github.com/yasslab/localmap.jp" title="ソースコードを見る" class="localmap-footer-sociallink lead">
+		<span class="fa-stack fa-lg" aria-hidden="true">
+		  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+		</span>
+		<span class="sr-only">GitHub</span>
+              </a>
+	      <a href="https://takadanobaba.keizai.biz/headline/1021/" title="立ち上げの経緯を見る" class="localmap-footer-sociallink lead">
+		<span class="fa-stack fa-lg" aria-hidden="true">
+		  <i class="fas fa-newspaper fa-stack-1x fa-inverse"></i>
+		</span>
+		<span class="sr-only"></span>
+              </a>
+	    </div>
+	    <p class="mt-2 mb-3" style='padding-bottom: 30px;'>
+	      運営: <a href='https://takadanobaba.keizai.biz/'>高田馬場経済新聞</a><br>
+	      開発協力: <a href="https://yasslab.jp/ja/">YassLab Inc.</a>
+	    </p>
+	  </div>
+	</div>
+      </div>
+    </footer>
+
     {% if site.env.JEKYLL_ENV == 'production' %}
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62337761-11"></script>
