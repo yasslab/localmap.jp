@@ -8,7 +8,15 @@ Other files, like images and YAML/Geojson data, are owned by the following copyr
 
 <br>
 
-## Copyright &copy;
+## 🎨 Design
+
+- [Bootstrap](https://getbootstrap.com/): Twitter, Inc. & The Bootstrap Authors ([LICENSE](https://github.com/twbs/bootstrap/blob/v4.5.3/LICENSE))
+- [Chulapa](https://github.com/dieghernan/chulapa): [@dieghernan](https://github.com/dieghernan) ([LICENSE](https://github.com/dieghernan/chulapa/blob/master/LICENSE))
+- [Font Awesome](https://fontawesome.com): Fonticons, Inc. ([LICENSE](https://fontawesome.com/license))
+
+<br>
+
+## &copy; Copyright
 
 - 📰 Articles/Images: Each information provider.
 - 🗺 Map Data: [GSI Japan](https://www.gsi.go.jp/) & [Geolonia](https://geolonia.com/) & [OpenStreetMap](https://www.openstreetmap.org/).
