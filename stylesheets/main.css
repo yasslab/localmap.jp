@@ -151,16 +151,19 @@ hr {
   font-weight: 300;
 }
 .splash-localmap-image h1 {
-  font-size: 3rem;
+  font-size: 3.0rem;
+  margin-top: 400px;
 }
 @media (min-width: 768px) {
   .splash-localmap-image h1 {
-    font-size: calc(3rem + 3 * (100vw - 768px) / 224);
+    font-size: calc(6.5rem + 3 * (100vw - 768px) / 224);
+    margin-top: 550px;
   }
 }
 @media (min-width: 992px) {
   .splash-localmap-image h1 {
     font-size: 6rem;
+    margin-top: 400px;
   }
 }
 .splash-localmap-image p {
@@ -168,7 +171,7 @@ hr {
 }
 @media (min-width: 768px) {
   .splash-localmap-image p {
-    font-size: calc(1.5rem + 1 * (100vw - 768px) / 224);
+    font-size: calc(3.0rem + 1 * (100vw - 768px) / 224);
   }
 }
 @media (min-width: 992px) {
