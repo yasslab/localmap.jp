@@ -1,0 +1,285 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100..700&family=Inter:wght@100..900&family=Inter+Tight:wght@100..900&display=swap");
+
+/*!
+ * CSS for LocalMap.jp
+ */
+
+body {
+  min-height: 100vh;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1rem;
+}
+img {
+  max-width: 95%;
+  height: auto;
+  border-radius: 0.3rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+hr {
+  height: 0.125rem;
+  border-width: 0;
+  background-color: #616971;
+}
+
+.fa,
+.far,
+.fas,
+.fal,
+.fab,
+.fa-solid,
+.fa-regular,
+.fa-light,
+.fa-thin,
+.fa-duotone,
+.fa-sharp,
+.fa-brands {
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition:    all 0.2s ease-out;
+  transition:         all 0.2s ease-out;
+}
+.fa:hover,
+.far:hover,
+.fas:hover,
+.fal:hover,
+.fab:hover,
+.fa-solid:hover,
+.fa-regular:hover,
+.fa-light:hover,
+.fa-thin:hover,
+.fa-duotone:hover,
+.fa-sharp:hover,
+.fa-brands:hover {
+  -webkit-transform: scale(1.3, 1.3);
+  -ms-transform:     scale(1.3, 1.3);
+  -o-transform:      scale(1.3, 1.3);
+  transform:         scale(1.3, 1.3);
+}
+
+/*!
+ * Top Cover
+ */
+.localmap {
+  font-family: localmap, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 400 !important;
+  -webkit-font-feature-settings: "liga", "dlig";
+  -moz-font-feature-settings:    "liga=1, dlig=1";
+  -moz-font-feature-settings:    "liga", "dlig";
+  -ms-font-feature-settings:     "liga", "dlig";
+  -o-font-feature-settings:      "liga", "dlig";
+  font-feature-settings:         "liga", "dlig";
+  text-rendering: optimizeLegibility;
+}
+
+.splash-localmap-image h1 {
+  font-family: "Inter Tight", Roboto;
+  font-weight: 800 !important;
+}
+.splash-localmap-image {
+  font-family: "Inter Tight", Roboto;
+  background-color: #22272e;
+  text-align: center;
+  min-height: 40vh;
+}
+.splash-localmap-image hr {
+  background-color: #f4f4f5;
+  width: 15%;
+}
+.splash-localmap-image h1,
+.splash-localmap-image p {
+  color: #f4f4f5;
+  word-wrap:     break-word;
+  -ms-word-wrap: break-word;
+}
+.splash-localmap-image p {
+  font-size: 1.5rem;
+}
+@media (min-width: 768px) {
+  .splash-localmap-image p {
+    font-size: calc(1.5rem + 0.5 * (100vw - 768px) / 224);
+  }
+}
+@media (min-width: 992px) {
+  .splash-localmap-image p {
+    font-size: 2rem;
+  }
+}
+.splash-localmap-image {
+  border-color: #f4f4f5;
+  color:        #f4f4f5;
+  font-size: 1rem;
+}
+@media (min-width: 768px) {
+  .splash-localmap-image {
+    font-size: calc(1rem + 0.25 * (100vw - 768px) / 224);
+  }
+}
+@media (min-width: 992px) {
+  .splash-localmap-image {
+    font-size: 1.25rem;
+  }
+}
+@media (min-width: 768px) {
+  .splash-localmap-image h1 {
+    font-size: 3.5rem;
+    font-weight: 300;
+  }
+  .splash-localmap-image p {
+    font-weight: 300;
+  }
+}
+@media (min-width: 992px) {
+  .splash-localmap-image h1 {
+    font-size: 4.5rem;
+  }
+}
+
+.splash-localmap-image {
+  min-height: 100vh;
+}
+.splash-localmap-image h1,
+.splash-localmap-image p {
+  font-weight: 300;
+}
+.splash-localmap-image h1 {
+  font-size: 3rem;
+}
+@media (min-width: 768px) {
+  .splash-localmap-image h1 {
+    font-size: calc(3rem + 3 * (100vw - 768px) / 224);
+  }
+}
+@media (min-width: 992px) {
+  .splash-localmap-image h1 {
+    font-size: 6rem;
+  }
+}
+.splash-localmap-image p {
+  font-size: 1.5rem;
+}
+@media (min-width: 768px) {
+  .splash-localmap-image p {
+    font-size: calc(1.5rem + 1 * (100vw - 768px) / 224);
+  }
+}
+@media (min-width: 992px) {
+  .splash-localmap-image p {
+    font-size: 2.5rem;
+  }
+}
+.splash-localmap-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.splash-localmap-image h1,
+.splash-localmap-image p {
+  color: #f4f4f5;
+  text-shadow: 0.1rem 0.1rem 0.2rem #0d1117;
+}
+.splash-localmap-image hr {
+  background-color: #f4f4f5;
+  box-shadow: 0.1rem 0.1rem 0.2rem #0d1117;
+}
+
+/*!
+ * Footer
+ */
+.footer-localmap {
+  //background-color: #0d1117;
+  //color:            #8b949e;
+  background-color: #E5CB44;
+  color:            #424044;
+  font-weight: 400;
+  border-top:    0;
+}
+.footer-localmap a {
+  color: #424044;
+  text-decoration: none;
+  font-weight: 400;
+}
+.footer-localmap a:hover,
+.footer-localmap a:focus {
+  //color: #8b949e;
+  color: #434445
+}
+.footer-localmap .localmap-footer-sociallink {
+  color: transparent;
+}
+.footer-localmap .localmap-footer-sociallink:hover,
+.footer-localmap .localmap-footer-sociallink:focus {
+  color: #58a6ff;
+}
+.footer-localmap .fa-stack:hover,
+.footer-localmap .fa-stack:focus {
+  color: #1c2f45;
+}
+.footer-localmap .fa-inverse {
+  //color: #8b949e;
+  color: #424044;
+}
+
+/*!
+ * FA Icons
+ */
+.localmap-fa-static .fa,
+.localmap-fa-static .far,
+.localmap-fa-static .fas,
+.localmap-fa-static .fal,
+.localmap-fa-static .fab,
+.localmap-fa-static .fa-solid,
+.localmap-fa-static .fa-regular,
+.localmap-fa-static .fa-light,
+.localmap-fa-static .fa-thin,
+.localmap-fa-static .fa-duotone,
+.localmap-fa-static .fa-sharp,
+.localmap-fa-static .fa-brands {
+  -webkit-transition: none !important;
+  -moz-transition:    none !important;
+  -o-transition:      none !important;
+  -ms-transition:     none !important;
+  transition:         none !important;
+}
+.localmap-fa-static .fa:hover,
+.localmap-fa-static .far:hover,
+.localmap-fa-static .fas:hover,
+.localmap-fa-static .fal:hover,
+.localmap-fa-static .fab:hover,
+.localmap-fa-static .fa-solid:hover,
+.localmap-fa-static .fa-regular:hover,
+.localmap-fa-static .fa-light:hover,
+.localmap-fa-static .fa-thin:hover,
+.localmap-fa-static .fa-duotone:hover,
+.localmap-fa-static .fa-sharp:hover,
+.localmap-fa-static .fa-brands:hover {
+  -webkit-transform: none;
+  -ms-transform: none;
+  -o-transform: none;
+  transform: none;
+}
+
+/*!
+ * Background Color
+ */
+.localmap-bg-landingpage {
+  // background-color: #22272e;
+  background-color: #265aa0;
+}
+.localmap-bg-landingpage div.style-root {
+  fill:   #f4f4f5 !important;
+  stroke: #f4f4f5 !important;
+  color:  #f4f4f5 !important;
+}
+.localmap-bg-landingpage {
+  color:  #f4f4f5 !important;
+}
