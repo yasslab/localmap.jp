@@ -17,10 +17,10 @@ h6 {
 }
 img {
   max-width: 95%;
-  height: auto;
+  height:   auto;
   border-radius: 0.3rem;
-  display: block;
-  margin-left: auto;
+  display:     block;
+  margin-left:  auto;
   margin-right: auto;
 }
 hr {
@@ -263,9 +263,9 @@ hr {
 .localmap-fa-static .fa-sharp:hover,
 .localmap-fa-static .fa-brands:hover {
   -webkit-transform: none;
-  -ms-transform: none;
-  -o-transform: none;
-  transform: none;
+  -ms-transform:     none;
+  -o-transform:      none;
+  transform:         none;
 }
 
 /*!
