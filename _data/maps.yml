@@ -16,6 +16,7 @@
   lng:  139.7209868
   logo: /images/akabane.png
   zoom: 14
+  draft: true
 - area: 大宮
   pref: 埼玉
   twitter: omiyakeizai
