@@ -100,33 +100,10 @@ hr {
   word-wrap:     break-word;
   -ms-word-wrap: break-word;
 }
-.splash-localmap-image p {
-  font-size: 1.5rem;
-}
-@media (min-width: 768px) {
-  .splash-localmap-image p {
-    font-size: calc(1.5rem + 0.5 * (100vw - 768px) / 224);
-  }
-}
-@media (min-width: 992px) {
-  .splash-localmap-image p {
-    font-size: 2rem;
-  }
-}
 .splash-localmap-image {
   border-color: #f4f4f5;
   color:        #f4f4f5;
   font-size: 1rem;
-}
-@media (min-width: 768px) {
-  .splash-localmap-image {
-    font-size: calc(1rem + 0.25 * (100vw - 768px) / 224);
-  }
-}
-@media (min-width: 992px) {
-  .splash-localmap-image {
-    font-size: 1.25rem;
-  }
 }
 @media (min-width: 768px) {
   .splash-localmap-image h1 {
@@ -156,13 +133,13 @@ hr {
 }
 @media (min-width: 768px) {
   .splash-localmap-image h1 {
-    font-size: calc(6.5rem + 3 * (100vw - 768px) / 224);
-    margin-top: 550px;
+    font-size:  7.0rem;
+    margin-top: 500px;
   }
 }
 @media (min-width: 992px) {
   .splash-localmap-image h1 {
-    font-size: 6rem;
+    font-size:  6rem;
     margin-top: 400px;
   }
 }
@@ -171,7 +148,7 @@ hr {
 }
 @media (min-width: 768px) {
   .splash-localmap-image p {
-    font-size: calc(3.0rem + 1 * (100vw - 768px) / 224);
+    font-size: 3.0rem;
   }
 }
 @media (min-width: 992px) {
@@ -199,20 +176,20 @@ hr {
  * Main Content
  */
 #maincontent h2 {
-  font-size: calc(5.5rem + 1 * (100vw - 768px) / 224);
+  font-size: 5.0rem;
 }
 #maincontent p {
-  font-size: calc(2.5rem + 1 * (100vw - 768px) / 224);
+  font-size: 2.0rem;
 }
 #maincontent li {
-  font-size: calc(2.5rem + 1 * (100vw - 768px) / 224);
+  font-size: 2.0rem;
 }
 @media screen and (min-width: 768px) {
   #maincontent h2 {
     font-size: 5.0rem;
   }
   #maincontent p, #maincontent li {
-    font-size: 2.5rem;
+    font-size: 2.7rem;
   }
 }
 
