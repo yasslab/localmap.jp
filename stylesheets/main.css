@@ -128,18 +128,18 @@ hr {
   font-weight: 300;
 }
 .splash-localmap-image h1 {
-  font-size: 3.0rem;
-  margin-top: 400px;
+  font-size:  3.0rem;
+  margin-top: 300px;
 }
 @media (min-width: 768px) {
   .splash-localmap-image h1 {
     font-size:  7.0rem;
-    margin-top: 500px;
+    margin-top: 400px;
   }
 }
 @media (min-width: 992px) {
   .splash-localmap-image h1 {
-    font-size:  6rem;
+    font-size:  6.0rem;
     margin-top: 400px;
   }
 }
@@ -175,29 +175,12 @@ hr {
 /*!
  * Main Content
  */
-#maincontent h2 {
-  font-size: 5.0rem;
-}
-#maincontent p {
-  font-size: 2.0rem;
-}
-#maincontent li {
-  font-size: 2.0rem;
-}
 @media screen and (min-width: 768px) {
+  #maincontent p,
+  #maincontent li {
+    font-size: 1.75rem;
+  }
   #maincontent h2 {
-    font-size: 5.0rem;
-  }
-  #maincontent p, #maincontent li {
-    font-size: 2.6rem;
-  }
-}
-
-.footer-localmap p {
-  font-size: 2.0rem;
-}
-@media screen and (min-width: 768px) {
-  .footer-localmap p {
     font-size: 3.0rem;
   }
 }

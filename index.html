@@ -25,6 +25,7 @@
     <meta name="thumbnail" content="https://localmap.jp/images/cover.png">
     <meta name="robots"    content="index, follow">
     <meta name="keywords"  content="みんなの経済新聞,地図,ニュース,マップ,minkei">
+    <meta name="viewport"  content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- OpenGraph -->
     <meta property="fb:app_id"      content="2063612603708968">
@@ -82,11 +83,11 @@
     <div class="localmap-bg-landingpage">
       <header class="d-flex align-items-center splash-localmap-image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.05)), url(/images/catch.png)">
 	<div class="container-lg">
-	  <h1 class="p-name">
+	  <h1 class="p-name" style='margin-left: -20px;'>
 	    <span class="localmap">📍LocalMap.jp</span>
 	  </h1>
-	  <hr class="my-3" style='padding-left: 25px;'>
-	  <p class="localmap-subtitle p-summary" style='padding-left: 25px;'>地図で振り返る、地域の出来事</p>
+	  <hr class="my-3">
+	  <p class="localmap-subtitle p-summary">地図で振り返る、地域の出来事</p>
 	</div>
       </header>
     </div>
@@ -95,7 +96,7 @@
       <main class="container-lg  pb-3 localmap-bg-landingpage">
 	<div class="row pt-2">
 	  <aside class="col-lg-2 mt-lg-3 small"></aside>
-	  <article id="maincontent" class="col-lg-9 mt-3">
+	  <article id="maincontent" class="col-lg-8 mt-3">
 	    <div class="text-center">
 	      <div class="text-center my-4 py-5 px-3">
 		<p><i class="fas fa-map-pin fa-3x"></i></p>
@@ -110,13 +111,12 @@
 		<p><small>※
 		  情報は公開当時のものです。飲食店利用などの際は現在の営業日時をご確認ください。
 		</small></p>
-		<br><br><br><br><br>
 	      </div>
 
 	      <div class="text-center my-4 py-5 px-3">
 		<p><i class="fas fa-map fa-3x"></i></p>
 		<h2 class="font-weight-light py-3">対応地域</h2>
-		<p class="lead font-weight-light py-2">現在は以下の地域に対応しています。</p>
+		<p class="lead font-weight-light py-2">LocalMap.jp は以下の地域に現在対応しています。</p>
 		<ul style='list-style: none; margin-left: -50px;'>
 		{% for map in site.data.maps %}
 		  {% unless map['draft'] %}
@@ -124,16 +124,13 @@
 		  {% endunless %}
 		{% endfor %}
 		</ul>
-		<br><br><br><br><br>
 	      </div>
 
 	      <div class="text-center my-4 py-5 px-3">
 		<p><i class="fas fa-newspaper fa-3x"></i></p>
 		<h2 class="font-weight-light py-3">地図作成について</h2>
 		<p class="lead font-weight-light py-2">
-		  <a href='https://minkei.net/list.html'>みんなの経済新聞ネットワーク</a>内のメディアであれば地図を作成できます。ご希望の場合は、<a href='https://takadanobaba.keizai.biz/contact/contact.html'>高田馬場経済新聞までお問い合わせ</a>ください。</p>
-		<br><br><br><br><br>
-		<br><br><br><br><br>
+		  <a href='https://minkei.net/list.html'>みんなの経済新聞ネットワーク</a>内のメディアであれば地図を作成できます。詳細は<a href='https://takadanobaba.keizai.biz/contact/contact.html'>高田馬場経済新聞までお問い合わせ</a>ください。</p>
 	      </div>
 	    </div>
 	  </article>
@@ -146,7 +143,6 @@
       <div class="container">
 	<div class="row">
 	  <div class="col-xl-10 offset-xl-1">
-	    <!--
 	    <div role="navigation" class="d-flex flex-wrap justify-content-center">
 	      <a href="https://twitter.com/baba_keizai" title="Twitterアカウントを見る" class="localmap-footer-sociallink lead">
 		<span class="fa-stack fa-lg" aria-hidden="true">
@@ -167,9 +163,7 @@
 		<span class="sr-only"></span>
               </a>
 	    </div>
-	    -->
-	    
-	    <p class="mt-2 mb-3" style='padding-top: 50px; padding-bottom: 50px;'>
+	    <p class="mt-2 mb-3" style='padding-bottom: 30px;'>
 	      運営: <a href='https://takadanobaba.keizai.biz/'>高田馬場経済新聞</a><br>
 	      開発協力: <a href="https://yasslab.jp/ja/">YassLab Inc.</a>
 	    </p>
