@@ -2430,16 +2430,16 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
 .btn-primary,
 #ch-cusdis button.bg-gray-200,
 #welcomments__container .welcomments__submit-button {
-  color: #f4f4f5;
-  background-color: #22272e;
-  border-color: #22272e;
+  color:            #f4f4f5;
+  //background-color: #22272e;
+  border-color:     #f4f4f5; //#22272e;
 }
 .btn-primary:hover,
 #ch-cusdis button.bg-gray-200:hover,
 #welcomments__container .welcomments__submit-button:hover {
-  color: #f4f4f5;
-  background-color: #121418;
-  border-color: #0c0e11;
+  color:            #e4e4e5;
+  //background-color: #121418;
+  border-color:     #d4d4d5; //#0c0e11;
 }
 .btn-primary:focus,
 #ch-cusdis button.bg-gray-200:focus,
@@ -2447,10 +2447,10 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
 .btn-primary.focus,
 #ch-cusdis button.focus.bg-gray-200,
 #welcomments__container .focus.welcomments__submit-button {
-  color: #f4f4f5;
-  background-color: #121418;
-  border-color: #0c0e11;
-  box-shadow: 0 0 0 0.2rem rgba(66, 70, 76, 0.5);
+  color:            #f4f4f5;
+  //background-color: #121418;
+  border-color:     #d4d4d5; //#0c0e11;
+  //box-shadow: 0 0 0 0.2rem rgba(66, 70, 76, 0.5);
 }
 .btn-primary.disabled,
 #ch-cusdis button.disabled.bg-gray-200,
@@ -2458,9 +2458,10 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
 .btn-primary:disabled,
 #ch-cusdis button.bg-gray-200:disabled,
 #welcomments__container .welcomments__submit-button:disabled {
-  color: #f4f4f5;
-  background-color: #22272e;
-  border-color: #22272e;
+  color:            #f4f4f5;
+  //background-color: #22272e;
+  //border-color: #22272e;
+  border-color:     #d4d4d5; //#0c0e11;
 }
 .btn-primary:not(:disabled):not(.disabled):active,
 #ch-cusdis button.bg-gray-200:not(:disabled):not(.disabled):active,
@@ -2473,9 +2474,10 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
 .show > .btn-primary.dropdown-toggle,
 #ch-cusdis .show > button.dropdown-toggle.bg-gray-200,
 #welcomments__container .show > .dropdown-toggle.welcomments__submit-button {
-  color: #f4f4f5;
-  background-color: #0c0e11;
-  border-color: #070809;
+  color:            #f4f4f5;
+  //background-color: #0c0e11;
+  //border-color: #070809;
+  border-color:     #d4d4d5; //#0c0e11;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 #ch-cusdis button.bg-gray-200:not(:disabled):not(.disabled):active:focus,
