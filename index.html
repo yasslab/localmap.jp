@@ -117,13 +117,13 @@
 		<p><i class="fas fa-map-location-dot fa-3x"></i></p>
 		<h2 class="font-weight-light py-3">対応地域</h2>
 		<p class="lead font-weight-light py-2">LocalMap.jp は以下の地域に現在対応しています。</p>
-		<ul style='list-style: none; margin-left: -50px;'>
 		{% for map in site.data.maps %}
 		  {% unless map['draft'] %}
-		  <li><a href="/{{ map['id'] }}">{{ map['area'] }}（{{ map['pref'] }}）</a></li>
+		  <a class="btn btn-primary btn-lg my-3 text-white" role="button"
+		     href="/{{ map['id'] }}">{{ map['area'] }}（{{ map['pref'] }}）</a>
 		  {% endunless %}
 		{% endfor %}
-		</ul>
+
 	      </div>
 
 	      <div class="text-center my-4 py-5 px-3">

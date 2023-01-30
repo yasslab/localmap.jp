@@ -2381,7 +2381,7 @@ textarea.is-invalid.ais-SearchBox-input {
 #welcomments__container .welcomments__comment-reply-link:hover,
 #welcomments__container .welcomments__submit-button:hover {
   color: #24292f;
-  //text-decoration: none;
+  text-decoration: none;
 }
 .btn:focus,
 #ch-cusdis button.bg-gray-200:focus,
@@ -2433,6 +2433,7 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
   color:            #f4f4f5;
   //background-color: #22272e;
   border-color:     #f4f4f5; //#22272e;
+  text-decoration: none;
 }
 .btn-primary:hover,
 #ch-cusdis button.bg-gray-200:hover,
@@ -2986,11 +2987,11 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
 }
 .btn-link:hover {
   color: #064691;
-  text-decoration: underline;
+  //text-decoration: underline;
 }
 .btn-link:focus,
 .btn-link.focus {
-  text-decoration: underline;
+  //text-decoration: underline;
 }
 .btn-link:disabled,
 .btn-link.disabled {
