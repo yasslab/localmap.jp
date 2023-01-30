@@ -129,7 +129,7 @@ hr {
 }
 .splash-localmap-image h1 {
   font-size:  3.0rem;
-  margin-top: 300px;
+  margin-top: 250px;
 }
 @media (min-width: 768px) {
   .splash-localmap-image h1 {
@@ -164,11 +164,11 @@ hr {
 }
 .splash-localmap-image h1,
 .splash-localmap-image p {
-  color: #f4f4f5;
-  text-shadow: 0.1rem 0.1rem 0.2rem #0d1117;
+  color:                            #f4f4f5;
+  text-shadow: 0.2rem 0.2rem 0.3rem #0d1117;
 }
 .splash-localmap-image hr {
-  background-color: #f4f4f5;
+  background-color:                #f4f4f5;
   box-shadow: 0.1rem 0.1rem 0.2rem #0d1117;
 }
 
