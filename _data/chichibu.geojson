@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.0983701,
+          36.0704607
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/414/'>\n  <img src='https://images.keizai.biz/chichibu_keizai/headline/1675063843_photo.jpg' alt='皆野町でゴスペルコンサート　ワンコインで身近に'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/414/'>皆野町でゴスペルコンサート　ワンコインで身近に</a>\n<small>(2023.01.30)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.085452,
           35.999848
         ]

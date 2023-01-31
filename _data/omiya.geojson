@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.624792,
+          35.90792950000001
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1691/'>\n  <img src='https://images.keizai.biz/omiya_keizai/headline/1675047227_photo.jpg' alt='大宮のコワーキングスペース「7F」が個室ブース新設　CFで支援呼びかけも'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1691/'>大宮のコワーキングスペース「7F」が個室ブース新設　CFで支援呼びかけも</a>\n<small>(2023.01.30)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6220855,
           35.9047033
         ]
