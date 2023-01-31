@@ -1,0 +1,885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.943527,
+          34.6812248
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/60/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1675118394_photo.jpg' alt='静岡ガスと下田ガス、下田市とSDGs連携協定　公用車の電動化など推進'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/60/'>静岡ガスと下田ガス、下田市とSDGs連携協定　公用車の電動化など推進</a>\n<small>(2023.01.31)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9732013,
+          34.6595309
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/59/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1674883750_photo.jpg' alt='「下田マニア」交流イベント　水仙まつりで下田の魅力を学び親交を深める'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/59/'>「下田マニア」交流イベント　水仙まつりで下田の魅力を学び親交を深める</a>\n<small>(2023.01.30)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9433689,
+          34.6752179
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/58/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1674803413_photo.jpg' alt='下田「ロロ黒船」が中学生考案の和菓子を販売　地元の波や花をモチーフに'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/58/'>下田「ロロ黒船」が中学生考案の和菓子を販売　地元の波や花をモチーフに</a>\n<small>(2023.01.27)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.766848,
+          34.7270683
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/57/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1674770503_photo.jpg' alt='西伊豆松崎町で棚田オーナー募集　富士山を望む場所で田植え・稲刈り体験も'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/57/'>西伊豆松崎町で棚田オーナー募集　富士山を望む場所で田植え・稲刈り体験も</a>\n<small>(2023.01.27)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9656385,
+          34.7048259
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/56/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1674683638_photo.png' alt='下田白浜でドローンによる安全監視実験　溺れた人に空中から救命具投下'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/56/'>下田白浜でドローンによる安全監視実験　溺れた人に空中から救命具投下</a>\n<small>(2023.01.26)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9177671,
+          34.66185979999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/55/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1674599791_photo.jpg' alt='伊豆下田の朝日郵便局が徒歩10秒の場所に移転　利用客倍増でうれしい悲鳴'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/55/'>伊豆下田の朝日郵便局が徒歩10秒の場所に移転　利用客倍増でうれしい悲鳴</a>\n<small>(2023.01.25)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9470903,
+          34.6757136
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/54/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1674510526_photo.jpg' alt='下田で都内IT企業社員とN高生がパソコン指導　小学生たちがスライド制作'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/54/'>下田で都内IT企業社員とN高生がパソコン指導　小学生たちがスライド制作</a>\n<small>(2023.01.24)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0464591,
+          34.7712009
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/53/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1674423983_photo.jpg' alt='東伊豆で親子ワーケーション　子どもをジオガイドに預けてリモートワーク　'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/53/'>東伊豆で親子ワーケーション　子どもをジオガイドに預けてリモートワーク　</a>\n<small>(2023.01.23)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0571097,
+          34.80482
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/52/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1674165206_photo.jpg' alt='東伊豆町「コヤドアンドキッチン 」が開業半年　宿を併設するレストラン'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/52/'>東伊豆町「コヤドアンドキッチン 」が開業半年　宿を併設するレストラン</a>\n<small>(2023.01.20)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9263242,
+          34.6590266
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/51/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1674077971_photo.jpg' alt='入田浜にメキシコ料理店「マレア」　下田の海を愛するドイツ人実業家が開業'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/51/'>入田浜にメキシコ料理店「マレア」　下田の海を愛するドイツ人実業家が開業</a>\n<small>(2023.01.19)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9732013,
+          34.6595309
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/50/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1673992046_photo.jpg' alt='下田爪木崎の大自然を地元小学生たちがガイド　観光客とビーチクリーンも'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/50/'>下田爪木崎の大自然を地元小学生たちがガイド　観光客とビーチクリーンも</a>\n<small>(2023.01.18)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.4054782,
+          34.9613305
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/49/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1673860884_photo.jpg' alt='静岡市と伊豆を直接結ぶ「223タクシー」　1月28日から期間限定運行'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/49/'>静岡市と伊豆を直接結ぶ「223タクシー」　1月28日から期間限定運行</a>\n<small>(2023.01.17)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8108038,
+          34.7596201
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/48/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1673818380_photo.jpg' alt='松崎町で音楽とプロジェクションマッピングを交えた講演　地域連携を考える'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/48/'>松崎町で音楽とプロジェクションマッピングを交えた講演　地域連携を考える</a>\n<small>(2023.01.16)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0464382,
+          34.7711977
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/47/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1673509531_photo.jpg' alt='東伊豆から東京への高速船「海の踊り子」　2月4日から期間限定で'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/47/'>東伊豆から東京への高速船「海の踊り子」　2月4日から期間限定で</a>\n<small>(2023.01.13)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9458233,
+          34.6770136
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/46/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1673472876_photo.jpg' alt='下田に無人コンディショニングスタジオ　パーソナルトレーナーが地元で開業'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/46/'>下田に無人コンディショニングスタジオ　パーソナルトレーナーが地元で開業</a>\n<small>(2023.01.12)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.963085,
+          34.67975560000001
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/45/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1673356827_photo.jpg' alt='新たな特産品「下田ブルー」が販売開始から1年　移住者が作る幸せの青い卵'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/45/'>新たな特産品「下田ブルー」が販売開始から1年　移住者が作る幸せの青い卵</a>\n<small>(2023.01.11)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8142997,
+          34.6853976
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/44/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1673305063_photo.jpg' alt='南伊豆の循環型美容室「杜とあお。」が4周年　次の目標は「高床式美容室」'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/44/'>南伊豆の循環型美容室「杜とあお。」が4周年　次の目標は「高床式美容室」</a>\n<small>(2023.01.10)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.989295,
+          34.7519169
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/43/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1672955009_photo.jpg' alt='河津町で毎年恒例「元旦マラソン大会」　冬晴れの中、212人が走り初め'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/43/'>河津町で毎年恒例「元旦マラソン大会」　冬晴れの中、212人が走り初め</a>\n<small>(2023.01.06)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9152003,
+          34.7190332
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/42/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1672878528_photo.jpg' alt='下田芸者、新春に舞う　創業40周年迎えた下田セントラルホテルで'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/42/'>下田芸者、新春に舞う　創業40周年迎えた下田セントラルホテルで</a>\n<small>(2023.01.05)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8294841,
+          34.7579552
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/41/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1672789123_photo.jpg' alt='松崎町の日帰り入浴施設「大沢温泉 依田之庄」が2周年　記念タオル進呈も'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/41/'>松崎町の日帰り入浴施設「大沢温泉 依田之庄」が2周年　記念タオル進呈も</a>\n<small>(2023.01.04)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9919471,
+          34.7507905
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/40/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1672177542_photo.jpg' alt='河津町の観光イラストマップ刷新　下田のイラストレーターがデザイン'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/40/'>河津町の観光イラストマップ刷新　下田のイラストレーターがデザイン</a>\n<small>(2022.12.28)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7708952,
+          34.74275009999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/39/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1672089237_photo.jpg' alt='SS伊豆の「西伊豆サッカー教室」　地元出身選手たちが小学生を指導'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/39/'>SS伊豆の「西伊豆サッカー教室」　地元出身選手たちが小学生を指導</a>\n<small>(2022.12.27)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9443682,
+          34.6790415
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/38/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1672011683_photo.jpg' alt='伊豆急下田駅で3年ぶりのクリスマスハンドベル　地元こども園職員が奏でる'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/38/'>伊豆急下田駅で3年ぶりのクリスマスハンドベル　地元こども園職員が奏でる</a>\n<small>(2022.12.26)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9165048,
+          34.7250776
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/37/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1671709057_photo.jpg' alt='下田の小学生に一足早いクリスマスプレゼント　地元企業が社会貢献で'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/37/'>下田の小学生に一足早いクリスマスプレゼント　地元企業が社会貢献で</a>\n<small>(2022.12.23)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9839761,
+          34.6612694
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/36/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1671616542_photo.jpg' alt='下田の潮風に300万本の花が揺れる　爪木崎「水仙まつり」始まる'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/36/'>下田の潮風に300万本の花が揺れる　爪木崎「水仙まつり」始まる</a>\n<small>(2022.12.22)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8546761,
+          34.672264
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/35/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1671536798_photo.jpg' alt='南伊豆「毛倉野生花店」がワークショップ　生木でクリスマスリース作り'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/35/'>南伊豆「毛倉野生花店」がワークショップ　生木でクリスマスリース作り</a>\n<small>(2022.12.21)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9439601,
+          34.6739523
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/34/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1671438330_photo.jpg' alt='下田旧町内商店街にレンタルボックス　ハンドメード品や古着などを代理販売'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/34/'>下田旧町内商店街にレンタルボックス　ハンドメード品や古着などを代理販売</a>\n<small>(2022.12.20)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9449085,
+          34.6747572
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/33/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1671312981_photo.jpg' alt='「目黒グリーン珈琲焙煎所」が東京から下田に　Uターン焙煎士が空き家活用'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/33/'>「目黒グリーン珈琲焙煎所」が東京から下田に　Uターン焙煎士が空き家活用</a>\n<small>(2022.12.19)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9447255,
+          34.677313
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/32/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1671076281_photo.jpg' alt='下田まいまい通りにビンテージショップ「エンテ」　古着や陶器など扱う'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/32/'>下田まいまい通りにビンテージショップ「エンテ」　古着や陶器など扱う</a>\n<small>(2022.12.16)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9452003,
+          34.6795498
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/31/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1671054401_photo.jpg' alt='パドルボード世界1位・堀部選手が下田市長を表敬訪問　伊豆の経験が後押し'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/31/'>パドルボード世界1位・堀部選手が下田市長を表敬訪問　伊豆の経験が後押し</a>\n<small>(2022.12.15)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7780153,
+          34.750446
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/30/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1670982676_photo.jpg' alt='「ミズベリング伊豆」キックオフ　松崎町の水辺環境利活用を自由に語り合う'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/30/'>「ミズベリング伊豆」キックオフ　松崎町の水辺環境利活用を自由に語り合う</a>\n<small>(2022.12.14)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9443682,
+          34.6790415
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/29/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1670883153_photo.png' alt='伊豆急が鉄道古物販売会　5歳の「いずきゅん」とオモシロ駅長がお出迎え'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/29/'>伊豆急が鉄道古物販売会　5歳の「いずきゅん」とオモシロ駅長がお出迎え</a>\n<small>(2022.12.13)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9830314,
+          34.7111011
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/28/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1670807271_photo.jpg' alt='冬恒例の伊豆白浜「アロエの花まつり」　インスタ映えするピンクのドアも'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/28/'>冬恒例の伊豆白浜「アロエの花まつり」　インスタ映えするピンクのドアも</a>\n<small>(2022.12.12)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.939879,
+          34.6730813
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/27/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1670497113_photo.jpg' alt='下田開国博物館がスマホアプリをリリース　ARで町全体がミュージアムに'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/27/'>下田開国博物館がスマホアプリをリリース　ARで町全体がミュージアムに</a>\n<small>(2022.12.09)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9508112,
+          34.6746926
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/26/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1670410192_photo.jpg' alt='3年ぶり「下田水仙ツーデーマーチ」　自然と歴史に触れながらウオーキング'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/26/'>3年ぶり「下田水仙ツーデーマーチ」　自然と歴史に触れながらウオーキング</a>\n<small>(2022.12.08)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.040888,
+          34.7720034
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/25/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1670373627_photo.jpg' alt='海外販売を控えるアート作品が東伊豆町に集結　移住者アーティストの作品も'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/25/'>海外販売を控えるアート作品が東伊豆町に集結　移住者アーティストの作品も</a>\n<small>(2022.12.07)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1079416,
+          34.8782555
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/24/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1670282553_photo.jpg' alt='伊豆高原駅でクリスマスマーケット　キッチンカーなど30ブース出店'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/24/'>伊豆高原駅でクリスマスマーケット　キッチンカーなど30ブース出店</a>\n<small>(2022.12.06)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.0443686,
+          34.7705309
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/23/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669856041_photo.jpg' alt='東伊豆に移住者パティシエがカフェ開業　古民家改装の宿に併設'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/23/'>東伊豆に移住者パティシエがカフェ開業　古民家改装の宿に併設</a>\n<small>(2022.12.02)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9438125,
+          34.6751426
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/22/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855990_photo.jpg' alt='下田の高校生、着物や伝統細工技法で日本文化学ぶ　アメリカ訪問に備えて'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/22/'>下田の高校生、着物や伝統細工技法で日本文化学ぶ　アメリカ訪問に備えて</a>\n<small>(2022.12.05)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.958057,
+          34.6776803
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/21/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855737_photo.jpg' alt='下田の海を臨む公園でキッズダンスや空手の披露　仮面ライダーショーも'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/21/'>下田の海を臨む公園でキッズダンスや空手の披露　仮面ライダーショーも</a>\n<small>(2022.11.04)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9452003,
+          34.6795498
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/20/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855939_photo.jpg' alt='下田の新たな地域おこし協力隊に野添裕紀さん　カレー店開業にも意欲'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/20/'>下田の新たな地域おこし協力隊に野添裕紀さん　カレー店開業にも意欲</a>\n<small>(2022.12.01)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9508112,
+          34.6746926
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/18/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855904_photo.jpg' alt='下田で「土木の日」イベント　子どもたちが建設車両の操縦や測量を体験'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/18/'>下田で「土木の日」イベント　子どもたちが建設車両の操縦や測量を体験</a>\n<small>(2022.11.20)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9419325,
+          34.675663
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/17/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855870_photo.jpg' alt='下田青年会議所が子ども職業体験イベント報告会　地域への協力を呼びかけ'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/17/'>下田青年会議所が子ども職業体験イベント報告会　地域への協力を呼びかけ</a>\n<small>(2022.11.14)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.945663,
+          34.6758068
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/16/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855828_photo.jpg' alt='下田市登録遺産の古民家でイラスト講座　地元の子どもたちが特産品描く'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/16/'>下田市登録遺産の古民家でイラスト講座　地元の子どもたちが特産品描く</a>\n<small>(2022.11.13)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9383499,
+          34.6680491
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/15/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855781_photo.jpg' alt='下田東急ホテル、60周年で「感謝の夕べ」　今後のさらなる地域貢献誓う'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/15/'>下田東急ホテル、60周年で「感謝の夕べ」　今後のさらなる地域貢献誓う</a>\n<small>(2022.11.12)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9473462,
+          34.6856241
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/14/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855703_photo.jpg' alt='下田の河津建設、海底熟成ワインを仕込む　自社クレーン船活用で地域貢献'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/14/'>下田の河津建設、海底熟成ワインを仕込む　自社クレーン船活用で地域貢献</a>\n<small>(2022.11.02)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.972564,
+          34.6916276
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/13/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855672_photo.jpg' alt='下田に東京五輪金メダルのカリッサ・ムーア選手、サーフィン部中学生と交流'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/13/'>下田に東京五輪金メダルのカリッサ・ムーア選手、サーフィン部中学生と交流</a>\n<small>(2022.11.01)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9435411,
+          34.6732413
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/12/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855634_photo.jpg' alt='プロピアニストの加畑嶺さんが「ピアノスクール」　下田と南伊豆に教室'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/12/'>プロピアニストの加畑嶺さんが「ピアノスクール」　下田と南伊豆に教室</a>\n<small>(2022.10.31)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7890565,
+          34.6736806
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/11/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855586_photo.jpg' alt='下田・吉佐美大浜「サニーサイドカフェ」が閉店　45年の歴史に幕'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/11/'>下田・吉佐美大浜「サニーサイドカフェ」が閉店　45年の歴史に幕</a>\n<small>(2022.10.20)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7890565,
+          34.6736806
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/9/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855312_photo.jpg' alt='下田市商店会連盟、海底熟成酒を県外で販売　豆州白浜太鼓の披露も'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/9/'>下田市商店会連盟、海底熟成酒を県外で販売　豆州白浜太鼓の披露も</a>\n<small>(2022.10.17)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9508112,
+          34.6746926
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/8/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855288_photo.jpg' alt='下田の職業体験に500人超の子どもたち　仕事を通じて地元の魅力に触れる'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/8/'>下田の職業体験に500人超の子どもたち　仕事を通じて地元の魅力に触れる</a>\n<small>(2022.10.16)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9438125,
+          34.6751426
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/7/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855268_photo.jpg' alt='下田旧町内で秋野菜の試食会　有機栽培に取り組むグループが開く'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/7/'>下田旧町内で秋野菜の試食会　有機栽培に取り組むグループが開く</a>\n<small>(2022.10.11)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9452003,
+          34.6795498
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/6/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855252_photo.jpg' alt='下田市オリジナルハローキティが誕生　海とあじさいをモチーフに'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/6/'>下田市オリジナルハローキティが誕生　海とあじさいをモチーフに</a>\n<small>(2022.10.04)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9444227,
+          34.6721884
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/5/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855234_photo.jpg' alt='下田のシェアハウス「TONARU」が開業半年　移住者の起業拠点も担う'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/5/'>下田のシェアハウス「TONARU」が開業半年　移住者の起業拠点も担う</a>\n<small>(2022.09.20)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9470903,
+          34.6757136
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/4/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1669855216_photo.jpg' alt='全国のノマドワーカーが下田の魅力を体験　「しもズブweek」'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/4/'>全国のノマドワーカーが下田の魅力を体験　「しもズブweek」</a>\n<small>(2022.09.12)</small>\n"
+      }
+    }
+  ]
+}

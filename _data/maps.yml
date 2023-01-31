@@ -46,6 +46,13 @@
   lng:  139.9831875
   logo: /images/funabashi.png
   zoom: 12
+- area: 伊豆下田
+  pref: 静岡
+  id:   shimoda
+  lat:  34.67941359100851
+  lng:  138.94534320440602
+  logo: /images/shimoda.png
+  zoom: 12
 - area: 福島
   pref: 福島
   id:   fukushima
