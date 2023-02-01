@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6331749,
+          35.8905159
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://urawa.keizai.biz/headline/795/'>\n  <img src='https://images.keizai.biz/urawa_keizai/headline/1675165689_photo.jpg' alt='さいたま市が「SDGs企業認証式」　市内企業の持続可能な成長を後押し'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://urawa.keizai.biz/headline/795/'>さいたま市が「SDGs企業認証式」　市内企業の持続可能な成長を後押し</a>\n<small>(2023.01.31)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.613256,
           35.8545932
         ]

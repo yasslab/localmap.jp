@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.625346,
+          35.9072763
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1692/'>\n  <img src='https://images.keizai.biz/omiya_keizai/headline/1675176877_photo.jpg' alt='さいたま市内の企業が新商品合同記者発表会　SDGs対応を前面に'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1692/'>さいたま市内の企業が新商品合同記者発表会　SDGs対応を前面に</a>\n<small>(2023.01.31)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.624792,
           35.90792950000001
         ]
