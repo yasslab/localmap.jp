@@ -19,8 +19,8 @@
     <meta name="description"  content="{{ page.description }}" />
     <title>{{ page.title }}</title>
     <script type="text/javascript">
-      if (window.location.href== "https://babamap.net/{{ map['id'] }}") {
-          window.location.href = "https://localmap.jp/{{ map['id'] }}";
+      if (window.location.href== "https://babamap.net/{{ id }}") {
+          window.location.href = "https://localmap.jp/{{ id }}";
       }
     </script>
 
@@ -32,7 +32,7 @@
     <meta property="og:site_name"    content="{{ map['area'] }}経済新聞">
     <meta property="og:title"        content="{{ page.title }}">
     <meta property="og:description"  content="{{ page.description }}">
-    <meta property="og:url"          content="https://localmap.jp/{{ map['id'] }}">
+    <meta property="og:url"          content="https://localmap.jp/{{ id }}">
     <meta property="og:image"        content="https://localmap.jp/images/cover.png">
     <meta property="og:image:type"   content="image/png">
 
