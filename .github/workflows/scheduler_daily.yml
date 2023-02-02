@@ -37,11 +37,11 @@ jobs:
       run: |
         bundle install --jobs 4 --retry 3
 
-    - name: 📍 Fetch data, generate geojson, and compact it on each area
+    - name: 📍 Build markers, GeoJson, and pages
       run: |
         bundle exec rake upsert_markers
         bundle exec rake upsert_geojson
-        bundle exec rake compact_geojson
+        bundle exec rake build_pages
 
     - name: 🆙 Commit latest data to update LocalMap (if any)
       run: |

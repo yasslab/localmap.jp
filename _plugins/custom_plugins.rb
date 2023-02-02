@@ -1,8 +1,9 @@
-# GitHub Gist - Environment variables in Jekyll templates
-# https://gist.github.com/nicolashery/5756478
+#!/usr/bin/env ruby
+require 'yaml'
+require 'json'
 
 # Plugin to add environment variables to the `site` object in Liquid templates
-
+# https://gist.github.com/nicolashery/5756478
 module Jekyll
   class EnvironmentVariables < Generator
     def generate(site)
@@ -14,7 +15,8 @@ module Jekyll
   end
 end
 
+# Startup scripts when exec `jekyll [serve|build]`
 Jekyll::Hooks.register :site, :after_init do |page|
-  # Auto-exec Compact GeoJson upon build/serve
-  system "bundle exec rake compact_geojson"
+  # Build pages with GeoJSON compcation
+  system "bundle exec rake build_pages"
 end

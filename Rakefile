@@ -15,10 +15,10 @@ task :upsert_geojson do
   end
 end
 
-desc 'Compact GeoJson to be browser-friendly'
-task :compact_geojson do
+desc 'Build pages with GeoJSON compaction'
+task :build_pages do
   YAML.unsafe_load_file(MAPS_YAML, symbolize_names: true).each do |map|
-    ruby "compact_geojson.rb #{map[:id]}"
+    ruby "build_page.rb #{map[:id]}"
   end
 end
 

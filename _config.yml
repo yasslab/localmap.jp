@@ -22,4 +22,4 @@ exclude:
   - upsert_markers.rb
   - patch_articles.rb
   - patch_articles.txt
-  - compact_geojson.rb
+  - build_page.rb
