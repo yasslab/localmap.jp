@@ -17,11 +17,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport"     content="width=device-width, initial-scale=1.0" />
     <meta name="description"  content="{{ map['area'] }}の出来事を地図で振り返ろう" />
-    {% if map['title'] %}
-    <title>{{ map['title'] }} - {{ map['area'] }}経済新聞</title>
-    {% else %}
-    <title>{{ map['area'] }}マップ - {{ map['area'] }}経済新聞</title>
-    {% endif %}
+    <title>{{ page.title }}</title>
     <script type="text/javascript">
       if (window.location.href== "https://babamap.net/{{ map['id'] }}") {
           window.location.href = "https://localmap.jp/{{ map['id'] }}";
@@ -34,11 +30,7 @@
     <meta property="og:locale"       content="ja_JP">
     <meta property="og:type"         content="website">
     <meta property="og:site_name"    content="{{ map['area'] }}経済新聞">
-    {% if map['title'] %}
-    <meta property="og:title"        content="{{ map['title'] }} - {{ map['area'] }}経済新聞">
-    {% else %}
-    <meta property="og:title"        content="{{ map['area'] }}マップ - {{ map['area'] }}経済新聞">
-    {% endif %}
+    <meta property="og:title"        content="{{ page.title }}">
     <meta property="og:description"  content="{{ map['area'] }}の出来事を地図で振り返ろう">
     <meta property="og:url"          content="https://localmap.jp/{{ map['id'] }}">
     <meta property="og:image"        content="https://localmap.jp/images/cover.png">
@@ -50,7 +42,7 @@
     {% endif %}
     
     <meta name="twitter:image"       content="https://localmap.jp/images/cover.png">
-    <meta name="twitter:title"       content="{{ map['area'] }}経済新聞">
+    <meta name="twitter:title"       content="{{ page.title }}">
     <meta name="twitter:description" content="{{ map['area'] }}の出来事を地図で振り返ろう">
 
     <!-- Icons for iOS, Android, and Windows -->

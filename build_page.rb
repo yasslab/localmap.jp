@@ -27,6 +27,7 @@ File.open("./_posts/2023-02-01-#{TARGET_AREA[:id]}.md", 'w') do |file|
     ---
     layout: map
     permalink: /#{TARGET_AREA[:id]}
+    title: #{TARGET_AREA[:title] || TARGET_AREA[:area]}マップ - #{TARGET_AREA[:area]}経済新聞
     ---
   MARKDOWN
 
