@@ -1,6 +1,7 @@
 _site
 sample.html
 .envrc
+/.jekyll-cache/*
 /.bundle/*
 /vendor/*
 ./patch_articles.txt
