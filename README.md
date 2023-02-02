@@ -36,12 +36,18 @@ Other files, like [🎨 Design](#-design) and [🗺  Map](#-map) data, follow th
 - [Geolonia](https://geolonia.com/)
 - [OpenStreetMap](https://www.openstreetmap.org/).
 
-## &copy; Copyright
+<br>
 
-- 📰 Articles/Images: Each information provider.
-- 🛠 Source Codes: [@YassLab](https://github.com/yasslab) Inc.
+## 📰 Articles
 
-[📍 LocalMap.jp](https://localmap.jp) is run by [高田馬場経済新聞](https://takadanobaba.keizai.biz/).
+Articles and eye-catch images are owned by [each information provider](https://localmap.jp/#area).
+
+<br>
+
+## 📍 Organized by
+
+- 運営: [高田馬場経済新聞](https://takadanobaba.keizai.biz/)
+- 開発協力: [@YassLab](https://github.com/yasslab) Inc.
 
 <a href='https://takadanobaba.keizai.biz/'>
   <img alt='高田馬場経済新聞' src='https://github.com/yasslab/localmap.jp/blob/main/images/babakei.jpg?raw=true' width='100%'>

@@ -80,7 +80,7 @@
   </head>
 
   <body class="d-flex flex-column h-entry" id="body">
-    <div class="localmap-bg-landingpage">
+    <div id='top' class="localmap-bg-landingpage">
       <header class="d-flex align-items-center splash-localmap-image" style="background-image: linear-gradient(rgba(0, 0, 0, 0.000), rgba(0, 0, 0, 0.000)), url(/images/catch.png)">
 	<div class="container-lg">
 	  <h1 class="p-name" style='margin-left: -20px;'>
@@ -99,8 +99,10 @@
 	  <article id="maincontent" class="col-lg-8 mt-3">
 	    <div class="text-center">
 	      <div class="text-center my-4 py-5 px-3">
-		<p><i class="fas fa-map-pin fa-3x"></i></p>
-		<h2 class="font-weight-bold py-3">LocalMap.jp とは</h2>
+		<p>
+		  <a href='#id'><i class="fas fa-map-pin fa-3x"></i></a>
+		</p>
+		<h2 id='is' class="font-weight-bold py-3">LocalMap.jp とは</h2>
 		<p class="lead font-weight-light py-2">
 		  <a href='https://minkei.net/'>みんなの経済新聞ネットワーク</a>の各地域で配信されたニュース記事をプロットした地図です。
 		</p>
@@ -114,8 +116,10 @@
 	      </div>
 
 	      <div class="text-center my-4 py-5 px-3">
-		<p><i class="fas fa-map-location-dot fa-3x"></i></p>
-		<h2 class="font-weight-light py-3">対応地域</h2>
+		<p>
+		  <a href='#area'><i class="fas fa-map-location-dot fa-3x"></i></a>
+		</p>
+		<h2 id='area' class="font-weight-light py-3">対応地域</h2>
 		<p class="lead font-weight-light py-2">LocalMap.jp は以下の地域に現在対応しています。</p>
 		{% for map in site.data.maps %}
 		  {% unless map['draft'] %}
@@ -126,8 +130,10 @@
 	      </div>
 
 	      <div class="text-center my-4 py-5 px-3">
-		<p><i class="fas fa-message-smile fa-3x"></i></p>
-		<h2 class="font-weight-light py-3">利用者の声</h2>
+		<p>
+		  <a href='#benefit'><i class="fas fa-message-smile fa-3x"></i></a>
+		</p>
+		<h2 id='benefit' class="font-weight-light py-3">利用者の声</h2>
 		<p class="lead font-weight-light py-2">
 		  地図掲載メディアおよび利用者から、現在以下のような用途で役立っているという声が届いております。
 		  <ul class='text-left'>
@@ -139,8 +145,10 @@
 	      </div>
 
 	      <div class="text-center my-4 py-5 px-3">
-		<p><i class="fas fa-file-pen fa-3x"></i></p>
-		<h2 class="font-weight-light py-3">地図作成について</h2>
+		<p>
+		  <a href='#howto'><i class="fas fa-file-pen fa-3x"></i></a>
+		</p>
+		<h2 id='howto' class="font-weight-light py-3">地図作成について</h2>
 		<p class="lead font-weight-light py-2">
 		  <a href='https://minkei.net/list.html'>みんなの経済新聞ネットワーク</a>内のメディアであれば地図を作成できます。詳細は<a href='https://takadanobaba.keizai.biz/contact/contact.html'>高田馬場経済新聞までお問い合わせ</a>ください。
 		</p>
