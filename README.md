@@ -1,6 +1,6 @@
 [![Build & Test](https://github.com/yasslab/localmap.jp/actions/workflows/test.yml/badge.svg)](https://github.com/yasslab/localmap.jp/actions/workflows/test.yml) [![Scheduler (Daily)](https://github.com/yasslab/localmap.jp/actions/workflows/scheduler_daily.yml/badge.svg)](https://github.com/yasslab/localmap.jp/actions/workflows/scheduler_daily.yml)
 
-<img alt='LocalMap.jp - 地図で振り返る、地域の出来事' src='https://github.com/yasslab/localmap.jp/blob/main/images/cover.jpg?raw=true' width='100%'>
+<img alt='LocalMap.jp - 地図で振り返る、地域の出来事' src='https://github.com/yasslab/localmap.jp/blob/main/images/catch.jpg?raw=true' width='100%'>
 
 [📍 LocalMap.jp](https://localmap.jp) shows what happened in your local areas, like [Takadanobaba](https://en.wikipedia.org/wiki/Takadanobaba) and [Ōmiya](https://en.wikipedia.org/wiki/%C5%8Cmiya-ku,_Saitama), by using [Geolonia Maps](https://geolonia.com/maps/) service.
 
