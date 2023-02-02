@@ -14,11 +14,11 @@ https://user-images.githubusercontent.com/155807/216297592-119bf7b5-6a09-4460-b0
 
 <br>
 
-## 💎 Source Code
+## 💎 Code
 
-Source codes written in Ruby (ending with `*.rb` and `Gemfile[.lock]`) and [index.html](https://github.com/yasslab/localmap.jp/blob/main/index.html), developed by [@YassLab](https://github.com/yasslab) team, are published under [The MIT License](https://github.com/yasslab/localmap.jp/blob/main/LICENSE.md).
+Source codes written in [Ruby](https://www.ruby-lang.org/) (ending with `*.rb` and `Gemfile[.lock]`) and [index.html](https://github.com/yasslab/localmap.jp/blob/main/index.html), developed by [@YassLab](https://github.com/yasslab) team, are published under [The MIT License](https://github.com/yasslab/localmap.jp/blob/main/LICENSE.md).
 
-Other files, like images and YAML/Geojson data, are owned by the following copyright holders.
+Other files, like [🎨 Design](#-design) and [🗺  Map](#-map) data, follow the copyrights below.
 
 <br>
 
@@ -30,10 +30,15 @@ Other files, like images and YAML/Geojson data, are owned by the following copyr
 
 <br>
 
+## 🗺 Map
+
+- [GSI Japan](https://www.gsi.go.jp/)
+- [Geolonia](https://geolonia.com/)
+- [OpenStreetMap](https://www.openstreetmap.org/).
+
 ## &copy; Copyright
 
 - 📰 Articles/Images: Each information provider.
-- 🗺 Map Data: [GSI Japan](https://www.gsi.go.jp/) & [Geolonia](https://geolonia.com/) & [OpenStreetMap](https://www.openstreetmap.org/).
 - 🛠 Source Codes: [@YassLab](https://github.com/yasslab) Inc.
 
 [📍 LocalMap.jp](https://localmap.jp) is run by [高田馬場経済新聞](https://takadanobaba.keizai.biz/).
