@@ -22,7 +22,10 @@ end
 TARGET_AREA = ALLOWED_AREAS.select{|area| area[:id] == GIVEN_AREA }.first
 
 # Build page and post it to '_posts/' directory
-File.open("./_posts/2023-02-01-#{TARGET_AREA[:id]}.md", 'w') do |file|
+TARGET_FILE = TARGET_AREA[:draft] ?
+                "./#{TARGET_AREA[:id]}.md" : # To exclude from /feed.xml
+                "./_posts/2023-02-01-#{TARGET_AREA[:id]}.md"
+File.open(TARGET_FILE, 'w') do |file|
   target_page  = "---\n"
   target_page += <<~MARKDOWN
     layout:    map
@@ -43,3 +46,5 @@ geojson = JSON.load(File.read "_data/#{TARGET_AREA[:id]}.geojson")
 File.open("./public/#{TARGET_AREA[:id]}.min.geojson", 'w') do |file|
   JSON.dump(geojson, file)
 end
+
+puts "Generated: #{TARGET_FILE} #{'[DRAFT]' if TARGET_AREA[:draft]}"
