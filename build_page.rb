@@ -25,9 +25,12 @@ TARGET_AREA = ALLOWED_AREAS.select{|area| area[:id] == GIVEN_AREA }.first
 File.open("./_posts/2023-02-01-#{TARGET_AREA[:id]}.md", 'w') do |file|
   TARGET_PAGE = <<~MARKDOWN
     ---
-    layout: map
+    layout:    map
     permalink: /#{TARGET_AREA[:id]}
-    title: #{TARGET_AREA[:title] || TARGET_AREA[:area]}マップ - #{TARGET_AREA[:area]}経済新聞
+    title:     #{TARGET_AREA[:title] || TARGET_AREA[:area]}マップ - #{TARGET_AREA[:area]}経済新聞
+    image:     #{TARGET_AREA[:logo]}
+    author:    #{TARGET_AREA[:area]}経済新聞
+    description: みんなの経済新聞ネットワークの#{TARGET_AREA[:area]}地域で配信されたニュース記事をプロットした地図です。
     ---
   MARKDOWN
 
