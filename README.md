@@ -2,7 +2,9 @@
 
 [<img alt='LocalMap.jp - 地図で振り返る、地域の出来事' src='https://github.com/yasslab/localmap.jp/blob/main/images/catch.jpg?raw=true' width='100%'>](https://localmap.jp)
 
-[📍 LocalMap.jp](https://localmap.jp) shows what happened in your local areas, like [Takadanobaba](https://en.wikipedia.org/wiki/Takadanobaba) and [Ōmiya](https://en.wikipedia.org/wiki/%C5%8Cmiya-ku,_Saitama), by using [Geolonia Maps](https://geolonia.com/maps/) service.
+[📍 LocalMap.jp](https://localmap.jp) とは、みんなの経済新聞ネットワークの各地域で配信されたニュース記事をプロットした地図です。
+
+地図上のアイコンをクリックすると、その場所で起こった出来事の記事が読めます。
 
 Source codes written in Ruby (ending with `*.rb` and `Gemfile[.lock]`) and [index.html](https://github.com/yasslab/localmap.jp/blob/main/index.html), developed by [@YassLab](https://github.com/yasslab) team, are published under [The MIT License](https://github.com/yasslab/localmap.jp/blob/main/LICENSE.md).
 
