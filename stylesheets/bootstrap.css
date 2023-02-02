@@ -2438,9 +2438,9 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
 .btn-primary:hover,
 #ch-cusdis button.bg-gray-200:hover,
 #welcomments__container .welcomments__submit-button:hover {
-  color:            #e4e4e5;
-  //background-color: #121418;
-  border-color:     #d4d4d5; //#0c0e11;
+  color:            #f4f4f5;
+  //background-color: #315B9B;
+  border-color:     #E2CA5D; //#0c0e11;
 }
 .btn-primary:focus,
 #ch-cusdis button.bg-gray-200:focus,
@@ -2449,8 +2449,8 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
 #ch-cusdis button.focus.bg-gray-200,
 #welcomments__container .focus.welcomments__submit-button {
   color:            #f4f4f5;
-  //background-color: #121418;
-  border-color:     #d4d4d5; //#0c0e11;
+  //background-color: #315B9B;
+  border-color:     #E2CA5D; //#0c0e11;
   //box-shadow: 0 0 0 0.2rem rgba(66, 70, 76, 0.5);
 }
 .btn-primary.disabled,
@@ -2462,7 +2462,7 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
   color:            #f4f4f5;
   //background-color: #22272e;
   //border-color: #22272e;
-  border-color:     #d4d4d5; //#0c0e11;
+  //border-color:     #d4d4d5; //#0c0e11;
 }
 .btn-primary:not(:disabled):not(.disabled):active,
 #ch-cusdis button.bg-gray-200:not(:disabled):not(.disabled):active,
@@ -2478,7 +2478,7 @@ fieldset:disabled #welcomments__container a.welcomments__submit-button,
   color:            #f4f4f5;
   //background-color: #0c0e11;
   //border-color: #070809;
-  border-color:     #d4d4d5; //#0c0e11;
+  //border-color:     #d4d4d5; //#0c0e11;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus,
 #ch-cusdis button.bg-gray-200:not(:disabled):not(.disabled):active:focus,
