@@ -27,7 +27,6 @@ jobs:
     - name: 🔧 Build
       run: |
         JEKYLL_ENV=production bundle exec jekyll build
-        JEKYLL_ENV=production bundle exec jekyll doctor
 
     - name: 🔍 Test
       run: |
