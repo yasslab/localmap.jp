@@ -7,7 +7,7 @@
 
 地図上のアイコンをクリックすると、その場所で起こった出来事の記事が読めます。
 
-<img alt='Demo' src='https://github.com/yasslab/localmap.jp/blob/main/images/ddemo.png?raw=true' width='100%'>
+<img alt='Demo' src='https://github.com/yasslab/localmap.jp/blob/main/images/demo.gif?raw=true' width='100%'>
 
 <!--
 https://user-images.githubusercontent.com/155807/216297592-119bf7b5-6a09-4460-b026-954a7a249ce4.mp4
