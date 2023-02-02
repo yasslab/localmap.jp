@@ -1,7 +1,7 @@
 ---
 ---
 
-{% assign id  = page.path | split: '-' | last | remove: '.md' %}
+{% assign id  = page.id | remove: '/' %}
 {% assign map = site.data.maps | where: 'id', id | first %}
 
 {% unless site.env.JEKYLL_ENV == 'production' %}
