@@ -1,12 +1,12 @@
 ---
 ---
 
-{% assign id  = page.path | remove: '.html' %}
+{% assign id  = page.path | split: '-' | last | remove: '.md' %}
 {% assign map = site.data.maps | where: 'id', id | first %}
 
 {% unless site.env.JEKYLL_ENV == 'production' %}
 <b>[DEBUG INFO] (Development Mode Only)</b><br>
-<b>ID:</b>  {{ id }}<br>
+<b>ID:</b>  {{ id }} <small>(</small><code>{{ page.path }}</code><small>)</small><br>
 <b>Map:</b> {{ map }}
 {% endunless %}
 
