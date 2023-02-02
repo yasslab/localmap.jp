@@ -35,7 +35,7 @@ Other files, like [🎨 Design](#-design) and [🗺  Map](#-map) data, follow th
 
 - [GSI Japan](https://www.gsi.go.jp/)
 - [Geolonia](https://geolonia.com/)
-- [OpenStreetMap](https://www.openstreetmap.org/).
+- [OpenStreetMap](https://www.openstreetmap.org/)
 
 <br>
 
