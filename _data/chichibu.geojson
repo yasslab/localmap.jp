@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.1121301,
+          36.0953817
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/415/'>\n  <img src='https://images.keizai.biz/chichibu_keizai/headline/1675260627_photo.jpg' alt='長瀞町観光協会がロゴデザイン公募　アウトドアをイメージして呼びかけ'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/415/'>長瀞町観光協会がロゴデザイン公募　アウトドアをイメージして呼びかけ</a>\n<small>(2023.02.02)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.0983701,
           36.0704607
         ]

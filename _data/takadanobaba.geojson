@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7036822,
+          35.7108622
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://takadanobaba.keizai.biz/headline/1030/'>\n  <img src='https://images.keizai.biz/takadanobaba_keizai/headline/1675236287_photo.jpg' alt='高田馬場創業支援センターが創業セミナー　創業融資、雇用、商標をテーマに'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://takadanobaba.keizai.biz/headline/1030/'>高田馬場創業支援センターが創業セミナー　創業融資、雇用、商標をテーマに</a>\n<small>(2023.02.01)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7202198,
           35.7101412
         ]
