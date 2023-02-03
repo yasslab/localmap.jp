@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.0854619,
+          35.9917644
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/416/'>\n  <img src='https://images.keizai.biz/chichibu_keizai/headline/1675352319_photo.jpg' alt='動画クリエイター｢プリッとChannel｣、地元・秩父で凱旋ライブ'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/416/'>動画クリエイター｢プリッとChannel｣、地元・秩父で凱旋ライブ</a>\n<small>(2023.02.03)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.1121301,
           36.0953817
         ]
