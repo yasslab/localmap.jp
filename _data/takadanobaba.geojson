@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7210379,
+          35.7004152
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://takadanobaba.keizai.biz/headline/1032/'>\n  <img src='https://images.keizai.biz/takadanobaba_keizai/headline/1675413006_photo.jpg' alt='イタリアンバル「コリーナ・ピッコラ」リニューアル　「おひとりさま」も気軽に'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://takadanobaba.keizai.biz/headline/1032/'>イタリアンバル「コリーナ・ピッコラ」リニューアル　「おひとりさま」も気軽に</a>\n<small>(2023.02.03)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7038052,
           35.712548
         ]
