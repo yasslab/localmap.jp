@@ -52,7 +52,7 @@ Articles and eye-catch images are owned by [each information provider](https://l
 ## 📍 Organized by
 
 - 運営: [高田馬場経済新聞](https://takadanobaba.keizai.biz/)
-- 開発協力: [@YassLab](https://github.com/yasslab) Inc.
+- 開発: [@YassLab](https://github.com/yasslab) Inc.
 
 <a href='https://takadanobaba.keizai.biz/'>
   <img alt='高田馬場経済新聞' src='https://github.com/yasslab/localmap.jp/blob/main/images/babakei.jpg?raw=true' width='100%'>
