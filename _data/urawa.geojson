@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6379664,
+          35.87467669999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://urawa.keizai.biz/headline/797/'>\n  <img src='https://images.keizai.biz/urawa_keizai/headline/1675499304_photo.jpg' alt='北浦和に洋菓子店「トゥデイズ　スイーツ」　季節のフルーツケーキや焼き菓子も'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://urawa.keizai.biz/headline/797/'>北浦和に洋菓子店「トゥデイズ　スイーツ」　季節のフルーツケーキや焼き菓子も</a>\n<small>(2023.02.04)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6472101,
           35.8544489
         ]
