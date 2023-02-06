@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.9845839,
+          35.6965048
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://funabashi.keizai.biz/headline/3163/'>\n  <img src='https://images.keizai.biz/funabashi_keizai/headline/1675569411_photo.jpg' alt='船橋市民文化ホールでニューイヤー・ガラコンサート　船橋ゆかりのソリストら集結'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://funabashi.keizai.biz/headline/3163/'>船橋市民文化ホールでニューイヤー・ガラコンサート　船橋ゆかりのソリストら集結</a>\n<small>(2023.02.04)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.0793738,
           35.7855041
         ]

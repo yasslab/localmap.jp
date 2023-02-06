@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.9699515,
+          34.6978923
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/64/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1675634820_photo.jpg' alt='東京の若きバー経営者が下田に蒸留所　地元食材を活用した独自リキュールも'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/64/'>東京の若きバー経営者が下田に蒸留所　地元食材を活用した独自リキュールも</a>\n<small>(2023.02.06)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.9431272,
           34.6738244
         ]
