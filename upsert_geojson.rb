@@ -31,10 +31,19 @@ unless File.exist? MARKERS_YAML
   exit(1)
 end
 
-marker_data  = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
+marker_data = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
 features    = []
+description = ''
 marker_data.each do |marker|
   next if marker[:title].chomp.eql? '404_Not_Found'
+
+  description = <<~DESCRIPTION
+    <a target='_blank' rel='noopener' href='#{marker[:link]}'>
+      <img src='#{marker[:image]}' alt='#{marker[:title]}' width='100%' loading='lazy' />
+    </a>
+    <a target='_blank' rel='noopener' href='#{marker[:link]}'>#{marker[:title]}</a>
+    <small>(#{marker[:date]})</small>
+    DESCRIPTION
 
   features << {
     type: "Feature",
@@ -51,13 +60,7 @@ marker_data.each do |marker|
       'marker-symbol' => 'minkei',
       #'marker-color'  => 'rgba(45, 105, 176, 0.7)', # Minkei Blue
       'marker-color' => 'rgba(237, 208, 70, 0.8)',   # Minkei Yellow
-      description: <<~DESCRIPTION
-        <a target='_blank' rel='noopener' href='#{marker[:link]}'>
-          <img src='#{marker[:image]}' alt='#{marker[:title]}' width='100%' loading='lazy' />
-        </a>
-        <a target='_blank' rel='noopener' href='#{marker[:link]}'>#{marker[:title]}</a>
-        <small>(#{marker[:date]})</small>
-      DESCRIPTION
+      description: description.gsub("\n  ", '').gsub("\n", ''),
     }
   }
 end
