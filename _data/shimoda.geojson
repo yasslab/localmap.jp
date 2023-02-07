@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.9959815,
+          34.7484784
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/65/'>\n  <img src='https://images.keizai.biz/shimoda_keizai/headline/1675722860_photo.jpg' alt='3年ぶりに行動制限のない「河津桜まつり」　見頃は2月下旬ごろ'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/65/'>3年ぶりに行動制限のない「河津桜まつり」　見頃は2月下旬ごろ</a>\n<small>(2023.02.07)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.9699515,
           34.6978923
         ]

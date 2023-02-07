@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.4899961,
+          37.8021481
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://fukushima.keizai.biz/headline/763/'>\n  <img src='https://images.keizai.biz/fukushima_keizai/headline/1675659790_photo.jpg' alt='福島・瀬上町の居酒屋「ちゃりちゃり」が22周年　記念で寒ブリ解体ショーも'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://fukushima.keizai.biz/headline/763/'>福島・瀬上町の居酒屋「ちゃりちゃり」が22周年　記念で寒ブリ解体ショーも</a>\n<small>(2023.02.06)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.4337633,
           37.5898512
         ]

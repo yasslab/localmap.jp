@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6304396,
+          35.9078994
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1695/'>\n  <img src='https://images.keizai.biz/omiya_keizai/headline/1675649417_photo.jpg' alt='大宮のシェアキッチンで一日限定コラボカフェ　2店のカレーを一皿に'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1695/'>大宮のシェアキッチンで一日限定コラボカフェ　2店のカレーを一皿に</a>\n<small>(2023.02.06)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.624792,
           35.90792950000001
         ]

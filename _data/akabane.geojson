@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7353551,
+          35.7596079
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://akabane.keizai.biz/headline/499/'>\n  <img src='https://images.keizai.biz/akabane_keizai/headline/1675654963_photo.jpg' alt='王子に地域コミュニティースペース「ごはんねこまる」　保護猫シェルターも併設'\n       width='100%' loading='lazy' />\n</a>\n<a target='_blank' rel='noopener' href='https://akabane.keizai.biz/headline/499/'>王子に地域コミュニティースペース「ごはんねこまる」　保護猫シェルターも併設</a>\n<small>(2023.02.06)</small>\n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7209868,
           35.777615
         ]
