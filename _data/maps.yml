@@ -60,3 +60,10 @@
   lng:  140.4592361
   logo: /images/fukushima.png
   zoom: 12
+- area: 佐賀
+  pref: 佐賀
+  id:   saga
+  lat:  33.2653394
+  lng:  130.2897441
+  logo: /images/saga.png
+  zoom: 12
