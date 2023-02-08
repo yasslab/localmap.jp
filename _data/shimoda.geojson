@@ -6,6 +6,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.944216,
+          34.6673087
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/67/'><img src='https://images.keizai.biz/shimoda_keizai/headline/1675810387_photo.jpg' alt='自転車旅の立ち寄りスポット「クランクカフェ下田」　修善寺から進出' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/67/'>自転車旅の立ち寄りスポット「クランクカフェ下田」　修善寺から進出</a><small>(2023.02.08)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.9464012,
+          34.6806689
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/66/'><img src='https://images.keizai.biz/shimoda_keizai/headline/1675734251_photo.jpg' alt='東京で55年の老舗「とんかつ むら中」が下田に移転、夜はしゃぶしゃぶも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/66/'>東京で55年の老舗「とんかつ むら中」が下田に移転、夜はしゃぶしゃぶも</a><small>(2023.02.07)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.9959815,
           34.7484784
         ]

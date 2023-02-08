@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          130.2979035,
+          33.2631964
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://saga.keizai.biz/headline/1542/'><img src='https://images.keizai.biz/saga_keizai/headline/1675756146_photo.jpg' alt='クランチが「落ちない」ブラックモンブラン　佐賀のレストランで合格祈願兼ね提供' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://saga.keizai.biz/headline/1542/'>クランチが「落ちない」ブラックモンブラン　佐賀のレストランで合格祈願兼ね提供</a><small>(2023.02.07)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           130.3010743,
           33.2584987
         ]

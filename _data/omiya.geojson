@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6250169,
+          35.9059712
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1696/'><img src='https://images.keizai.biz/omiya_keizai/headline/1675759501_photo.jpg' alt='ルミネ大宮で「サウナマルシェ」' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1696/'>ルミネ大宮で「サウナマルシェ」</a><small>(2023.02.07)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6304396,
           35.9078994
         ]

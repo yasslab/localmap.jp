@@ -1,4 +1,20 @@
 ---
+- :id: 765
+  :src: https://fukushima.keizai.biz/mapnews/765
+  :lat: 37.757666
+  :lng: 140.470908
+  :link: https://fukushima.keizai.biz/headline/765/
+  :date: 2023.02.08
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1675808386_photo.jpg
+  :title: 福島で「電子図書館」始まる 24時間利用可能、 音声読みサービスも
+- :id: 764
+  :src: https://fukushima.keizai.biz/mapnews/764
+  :lat: 37.7557488
+  :lng: 140.4672817
+  :link: https://fukushima.keizai.biz/headline/764/
+  :date: 2023.02.07
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1675755121_photo.jpg
+  :title: 新町にカフェ＆バー「あ・れすと」　ペット同伴可、夜まで営業
 - :id: 763
   :src: https://fukushima.keizai.biz/mapnews/763
   :lat: 37.8021481

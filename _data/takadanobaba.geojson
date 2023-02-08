@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.7037221,
+          35.71360180000001
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://takadanobaba.keizai.biz/headline/1033/'><img src='https://images.keizai.biz/takadanobaba_keizai/headline/1675738752_photo.jpg' alt='高田馬場駅前の「ブック・テイスト」が閉店　「モヤさま」に抱き枕を売る書店で登場' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://takadanobaba.keizai.biz/headline/1033/'>高田馬場駅前の「ブック・テイスト」が閉店　「モヤさま」に抱き枕を売る書店で登場</a><small>(2023.02.07)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.7210379,
           35.7004152
         ]
