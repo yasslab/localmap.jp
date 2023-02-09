@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.628556,
+          35.8840657
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://urawa.keizai.biz/headline/799/'><img src='https://images.keizai.biz/urawa_keizai/headline/1675867171_photo.jpg' alt='中小企業向け福利厚生サービス「ワークジョイさいたま」が25年目' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://urawa.keizai.biz/headline/799/'>中小企業向け福利厚生サービス「ワークジョイさいたま」が25年目</a><small>(2023.02.08)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.655874,
           35.8583566
         ]

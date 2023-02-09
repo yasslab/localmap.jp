@@ -6,6 +6,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.0846341,
+          35.9975977
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/421/'><img src='https://images.keizai.biz/chichibu_keizai/headline/1675864899_photo.jpg' alt='秩父でナイトウオークイベント「夜さんぽ」　プロジェクションマッピングも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/421/'>秩父でナイトウオークイベント「夜さんぽ」　プロジェクションマッピングも</a><small>(2023.02.09)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2196199,
+          36.1156686
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/420/'><img src='https://images.keizai.biz/chichibu_keizai/headline/1675820088_photo.jpg' alt='寄居・川の博物館で冬期企画展「土ウォッチング」　縁の下の力持ちを知ろう' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://chichibu.keizai.biz/headline/420/'>寄居・川の博物館で冬期企画展「土ウォッチング」　縁の下の力持ちを知ろう</a><small>(2023.02.08)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.0829852,
           35.9962214
         ]

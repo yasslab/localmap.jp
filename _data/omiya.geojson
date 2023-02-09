@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6318202,
+          35.9189126
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1697/'><img src='https://images.keizai.biz/omiya_keizai/headline/1675835841_photo.jpg' alt='大宮公園舟遊池で「池底ウオーク」　池の自然やかい掘りの取り組み学ぶ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1697/'>大宮公園舟遊池で「池底ウオーク」　池の自然やかい掘りの取り組み学ぶ</a><small>(2023.02.08)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6250169,
           35.9059712
         ]
