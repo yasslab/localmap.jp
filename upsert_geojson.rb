@@ -46,7 +46,7 @@ marker_data.each do |marker|
       <img src='#{marker[:image]}' alt='#{marker[:title]}' width='100%' loading='lazy' />
     </a>
     <a target='_blank' rel='noopener' href='#{marker[:link]}'>#{marker[:title]}</a>
-    <small>(#{marker[:date]})</small>
+    <small>（#{marker[:date]}）</small>
     DESCRIPTION
 
   # Prototype: https://github.com/yasslab/localmap.jp/pull/11
