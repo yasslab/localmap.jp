@@ -32,6 +32,8 @@ unless File.exist? MARKERS_YAML
 end
 
 marker_data = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
+dups_coords = marker_data.map{|m| [m[:lng], m[:lat]] }.tally.select{|k,v| v > 1}
+
 features    = []
 description = ''
 marker_data.each do |marker|
@@ -45,6 +47,10 @@ marker_data.each do |marker|
     <small>(#{marker[:date]})</small>
     DESCRIPTION
 
+  if not dups_coords[[marker[:lng], marker[:lat]]].nil?
+    marker[:lng] = (marker[:lng].floor(4).to_s + rand(100).to_s).to_f
+    marker[:lat] = (marker[:lat].floor(4).to_s + rand(100).to_s).to_f
+  end
   features << {
     type: "Feature",
     geometry: {
