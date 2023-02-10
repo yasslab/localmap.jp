@@ -4,11 +4,11 @@
 {% assign id  = page.id | remove: '/' %}
 {% assign map = site.data.maps | where: 'id', id | first %}
 
-{% unless site.env.JEKYLL_ENV == 'production' %}
+{% if site.env.DEBUG_MODE == 'true' %}
 <b>[DEBUG INFO] (Development Mode Only)</b><br>
 <b>ID:</b>  {{ id }} <small>(</small><code>{{ page.path }}</code><small>)</small><br>
 <b>Map:</b> {{ map }}
-{% endunless %}
+{% endif %}
 
 <!DOCTYPE html>
 <html lang="ja">
