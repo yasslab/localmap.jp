@@ -34,6 +34,10 @@ end
 marker_data = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
 features    = []
 description = ''
+
+# Prototype: https://github.com/yasslab/localmap.jp/pull/11
+#dups_coords = marker_data.map{|m| [m[:lng], m[:lat]] }.tally.select{|k,v| v > 1}
+
 marker_data.each do |marker|
   next if marker[:title].chomp.eql? '404_Not_Found'
 
@@ -44,6 +48,12 @@ marker_data.each do |marker|
     <a target='_blank' rel='noopener' href='#{marker[:link]}'>#{marker[:title]}</a>
     <small>(#{marker[:date]})</small>
     DESCRIPTION
+
+  # Prototype: https://github.com/yasslab/localmap.jp/pull/11
+  #if not dups_coords[[marker[:lng], marker[:lat]]].nil?
+  #  marker[:lng] = (marker[:lng].floor(4).to_s + rand(100).to_s).to_f
+  #  marker[:lat] = (marker[:lat].floor(4).to_s + rand(100).to_s).to_f
+  #end
 
   features << {
     type: "Feature",
