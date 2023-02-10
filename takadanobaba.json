@@ -1,18 +1,21 @@
 ---
 ---
 
+{% assign markers = site.data.takadanobaba | where_exp: "marker", "marker[':title'] != '404_Not_Found'" %}
+
 [
-  {% for item in site.data.takadanobaba %}
+  {% for marker in markers %}
     {
-      "id":    "{{ item[':id'] }}",
-      "src":   "{{ item[':src'] }}",
-      "lat":   "{{ item[':lat'] }}",
-      "lng":   "{{ item[':lng'] }}",
-      "link":  "{{ item[':link'] }}",
-      "date":  "{{ item[':date'] }}",
-      "image": "{{ item[':image'] }}",
-      "title": {{ item[':title'] | jsonify }}
+      "id":    "{{ marker[':id'] }}",
+      "src":   "{{ marker[':src'] }}",
+      "lat":   "{{ marker[':lat'] }}",
+      "lng":   "{{ marker[':lng'] }}",
+      "link":  "{{ marker[':link'] }}",
+      "date":  "{{ marker[':date'] }}",
+      "image": "{{ marker[':image'] }}",
+      "title": {{ marker[':title'] | jsonify }}
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
+
