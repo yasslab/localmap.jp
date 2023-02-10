@@ -1,0 +1,3109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0271941,
+          35.6816407
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/202/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675998532_photo.jpg' alt='習志野でバラの楽しみ方講座　谷津バラ園ガイドが講師に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/202/'>習志野でバラの楽しみ方講座　谷津バラ園ガイドが講師に</a><small>（2023.02.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9877125,
+          35.6545873
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/201/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675908726_photo.jpg' alt='「関東の富士見百景」茜浜緑道からダイヤモンド富士' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/201/'>「関東の富士見百景」茜浜緑道からダイヤモンド富士</a><small>（2023.02.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0487006,
+          35.6864191
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/200/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675823959_photo.jpg' alt='大久保「かをり本丸」が5周年　鹿・イノシシ・キョンなどのジビエ料理提供' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/200/'>大久保「かをり本丸」が5周年　鹿・イノシシ・キョンなどのジビエ料理提供</a><small>（2023.02.08）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0683839,
+          35.6868996
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/199/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675748872_photo.jpg' alt='実籾駅前でバレンタインをテーマに「みもみマルシェ」　飲食スペースも拡充' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/199/'>実籾駅前でバレンタインをテーマに「みもみマルシェ」　飲食スペースも拡充</a><small>（2023.02.07）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.015881,
+          35.6674677
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/198/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675647855_photo.jpg' alt='新習志野公民館で「パレットコンサート」　和楽器による演奏披露' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/198/'>新習志野公民館で「パレットコンサート」　和楽器による演奏披露</a><small>（2023.02.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.06824,
+          35.686858
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/197/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675561233_photo.jpg' alt='自転車移動型つぼ焼き芋専門店「いも食うっぺ」　実籾駅前で営業始める' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/197/'>自転車移動型つぼ焼き芋専門店「いも食うっぺ」　実籾駅前で営業始める</a><small>（2023.02.05）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0117076,
+          35.6593115
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/196/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675416849_photo.jpg' alt='習志野市海浜公園にカワウの大群　冬鳥も飛来' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/196/'>習志野市海浜公園にカワウの大群　冬鳥も飛来</a><small>（2023.02.04）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04547,
+          35.6837318
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/195/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675412512_photo.jpg' alt='習志野でパラグアイのハープ「アルパ」の演奏イベント　参加者との交流も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/195/'>習志野でパラグアイのハープ「アルパ」の演奏イベント　参加者との交流も</a><small>（2023.02.03）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0689955,
+          35.6902518
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/194/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675134071_photo.jpg' alt='実籾の英会話スクール併設カフェが3周年　ウェルビーイング体験イベントも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/194/'>実籾の英会話スクール併設カフェが3周年　ウェルビーイング体験イベントも</a><small>（2023.01.31）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0713435,
+          35.6944021
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/193/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675128387_photo.jpg' alt='東習志野の中華料理店で子ども食堂　地域で世代交流も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/193/'>東習志野の中華料理店で子ども食堂　地域で世代交流も</a><small>（2023.01.31）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0182841,
+          35.6750132
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/192/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675048244_photo.jpg' alt='習志野の袖ヶ浦西近隣公園　ロウバイなど季節の花が咲き始める' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/192/'>習志野の袖ヶ浦西近隣公園　ロウバイなど季節の花が咲き始める</a><small>（2023.01.30）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0244402,
+          35.6815757
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/191/'><img src='https://images.keizai.biz/narashino_keizai/headline/1675043077_photo.jpg' alt='津田沼にスパイスカレー専門店「イートゥー」　写経もできる自習室も併設' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/191/'>津田沼にスパイスカレー専門店「イートゥー」　写経もできる自習室も併設</a><small>（2023.01.30）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0053724,
+          35.6754197
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/190/'><img src='https://images.keizai.biz/narashino_keizai/headline/1674787134_photo.jpg' alt='谷津干潟×水元かわせみの里　谷津干潟自然観察センターで交流イベント' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/190/'>谷津干潟×水元かわせみの里　谷津干潟自然観察センターで交流イベント</a><small>（2023.01.27）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0524677,
+          35.6909319
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/189/'><img src='https://images.keizai.biz/narashino_keizai/headline/1674781587_photo.jpg' alt='習志野にもあったロシア兵・ドイツ兵捕虜収容所　講演会で後世に伝える' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/189/'>習志野にもあったロシア兵・ドイツ兵捕虜収容所　講演会で後世に伝える</a><small>（2023.01.28）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0240177,
+          35.683414
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/188/'><img src='https://images.keizai.biz/narashino_keizai/headline/1674702692_photo.jpg' alt='習志野の就労系障がい福祉サービス「ミナアス」が5周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/188/'>習志野の就労系障がい福祉サービス「ミナアス」が5周年</a><small>（2023.01.26）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0271941,
+          35.6816407
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/187/'><img src='https://images.keizai.biz/narashino_keizai/headline/1674697610_photo.jpg' alt='習志野高校男子バレーボール部　「春高バレー」全国3位を市長に報告' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/187/'>習志野高校男子バレーボール部　「春高バレー」全国3位を市長に報告</a><small>（2023.01.26）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0193067,
+          35.6659084
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/186/'><img src='https://images.keizai.biz/narashino_keizai/headline/1674611370_photo.jpg' alt='習志野・香澄に個人宅を改装したレンタルスペース　開設から1周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/186/'>習志野・香澄に個人宅を改装したレンタルスペース　開設から1周年</a><small>（2023.01.25）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0271941,
+          35.6816407
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/185/'><img src='https://images.keizai.biz/narashino_keizai/headline/1674528711_photo.jpg' alt='習志野市役所で「少年の日」啓発ポスター応募全作品展示　青少年健全育成標語展も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/185/'>習志野市役所で「少年の日」啓発ポスター応募全作品展示　青少年健全育成標語展も</a><small>（2023.01.24）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/184/'><img src='https://images.keizai.biz/narashino_keizai/headline/1674439055_photo.png' alt='習志野市在住の映画監督、相馬雄太さん　MBT映画祭で優秀賞受賞' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/184/'>習志野市在住の映画監督、相馬雄太さん　MBT映画祭で優秀賞受賞</a><small>（2023.01.23）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.015881,
+          35.6674677
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/183/'><img src='https://images.keizai.biz/narashino_keizai/headline/1674103790_photo.jpg' alt='新習志野公民館で学生らが「ユースリーダー養成講座」　鬼退治イベント企画' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/183/'>新習志野公民館で学生らが「ユースリーダー養成講座」　鬼退治イベント企画</a><small>（2023.01.19）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9905393,
+          35.6583779
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/182/'><img src='https://images.keizai.biz/narashino_keizai/headline/1673930017_photo.jpg' alt='習志野・茜浜で「ならしのスマイルラン」　今年は3月開催へ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/182/'>習志野・茜浜で「ならしのスマイルラン」　今年は3月開催へ</a><small>（2023.01.17）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0175422,
+          35.6885787
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/181/'><img src='https://images.keizai.biz/narashino_keizai/headline/1673858750_photo.jpg' alt='津田沼にベトナム料理店「フォーゴン」　行徳から移転リニューアル' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/181/'>津田沼にベトナム料理店「フォーゴン」　行徳から移転リニューアル</a><small>（2023.01.16）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0758486,
+          35.69545
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/180/'><img src='https://images.keizai.biz/narashino_keizai/headline/1673570677_photo.jpg' alt='東習志野「スマックコーヒーロースターズ」が3周年　レコード鑑賞や雑貨も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/180/'>東習志野「スマックコーヒーロースターズ」が3周年　レコード鑑賞や雑貨も</a><small>（2023.01.13）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0692965,
+          35.6889864
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/179/'><img src='https://images.keizai.biz/narashino_keizai/headline/1673487947_photo.jpg' alt='メロンラボ実籾店がリニューアル、千葉県初デニッシュラボとのコラボ店に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/179/'>メロンラボ実籾店がリニューアル、千葉県初デニッシュラボとのコラボ店に</a><small>（2023.01.12）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0196305,
+          35.6897127
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/177/'><img src='https://images.keizai.biz/narashino_keizai/headline/1673485142_photo.jpg' alt='習志野市で3年ぶりに新春賀詞交歓会　習志野文化ホールでの最後の開催' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/177/'>習志野市で3年ぶりに新春賀詞交歓会　習志野文化ホールでの最後の開催</a><small>（2023.01.12）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.015881,
+          35.6674677
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/176/'><img src='https://images.keizai.biz/narashino_keizai/headline/1673396655_photo.jpg' alt='新習志野公民館で3年ぶりのかるた大会' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/176/'>新習志野公民館で3年ぶりのかるた大会</a><small>（2023.01.11）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0689152,
+          35.6887093
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/175/'><img src='https://images.keizai.biz/narashino_keizai/headline/1673311387_photo.jpg' alt='実籾コミュニティホールで小学生が書き初め　習字の基本学ぶ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/175/'>実籾コミュニティホールで小学生が書き初め　習字の基本学ぶ</a><small>（2023.01.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0524677,
+          35.6909319
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/174/'><img src='https://images.keizai.biz/narashino_keizai/headline/1672974022_photo.jpg' alt='習志野で企画展「ロシア兵、ドイツ兵の俘虜収容所」　民間との交流も紹介' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/174/'>習志野で企画展「ロシア兵、ドイツ兵の俘虜収容所」　民間との交流も紹介</a><small>（2023.01.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0502747,
+          35.6912938
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/173/'><img src='https://images.keizai.biz/narashino_keizai/headline/1672971104_photo.jpg' alt='京成大久保にラーメン店「戯拉戯拉」　船橋「竈の番人」が移転リニューアル' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/173/'>京成大久保にラーメン店「戯拉戯拉」　船橋「竈の番人」が移転リニューアル</a><small>（2023.01.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0711228,
+          35.6906279
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/172/'><img src='https://images.keizai.biz/narashino_keizai/headline/1672885646_photo.jpg' alt='東習志野コミュニティセンターでトレーニング教室　正月太り防止に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/172/'>東習志野コミュニティセンターでトレーニング教室　正月太り防止に</a><small>（2023.01.05）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0468843,
+          35.6851832
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/171/'><img src='https://images.keizai.biz/narashino_keizai/headline/1672195317_photo.jpg' alt='プラッツ習志野で南米のハープ「アルパ」のイベント　演奏も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/171/'>プラッツ習志野で南米のハープ「アルパ」のイベント　演奏も</a><small>（2022.12.28）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0075816,
+          35.68530880000001
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/170/'><img src='https://images.keizai.biz/narashino_keizai/headline/1672036748_photo.jpg' alt='ローズハート倶楽部、今年も谷津駅前のクリスマスガーデン装飾' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/170/'>ローズハート倶楽部、今年も谷津駅前のクリスマスガーデン装飾</a><small>（2022.12.26）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0492114,
+          35.6886242
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/169/'><img src='https://images.keizai.biz/narashino_keizai/headline/1672023288_photo.jpg' alt='京成大久保の「JINRIKISEN」トライラーメン大賞汁なし部門で優秀賞' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/169/'>京成大久保の「JINRIKISEN」トライラーメン大賞汁なし部門で優秀賞</a><small>（2022.12.26）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0212117,
+          35.6813898
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/168/'><img src='https://images.keizai.biz/narashino_keizai/headline/1671770644_photo.jpg' alt='習志野・菊田公民館に小中学生のためのフリースペース「KITTA」' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/168/'>習志野・菊田公民館に小中学生のためのフリースペース「KITTA」</a><small>（2022.12.23）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0684165,
+          35.6881102
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/167/'><img src='https://images.keizai.biz/narashino_keizai/headline/1671760100_photo.jpg' alt='実籾のラーメン店「伊太そば」が3周年　記念で限定メニューも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/167/'>実籾のラーメン店「伊太そば」が3周年　記念で限定メニューも</a><small>（2022.12.23）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0523398,
+          35.6928891
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/166/'><img src='https://images.keizai.biz/narashino_keizai/headline/1671670868_photo.jpg' alt='日大津田沼キャンパスで学生と社会人が「価値カルタ」交流　成果発表も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/166/'>日大津田沼キャンパスで学生と社会人が「価値カルタ」交流　成果発表も</a><small>（2022.12.22）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0240793,
+          35.6824031
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/165/'><img src='https://images.keizai.biz/narashino_keizai/headline/1671589046_photo.jpg' alt='津田沼「割烹居酒屋 深雪」　常連に支えられ21周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/165/'>津田沼「割烹居酒屋 深雪」　常連に支えられ21周年</a><small>（2022.12.21）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/164/'><img src='https://images.keizai.biz/narashino_keizai/headline/1671505708_photo.jpg' alt='習志野経済新聞・年間PVランキング1位は織戸菜園「ひまわり回廊」' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/164/'>習志野経済新聞・年間PVランキング1位は織戸菜園「ひまわり回廊」</a><small>（2022.12.20）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0271941,
+          35.6816407
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/163/'><img src='https://images.keizai.biz/narashino_keizai/headline/1671503601_photo.jpg' alt='習志野の「ミスター・ジャパン日本代表グランプリ」、市長を表敬訪問' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/163/'>習志野の「ミスター・ジャパン日本代表グランプリ」、市長を表敬訪問</a><small>（2022.12.20）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0498032,
+          35.6895693
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/162/'><img src='https://images.keizai.biz/narashino_keizai/headline/1671416144_photo.jpg' alt='京成大久保にラーメン店「まほろば」　居心地のいい空間に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/162/'>京成大久保にラーメン店「まほろば」　居心地のいい空間に</a><small>（2022.12.19）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0243785,
+          35.6830105
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/161/'><img src='https://images.keizai.biz/narashino_keizai/headline/1671156901_photo.jpg' alt='ベッセルイン京成津田沼駅前でイベント　「習志野ドッグ」冬バージョンも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/161/'>ベッセルイン京成津田沼駅前でイベント　「習志野ドッグ」冬バージョンも</a><small>（2022.12.16）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0130108,
+          35.6819966
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/160/'><img src='https://images.keizai.biz/narashino_keizai/headline/1671067794_photo.jpg' alt='習志野のテイクアウト専門店「スマイルピザ」が1周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/160/'>習志野のテイクアウト専門店「スマイルピザ」が1周年</a><small>（2022.12.15）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0499106,
+          35.6897326
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/159/'><img src='https://images.keizai.biz/narashino_keizai/headline/1670985955_photo.jpg' alt='習志野のすし店「旬菜 わさび」　もらい火乗り越え営業再開' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/159/'>習志野のすし店「旬菜 わさび」　もらい火乗り越え営業再開</a><small>（2022.12.14）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0147953,
+          35.6722249
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/158/'><img src='https://images.keizai.biz/narashino_keizai/headline/1670893258_photo.jpg' alt='習志野「秋津みんな食堂」こども食堂＋地域みんなのくつろぎの場に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/158/'>習志野「秋津みんな食堂」こども食堂＋地域みんなのくつろぎの場に</a><small>（2022.12.13）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0477755,
+          35.6850077
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/157/'><img src='https://images.keizai.biz/narashino_keizai/headline/1670815400_photo.jpg' alt='コーヒー専門店「フィロコフィアプラッツ習志野」が1周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/157/'>コーヒー専門店「フィロコフィアプラッツ習志野」が1周年</a><small>（2022.12.12）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0204072,
+          35.6912149
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/156/'><img src='https://images.keizai.biz/narashino_keizai/headline/1670549219_photo.jpg' alt='JR津田沼駅で歳末助け合い募金活動　子どもたちが呼びかけ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/156/'>JR津田沼駅で歳末助け合い募金活動　子どもたちが呼びかけ</a><small>（2022.12.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04877,
+          35.6868307
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/155/'><img src='https://images.keizai.biz/narashino_keizai/headline/1670373609_photo.jpg' alt='習志野・大久保商店街で「歳末スタンプラリー」　40店参加' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/155/'>習志野・大久保商店街で「歳末スタンプラリー」　40店参加</a><small>（2022.12.07）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0241953,
+          35.683195
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/154/'><img src='https://images.keizai.biz/narashino_keizai/headline/1670312064_photo.jpg' alt='京成津田沼駅前でイルミネーション点灯へ　クリスマスコンサートも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/154/'>京成津田沼駅前でイルミネーション点灯へ　クリスマスコンサートも</a><small>（2022.12.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0271941,
+          35.6816407
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/153/'><img src='https://images.keizai.biz/narashino_keizai/headline/1670307482_photo.jpg' alt='プレミアム商品券｢習チケプレミアム｣　申し込み受け付け始まる' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/153/'>プレミアム商品券｢習チケプレミアム｣　申し込み受け付け始まる</a><small>（2022.12.07）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0590424,
+          35.6911948
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/152/'><img src='https://images.keizai.biz/narashino_keizai/headline/1670203084_photo.jpg' alt='習志野・新栄で冬に咲く「ヒマラヤザクラ」が開花' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/152/'>習志野・新栄で冬に咲く「ヒマラヤザクラ」が開花</a><small>（2022.12.05）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0090812,
+          35.684066
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/151/'><img src='https://images.keizai.biz/narashino_keizai/headline/1669945628_photo.jpg' alt='習志野・谷津のレストラン＆バー「エルコラソン」が24周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/151/'>習志野・谷津のレストラン＆バー「エルコラソン」が24周年</a><small>（2022.12.02）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0219539,
+          35.6858944
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/150/'><img src='https://images.keizai.biz/narashino_keizai/headline/1669770677_photo.jpg' alt='津田沼の「欧風食堂 タブリエ」が4周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/150/'>津田沼の「欧風食堂 タブリエ」が4周年</a><small>（2022.11.30）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0468843,
+          35.6851832
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/149/'><img src='https://images.keizai.biz/narashino_keizai/headline/1669689547_photo.jpg' alt='生涯学習複合施設「プラッツ習志野」が3周年　記念イベントも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/149/'>生涯学習複合施設「プラッツ習志野」が3周年　記念イベントも</a><small>（2022.11.29）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0689197,
+          35.6887293
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/148/'><img src='https://images.keizai.biz/narashino_keizai/headline/1669688754_photo.jpg' alt='実籾コミュニティホールで「市民文化祭」　幼稚園児から社会人まで出展品' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/148/'>実籾コミュニティホールで「市民文化祭」　幼稚園児から社会人まで出展品</a><small>（2022.11.29）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0698584,
+          35.6905041
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/147/'><img src='https://images.keizai.biz/narashino_keizai/headline/1669599585_photo.jpg' alt='実籾「らーめん柊」が4周年　車いすで来店可の認知広がる' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/147/'>実籾「らーめん柊」が4周年　車いすで来店可の認知広がる</a><small>（2022.11.28）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0684336,
+          35.6872234
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/146/'><img src='https://images.keizai.biz/narashino_keizai/headline/1669339054_photo.jpg' alt='実籾駅前で「みもみマルシェ」 習志野高校吹奏楽部の演奏も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/146/'>実籾駅前で「みもみマルシェ」 習志野高校吹奏楽部の演奏も</a><small>（2022.11.25）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.01493,
+          35.672794
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/145/'><img src='https://images.keizai.biz/narashino_keizai/headline/1669254549_photo.jpg' alt='秋津第一団地で「ふれあいまつり」　高齢者・子どもも楽しめる場に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/145/'>秋津第一団地で「ふれあいまつり」　高齢者・子どもも楽しめる場に</a><small>（2022.11.24）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0075816,
+          35.68530880000001
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/144/'><img src='https://images.keizai.biz/narashino_keizai/headline/1669091556_photo.jpg' alt='谷津駅前で「菊華庭園」　谷津の思い出とともに展示' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/144/'>谷津駅前で「菊華庭園」　谷津の思い出とともに展示</a><small>（2022.11.22）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0230365,
+          35.6821327
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/143/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668996346_photo.jpg' alt='習志野の古民家で和楽器「しの笛」と歌の音楽ライブ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/143/'>習志野の古民家で和楽器「しの笛」と歌の音楽ライブ</a><small>（2022.11.21）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.06573,
+          35.694304
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/142/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668735993_photo.jpg' alt='習志野高吹奏楽部、全日本吹奏楽コンクールで2年連続金賞受賞' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/142/'>習志野高吹奏楽部、全日本吹奏楽コンクールで2年連続金賞受賞</a><small>（2022.11.18）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0272438,
+          35.6816458
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/141/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668734657_photo.jpg' alt='習志野で「消防・救急フェア」「ガスフェスタ」「農業祭」が同時開催　野菜の宝船も展示' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/141/'>習志野で「消防・救急フェア」「ガスフェスタ」「農業祭」が同時開催　野菜の宝船も展示</a><small>（2022.11.18）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0507722,
+          35.6908661
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/140/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668646500_photo.jpg' alt='習志野のラーメン店「麺家西陣」が10周年　ダムを模したダムカレーも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/140/'>習志野のラーメン店「麺家西陣」が10周年　ダムを模したダムカレーも</a><small>（2022.11.17）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0218634,
+          35.6832757
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/139/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668565767_photo.jpg' alt='津田沼に「プルプル弁当」　開業前にラーメン店で修業、炙り焼き豚にこだわり' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/139/'>津田沼に「プルプル弁当」　開業前にラーメン店で修業、炙り焼き豚にこだわり</a><small>（2022.11.16）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0202216,
+          35.688274
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/138/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668485392_photo.jpg' alt='千葉工大で「津田沼祭」　3年ぶりの対面開催へ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/138/'>千葉工大で「津田沼祭」　3年ぶりの対面開催へ</a><small>（2022.11.15）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/137/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668475920_photo.jpg' alt='日大生産工学部の小林さん、　国際会議ICSI2022に初参加で初受賞' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/137/'>日大生産工学部の小林さん、　国際会議ICSI2022に初参加で初受賞</a><small>（2022.11.15）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0468843,
+          35.6851832
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/136/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668398479_photo.jpg' alt='プラッツ習志野でキャンドルイベント　親子30組が手作りキャンドルともす' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/136/'>プラッツ習志野でキャンドルイベント　親子30組が手作りキャンドルともす</a><small>（2022.11.11）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0247108,
+          35.6628951
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/135/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668393358_photo.png' alt='習志野・香澄公園の紅葉が見頃に　飛来する野鳥も多く観察' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/135/'>習志野・香澄公園の紅葉が見頃に　飛来する野鳥も多く観察</a><small>（2022.11.14）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04875,
+          35.6877398
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/134/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668128228_photo.jpg' alt='習志野の鶏白湯ラーメン店「麺屋時茂」が4周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/134/'>習志野の鶏白湯ラーメン店「麺屋時茂」が4周年</a><small>（2022.11.11）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/133/'><img src='https://images.keizai.biz/narashino_keizai/headline/1668048446_photo.jpg' alt='奏の杜公園で「ならしのこまち」　子どもたちが考えてつくる子どものまち体験' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/133/'>奏の杜公園で「ならしのこまち」　子どもたちが考えてつくる子どものまち体験</a><small>（2022.11.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0684336,
+          35.6872234
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/132/'><img src='https://images.keizai.biz/narashino_keizai/headline/1667963059_photo.jpg' alt='実籾駅周辺で「実籾ふる里祭り」　3年ぶり開催、ホコ天にぎわう' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/132/'>実籾駅周辺で「実籾ふる里祭り」　3年ぶり開催、ホコ天にぎわう</a><small>（2022.11.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.012968,
+          35.667386
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/131/'><img src='https://images.keizai.biz/narashino_keizai/headline/1667961593_photo.jpg' alt='新習志野駅で初の「京葉線フェス」　部品展示やグッズ販売、電車にちなんだ縁日も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/131/'>新習志野駅で初の「京葉線フェス」　部品展示やグッズ販売、電車にちなんだ縁日も</a><small>（2022.11.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0207004,
+          35.678553
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/130/'><img src='https://images.keizai.biz/narashino_keizai/headline/1667876352_photo.jpg' alt='津田沼の季節料理とすしの店「麻」が1周年　夫婦で切り盛り' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/130/'>津田沼の季節料理とすしの店「麻」が1周年　夫婦で切り盛り</a><small>（2022.11.08）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0171561,
+          35.6876299
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/129/'><img src='https://images.keizai.biz/narashino_keizai/headline/1667786394_photo.jpg' alt='習志野「台湾茶屋モクテルストーリー」が3周年　台湾文化を日本に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/129/'>習志野「台湾茶屋モクテルストーリー」が3周年　台湾文化を日本に</a><small>（2022.11.07）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0076077,
+          35.6856463
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/128/'><img src='https://images.keizai.biz/narashino_keizai/headline/1667527134_photo.jpg' alt='習志野で「ナラシドまちゼミ」　地元商店主らから直接学ぶ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/128/'>習志野で「ナラシドまちゼミ」　地元商店主らから直接学ぶ</a><small>（2022.11.04）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0684336,
+          35.6872234
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/127/'><img src='https://images.keizai.biz/narashino_keizai/headline/1667357564_photo.jpg' alt='実籾駅前で「みもみマルシェ」　ハロウィーンウオークラリーも同時開催' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/127/'>実籾駅前で「みもみマルシェ」　ハロウィーンウオークラリーも同時開催</a><small>（2022.11.02）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0272438,
+          35.6816458
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/126/'><img src='https://images.keizai.biz/narashino_keizai/headline/1667180173_photo.jpg' alt='習志野市役所で「ガスフェスタ」「農業祭」「消防・救急フェア」' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/126/'>習志野市役所で「ガスフェスタ」「農業祭」「消防・救急フェア」</a><small>（2022.10.31）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.019407,
+          35.6899847
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/125/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666938471_photo.jpg' alt='津田沼で「習志野ドイツフェア＆グルメフェスタ」　3年ぶりに開催' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/125/'>津田沼で「習志野ドイツフェア＆グルメフェスタ」　3年ぶりに開催</a><small>（2022.11.01）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/124/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666930510_photo.jpg' alt='「コロナ禍での子どもの未来を考える」　習志野在住の元保育士らが座談会企画' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/124/'>「コロナ禍での子どもの未来を考える」　習志野在住の元保育士らが座談会企画</a><small>（2022.10.28）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/123/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666832906_photo.jpg' alt='市民まつり「習志野きらっと」でウクライナ支援活動' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/123/'>市民まつり「習志野きらっと」でウクライナ支援活動</a><small>（2022.10.27）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.004971,
+          35.6847381
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/122/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666746573_photo.jpg' alt='谷津公民館で3年ぶりに市民文化祭　新たな形で今後も継続へ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/122/'>谷津公民館で3年ぶりに市民文化祭　新たな形で今後も継続へ</a><small>（2022.10.26）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0196107,
+          35.6873818
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/121/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666693510_photo.jpg' alt='ポーラザビューティ津田沼店で地域密着イベント　地域活動家らが出店' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/121/'>ポーラザビューティ津田沼店で地域密着イベント　地域活動家らが出店</a><small>（2022.10.25）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0686744,
+          35.6863838
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/120/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666666893_photo.jpg' alt='実籾駅前で「みもみマルシェハッピーハロウィーン」　市内外から多数出店' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/120/'>実籾駅前で「みもみマルシェハッピーハロウィーン」　市内外から多数出店</a><small>（2022.10.25）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6856561,
+          140.0027262
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/119/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666603089_photo.jpg' alt='習志野・谷津遊路商店街で「秋祭り」　3年ぶりに開催へ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/119/'>習志野・谷津遊路商店街で「秋祭り」　3年ぶりに開催へ</a><small>（2022.10.24）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0190941,
+          35.68953279999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/118/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666574339_photo.jpg' alt='モリシア津田沼でアートを身近に感じる展示やワークショップイベント' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/118/'>モリシア津田沼でアートを身近に感じる展示やワークショップイベント</a><small>（2022.10.24）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0272438,
+          35.6816458
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/117/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666317000_photo.jpg' alt='習志野ご当地ソングが完成　宮本市長に報告、演奏も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/117/'>習志野ご当地ソングが完成　宮本市長に報告、演奏も</a><small>（2022.10.21）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0641993,
+          35.683296
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/116/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666141558_photo.jpg' alt='台湾ギョーザと台湾火鍋の「太郎厨房」が1周年　飲食店出店も視野に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/116/'>台湾ギョーザと台湾火鍋の「太郎厨房」が1周年　飲食店出店も視野に</a><small>（2022.10.19）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0070187,
+          35.6836033
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/115/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666142774_photo.jpg' alt='習志野・谷津の和食店「お食事処　轍」が2周年　インスタで定食情報、毎日投稿' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/115/'>習志野・谷津の和食店「お食事処　轍」が2周年　インスタで定食情報、毎日投稿</a><small>（2022.10.19）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.019407,
+          35.6899847
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/114/'><img src='https://images.keizai.biz/narashino_keizai/headline/1666060752_photo.jpg' alt='習志野ドイツフェア＆グルメフェスタ、コロナ禍での中止を経て3年ぶりに開催へ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/114/'>習志野ドイツフェア＆グルメフェスタ、コロナ禍での中止を経て3年ぶりに開催へ</a><small>（2022.10.18）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0230365,
+          35.6821327
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/113/'><img src='https://images.keizai.biz/narashino_keizai/headline/1665972957_photo.jpg' alt='津田沼の出張生花店「くさむすぶ」が1周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/113/'>津田沼の出張生花店「くさむすぶ」が1周年</a><small>（2022.10.17）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0500404,
+          35.6895563
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/112/'><img src='https://images.keizai.biz/narashino_keizai/headline/1665708329_photo.jpg' alt='習志野の「カフェ・ザ・ワールド」、地域に支えられ5周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/112/'>習志野の「カフェ・ザ・ワールド」、地域に支えられ5周年</a><small>（2022.10.14）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0507261,
+          35.689576
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/111/'><img src='https://images.keizai.biz/narashino_keizai/headline/1665622290_photo.jpg' alt='習志野にレンタルスペース・キッチン「blanche」　50年超の古ビルを再利用' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/111/'>習志野にレンタルスペース・キッチン「blanche」　50年超の古ビルを再利用</a><small>（2022.10.13）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0524815,
+          35.6909515
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/110/'><img src='https://images.keizai.biz/narashino_keizai/headline/1665543773_photo.jpg' alt='市民プラザ大久保で「習志野の歴史展」 七年祭りの資料展示' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/110/'>市民プラザ大久保で「習志野の歴史展」 七年祭りの資料展示</a><small>（2022.10.12）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0487016,
+          35.6878819
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/109/'><img src='https://images.keizai.biz/narashino_keizai/headline/1665456207_photo.jpg' alt='習志野の「タコヤキハナチャン」が1周年　店頭に10円ゲームも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/109/'>習志野の「タコヤキハナチャン」が1周年　店頭に10円ゲームも</a><small>（2022.10.11）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0226154,
+          35.6653705
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/108/'><img src='https://images.keizai.biz/narashino_keizai/headline/1665135837_photo.jpg' alt='習志野・香澄公園で子どもが自由に遊べる「プレーパーク」　親子250人参加' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/108/'>習志野・香澄公園で子どもが自由に遊べる「プレーパーク」　親子250人参加</a><small>（2022.10.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0664268,
+          35.677435
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/107/'><img src='https://images.keizai.biz/narashino_keizai/headline/1665109957_photo.png' alt='習志野・ミモミファーム、ミニトマト栽培シーズン始まる　トマトジュース販売も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/107/'>習志野・ミモミファーム、ミニトマト栽培シーズン始まる　トマトジュース販売も</a><small>（2022.10.07）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0215403,
+          35.6907302
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/106/'><img src='https://images.keizai.biz/narashino_keizai/headline/1665021467_photo.jpg' alt='津田沼の高山写真館で早坂卓写真教室写真展　生徒の成果を披露' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/106/'>津田沼の高山写真館で早坂卓写真教室写真展　生徒の成果を披露</a><small>（2022.10.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0501944,
+          35.6911181
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/105/'><img src='https://images.keizai.biz/narashino_keizai/headline/1665017330_photo.jpg' alt='習志野のラーメン店など、静岡県の被災地に救援物資届ける' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/105/'>習志野のラーメン店など、静岡県の被災地に救援物資届ける</a><small>（2022.10.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0120484,
+          35.6693177
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/104/'><img src='https://images.keizai.biz/narashino_keizai/headline/1664937425_photo.jpg' alt='アメフトXリーグ　オービックシーガルズが習志野で1年ぶりのホームゲーム' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/104/'>アメフトXリーグ　オービックシーガルズが習志野で1年ぶりのホームゲーム</a><small>（2022.10.05）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0272438,
+          35.6816458
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/103/'><img src='https://images.keizai.biz/narashino_keizai/headline/1664853927_photo.jpg' alt='習志野最大の市民まつり「習志野きらっと」、3年ぶりに開催へ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/103/'>習志野最大の市民まつり「習志野きらっと」、3年ぶりに開催へ</a><small>（2022.10.04）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/102/'><img src='https://images.keizai.biz/narashino_keizai/headline/1664850439_photo.jpg' alt='習志野で「建築街歩きツアー」　建築解説とスケッチで建物の面白さに触れる' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/102/'>習志野で「建築街歩きツアー」　建築解説とスケッチで建物の面白さに触れる</a><small>（2022.10.04）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.046847,
+          35.6851981
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/100/'><img src='https://images.keizai.biz/narashino_keizai/headline/1664759908_photo.jpg' alt='習志野で「Co-展」　飲食・雑貨・工作ワークショップなど20組超が参加' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/100/'>習志野で「Co-展」　飲食・雑貨・工作ワークショップなど20組超が参加</a><small>（2022.10.03）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/99/'><img src='https://images.keizai.biz/narashino_keizai/headline/1664421751_photo.jpg' alt='習志野で「ナラシドまちゼミ」　全34講座、商店主らが講師に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/99/'>習志野で「ナラシドまちゼミ」　全34講座、商店主らが講師に</a><small>（2022.09.29）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0272438,
+          35.6816458
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/98/'><img src='https://images.keizai.biz/narashino_keizai/headline/1664335836_photo.png' alt='習志野市庁舎、世界アルツハイマーデーに合わせオレンジ色にライトアップ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/98/'>習志野市庁舎、世界アルツハイマーデーに合わせオレンジ色にライトアップ</a><small>（2022.09.28）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0514275,
+          35.6909281
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/97/'><img src='https://images.keizai.biz/narashino_keizai/headline/1664245485_photo.jpg' alt='習志野「マンドリン・ハンバーガー・キッチン」が2周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/97/'>習志野「マンドリン・ハンバーガー・キッチン」が2周年</a><small>（2022.09.27）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.046847,
+          35.6851981
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/96/'><img src='https://images.keizai.biz/narashino_keizai/headline/1664159784_photo.jpg' alt='習志野で「はじめの一歩フェス」　市民発案7つのコンテンツを形に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/96/'>習志野で「はじめの一歩フェス」　市民発案7つのコンテンツを形に</a><small>（2022.09.26）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0485092,
+          35.688831
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/95/'><img src='https://images.keizai.biz/narashino_keizai/headline/1663926912_photo.jpg' alt='習志野JINRIKISENが限定ラーメン「千葉の恵み担々麺」　情報誌コラボ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/95/'>習志野JINRIKISENが限定ラーメン「千葉の恵み担々麺」　情報誌コラボ</a><small>（2022.09.23）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0191846,
+          35.6762042
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/94/'><img src='https://images.keizai.biz/narashino_keizai/headline/1663812222_photo.jpg' alt='謎解きクリエーターJUKEBOX、地元・習志野テーマの謎解きでマルシェ出店' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/94/'>謎解きクリエーターJUKEBOX、地元・習志野テーマの謎解きでマルシェ出店</a><small>（2022.09.22）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.019407,
+          35.6899847
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/93/'><img src='https://images.keizai.biz/narashino_keizai/headline/1663741655_photo.jpg' alt='津田沼公園などでJCがイベント　ステージイベントや講演など' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/93/'>津田沼公園などでJCがイベント　ステージイベントや講演など</a><small>（2022.09.18）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/92/'><img src='https://images.keizai.biz/narashino_keizai/headline/1663301516_photo.png' alt='習志野・実籾で「親子稲刈り会」　 親子110人名が米作りを楽しむ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/92/'>習志野・実籾で「親子稲刈り会」　 親子110人名が米作りを楽しむ</a><small>（2022.09.16）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0243801,
+          35.6889404
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/91/'><img src='https://images.keizai.biz/narashino_keizai/headline/1663060876_photo.jpg' alt='津田沼一丁目公園で「竹灯籠と舞の夕べ」　多くの人でにぎわう' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/91/'>津田沼一丁目公園で「竹灯籠と舞の夕べ」　多くの人でにぎわう</a><small>（2022.09.13）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0501944,
+          35.6911181
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/90/'><img src='https://images.keizai.biz/narashino_keizai/headline/1662947963_photo.png' alt='習志野のラーメン店「どろそば屋ひろし」が11周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/90/'>習志野のラーメン店「どろそば屋ひろし」が11周年</a><small>（2022.09.12）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0496437,
+          35.6865141
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/89/'><img src='https://images.keizai.biz/narashino_keizai/headline/1662686857_photo.png' alt='習志野のコッペパンと総菜の店「笑心」、居酒屋の夜営業始める　定食も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/89/'>習志野のコッペパンと総菜の店「笑心」、居酒屋の夜営業始める　定食も</a><small>（2022.09.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0657848,
+          35.6946938
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/88/'><img src='https://images.keizai.biz/narashino_keizai/headline/1662685365_photo.jpg' alt='インターハイで市立習志野高校の3選手が優勝' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/88/'>インターハイで市立習志野高校の3選手が優勝</a><small>（2022.09.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0045976,
+          35.688863
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/87/'><img src='https://images.keizai.biz/narashino_keizai/headline/1662695307_photo.jpg' alt='谷津のカフェGarula Garageがリニューアルオープン　ドライブスルーも可能' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/87/'>谷津のカフェGarula Garageがリニューアルオープン　ドライブスルーも可能</a><small>（2022.09.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0499035,
+          35.689735
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/86/'><img src='https://images.keizai.biz/narashino_keizai/headline/1662514446_photo.jpg' alt='習志野のすし店「旬菜 わさび」、船橋から移転して4周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/86/'>習志野のすし店「旬菜 わさび」、船橋から移転して4周年</a><small>（2022.09.07）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0243801,
+          35.6889404
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/85/'><img src='https://images.keizai.biz/narashino_keizai/headline/1662434083_photo.jpg' alt='津田沼一丁目公園で「竹灯籠と舞の夕べ」　地域コミュニティーの場に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/85/'>津田沼一丁目公園で「竹灯籠と舞の夕べ」　地域コミュニティーの場に</a><small>（2022.09.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0509969,
+          35.6867975
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/84/'><img src='https://images.keizai.biz/narashino_keizai/headline/1662079457_photo.jpg' alt='元保育士らが「子どもの笑顔と未来を守る会」結成　コロナ禍の未来考える' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/84/'>元保育士らが「子どもの笑顔と未来を守る会」結成　コロナ禍の未来考える</a><small>（2022.09.02）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0120484,
+          35.6693177
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/83/'><img src='https://images.keizai.biz/narashino_keizai/headline/1662001038_photo.jpg' alt='アメリカンフットボールチーム「オービックシーガルズ」、習志野市長訪問' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/83/'>アメリカンフットボールチーム「オービックシーガルズ」、習志野市長訪問</a><small>（2022.09.01）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0217743,
+          35.6921043
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/82/'><img src='https://images.keizai.biz/narashino_keizai/headline/1661917746_photo.jpg' alt='津田沼パルコに「ならしのみやげ」限定ショップ　大学生が地元の店でセレクト' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/82/'>津田沼パルコに「ならしのみやげ」限定ショップ　大学生が地元の店でセレクト</a><small>（2022.08.31）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.004971,
+          35.6847381
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/81/'><img src='https://images.keizai.biz/narashino_keizai/headline/1661819939_photo.jpg' alt='習志野・谷津公民館で地元の中学生が「黒板アート」体験' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/81/'>習志野・谷津公民館で地元の中学生が「黒板アート」体験</a><small>（2022.08.30）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0295741,
+          35.6874261
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/80/'><img src='https://images.keizai.biz/narashino_keizai/headline/1661394825_photo.jpg' alt='習志野・津田沼「のところ」で夏祭り　子どもたちが夜店を出店' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/80/'>習志野・津田沼「のところ」で夏祭り　子どもたちが夜店を出店</a><small>（2022.08.25）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0196305,
+          35.6897127
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/79/'><img src='https://images.keizai.biz/narashino_keizai/headline/1661304245_photo.jpg' alt='モリシア津田沼で「ちいさな恐竜展」　全長2メートルの動くティラノサウルスも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/79/'>モリシア津田沼で「ちいさな恐竜展」　全長2メートルの動くティラノサウルスも</a><small>（2022.08.24）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0477369,
+          35.68607009999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/78/'><img src='https://images.keizai.biz/narashino_keizai/headline/1661133871_photo.jpg' alt='習志野のたこ焼き店「鮹八」が2周年　化調使わず天然だしで調理' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/78/'>習志野のたこ焼き店「鮹八」が2周年　化調使わず天然だしで調理</a><small>（2022.08.22）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0225552,
+          35.6900311
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/77/'><img src='https://images.keizai.biz/narashino_keizai/headline/1660871659_photo.jpg' alt='「i-Office津田沼」でコワーキングスペース勉強会　スペースの活用学ぶ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/77/'>「i-Office津田沼」でコワーキングスペース勉強会　スペースの活用学ぶ</a><small>（2022.08.19）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0191846,
+          35.6762042
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/76/'><img src='https://images.keizai.biz/narashino_keizai/headline/1660787340_photo.jpg' alt='習志野・袖ヶ浦の団地内ショッピングセンターで「ウラ庭マルシェ」' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/76/'>習志野・袖ヶ浦の団地内ショッピングセンターで「ウラ庭マルシェ」</a><small>（2022.08.18）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0243785,
+          35.6830105
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/75/'><img src='https://images.keizai.biz/narashino_keizai/headline/1660709298_photo.png' alt='習志野「ブラウンサウンドコーヒー」、地元のホテルラウンジに限定出店' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/75/'>習志野「ブラウンサウンドコーヒー」、地元のホテルラウンジに限定出店</a><small>（2022.08.17）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.06824,
+          35.686858
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/74/'><img src='https://images.keizai.biz/narashino_keizai/headline/1660622079_photo.jpg' alt='実籾駅改札口に「糸かけ」アート　地元在住の糸かけ師の思いから実現' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/74/'>実籾駅改札口に「糸かけ」アート　地元在住の糸かけ師の思いから実現</a><small>（2022.08.16）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0027262,
+          35.6856561
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/73/'><img src='https://images.keizai.biz/narashino_keizai/headline/1660524896_photo.jpg' alt='谷津遊路商店街で「なつまつり」　コロナ禍に配慮し2年ぶり開催へ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/73/'>谷津遊路商店街で「なつまつり」　コロナ禍に配慮し2年ぶり開催へ</a><small>（2022.08.15）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0468843,
+          35.6851832
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/72/'><img src='https://images.keizai.biz/narashino_keizai/headline/1660273227_photo.jpg' alt='習志野で「はじめてみたい発表会」　7人が実現に向け「やりたいこと」発表' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/72/'>習志野で「はじめてみたい発表会」　7人が実現に向け「やりたいこと」発表</a><small>（2022.08.12）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0468843,
+          35.6851832
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/71/'><img src='https://images.keizai.biz/narashino_keizai/headline/1660099507_photo.jpg' alt='習志野市立中央図書館で体験企画「夏休み子ども一日図書館員」' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/71/'>習志野市立中央図書館で体験企画「夏休み子ども一日図書館員」</a><small>（2022.08.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/70/'><img src='https://images.keizai.biz/narashino_keizai/headline/1660012587_photo.jpg' alt='「起立性調節障がい」の学生が撮った映画の上映通して関心の輪広げる' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/70/'>「起立性調節障がい」の学生が撮った映画の上映通して関心の輪広げる</a><small>（2022.08.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0076377,
+          35.6845708
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/69/'><img src='https://images.keizai.biz/narashino_keizai/headline/1659925891_photo.png' alt='習志野「ヤツカフェ」が1周年　房総生シェイク祭りにも参加' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/69/'>習志野「ヤツカフェ」が1周年　房総生シェイク祭りにも参加</a><small>（2022.08.08）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/68/'><img src='https://images.keizai.biz/narashino_keizai/headline/1659659942_photo.jpg' alt='津田沼公園で「いきいき津田沼夏祭り」　3年ぶり開催' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/68/'>津田沼公園で「いきいき津田沼夏祭り」　3年ぶり開催</a><small>（2022.08.05）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0496437,
+          35.6865141
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/67/'><img src='https://images.keizai.biz/narashino_keizai/headline/1659579530_photo.jpg' alt='習志野・大久保にコッペパンと総菜の店「笑心」　主婦が出店' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/67/'>習志野・大久保にコッペパンと総菜の店「笑心」　主婦が出店</a><small>（2022.08.04）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0776651,
+          35.6931401
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/65/'><img src='https://images.keizai.biz/narashino_keizai/headline/1659487185_photo.jpg' alt='東習志野の宅老所「いしいさん家」、ドキュメンタリー番組が1年を追う' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/65/'>東習志野の宅老所「いしいさん家」、ドキュメンタリー番組が1年を追う</a><small>（2022.08.03）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0224602,
+          35.6830494
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/64/'><img src='https://images.keizai.biz/narashino_keizai/headline/1659323345_photo.jpg' alt='津田沼で不登校の子どもを持つ親の集まり　不登校ラボ「アッタナラ」が主催' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/64/'>津田沼で不登校の子どもを持つ親の集まり　不登校ラボ「アッタナラ」が主催</a><small>（2022.08.01）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/63/'><img src='https://images.keizai.biz/narashino_keizai/headline/1659072439_photo.jpg' alt='谷津商店街のカフェで「夜活」イベント　大学生が主催、若者呼び込む' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/63/'>谷津商店街のカフェで「夜活」イベント　大学生が主催、若者呼び込む</a><small>（2022.07.29）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0693765,
+          35.6887982
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/62/'><img src='https://images.keizai.biz/narashino_keizai/headline/1658971954_photo.jpg' alt='開院25年目の「みもみ整骨院」がリニューアル　新しい機器も導入' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/62/'>開院25年目の「みもみ整骨院」がリニューアル　新しい機器も導入</a><small>（2022.07.28）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0218549,
+          35.6812636
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/61/'><img src='https://images.keizai.biz/narashino_keizai/headline/1658894755_photo.jpg' alt='習志野の雑貨店「ユニテ」、ワイがや通り商店街に溶け込み1周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/61/'>習志野の雑貨店「ユニテ」、ワイがや通り商店街に溶け込み1周年</a><small>（2022.07.27）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0484892,
+          35.685101
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/60/'><img src='https://images.keizai.biz/narashino_keizai/headline/1658812160_photo.jpg' alt='習志野に「モノクロ写真館」　写真館・日々是好日が新たに開設' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/60/'>習志野に「モノクロ写真館」　写真館・日々是好日が新たに開設</a><small>（2022.07.26）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0157176,
+          35.6895254
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/59/'><img src='https://images.keizai.biz/narashino_keizai/headline/1658723969_photo.jpg' alt='「フォルテ津田沼店」習志野子ども食堂ネットワークへ寄付' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/59/'>「フォルテ津田沼店」習志野子ども食堂ネットワークへ寄付</a><small>（2022.07.25）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0344879,
+          35.6744004
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/58/'><img src='https://images.keizai.biz/narashino_keizai/headline/1658713070_photo.jpg' alt='習志野・鷺沼に「ひまわり回廊」　畑一面にヒマワリ満開、持ち帰りも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/58/'>習志野・鷺沼に「ひまわり回廊」　畑一面にヒマワリ満開、持ち帰りも</a><small>（2022.07.25）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0196305,
+          35.6897127
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/57/'><img src='https://images.keizai.biz/narashino_keizai/headline/1658449461_photo.jpg' alt='習志野文化ホール、商業施設「モリシア」内の再建設が決定' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/57/'>習志野文化ホール、商業施設「モリシア」内の再建設が決定</a><small>（2022.07.22）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/56/'><img src='https://images.keizai.biz/narashino_keizai/headline/1658374095_photo.jpg' alt='習志野高校、ボクシング・男子バレー・柔道でインターハイへ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/56/'>習志野高校、ボクシング・男子バレー・柔道でインターハイへ</a><small>（2022.07.21）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0690483,
+          35.6906893
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/55/'><img src='https://images.keizai.biz/narashino_keizai/headline/1658283355_photo.jpg' alt='実籾駅前「みもみマルシェ」にぎわう　ビアガーデン組み合わせ規模拡大' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/55/'>実籾駅前「みもみマルシェ」にぎわう　ビアガーデン組み合わせ規模拡大</a><small>（2022.07.20）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/54/'><img src='https://images.keizai.biz/narashino_keizai/headline/1658196175_photo.jpg' alt='女子ソフトボール「習志野スーパーガールズ」、市長訪問で全国大会優勝誓う' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/54/'>女子ソフトボール「習志野スーパーガールズ」、市長訪問で全国大会優勝誓う</a><small>（2022.07.19）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/53/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657769652_photo.jpg' alt='高校野球千葉県大会予選で｢レッツゴー習志野｣　3年ぶりに美爆音響く' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/53/'>高校野球千葉県大会予選で｢レッツゴー習志野｣　3年ぶりに美爆音響く</a><small>（2022.07.14）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0437548,
+          35.6866741
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/52/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657676841_photo.jpg' alt='習志野「ル・パティシエ　ヨコヤマ」、日持ちする濃厚チーズケーキ発売' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/52/'>習志野「ル・パティシエ　ヨコヤマ」、日持ちする濃厚チーズケーキ発売</a><small>（2022.07.13）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/51/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657675170_photo.jpg' alt='津田沼大型店連絡協議会がクリーン活動　7店舗から60人超が参加' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/51/'>津田沼大型店連絡協議会がクリーン活動　7店舗から60人超が参加</a><small>（2022.07.13）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.023979,
+          35.6897159
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/50/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657602170_photo.png' alt='｢クールアース・デー｣　イトーヨーカドー津田沼店も塔屋照明終日消灯' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/50/'>｢クールアース・デー｣　イトーヨーカドー津田沼店も塔屋照明終日消灯</a><small>（2022.07.12）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0240177,
+          35.683414
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/49/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657499338_photo.jpg' alt='サンロード習志野でLGBT講座　性の多様性について知る' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/49/'>サンロード習志野でLGBT講座　性の多様性について知る</a><small>（2022.07.11）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0492114,
+          35.6886242
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/48/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657441203_photo.jpg' alt='習志野・JINRIKISENが限定「鶏チャーシュー麺」　平飼いで飼育した親鶏使う' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/48/'>習志野・JINRIKISENが限定「鶏チャーシュー麺」　平飼いで飼育した親鶏使う</a><small>（2022.07.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0468843,
+          35.6851832
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/47/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657312264_photo.jpg' alt='プラッツ習志野で子ども伝統文化教室　浴衣と着付けのマナー学ぶ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/47/'>プラッツ習志野で子ども伝統文化教室　浴衣と着付けのマナー学ぶ</a><small>（2022.07.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0006573,
+          35.6804885
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/46/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657260964_photo.jpg' alt='「大久保・実籾ラーメンスタンプラリー」始まる　参加店10店で限定サービス' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/46/'>「大久保・実籾ラーメンスタンプラリー」始まる　参加店10店で限定サービス</a><small>（2022.07.08）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.046868,
+          35.685174
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/45/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657162686_photo.jpg' alt='習志野市立中央図書館で中高校生向け講座　エンタメ業界を学ぶ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/45/'>習志野市立中央図書館で中高校生向け講座　エンタメ業界を学ぶ</a><small>（2022.07.07）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0657848,
+          35.6946938
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/44/'><img src='https://images.keizai.biz/narashino_keizai/headline/1657066093_photo.jpg' alt='市立習志野高校体操競技部、荻野英之助くんと坂田波音さんが全国大会へ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/44/'>市立習志野高校体操競技部、荻野英之助くんと坂田波音さんが全国大会へ</a><small>（2022.07.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0468843,
+          35.6851832
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/43/'><img src='https://images.keizai.biz/narashino_keizai/headline/1656987346_photo.jpg' alt='習志野の図書館で「夏休み子ども一日図書館員」体験　申し込みに行列' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/43/'>習志野の図書館で「夏休み子ども一日図書館員」体験　申し込みに行列</a><small>（2022.07.05）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0230365,
+          35.6821327
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/41/'><img src='https://images.keizai.biz/narashino_keizai/headline/1656655293_photo.png' alt='京成津田沼駅前カフェ＆バー「ペンネン・ネネム」、常連客に支えられ5周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/41/'>京成津田沼駅前カフェ＆バー「ペンネン・ネネム」、常連客に支えられ5周年</a><small>（2022.07.01）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0240177,
+          35.683414
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/40/'><img src='https://images.keizai.biz/narashino_keizai/headline/1656373680_photo.jpg' alt='習志野市、パートナーシップ・ファミリーシップ制度導入　多様性あるまちづくりへ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/40/'>習志野市、パートナーシップ・ファミリーシップ制度導入　多様性あるまちづくりへ</a><small>（2022.06.28）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0206679,
+          35.6784522
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/39/'><img src='https://images.keizai.biz/narashino_keizai/headline/1656038479_photo.jpg' alt='津田沼にラジコンカー販売店「ブロックヘッドモータース」　EC店が初の実店舗' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/39/'>津田沼にラジコンカー販売店「ブロックヘッドモータース」　EC店が初の実店舗</a><small>（2022.06.24）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0219737,
+          35.687553
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/38/'><img src='https://images.keizai.biz/narashino_keizai/headline/1655869085_photo.jpg' alt='習志野「ブラウンサウンドコーヒー」が7周年　麺屋宜候とコラボラーメンも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/38/'>習志野「ブラウンサウンドコーヒー」が7周年　麺屋宜候とコラボラーメンも</a><small>（2022.06.22）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.022485,
+          35.6818327
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/37/'><img src='https://images.keizai.biz/narashino_keizai/headline/1655440986_photo.jpg' alt='中国物産店「万勝」、400人のファンに支えられて1周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/37/'>中国物産店「万勝」、400人のファンに支えられて1周年</a><small>（2022.06.17）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0225448,
+          35.6900211
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/36/'><img src='https://images.keizai.biz/narashino_keizai/headline/1655262511_photo.jpg' alt='伊丹哲也さん、習志野のコワーキングスペースでトーク＆ライブ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/36/'>伊丹哲也さん、習志野のコワーキングスペースでトーク＆ライブ</a><small>（2022.06.15）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0068759,
+          35.6839085
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/35/'><img src='https://images.keizai.biz/narashino_keizai/headline/1654829281_photo.jpg' alt='谷津のブルワリーパブ「むぎのいえ」が5周年　「ビールのおすそ分けカード」開始' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/35/'>谷津のブルワリーパブ「むぎのいえ」が5周年　「ビールのおすそ分けカード」開始</a><small>（2022.06.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0053122,
+          35.6753113
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/34/'><img src='https://images.keizai.biz/narashino_keizai/headline/1654846238_photo.jpg' alt='ラムサール条約登録湿地で「谷津干潟の日月間」イベント　クイズラリーも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/34/'>ラムサール条約登録湿地で「谷津干潟の日月間」イベント　クイズラリーも</a><small>（2022.06.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0071748,
+          35.6839191
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/33/'><img src='https://images.keizai.biz/narashino_keizai/headline/1654745636_photo.jpg' alt='谷津商店街で「アートフリーマーケット」多くの人出でにぎわう' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/33/'>谷津商店街で「アートフリーマーケット」多くの人出でにぎわう</a><small>（2022.06.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0056273,
+          35.6811295
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/32/'><img src='https://images.keizai.biz/narashino_keizai/headline/1654652806_photo.jpg' alt='谷津バラ園、遅咲きの2番花が見頃　バラのアイスクリームも人気' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/32/'>谷津バラ園、遅咲きの2番花が見頃　バラのアイスクリームも人気</a><small>（2022.06.08）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0232571,
+          35.6627483
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/31/'><img src='https://images.keizai.biz/narashino_keizai/headline/1654570482_photo.jpg' alt='習志野・香澄公園のハナショウブが見頃　6月下旬まで' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/31/'>習志野・香澄公園のハナショウブが見頃　6月下旬まで</a><small>（2022.06.07）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0226154,
+          35.6837811
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/30/'><img src='https://images.keizai.biz/narashino_keizai/headline/1654566351_photo.jpg' alt='津田沼公園のアジサイが見頃に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/30/'>津田沼公園のアジサイが見頃に</a><small>（2022.06.07）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0564742,
+          35.6924774
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/29/'><img src='https://images.keizai.biz/narashino_keizai/headline/1654480950_photo.jpg' alt='貴重な自然が残る「習志野の森」　みどりの会メンバーが「守る」活動' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/29/'>貴重な自然が残る「習志野の森」　みどりの会メンバーが「守る」活動</a><small>（2022.06.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0219737,
+          35.687553
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/28/'><img src='https://images.keizai.biz/narashino_keizai/headline/1654050878_photo.jpg' alt='津田沼のフリーマーケットで焼き菓子作家2人がイベントデビュー' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/28/'>津田沼のフリーマーケットで焼き菓子作家2人がイベントデビュー</a><small>（2022.06.01）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0225552,
+          35.6900311
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/27/'><img src='https://images.keizai.biz/narashino_keizai/headline/1653898044_photo.png' alt='肉と日本酒バル「ワラカド津田沼店」、4周年で創業時のメニュー復刻' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/27/'>肉と日本酒バル「ワラカド津田沼店」、4周年で創業時のメニュー復刻</a><small>（2022.05.30）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0230171,
+          35.6896684
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/26/'><img src='https://images.keizai.biz/narashino_keizai/headline/1653526660_photo.png' alt='「伝説のすた丼屋」mina津田沼店がリニューアル　席数減らし店内接触減らす' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/26/'>「伝説のすた丼屋」mina津田沼店がリニューアル　席数減らし店内接触減らす</a><small>（2022.05.26）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0468843,
+          35.6851832
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/25/'><img src='https://images.keizai.biz/narashino_keizai/headline/1653265176_photo.jpg' alt='習志野市立図書館、電子図書館サービス開始' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/25/'>習志野市立図書館、電子図書館サービス開始</a><small>（2022.05.23）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0191846,
+          35.6762042
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/24/'><img src='https://images.keizai.biz/narashino_keizai/headline/1653054928_photo.jpg' alt='袖ヶ浦団地で「ジョイントーク」　空きスペースの活用方法を地域住民で考える' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/24/'>袖ヶ浦団地で「ジョイントーク」　空きスペースの活用方法を地域住民で考える</a><small>（2022.05.20）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.04875,
+          35.6877398
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/23/'><img src='https://images.keizai.biz/narashino_keizai/headline/1652856097_photo.png' alt='習志野・大久保商店街に「サンカフェ」　動物モチーフのクレープや食事を提供' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/23/'>習志野・大久保商店街に「サンカフェ」　動物モチーフのクレープや食事を提供</a><small>（2022.05.18）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0499938,
+          35.6902113
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/21/'><img src='https://images.keizai.biz/narashino_keizai/headline/1652674306_photo.png' alt='習志野・大久保商店街で100年続いた書店、ブックカフェとして再出発' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/21/'>習志野・大久保商店街で100年続いた書店、ブックカフェとして再出発</a><small>（2022.05.16）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0468843,
+          35.6851832
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/20/'><img src='https://images.keizai.biz/narashino_keizai/headline/1652430173_photo.jpg' alt='習志野で「暮らしたのしむスクール」　地域活動のノウハウをプロから学ぶ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/20/'>習志野で「暮らしたのしむスクール」　地域活動のノウハウをプロから学ぶ</a><small>（2022.05.13）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0219539,
+          35.6858944
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/19/'><img src='https://images.keizai.biz/narashino_keizai/headline/1652242480_photo.jpg' alt='新京成ラーメン得々スタンプラリー　習志野から「麺屋 宜候」が参加' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/19/'>新京成ラーメン得々スタンプラリー　習志野から「麺屋 宜候」が参加</a><small>（2022.05.11）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0647549,
+          35.68398579999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/18/'><img src='https://images.keizai.biz/narashino_keizai/headline/1651811314_photo.jpg' alt='習志野・実籾の田んぼで「田植え会」　ほたる野を守るNORAの会主催、親子52組参加' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/18/'>習志野・実籾の田んぼで「田植え会」　ほたる野を守るNORAの会主催、親子52組参加</a><small>（2022.05.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0219235,
+          35.6799332
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/17/'><img src='https://images.keizai.biz/narashino_keizai/headline/1652060545_photo.jpg' alt='セブン-イレブン津田沼店がリニューアル　売り場拡大、酒類は1000種超に' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/17/'>セブン-イレブン津田沼店がリニューアル　売り場拡大、酒類は1000種超に</a><small>（2022.05.09）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0272515,
+          35.6845275
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/16/'><img src='https://images.keizai.biz/narashino_keizai/headline/1651453902_photo.jpg' alt='習志野・菊田神社、5月の御朱印は「薫風」' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/16/'>習志野・菊田神社、5月の御朱印は「薫風」</a><small>（2022.05.02）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.019407,
+          35.66582229999999
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/15/'><img src='https://images.keizai.biz/narashino_keizai/headline/1651125183_photo.jpg' alt='習志野・香澄のママ3人が自宅ガレージで始めたマルシェが1周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/15/'>習志野・香澄のママ3人が自宅ガレージで始めたマルシェが1周年</a><small>（2022.04.28）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.9995192,
+          35.6567073
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/14/'><img src='https://images.keizai.biz/narashino_keizai/headline/1650878966_photo.jpg' alt='「ならしのスマイルラン」3年ぶり開催へ　仮エントリー締め切り間近' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/14/'>「ならしのスマイルラン」3年ぶり開催へ　仮エントリー締め切り間近</a><small>（2022.04.23）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0124136,
+          35.669696
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/13/'><img src='https://images.keizai.biz/narashino_keizai/headline/1650533301_photo.jpg' alt='習志野シティFC、新年度始動　初戦は5月29日' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/13/'>習志野シティFC、新年度始動　初戦は5月29日</a><small>（2022.04.21）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0055929,
+          35.6810978
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/12/'><img src='https://images.keizai.biz/narashino_keizai/headline/1650257909_photo.jpg' alt='習志野「谷津バラ園」でバラの開花待ち　見頃は5月中旬ごろ' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/12/'>習志野「谷津バラ園」でバラの開花待ち　見頃は5月中旬ごろ</a><small>（2022.04.18）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0279467,
+          35.6805572
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/11/'><img src='https://images.keizai.biz/narashino_keizai/headline/1650251270_photo.jpg' alt='習志野市「消防ふれあい広場」　2年ぶりに再開' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/11/'>習志野市「消防ふれあい広場」　2年ぶりに再開</a><small>（2022.04.15）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.022354,
+          35.680996
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/10/'><img src='https://images.keizai.biz/narashino_keizai/headline/1649586531_photo.jpg' alt='習志野の元銭湯「みはし湯ホール」で音楽イベント　スティールパン演奏体験も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/10/'>習志野の元銭湯「みはし湯ホール」で音楽イベント　スティールパン演奏体験も</a><small>（2022.04.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0273858,
+          35.680343
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/9/'><img src='https://images.keizai.biz/narashino_keizai/headline/1649585983_photo.jpg' alt='ウクライナ人学者の著書を習志野のカフェなどで販売　売り上げの一部を寄付' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/9/'>ウクライナ人学者の著書を習志野のカフェなどで販売　売り上げの一部を寄付</a><small>（2022.04.06）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0209939,
+          35.6887564
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/8/'><img src='https://images.keizai.biz/narashino_keizai/headline/1649585567_photo.jpg' alt='まちの魅力伝える「ならしのみやげ」　千葉工大生が地域住民らとコラボ販売' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/8/'>まちの魅力伝える「ならしのみやげ」　千葉工大生が地域住民らとコラボ販売</a><small>（2022.03.30）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0059337,
+          35.6598942
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/7/'><img src='https://images.keizai.biz/narashino_keizai/headline/1649585002_photo.jpg' alt='「習志野の海を守る会」が清掃活動　1350リットル超のゴミ回収' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/7/'>「習志野の海を守る会」が清掃活動　1350リットル超のゴミ回収</a><small>（2022.03.23）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0225448,
+          35.6900202
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/6/'><img src='https://images.keizai.biz/narashino_keizai/headline/1649584141_photo.jpg' alt='新津田沼駅近くにコワーキング＆レンタルオフィス「i-Office」1号店' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/6/'>新津田沼駅近くにコワーキング＆レンタルオフィス「i-Office」1号店</a><small>（2022.03.31）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.0061994,
+          35.6581138
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/5/'><img src='https://images.keizai.biz/narashino_keizai/headline/1649582750_photo.jpg' alt='習志野・茜浜運動公園で「パークゴルフ教室」　幅広い世代が参加' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/5/'>習志野・茜浜運動公園で「パークゴルフ教室」　幅広い世代が参加</a><small>（2022.03.25）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.046847,
+          35.6851981
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/4/'><img src='https://images.keizai.biz/narashino_keizai/headline/1649582016_photo.jpg' alt='プラッツ習志野で「はじめの一歩フェス」　180人来場、アイデアをカタチに' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://narashino.keizai.biz/headline/4/'>プラッツ習志野で「はじめの一歩フェス」　180人来場、アイデアをカタチに</a><small>（2022.04.01）</small>"
+      }
+    }
+  ]
+}
