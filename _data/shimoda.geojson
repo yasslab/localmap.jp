@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.9419325,
+          34.675663
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/69/'><img src='https://images.keizai.biz/shimoda_keizai/headline/1675980015_photo.jpg' alt='第10回下田国際音楽コンクール　大賞特典は横浜シンフォニエッタとの共演' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/69/'>第10回下田国際音楽コンクール　大賞特典は横浜シンフォニエッタとの共演</a><small>(2023.02.10)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.8665292,
           34.6496634
         ]

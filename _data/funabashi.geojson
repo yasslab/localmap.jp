@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.0518966,
+          35.7294115
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://funabashi.keizai.biz/headline/3165/'><img src='https://images.keizai.biz/funabashi_keizai/headline/1675854916_photo.jpg' alt='船橋アリーナで「音楽のまち・ふなばし 千人の音楽祭」　3年ぶりにリアル開催' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://funabashi.keizai.biz/headline/3165/'>船橋アリーナで「音楽のまち・ふなばし 千人の音楽祭」　3年ぶりにリアル開催</a><small>(2023.02.09)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.9684969,
           35.6728324
         ]

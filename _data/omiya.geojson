@@ -6,6 +6,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.6929798,
+          35.9452257
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1699/'><img src='https://images.keizai.biz/omiya_keizai/headline/1675949375_photo.jpg' alt='岩槻エリアで「まちゼミ」　商店主が知識生かし講座開講、肩肘張らず楽しく' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1699/'>岩槻エリアで「まちゼミ」　商店主が知識生かし講座開講、肩肘張らず楽しく</a><small>(2023.02.09)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7089861,
+          35.9507098
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1698/'><img src='https://images.keizai.biz/omiya_keizai/headline/1675926678_photo.jpg' alt='さいたまで「岩槻映画祭」　入選した11作品上映、グランプリ発表も' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://omiya.keizai.biz/headline/1698/'>さいたまで「岩槻映画祭」　入選した11作品上映、グランプリ発表も</a><small>(2023.02.09)</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.6318202,
           35.9189126
         ]
