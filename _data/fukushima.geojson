@@ -6,6 +6,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          140.4515303,
+          37.771428
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://fukushima.keizai.biz/headline/768/'><img src='https://images.keizai.biz/fukushima_keizai/headline/1676066259_photo.jpg' alt='福島在住の・小6・齋藤日吉くん、 キックボクシングアマチュア大会で優勝' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://fukushima.keizai.biz/headline/768/'>福島在住の・小6・齋藤日吉くん、 キックボクシングアマチュア大会で優勝</a><small>（2023.02.11）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.522593,
+          37.7002189
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://fukushima.keizai.biz/headline/767/'><img src='https://images.keizai.biz/fukushima_keizai/headline/1675994331_photo.jpg' alt='福島の郊外・立子山のコーヒー豆焙煎所「黒の巣」が3周年' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://fukushima.keizai.biz/headline/767/'>福島の郊外・立子山のコーヒー豆焙煎所「黒の巣」が3周年</a><small>（2023.02.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.4625686,
           37.7549883
         ]

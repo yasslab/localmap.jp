@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          130.2683093,
+          33.2808995
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://saga.keizai.biz/headline/1545/'><img src='https://images.keizai.biz/saga_keizai/headline/1676001408_photo.jpg' alt='佐賀・鍋島に「とろり天使のわらびもち」　全都道府県出店達成、飲むわらびもちも' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://saga.keizai.biz/headline/1545/'>佐賀・鍋島に「とろり天使のわらびもち」　全都道府県出店達成、飲むわらびもちも</a><small>（2023.02.10）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           130.2999678,
           33.2548679
         ]
