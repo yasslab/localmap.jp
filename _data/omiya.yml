@@ -1,4 +1,20 @@
 ---
+- :id: 1702
+  :src: https://omiya.keizai.biz/mapnews/1702
+  :lat: 35.923169
+  :lng: 139.6220105
+  :link: https://omiya.keizai.biz/headline/1702/
+  :date: 2023.02.12
+  :image: https://images.keizai.biz/omiya_keizai/headline/1676128495_photo.jpg
+  :title: 大宮の洋菓子店が1周年　氷川神社とコラボで大宮土産菓子を開発
+- :id: 1701
+  :src: https://omiya.keizai.biz/mapnews/1701
+  :lat: 35.8928158
+  :lng: 139.6198882
+  :link: https://omiya.keizai.biz/headline/1701/
+  :date: 2023.02.11
+  :image: https://images.keizai.biz/omiya_keizai/headline/1676089616_photo.jpg
+  :title: さいたまの創業55年のホルモン卸「一色」がオンラインショップ　冷凍自販機も
 - :id: 1700
   :src: https://omiya.keizai.biz/mapnews/1700
   :lat: 35.8840657
