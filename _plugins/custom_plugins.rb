@@ -18,6 +18,6 @@ end
 # Startup scripts when exec `jekyll [serve|build]`
 Jekyll::Hooks.register :site, :after_init do |page|
   # Build pages with GeoJSON compcation
-  system "bundle exec rake upsert_geojson"
-  system "bundle exec rake build_pages"
+  system "bundle exec rake --silent upsert_geojson"
+  system "bundle exec rake --silent build_pages"
 end

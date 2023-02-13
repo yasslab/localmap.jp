@@ -80,8 +80,7 @@ geojson = {
   "features": features
 }
 
-PRETTY_GEOJSON = JSON.pretty_generate(geojson)
-File.open("public/#{TARGET_AREA[:id]}.geojson", "w") do |file|
-  file.write(PRETTY_GEOJSON)
-  #JSON.dump(geojson, file)
-end
+# Generate both minimized and pretty-formated GeoJSON files
+File.open("public/#{TARGET_AREA[:id]}.min.geojson", 'w'){ |f| JSON.dump(geojson, f) }
+File.open("public/#{TARGET_AREA[:id]}.geojson",     "w"){ |f| f.write(JSON.pretty_generate geojson) }
+puts "Generated: public/#{TARGET_AREA[:id]}[.min].geojson"

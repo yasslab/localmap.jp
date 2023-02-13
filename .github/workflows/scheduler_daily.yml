@@ -37,7 +37,7 @@ jobs:
       run: |
         bundle install --jobs 4 --retry 3
 
-    - name: 📍 Build markers, GeoJson, and pages
+    - name: 📍 Build markers, GeoJSON, and pages
       run: |
         bundle exec rake upsert_markers
         bundle exec rake upsert_geojson
