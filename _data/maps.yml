@@ -11,6 +11,7 @@
   zoom: 14
 - area: 赤羽
   pref: 東京
+  twitter: akabanekeizai
   id:   akabane
   lat:  35.777615
   lng:  139.7209868
@@ -27,6 +28,7 @@
   zoom: 12
 - area: 浦和
   pref: 埼玉
+  twitter: urawakeizai
   id:   urawa
   lat:  35.8587763
   lng:  139.6534162
@@ -34,6 +36,7 @@
   zoom: 12
 - area: 秩父
   pref: 埼玉
+  twitter: chichibukeizai
   id:   chichibu
   lat:  35.9988245
   lng:  139.0794146
@@ -41,6 +44,7 @@
   zoom: 12
 - area: 船橋
   pref: 千葉
+  twitter: Funabashikeizai
   id:   funabashi
   lat:  35.70174
   lng:  139.9831875
@@ -48,6 +52,7 @@
   zoom: 12
 - area: 習志野
   pref: 千葉
+  twitter: narashinokeizai
   id:   narashino
   lat:  35.6802198
   lng:  140.0160045
@@ -55,6 +60,7 @@
   zoom: 13
 - area: 伊豆下田
   pref: 静岡
+  twitter: shimodakeizai
   id:   shimoda
   lat:  34.67941359100851
   lng:  138.94534320440602
@@ -62,6 +68,7 @@
   zoom: 12
 - area: 福島
   pref: 福島
+  twitter: FKeizai
   id:   fukushima
   lat:  37.75434
   lng:  140.4592361
@@ -69,6 +76,7 @@
   zoom: 12
 - area: 佐賀
   pref: 佐賀
+  twitter: sagakeizai
   id:   saga
   lat:  33.2653394
   lng:  130.2897441
