@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          139.9822825,
+          35.6945622
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://funabashi.keizai.biz/headline/3167/'><img src='https://images.keizai.biz/funabashi_keizai/headline/1676194311_photo.jpg' alt='船橋が拠点の3人制プロバスケ「SAKURA」、市長を表敬訪問　意気込み語る' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://funabashi.keizai.biz/headline/3167/'>船橋が拠点の3人制プロバスケ「SAKURA」、市長を表敬訪問　意気込み語る</a><small>（2023.02.12）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           140.0248882,
           35.7965606
         ]

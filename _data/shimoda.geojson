@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          138.9331142,
+          34.9725634
+        ]
+      },
+      "properties": {
+        "marker-size": "small",
+        "marker-symbol": "minkei",
+        "marker-color": "rgba(237, 208, 70, 0.8)",
+        "description": "<a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/70/'><img src='https://images.keizai.biz/shimoda_keizai/headline/1676235763_photo.jpg' alt='伊豆石を知るオンライン講座　江戸城だけなく横浜や銀座の近代都市にも影響' width='100%' loading='lazy' /></a><a target='_blank' rel='noopener' href='https://shimoda.keizai.biz/headline/70/'>伊豆石を知るオンライン講座　江戸城だけなく横浜や銀座の近代都市にも影響</a><small>（2023.02.13）</small>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           138.9419325,
           34.675663
         ]
