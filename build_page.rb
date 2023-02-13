@@ -42,8 +42,8 @@ File.open(TARGET_FILE, 'w') do |file|
 end
 
 # Compact GeoJSON for better loading by web browser
-geojson = JSON.load(File.read "_data/#{TARGET_AREA[:id]}.geojson")
-File.open("./public/#{TARGET_AREA[:id]}.min.geojson", 'w') do |file|
+geojson = JSON.load(File.read "public/#{TARGET_AREA[:id]}.geojson")
+File.open("public/#{TARGET_AREA[:id]}.min.geojson", 'w') do |file|
   JSON.dump(geojson, file)
 end
 

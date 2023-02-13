@@ -81,7 +81,7 @@ geojson = {
 }
 
 PRETTY_GEOJSON = JSON.pretty_generate(geojson)
-File.open("_data/#{TARGET_AREA[:id]}.geojson", "w") do |file|
+File.open("public/#{TARGET_AREA[:id]}.geojson", "w") do |file|
   file.write(PRETTY_GEOJSON)
   #JSON.dump(geojson, file)
 end
