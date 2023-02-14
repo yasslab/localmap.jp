@@ -1,10 +1,11 @@
 ---
 ---
 
-{% assign markers = site.data.takadanobaba | where_exp: "marker", "marker[':title'] != '404_Not_Found'" %}
+{% assign samples = site.data.samples | map: 'id' %}
+{% assign markers = site.data.takadanobaba | where_exp: "marker", "samples contains marker[':id']" %}
 
 [
-  {% for marker in markers %}{% if marker[':id'] > 1030 %}{% continue %}{% endif %}
+  {% for marker in markers %}
     {
       "id":    "{{ marker[':id'] }}",
       "src":   "{{ marker[':src'] }}",
@@ -15,6 +16,6 @@
       "image": "{{ site.url }}/images/takadanobaba/{{ marker[':id'] }}.jpg",
       "title": {{ marker[':title'] | jsonify }}
     }
-    {% if marker[':id'] > 1000 %},{% else %}{% break %}{% endif %}
+    {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
