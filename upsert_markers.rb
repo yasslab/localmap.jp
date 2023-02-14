@@ -81,6 +81,7 @@ debug_mode     = ENV['DEBUG_MODE'].to_s.downcase == 'true'
   end
 
   # mapnews から取得できた位置情報を YAML ファイルに格納する
+  # 特殊文字のエスケープも YAML 側で対応されている: https://gyazo.com/6cd29f81e3b288f97d1de8bf7f74f116
   if html && !html.search('time').text.empty?
     date    = html.search('time').text
     link    = html.search('li.send a').attribute('href').value
