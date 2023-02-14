@@ -105,16 +105,6 @@
       {% endif %}
     ></script>
 
-    {% if site.env.JEKYLL_ENV == 'production' %}
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-62337761-11"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-62337761-11');
-    </script>
-    {% endif %}
+    {% include analytics.html %}
   </body>
 </html>
