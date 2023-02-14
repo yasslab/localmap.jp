@@ -13,48 +13,7 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta charset="UTF-8" />
-    <meta name="viewport"     content="width=device-width, initial-scale=1.0" />
-    <meta name="description"  content="{{ page.description }}" />
-    <title>{{ page.title }}</title>
-    <script type="text/javascript">
-      if (window.location.href== "https://babamap.net/{{ id }}") {
-          window.location.href = "https://localmap.jp/{{ id }}";
-      }
-    </script>
-
-    <!-- OGP Settings-->
-    <meta property="fb:app_id"       content="2063612603708968">
-    <meta property="fb:admins"       content="100001334499453">
-    <meta property="og:locale"       content="ja_JP">
-    <meta property="og:type"         content="website">
-    <meta property="og:site_name"    content="{{ map['area'] }}経済新聞">
-    <meta property="og:title"        content="{{ page.title }}">
-    <meta property="og:description"  content="{{ page.description }}">
-    <meta property="og:url"          content="https://localmap.jp/{{ id }}">
-    <meta property="og:image"        content="https://localmap.jp/images/cover.png">
-    <meta property="og:image:type"   content="image/png">
-
-    <meta name="twitter:card"        content="summary_large_image">
-    {% if map['twitter'] %}
-    <meta name="twitter:site"        content="@{{ map['twitter'] }}">
-    {% endif %}
-    
-    <meta name="twitter:image"       content="https://localmap.jp/images/cover.png">
-    <meta name="twitter:title"       content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.description }}">
-
-    <!-- Icons for iOS, Android, and Windows -->
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/images/minkei.png">
-    <meta name="theme-color"             content="#ffffff">
-    <link href="https://localmap.jp/favicon.ico" rel="shortcut icon">
-    <link href="/manifest.json"     rel="manifest">
-    <link href="/images/minkei.svg" rel="mask-icon" color="#1373ce">
-    <link href="/images/minkei.png" rel="icon" type="image/png" sizes="96x96">
-    <link href="/images/minkei.png" rel="icon" type="image/png" sizes="192x192" >
-    <link href="/images/minkei.png" rel="apple-touch-icon"      sizes="180x180">
+    {% include head.html %}
     
     <style>
       body,

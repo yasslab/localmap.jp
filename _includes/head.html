@@ -1,0 +1,75 @@
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport"           content="width=device-width, initial-scale=1.0">
+<link href="https://localmap.jp/feed.xml" type="application/atom+xml" rel="alternate" title="Atom feed LoclaMap.jp">
+
+<title>{{ page.title | default: site.name }}</title>
+<meta name="description" content="{{ page.description | default: site.description }}">
+<meta name="author"      content="{{ site.author }}">
+<meta name="copyright"   content="{{ site.author }}">
+<meta name="thumbnail"   content="https://localmap.jp/images/cover.png">
+<meta name="robots"      content="index, follow">
+<meta name="keywords"    content="みんなの経済新聞,地図,ニュース,マップ,みん経">
+
+<script type="text/javascript">
+{% if map %}
+  if (window.location.href== "https://babamap.net/{{ map['id'] }}") {
+      window.location.href = "https://localmap.jp/{{ map['id'] }}";
+  }
+{% else %}
+  if (window.location.href.indexOf("babamap.net") > -1) {
+      window.location.href = "https://localmap.jp";
+  }
+{% endif %}
+</script>
+
+<!-- OpenGraph -->
+<meta property="fb:app_id"      content="2063612603708968">
+<meta property="fb:admins"      content="100001334499453">
+<meta property="og:title"       content="{{ page.title       | default: site.name }}">
+<meta property="og:site_name"   content="{{ page.title       | default: site.name }}">
+<meta property="og:description" content="{{ page.description | default: site.description }}">
+<meta property="og:url"         content="https://localmap.jp/{{ map['id'] }}">
+<meta property="og:type"        content="website">
+<meta property="og:locale"      content="ja_JP">
+<meta property="og:image"       content="https://localmap.jp/images/cover.png">
+<meta property="og:image:type"  content="image/png">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card"        content="summary_large_image">
+<meta name="twitter:site"        content="@{{ map['twitter'] | default: 'baba_keizai' }}">
+<meta name="twitter:image"       content="https://localmap.jp/images/cover.png">
+<meta name="twitter:title"       content="{{ page.title       | default: site.name }}">
+<meta name="twitter:description" content="{{ page.description | default: site.description }}">
+
+<!-- Icons for iOS, Android, and Windows -->
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/minkei.png">
+<meta name="theme-color"             content="#ffffff">
+<link href="https://localmap.jp/favicon.ico" rel="shortcut icon">
+<link href="/manifest.json"     rel="manifest">
+<link href="/images/minkei.svg" rel="mask-icon" color="#1373ce">
+<link href="/images/minkei.png" rel="icon" type="image/png" sizes="96x96">
+<link href="/images/minkei.png" rel="icon" type="image/png" sizes="192x192" >
+<link href="/images/minkei.png" rel="apple-touch-icon"      sizes="180x180">
+
+<!-- Icons for iOS, Android, and Windows   -->
+<!-- cf. https://realfavicongenerator.net/ -->
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/minkei.png">
+<meta name="theme-color"             content="#ffffff">
+<link href="https://localmap.jp/"            rel="canonical">
+<link href="https://localmap.jp/favicon.ico" rel="shortcut icon">
+<link href="/manifest.json"     rel="manifest">
+<link href="/images/minkei.svg" rel="mask-icon" color="#3171be">
+<link href="/images/minkei.png" rel="icon" type="image/png" sizes="16x16">
+<link href="/images/minkei.png" rel="icon" type="image/png" sizes="32x32">
+<link href="/images/minkei.png" rel="icon" type="image/png" sizes="96x96">
+<link href="/images/minkei.png" rel="icon" type="image/png" sizes="192x192" >
+<link href="/images/minkei.png" rel="apple-touch-icon"      sizes="180x180">
+<link href="/favicon.ico"       rel="shortcut icon">
+<meta name="apple-mobile-web-app-title" content="LocalMap.jp">
+<meta name="application-name"           content="LocalMap.jp">
+<meta name="msapplication-TileColor"    content="#3171be">
+<meta name="theme-color"                content="#3171be">
+<meta name="msapplication-config"       content="/browserconfig.xml">

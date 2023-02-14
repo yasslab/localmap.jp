@@ -4,79 +4,16 @@
 <!DOCTYPE html>
 <html lang="ja">
   <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>LocalMap.jp - 地図で振り返る、地域の出来事</title>
-    <script type="text/javascript">
-      if (window.location.href.indexOf("babamap.net") > -1) {
-          window.location.href = "https://localmap.jp";
-      }
-    </script>
+    {% include head.html %}
     
-    <!-- Atom feed / RSS 2.0 feed -->
-    <!--
-    <link href="https://localmap.jp/atom.xml" type="application/atom+xml" rel="alternate" title="Atom feed LoclaMap.jp">
-    <link href="https://localmap.jp/rss.xml"  type="application/rss+xml"  rel="alternate" title="RSS 2.0 feed LocalMap.jp">
-    -->
-
-    <!-- Meta tags -->
-    <meta name="author"      content="高田馬場経済新聞">
-    <meta name="copyright"   content="高田馬場経済新聞">
-    <meta name="description" content="みんなの経済新聞ネットワークの各地域で配信されたニュース記事の一部をプロットした地図です。">
-    <meta name="thumbnail" content="https://localmap.jp/images/cover.png">
-    <meta name="robots"    content="index, follow">
-    <meta name="keywords"  content="みんなの経済新聞,地図,ニュース,マップ,minkei">
-    <meta name="viewport"  content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- OpenGraph -->
-    <meta property="fb:app_id"      content="2063612603708968">
-    <meta property="fb:admins"      content="100001334499453">
-    <meta property="og:title"       content="LocalMap.jp - 地図で振り返る、地域の出来事">
-    <meta property="og:description" content="みんなの経済新聞ネットワークの各地域で配信されたニュース記事の一部をプロットした地図です。">
-    <meta property="og:site_name"   content="高田馬場経済新聞">
-    <meta property="og:url"         content="https://localmap.jp/">
-    <meta property="og:type"        content="website">
-    <meta property="og:locale"      content="ja_JP">
-    <meta property="og:image"       content="https://localmap.jp/images/cover.png">
-    <meta property="og:image:type"  content="image/png">
-
-    <!-- Twitter Cards -->
-    <meta name="twitter:card"        content="summary_large_image">
-    <meta name="twitter:site"        content="@baba_keizai">
-    <meta name="twitter:image"       content="https://localmap.jp/images/cover.png">
-    <meta name="twitter:title"       content="LocalMap.jp - 地図で振り返る、地域の出来事">
-    <meta name="twitter:description" content="みんなの経済新聞ネットワークの各地域で配信されたニュース記事の一部をプロットした地図です。">
-
-    <!-- Google Fonts -->
+    <!-- Google Fonts / Font Awesome -->
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
-
-    <!-- Fontawesome-->
     <script src="https://kit.fontawesome.com/82f32b9df5.js" crossorigin="anonymous"></script>
 
-    <!-- CSS with Bootstrap -->
+    <!-- CSS / Bootstrap -->
     <link rel="stylesheet" href="./stylesheets/main.css">
     <link rel="stylesheet" href="./stylesheets/bootstrap.css">
-
-    <!-- Icons for iOS, Android, and Windows -->
-    <!-- cf. https://realfavicongenerator.net/ -->
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="/images/minkei.png">
-    <meta name="theme-color"             content="#ffffff">
-    <link href="https://localmap.jp/"            rel="canonical">
-    <link href="https://localmap.jp/favicon.ico" rel="shortcut icon">
-    <link href="/manifest.json"     rel="manifest">
-    <link href="/images/minkei.svg" rel="mask-icon" color="#3171be">
-    <link href="/images/minkei.png" rel="icon" type="image/png" sizes="16x16">
-    <link href="/images/minkei.png" rel="icon" type="image/png" sizes="32x32">
-    <link href="/images/minkei.png" rel="icon" type="image/png" sizes="96x96">
-    <link href="/images/minkei.png" rel="icon" type="image/png" sizes="192x192" >
-    <link href="/images/minkei.png" rel="apple-touch-icon"      sizes="180x180">
-    <link href="/favicon.ico"       rel="shortcut icon">
-    <meta name="apple-mobile-web-app-title" content="LocalMap.jp">
-    <meta name="application-name"           content="LocalMap.jp">
-    <meta name="msapplication-TileColor"    content="#3171be">
-    <meta name="theme-color"                content="#3171be">
-    <!--<meta name="msapplication-config"       content="/browserconfig.xml">-->
   </head>
 
   <body class="d-flex flex-column h-entry" id="body">
