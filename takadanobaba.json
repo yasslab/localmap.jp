@@ -8,7 +8,6 @@
   {% for marker in markers %}
     {
       "id":    "{{ marker[':id'] }}",
-      "src":   "{{ marker[':src'] }}",
       "lat":   "{{ marker[':lat'] }}",
       "lng":   "{{ marker[':lng'] }}",
       "link":  "{{ marker[':link'] }}",
