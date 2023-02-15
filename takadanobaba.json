@@ -1,19 +1,15 @@
 ---
 ---
-
 {% assign samples = site.data.samples | map: 'id' %}
 {% assign markers = site.data.takadanobaba | where_exp: "marker", "samples contains marker[':id']" %}
-
-[
-  {% for marker in markers %}
-    {
-      "id":    "{{ marker[':id'] }}",
-      "lat":   "{{ marker[':lat'] }}",
-      "lng":   "{{ marker[':lng'] }}",
-      "link":  "{{ marker[':link'] }}",
-      "photo": "{{ site.url }}/images/takadanobaba/{{ marker[':id'] }}.jpg",
-      "title": {{ marker[':title'] | jsonify }}
-    }
-    {% unless forloop.last %},{% endunless %}
+[ {% for marker in markers %}
+  {
+    "id":    "{{ marker[':id'] }}",
+    "lat":   "{{ marker[':lat'] }}",
+    "lng":   "{{ marker[':lng'] }}",
+    "link":  "{{ marker[':link'] }}",
+    "photo": "{{ site.url }}/images/takadanobaba/{{ marker[':id'] }}.jpg",
+    "title": {{ marker[':title'] | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
