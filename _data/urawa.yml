@@ -1,4 +1,20 @@
 ---
+- :id: 801
+  :src: https://urawa.keizai.biz/mapnews/801
+  :lat: 35.8949557
+  :lng: 139.6307672
+  :link: https://urawa.keizai.biz/headline/801/
+  :date: 2023.02.16
+  :image: https://images.keizai.biz/urawa_keizai/headline/1676444170_photo.jpg
+  :title: "「彩の国ビジネスアリーナ」が20回目の節目　スポーツ関連産業コーナーも新設"
+- :id: 800
+  :src: https://urawa.keizai.biz/mapnews/800
+  :lat: 35.8759376
+  :lng: 139.6494636
+  :link: https://urawa.keizai.biz/headline/800/
+  :date: 2023.02.15
+  :image: https://images.keizai.biz/urawa_keizai/headline/1676425491_photo.jpg
+  :title: 北浦和のフェレットとウサギの専門店が9周年
 - :id: 799
   :src: https://urawa.keizai.biz/mapnews/799
   :lat: 35.8840657
