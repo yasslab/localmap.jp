@@ -8,8 +8,8 @@
     "lat":   "{{ marker[':lat'] }}",
     "lng":   "{{ marker[':lng'] }}",
     "link":  "{{ marker[':link'] }}",
-    "photo": "{{ site.url }}/images/takadanobaba/{{ marker[':id'] }}.jpg",
-    "title": {{ marker[':title'] | split: '　' | first | replace: '「早稲田桜天ノ川」', ' 早稲田桜天ノ川' | jsonify }}
+    "name":  {{ marker[':title'] | split: '　' | first | replace: '「早稲田桜天ノ川」', ' 早稲田桜天ノ川' | jsonify }},
+    "photo": "{{ site.url }}/images/takadanobaba/{{ marker[':id'] }}.jpg"
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
