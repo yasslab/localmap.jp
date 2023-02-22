@@ -1,4 +1,20 @@
 ---
+- :id: 79
+  :src: https://shimoda.keizai.biz/mapnews/79
+  :lat: 34.7959179
+  :lng: 138.9858082
+  :link: https://shimoda.keizai.biz/headline/79/
+  :date: 2023.02.22
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1677015491_photo.jpg
+  :title: "「河津ブルーベリーの里」で初の花見イベント　こたつで桜を楽しむ"
+- :id: 78
+  :src: https://shimoda.keizai.biz/mapnews/78
+  :lat: 34.7455919
+  :lng: 138.9953912
+  :link: https://shimoda.keizai.biz/headline/78/
+  :date: 2023.02.21
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1676947334_photo.jpg
+  :title: "「河津桜まつり」見頃近づく　3月5日まで会期延長"
 - :id: 77
   :src: https://shimoda.keizai.biz/mapnews/77
   :lat: 34.6984719
