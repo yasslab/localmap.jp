@@ -9,7 +9,7 @@
     "lng":   "{{ marker[':lng'] }}",
     "link":  "{{ marker[':link'] }}",
     "photo": "{{ site.url }}/images/takadanobaba/{{ marker[':id'] }}.jpg",
-    "title": {{ marker[':title'] | jsonify }}
+    "title": {{ marker[':title'] | split: '　' | first | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
