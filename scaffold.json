@@ -7,9 +7,9 @@
     "id":    "{{ marker[':id'] }}",
     "lat":   "{{ marker[':lat'] }}",
     "lng":   "{{ marker[':lng'] }}",
-    "link":  "{{ marker[':link'] }}",
     "name":  {{ marker[':title'] | split: '　' | first | replace: '「早稲田桜天ノ川」', ' 早稲田桜天ノ川' | jsonify }},
-    "photo": "{{ site.url }}/images/takadanobaba/{{ marker[':id'] }}.jpg"
+    "photo": "{{ site.url }}/images/takadanobaba/{{ marker[':id'] }}.jpg",
+    "url":   "{{ marker[':link'] }}"
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
