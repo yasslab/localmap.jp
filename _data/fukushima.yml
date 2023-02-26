@@ -1,4 +1,12 @@
 ---
+- :id: 777
+  :src: https://fukushima.keizai.biz/mapnews/777
+  :lat: 37.753102
+  :lng: 140.4659891
+  :link: https://fukushima.keizai.biz/headline/777/
+  :date: 2023.02.25
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1677285943_photo.jpg
+  :title: 福島のライブハウス「C-moon」など、太平寺に移転へ　CFで支援呼びかけ
 - :id: 776
   :src: https://fukushima.keizai.biz/mapnews/776
   :lat: 37.7532096
