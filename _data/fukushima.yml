@@ -1,4 +1,12 @@
 ---
+- :id: 789
+  :src: https://fukushima.keizai.biz/mapnews/789
+  :lat: 37.8765089
+  :lng: 140.5421172
+  :link: https://fukushima.keizai.biz/headline/789/
+  :date: 2023.03.18
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1679091491_photo.jpg
+  :title: 国見町で「観月台公園　夜桜ライトアップ」　池に映るソメイヨシノが見所
 - :id: 788
   :src: https://fukushima.keizai.biz/mapnews/788
   :lat: 37.8216641
