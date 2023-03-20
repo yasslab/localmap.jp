@@ -1,4 +1,12 @@
 ---
+- :id: 99
+  :src: https://shimoda.keizai.biz/mapnews/99
+  :lat: 34.6796171
+  :lng: 138.9451459
+  :link: https://shimoda.keizai.biz/headline/99/
+  :date: 2023.03.20
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1679266894_photo.jpg
+  :title: 下田東急ホテルで「紙から考える地球の環境」　親子で楽しく環境を学ぶ春休み
 - :id: 98
   :src: https://shimoda.keizai.biz/mapnews/98
   :lat: 34.8230704
