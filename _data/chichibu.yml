@@ -1,4 +1,20 @@
 ---
+- :id: 445
+  :src: https://chichibu.keizai.biz/mapnews/445
+  :lat: 35.98695590000001
+  :lng: 139.1024563
+  :link: https://chichibu.keizai.biz/headline/445/
+  :date: 2023.03.20
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1679276221_photo.jpg
+  :title: 横瀬町にものづくり施設「たてラボ」　秩父高の同級生2人が立ち上げ
+- :id: 444
+  :src: https://chichibu.keizai.biz/mapnews/444
+  :lat: 36.0283374
+  :lng: 139.0265635
+  :link: https://chichibu.keizai.biz/headline/444/
+  :date: 2023.03.20
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1679273024_photo.jpg
+  :title: 秩父のホテル「ユニオンヴェール」　スイーツビュッフェが人気で週2日に
 - :id: 443
   :src: https://chichibu.keizai.biz/mapnews/443
   :lat: 36.0095223
