@@ -1,4 +1,20 @@
 ---
+- :id: 240
+  :src: https://narashino.keizai.biz/mapnews/240
+  :lat: 35.6658002
+  :lng: 140.022475
+  :link: https://narashino.keizai.biz/headline/240/
+  :date: 2023.03.28
+  :image: https://images.keizai.biz/narashino_keizai/headline/1679995186_photo.jpg
+  :title: 習志野・香澄にカフェ新店　管理栄養士・バリスタの店主が開く
+- :id: 239
+  :src: https://narashino.keizai.biz/mapnews/239
+  :lat: 35.6701505
+  :lng: 140.0168945
+  :link: https://narashino.keizai.biz/headline/239/
+  :date: 2023.03.28
+  :image: https://images.keizai.biz/narashino_keizai/headline/1679973549_photo.jpg
+  :title: 習志野の障がい者福祉施設・花の実園で「さくらまつり」　4年ぶり開催へ
 - :id: 238
   :src: https://narashino.keizai.biz/mapnews/238
   :lat: 35.6924774
