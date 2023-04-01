@@ -1,4 +1,28 @@
 ---
+- :id: 802
+  :src: https://fukushima.keizai.biz/mapnews/802
+  :lat: 37.6359875
+  :lng: 140.4816284
+  :link: https://fukushima.keizai.biz/headline/802/
+  :date: 2023.04.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1680251711_photo.jpg
+  :title: 二本松「道の駅安達 智恵子の里」下り線が10周年
+- :id: 801
+  :src: https://fukushima.keizai.biz/mapnews/801
+  :lat: 37.75676989999999
+  :lng: 140.4628679
+  :link: https://fukushima.keizai.biz/headline/801/
+  :date: 2023.03.31
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1680245850_photo.jpg
+  :title: 福島・陣場町に居酒屋「心のとびら」　青森の家庭料理をメニューに
+- :id: 800
+  :src: https://fukushima.keizai.biz/mapnews/800
+  :lat: 37.7547006
+  :lng: 140.4659193
+  :link: https://fukushima.keizai.biz/headline/800/
+  :date: 2023.03.31
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1680242059_photo.jpg
+  :title: 福島のフリーペーパー「GURUTTO」が5周年　福島の最新情報を発信
 - :id: 799
   :src: https://fukushima.keizai.biz/mapnews/799
   :lat: 37.7556537
