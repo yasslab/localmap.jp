@@ -1,4 +1,12 @@
 ---
+- :id: 111
+  :src: https://shimoda.keizai.biz/mapnews/111
+  :lat: 34.6757136
+  :lng: 138.9470903
+  :link: https://shimoda.keizai.biz/headline/111/
+  :date: 2023.04.04
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1680560140_photo.jpg
+  :title: 下田で初の「CHILL WEEK」　「チル」をテーマにたき火や街なか散歩など
 - :id: 110
   :src: https://shimoda.keizai.biz/mapnews/110
   :lat: 34.6763698
