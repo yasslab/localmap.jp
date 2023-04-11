@@ -1,4 +1,20 @@
 ---
+- :id: 247
+  :src: https://narashino.keizai.biz/mapnews/247
+  :lat: 35.6897127
+  :lng: 140.0196305
+  :link: https://narashino.keizai.biz/headline/247/
+  :date: 2023.04.10
+  :image: https://images.keizai.biz/narashino_keizai/headline/1681091820_photo.jpg
+  :title: 習志野市芸術祭開催　文化ホールから場所を変えて
+- :id: 246
+  :src: https://narashino.keizai.biz/mapnews/246
+  :lat: 35.688274
+  :lng: 140.0202216
+  :link: https://narashino.keizai.biz/headline/246/
+  :date: 2023.04.01
+  :image: https://images.keizai.biz/narashino_keizai/headline/1680752683_photo.jpg
+  :title: 千葉工業大、学位証明書をNFTで発行　国内大学で初
 - :id: 245
   :src: https://narashino.keizai.biz/mapnews/245
   :lat: 35.6813898
