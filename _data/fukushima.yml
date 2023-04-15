@@ -1,4 +1,20 @@
 ---
+- :id: 808
+  :src: https://fukushima.keizai.biz/mapnews/808
+  :lat: 37.7669499
+  :lng: 140.4351125
+  :link: https://fukushima.keizai.biz/headline/808/
+  :date: 2023.04.14
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1681461585_photo.jpg
+  :title: 福島・八島田にスーパー「ロシナンテ福島西店」　開店前から行列
+- :id: 807
+  :src: https://fukushima.keizai.biz/mapnews/807
+  :lat: 37.7489715
+  :lng: 140.4373449
+  :link: https://fukushima.keizai.biz/headline/807/
+  :date: 2023.04.14
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1681439498_photo.jpg
+  :title: 福島・仁井田にカフェ「百草園」　中国のスイーツやドリンクを提供
 - :id: 806
   :src: https://fukushima.keizai.biz/mapnews/806
   :lat: 37.7589129
