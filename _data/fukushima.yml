@@ -1,4 +1,20 @@
 ---
+- :id: 810
+  :src: https://fukushima.keizai.biz/mapnews/810
+  :lat: 37.8521789
+  :lng: 140.6061456
+  :link: https://fukushima.keizai.biz/headline/810/
+  :date: 2023.04.17
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1681724110_photo.jpg
+  :title: 伊達・梁川の保育園「梁川保育園」が100周年　記念式典も
+- :id: 809
+  :src: https://fukushima.keizai.biz/mapnews/809
+  :lat: 37.7561722
+  :lng: 140.5429176
+  :link: https://fukushima.keizai.biz/headline/809/
+  :date: 2023.04.17
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1681692276_photo.jpg
+  :title: 福島・大波にカフェ「古民家カフェimoca」　築100年の古民家をリノベーション
 - :id: 808
   :src: https://fukushima.keizai.biz/mapnews/808
   :lat: 37.7669499
