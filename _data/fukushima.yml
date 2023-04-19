@@ -1,4 +1,20 @@
 ---
+- :id: 812
+  :src: https://fukushima.keizai.biz/mapnews/812
+  :lat: 37.7343237
+  :lng: 140.4405651
+  :link: https://fukushima.keizai.biz/headline/812/
+  :date: 2023.04.18
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1681807323_photo.jpg
+  :title: 福島・大森に旅行代理店「ドルチェツアー福島」　福島再発見ツアーに意欲
+- :id: 811
+  :src: https://fukushima.keizai.biz/mapnews/811
+  :lat: 37.7561805
+  :lng: 140.4677205
+  :link: https://fukushima.keizai.biz/headline/811/
+  :date: 2023.04.18
+  :image: https://images.keizai.biz/fukushima_keizai/headline/
+  :title: 福島・新町に学習塾「大舘塾」　スタディサプリ活用、映像授業も
 - :id: 810
   :src: https://fukushima.keizai.biz/mapnews/810
   :lat: 37.8521789
