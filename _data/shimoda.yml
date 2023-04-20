@@ -1,4 +1,12 @@
 ---
+- :id: 123
+  :src: https://shimoda.keizai.biz/mapnews/123
+  :lat: 34.6729134
+  :lng: 138.9735755
+  :link: https://shimoda.keizai.biz/headline/123/
+  :date: 2023.04.20
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1681939198_photo.jpg
+  :title: 下田で「ビーチサイドサウナ」　水風呂代わりに海に飛び込み「ととのう」体験
 - :id: 122
   :src: https://shimoda.keizai.biz/mapnews/122
   :lat: 34.8786664
