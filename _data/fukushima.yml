@@ -1,4 +1,20 @@
 ---
+- :id: 822
+  :src: https://fukushima.keizai.biz/mapnews/822
+  :lat: 37.7538971
+  :lng: 140.4642981
+  :link: https://fukushima.keizai.biz/headline/822/
+  :date: 2023.05.02
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1683017990_photo.jpg
+  :title: 本町「cafe120」が母の日限定アフタヌーンティーセット　選べるケーキも
+- :id: 821
+  :src: https://fukushima.keizai.biz/mapnews/821
+  :lat: 37.7549094
+  :lng: 140.4670614
+  :link: https://fukushima.keizai.biz/headline/821/
+  :date: 2023.05.02
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1683006051_photo.jpg
+  :title: 福島の雑貨店「エント」で地元アパレルブランド「コロモナチューレ」受注会
 - :id: 820
   :src: https://fukushima.keizai.biz/mapnews/820
   :lat: 37.7540322
