@@ -1,4 +1,20 @@
 ---
+- :id: 826
+  :src: https://fukushima.keizai.biz/mapnews/826
+  :lat: 37.7551028
+  :lng: 140.4669701
+  :link: https://fukushima.keizai.biz/headline/826/
+  :date: 2023.05.10
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1683709349_photo.jpg
+  :title: 福島・新町に和食店「酒楽 大娯」　ランチ営業も
+- :id: 825
+  :src: https://fukushima.keizai.biz/mapnews/825
+  :lat: 37.723132
+  :lng: 140.3983706
+  :link: https://fukushima.keizai.biz/headline/825/
+  :date: 2023.05.10
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1683680173_photo.jpg
+  :title: 福島・荒井にカフェ「AZUMA36cafe」　空き家だった古民家を再生
 - :id: 824
   :src: https://fukushima.keizai.biz/mapnews/824
   :lat: 37.7531585
