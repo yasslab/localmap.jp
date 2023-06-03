@@ -1,4 +1,20 @@
 ---
+- :id: 3209
+  :src: https://funabashi.keizai.biz/mapnews/3209
+  :lat: 35.7278689
+  :lng: 139.9957414
+  :link: https://funabashi.keizai.biz/headline/3209/
+  :date: 2023.06.02
+  :image: https://images.keizai.biz/funabashi_keizai/headline/1685717864_photo.jpg
+  :title: 船橋が本拠地の野球チーム「千葉スカイセイラーズ」、船橋市民球場で勝利
+- :id: 3208
+  :src: https://funabashi.keizai.biz/mapnews/3208
+  :lat: 35.70174
+  :lng: 139.9831875
+  :link: https://funabashi.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/funabashi.png"
+  :title: 404_Not_Found
 - :id: 3207
   :src: https://funabashi.keizai.biz/mapnews/3207
   :lat: 35.7149375
