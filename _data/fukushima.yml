@@ -1,4 +1,20 @@
 ---
+- :id: 833
+  :src: https://fukushima.keizai.biz/mapnews/833
+  :lat: 37.7557875
+  :lng: 140.4583965
+  :link: https://fukushima.keizai.biz/headline/833/
+  :date: 2023.06.09
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1686297727_photo.jpg
+  :title: エスパル福島が35周年　記念イベントで「ミライポスト」も
+- :id: 832
+  :src: https://fukushima.keizai.biz/mapnews/832
+  :lat: 37.7541789
+  :lng: 140.4697026
+  :link: https://fukushima.keizai.biz/headline/832/
+  :date: 2023.06.09
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1686288406_photo.jpg
+  :title: 福島テルサでイベント「テルサマルシェ」　フード・雑貨・昆虫館など18店
 - :id: 831
   :src: https://fukushima.keizai.biz/mapnews/831
   :lat: 37.7551422

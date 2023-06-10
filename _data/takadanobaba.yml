@@ -1,4 +1,12 @@
 ---
+- :id: 1100
+  :src: https://takadanobaba.keizai.biz/mapnews/1100
+  :lat: 35.7116066
+  :lng: 139.7074521
+  :link: https://takadanobaba.keizai.biz/headline/1100/
+  :date: 2023.06.09
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1686284182_photo.jpg
+  :title: 新宿社協が創立70周年　「安心して暮らせる新宿のまちを目指して」
 - :id: 1099
   :src: https://takadanobaba.keizai.biz/mapnews/1099
   :lat: 35.7135674
