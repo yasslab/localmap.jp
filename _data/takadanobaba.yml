@@ -1,4 +1,12 @@
 ---
+- :id: 1101
+  :src: https://takadanobaba.keizai.biz/mapnews/1101
+  :lat: 35.7054915
+  :lng: 139.7201999
+  :link: https://takadanobaba.keizai.biz/headline/1101/
+  :date: 2023.06.12
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1686561700_photo.jpg
+  :title: 油そば「武蔵野アブラ学会」が新店「早稲田別館」　「味も進化させたい」
 - :id: 1100
   :src: https://takadanobaba.keizai.biz/mapnews/1100
   :lat: 35.7116066
