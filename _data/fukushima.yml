@@ -1,4 +1,20 @@
 ---
+- :id: 840
+  :src: https://fukushima.keizai.biz/mapnews/840
+  :lat: 37.7535291
+  :lng: 140.4645801
+  :link: https://fukushima.keizai.biz/headline/840/
+  :date: 2023.06.23
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1687495238_photo.jpg
+  :title: 福島でイベント「中高生 ソーシャルアクション！」　地域から社会課題学ぶ
+- :id: 839
+  :src: https://fukushima.keizai.biz/mapnews/839
+  :lat: 37.7557488
+  :lng: 140.4672817
+  :link: https://fukushima.keizai.biz/headline/839/
+  :date: 2023.06.23
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1687483557_photo.jpg
+  :title: 福島・新町にバー「とまり木」　7年の修業期間経て念願の独立果たす
 - :id: 838
   :src: https://fukushima.keizai.biz/mapnews/838
   :lat: 37.5679944
