@@ -1,4 +1,12 @@
 ---
+- :id: 1111
+  :src: https://takadanobaba.keizai.biz/mapnews/1111
+  :lat: 35.7108133
+  :lng: 139.7037919
+  :link: https://takadanobaba.keizai.biz/headline/1111/
+  :date: 2023.07.03
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1688351578_photo.jpg
+  :title: 馬場経・上半期PV1位は前店長も駆け付けた「とんかつ なりくら閉店」
 - :id: 1110
   :src: https://takadanobaba.keizai.biz/mapnews/1110
   :lat: 35.7119742
