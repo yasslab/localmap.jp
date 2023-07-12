@@ -1,4 +1,20 @@
 ---
+- :id: 300
+  :src: https://narashino.keizai.biz/mapnews/300
+  :lat: 35.6928891
+  :lng: 140.0523398
+  :link: https://narashino.keizai.biz/headline/300/
+  :date: 2023.07.11
+  :image: https://images.keizai.biz/narashino_keizai/headline/1689044788_photo.jpg
+  :title: 日大習志野キャンパスで「津田沼見える化塾」　社会人の解決能力養う
+- :id: 299
+  :src: https://narashino.keizai.biz/mapnews/299
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/narashino.png"
+  :title: 404_Not_Found
 - :id: 298
   :src: https://narashino.keizai.biz/mapnews/298
   :lat: 35.6803075
