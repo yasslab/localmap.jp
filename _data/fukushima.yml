@@ -1,4 +1,20 @@
 ---
+- :id: 852
+  :src: https://fukushima.keizai.biz/mapnews/852
+  :lat: 37.5968422
+  :lng: 140.4336624
+  :link: https://fukushima.keizai.biz/headline/852/
+  :date: 2023.07.19
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1689719568_photo.jpg
+  :title: 二本松・城報館で「にほんまつ本の市」　一箱古本市に21店集う
+- :id: 851
+  :src: https://fukushima.keizai.biz/mapnews/851
+  :lat: 37.756015
+  :lng: 140.4687004
+  :link: https://fukushima.keizai.biz/headline/851/
+  :date: 2023.07.18
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1689656745_photo.jpg
+  :title: 福島・宮町に「紅茶専門店 村」　お茶30種に焼き菓子・スパイスカレーも
 - :id: 850
   :src: https://fukushima.keizai.biz/mapnews/850
   :lat: 37.582813
