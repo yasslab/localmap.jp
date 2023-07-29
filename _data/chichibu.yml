@@ -1,4 +1,20 @@
 ---
+- :id: 504
+  :src: https://chichibu.keizai.biz/mapnews/504
+  :lat: 36.0047508
+  :lng: 139.0823915
+  :link: https://chichibu.keizai.biz/headline/504/
+  :date: 2023.07.28
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1690542066_photo.jpg
+  :title: 秩父の菓子店「パティスリールリアン」店舗を模したギフトボックス発売
+- :id: 503
+  :src: https://chichibu.keizai.biz/mapnews/503
+  :lat: 35.9948346
+  :lng: 138.8008867
+  :link: https://chichibu.keizai.biz/headline/503/
+  :date: 2023.07.28
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1690524905_photo.jpg
+  :title: 土砂災害から復旧、中津川「こまどり荘」「渓流釣り場」営業再開
 - :id: 502
   :src: https://chichibu.keizai.biz/mapnews/502
   :lat: 35.992723
