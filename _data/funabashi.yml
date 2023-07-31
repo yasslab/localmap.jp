@@ -1,4 +1,20 @@
 ---
+- :id: 3232
+  :src: https://funabashi.keizai.biz/mapnews/3232
+  :lat: 35.7355751
+  :lng: 139.9996236
+  :link: https://funabashi.keizai.biz/headline/3232/
+  :date: 2023.07.30
+  :image: https://images.keizai.biz/funabashi_keizai/headline/1690680533_photo.jpg
+  :title: 馬込の奈良養鶏園に「奈良たまカフェ」　直売所リニューアルで飲食営業も
+- :id: 3231
+  :src: https://funabashi.keizai.biz/mapnews/3231
+  :lat: 35.70174
+  :lng: 139.9831875
+  :link: https://funabashi.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/funabashi.png"
+  :title: 404_Not_Found
 - :id: 3230
   :src: https://funabashi.keizai.biz/mapnews/3230
   :lat: 35.6925926
