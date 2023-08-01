@@ -1,4 +1,12 @@
 ---
+- :id: 555
+  :src: https://akabane.keizai.biz/mapnews/555
+  :lat: 35.7383859
+  :lng: 139.75921
+  :link: https://akabane.keizai.biz/headline/555/
+  :date: 2023.07.31
+  :image: https://images.keizai.biz/akabane_keizai/headline/1690768316_photo.jpg
+  :title: 田端文士村記念館で夏休み企画「子ども芥川龍之介検定」
 - :id: 554
   :src: https://akabane.keizai.biz/mapnews/554
   :lat: 35.7454689
