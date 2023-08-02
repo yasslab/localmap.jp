@@ -1,4 +1,20 @@
 ---
+- :id: 857
+  :src: https://fukushima.keizai.biz/mapnews/857
+  :lat: 37.7550962
+  :lng: 140.4658917
+  :link: https://fukushima.keizai.biz/headline/857/
+  :date: 2023.08.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1690856695_photo.jpg
+  :title: 福島県のラーメン店6店が「福島釜玉ラーメン」　物価高騰の打開策として
+- :id: 856
+  :src: https://fukushima.keizai.biz/mapnews/856
+  :lat: 37.8999025
+  :lng: 140.4317137
+  :link: https://fukushima.keizai.biz/headline/856/
+  :date: 2023.08.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1690850681_photo.jpg
+  :title: 旧茂庭小学校にキッチンカー「食堂 和」　期間限定出店
 - :id: 855
   :src: https://fukushima.keizai.biz/mapnews/855
   :lat: 37.7508797
