@@ -1,4 +1,12 @@
 ---
+- :id: 200
+  :src: https://shimoda.keizai.biz/mapnews/200
+  :lat: 34.6845086
+  :lng: 138.9444326
+  :link: https://shimoda.keizai.biz/headline/200/
+  :date: 2023.08.03
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1691012202_photo.jpg
+  :title: 下田「こどもとしょかん」が開設1カ月イベント　英語での読み聞かせも
 - :id: 199
   :src: https://shimoda.keizai.biz/mapnews/199
   :lat: 34.8786664
