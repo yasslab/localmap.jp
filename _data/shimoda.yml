@@ -1,4 +1,12 @@
 ---
+- :id: 201
+  :src: https://shimoda.keizai.biz/mapnews/201
+  :lat: 34.74496
+  :lng: 138.9961125
+  :link: https://shimoda.keizai.biz/headline/201/
+  :date: 2023.08.04
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1691098708_photo.jpg
+  :title: 河津川ほとり「ホドホド Base」　カフェやギャラリーなど人が集う多機能拠点
 - :id: 200
   :src: https://shimoda.keizai.biz/mapnews/200
   :lat: 34.6845086
