@@ -1,4 +1,20 @@
 ---
+- :id: 861
+  :src: https://fukushima.keizai.biz/mapnews/861
+  :lat: 37.7538434
+  :lng: 140.4645472
+  :link: https://fukushima.keizai.biz/headline/861/
+  :date: 2023.08.04
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1691128918_photo.jpg
+  :title: 福島・まちなか広場で「ビアフェス」　県内外・海外のビール70銘柄集結
+- :id: 860
+  :src: https://fukushima.keizai.biz/mapnews/860
+  :lat: 37.7541822
+  :lng: 140.4663372
+  :link: https://fukushima.keizai.biz/headline/860/
+  :date: 2023.08.04
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1691125441_photo.jpg
+  :title: 福島・大町にアジアン料理店「アグラ 2」　野田町「アグラ」が2号店
 - :id: 859
   :src: https://fukushima.keizai.biz/mapnews/859
   :lat: 37.7554421
