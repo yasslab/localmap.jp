@@ -1,4 +1,12 @@
 ---
+- :id: 333
+  :src: https://narashino.keizai.biz/mapnews/333
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz/headline/333/
+  :date: 2023.08.30
+  :image: https://images.keizai.biz/narashino_keizai/headline/1693363048_photo.jpg
+  :title: 習志野・大久保商店街で夏祭り　コロナ禍前のにぎわい戻る
 - :id: 332
   :src: https://narashino.keizai.biz/mapnews/332
   :lat: 35.665706
