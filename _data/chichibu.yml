@@ -1,4 +1,20 @@
 ---
+- :id: 520
+  :src: https://chichibu.keizai.biz/mapnews/520
+  :lat: 36.1158076
+  :lng: 139.1974493
+  :link: https://chichibu.keizai.biz/headline/520/
+  :date: 2023.08.31
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1693473417_photo.jpg
+  :title: 寄居町の泊まれるオーガニックレストラン「むじゃき」が1周年
+- :id: 519
+  :src: https://chichibu.keizai.biz/mapnews/519
+  :lat: 36.1156686
+  :lng: 139.2196199
+  :link: https://chichibu.keizai.biz/headline/519/
+  :date: 2023.08.31
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1693464072_photo.jpg
+  :title: 寄居町・かわはくで関東大震災イベント「災害時に荒川の水は飲める？」
 - :id: 518
   :src: https://chichibu.keizai.biz/mapnews/518
   :lat: 35.978199
