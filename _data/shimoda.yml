@@ -1,4 +1,12 @@
 ---
+- :id: 222
+  :src: https://shimoda.keizai.biz/mapnews/222
+  :lat: 34.7782239
+  :lng: 138.7681282
+  :link: https://shimoda.keizai.biz/headline/222/
+  :date: 2023.09.07
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1694036973_photo.jpg
+  :title: 西伊豆で「ビーチキャンドルナイト」　ろうそく4000本が夏の終わり告げる
 - :id: 221
   :src: https://shimoda.keizai.biz/mapnews/221
   :lat: 34.6824583
