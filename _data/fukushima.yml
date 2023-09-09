@@ -1,4 +1,20 @@
 ---
+- :id: 877
+  :src: https://fukushima.keizai.biz/mapnews/877
+  :lat: 37.8316001
+  :lng: 140.4486946
+  :link: https://fukushima.keizai.biz/headline/877/
+  :date: 2023.09.08
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1694153640_photo.jpg
+  :title: パルセいいざかで「ワンステップスペース」　県内外から100店超出店
+- :id: 876
+  :src: https://fukushima.keizai.biz/mapnews/876
+  :lat: 37.7679785
+  :lng: 140.4731807
+  :link: https://fukushima.keizai.biz/headline/876/
+  :date: 2023.09.08
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1694150913_photo.jpg
+  :title: 福島で「虫フェスタ」　昆虫専門家やユーチューバーら参加、昆虫教室も
 - :id: 875
   :src: https://fukushima.keizai.biz/mapnews/875
   :lat: 37.754584
