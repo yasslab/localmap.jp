@@ -1,4 +1,20 @@
 ---
+- :id: 230
+  :src: https://shimoda.keizai.biz/mapnews/230
+  :lat: 34.6758068
+  :lng: 138.945663
+  :link: https://shimoda.keizai.biz/headline/230/
+  :date: 2023.09.19
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1695074009_photo.jpg
+  :title: 下田で日本舞踊と三味線の体験講座　県外からの参加者も
+- :id: 229
+  :src: https://shimoda.keizai.biz/mapnews/229
+  :lat: 34.675663
+  :lng: 138.9419325
+  :link: https://shimoda.keizai.biz/headline/229/
+  :date: 2023.09.18
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1694996221_photo.jpg
+  :title: 打楽器ユニット「フラワービート」が下田公演　キッチン用品を使った演奏も
 - :id: 228
   :src: https://shimoda.keizai.biz/mapnews/228
   :lat: 34.6512272
