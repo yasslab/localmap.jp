@@ -1,4 +1,20 @@
 ---
+- :id: 234
+  :src: https://shimoda.keizai.biz/mapnews/234
+  :lat: 34.69279648031204
+  :lng: 138.82178377038656
+  :link: https://shimoda.keizai.biz/headline/234/
+  :date: 2023.09.22
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1695332678_photo.jpg
+  :title: 南伊豆「青野大師ダム」で小学生向けダム教室　一般立ち入り不可の内部見学も
+- :id: 233
+  :src: https://shimoda.keizai.biz/mapnews/233
+  :lat: 34.6543799
+  :lng: 138.9185906
+  :link: https://shimoda.keizai.biz/headline/233/
+  :date: 2023.09.21
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1695263522_photo.jpg
+  :title: 下田で「アロハシャワー」　歴史ある「ビッグシャワー」がフラの祭典として復活
 - :id: 232
   :src: https://shimoda.keizai.biz/mapnews/232
   :lat: 34.7827354
