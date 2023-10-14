@@ -1,4 +1,20 @@
 ---
+- :id: 1789
+  :src: https://omiya.keizai.biz/mapnews/1789
+  :lat: 35.9072763
+  :lng: 139.625346
+  :link: https://omiya.keizai.biz/headline/1789/
+  :date: 2023.10.13
+  :image: https://images.keizai.biz/omiya_keizai/headline/1697202121_photo.jpg
+  :title: 大宮で北海道・東北水産フェア　三陸・常磐地域の水産物消費拡大支援
+- :id: 1788
+  :src: https://omiya.keizai.biz/mapnews/1788
+  :lat: 35.923427
+  :lng: 139.740689
+  :link: https://omiya.keizai.biz/headline/1788/
+  :date: 2023.10.13
+  :image: https://images.keizai.biz/omiya_keizai/headline/1697165205_photo.jpg
+  :title: 岩槻の老舗豆腐店が大豆スナック発売　ヨーロッパ野菜生産者や生徒とコラボ
 - :id: 1787
   :src: https://omiya.keizai.biz/mapnews/1787
   :lat: 35.9059712
