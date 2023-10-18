@@ -1,4 +1,20 @@
 ---
+- :id: 886
+  :src: https://fukushima.keizai.biz/mapnews/886
+  :lat: 37.7539161
+  :lng: 140.4630591
+  :link: https://fukushima.keizai.biz/headline/886/
+  :date: 2023.10.17
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1697510130_photo.jpg
+  :title: 福島駅前通りで「ふくしま蚤の市」　アンティーク雑貨・フード店が30店
+- :id: 885
+  :src: https://fukushima.keizai.biz/mapnews/885
+  :lat: 37.85625
+  :lng: 140.5187641
+  :link: https://fukushima.keizai.biz/headline/885/
+  :date: 2023.10.17
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1697502835_photo.jpg
+  :title: 福島・桑折にプライベートジム「ワイズ」　経験10年のトレーナーが独立
 - :id: 884
   :src: https://fukushima.keizai.biz/mapnews/884
   :lat: 37.660006
