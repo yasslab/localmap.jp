@@ -1,4 +1,12 @@
 ---
+- :id: 888
+  :src: https://fukushima.keizai.biz/mapnews/888
+  :lat: 37.7526703
+  :lng: 140.4621543
+  :link: https://fukushima.keizai.biz/headline/888/
+  :date: 2023.10.20
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1697761140_photo.jpg
+  :title: 福島・ラーメン店「らぁめん たけや」が10周年　学生500円・朝営業も
 - :id: 887
   :src: https://fukushima.keizai.biz/mapnews/887
   :lat: 37.7717775
