@@ -1,4 +1,12 @@
 ---
+- :id: 255
+  :src: https://shimoda.keizai.biz/mapnews/255
+  :lat: 34.6747026
+  :lng: 138.9528206
+  :link: https://shimoda.keizai.biz/headline/255/
+  :date: 2023.10.23
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1698011891_photo.jpg
+  :title: 下田・河津建設「海底熟成ワイン」　過去最多1100本が下田湾に
 - :id: 254
   :src: https://shimoda.keizai.biz/mapnews/254
   :lat: 34.7564309
