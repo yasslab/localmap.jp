@@ -1,4 +1,20 @@
 ---
+- :id: 556
+  :src: https://chichibu.keizai.biz/mapnews/556
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz/headline/556/
+  :date: 2023.11.01
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1698764850_photo.jpg
+  :title: 秩父で「サザエさんと行く植樹ツアー」　横浜から120人が電車で参加
+- :id: 555
+  :src: https://chichibu.keizai.biz/mapnews/555
+  :lat: 35.9800463
+  :lng: 139.0766114
+  :link: https://chichibu.keizai.biz/headline/555/
+  :date: 2023.10.31
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1698719988_photo.jpg
+  :title: 秩父「橋本製菓舗」、9カ月ぶりに営業再開　母から娘に継承しながら
 - :id: 554
   :src: https://chichibu.keizai.biz/mapnews/554
   :lat: 36.006366
