@@ -1,4 +1,20 @@
 ---
+- :id: 561
+  :src: https://chichibu.keizai.biz/mapnews/561
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz/headline/561/
+  :date: 2023.11.07
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1699362357_photo.jpg
+  :title: 横瀬町でAI×アートのイベント　ウェルビーイングの世界観を表現
+- :id: 560
+  :src: https://chichibu.keizai.biz/mapnews/560
+  :lat: 36.1156686
+  :lng: 139.2196199
+  :link: https://chichibu.keizai.biz/headline/560/
+  :date: 2023.11.07
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1699339547_photo.jpg
+  :title: 寄居町・かわはくで障がい者ウイークイベント　車いす体験も
 - :id: 559
   :src: https://chichibu.keizai.biz/mapnews/559
   :lat: 36.1314734
