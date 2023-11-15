@@ -1,4 +1,20 @@
 ---
+- :id: 901
+  :src: https://fukushima.keizai.biz/mapnews/901
+  :lat: 37.723132
+  :lng: 140.3983706
+  :link: https://fukushima.keizai.biz/headline/901/
+  :date: 2023.11.14
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1699929220_photo.jpg
+  :title: 福島・荒井で花イベント「フラワーデイズ」　県内外13店集う
+- :id: 900
+  :src: https://fukushima.keizai.biz/mapnews/900
+  :lat: 37.724135
+  :lng: 140.3989558
+  :link: https://fukushima.keizai.biz/headline/900/
+  :date: 2023.11.14
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1699922203_photo.jpg
+  :title: 福島・荒井でイベント「椿市」　県内外から15店舗
 - :id: 899
   :src: https://fukushima.keizai.biz/mapnews/899
   :lat: 37.7541347

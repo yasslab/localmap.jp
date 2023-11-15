@@ -1,4 +1,20 @@
 ---
+- :id: 1729
+  :src: https://saga.keizai.biz/mapnews/1729
+  :lat: 33.3268526
+  :lng: 130.3657692
+  :link: https://saga.keizai.biz/headline/1729/
+  :date: 2023.11.14
+  :image: https://images.keizai.biz/saga_keizai/headline/1700000661_photo.jpg
+  :title: 神埼の食パン専門店「ソラパン」が10周年　食事で食べるパンを主力に
+- :id: 1728
+  :src: https://saga.keizai.biz/mapnews/1728
+  :lat: 33.2653394
+  :lng: 130.2897441
+  :link: https://saga.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/saga.png"
+  :title: 404_Not_Found
 - :id: 1727
   :src: https://saga.keizai.biz/mapnews/1727
   :lat: 33.2641198
