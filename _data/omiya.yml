@@ -1,4 +1,20 @@
 ---
+- :id: 1804
+  :src: https://omiya.keizai.biz/mapnews/1804
+  :lat: 35.9073402
+  :lng: 139.6271701
+  :link: https://omiya.keizai.biz/headline/1804/
+  :date: 2023.11.20
+  :image: https://images.keizai.biz/omiya_keizai/headline/1700396613_photo.jpg
+  :title: 大宮駅東口で公共空間利活用の社会実験　古着店・飲食店の市やダンスなど披露
+- :id: 1803
+  :src: https://omiya.keizai.biz/mapnews/1803
+  :lat: 35.90792950000001
+  :lng: 139.624792
+  :link: https://omiya.keizai.biz/headline/1803/
+  :date: 2023.11.19
+  :image: https://images.keizai.biz/omiya_keizai/headline/1700368056_photo.jpg
+  :title: 子どもの商売体験プロジェクト「あきないキッズ」が焼き芋販売
 - :id: 1802
   :src: https://omiya.keizai.biz/mapnews/1802
   :lat: 35.9274191
