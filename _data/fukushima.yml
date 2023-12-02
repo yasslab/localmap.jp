@@ -1,4 +1,20 @@
 ---
+- :id: 908
+  :src: https://fukushima.keizai.biz/mapnews/908
+  :lat: 37.7557725
+  :lng: 140.4652834
+  :link: https://fukushima.keizai.biz/headline/908/
+  :date: 2023.12.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1701409257_photo.jpg
+  :title: 福島のカフェ「カド」、パセナカミッセに移転　こうじを使ったメニューも
+- :id: 907
+  :src: https://fukushima.keizai.biz/mapnews/907
+  :lat: 37.7611675
+  :lng: 140.4488288
+  :link: https://fukushima.keizai.biz/headline/907/
+  :date: 2023.12.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1701389964_photo.jpg
+  :title: 福島・野田町におにぎり店「にこまる」　建築設計事務所が新事業
 - :id: 906
   :src: https://fukushima.keizai.biz/mapnews/906
   :lat: 37.8198923
