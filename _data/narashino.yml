@@ -1,4 +1,12 @@
 ---
+- :id: 404
+  :src: https://narashino.keizai.biz/mapnews/404
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz/headline/404/
+  :date: 2023.12.13
+  :image: https://images.keizai.biz/narashino_keizai/headline/1702436608_photo.jpg
+  :title: 津田沼各所でイルミネーション　街をクリスマスムードに彩る
 - :id: 403
   :src: https://narashino.keizai.biz/mapnews/403
   :lat: 35.6816458
