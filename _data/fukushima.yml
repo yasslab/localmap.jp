@@ -1,4 +1,12 @@
 ---
+- :id: 911
+  :src: https://fukushima.keizai.biz/mapnews/911
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz/headline/911/
+  :date: 2023.12.15
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1702614578_photo.png
+  :title: 福島経済新聞の年間PV1位はおにぎり店「にこまる」オープン記事
 - :id: 910
   :src: https://fukushima.keizai.biz/mapnews/910
   :lat: 37.7557725
