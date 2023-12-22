@@ -1,4 +1,20 @@
 ---
+- :id: 302
+  :src: https://shimoda.keizai.biz/mapnews/302
+  :lat: 34.7309199
+  :lng: 138.9949894
+  :link: https://shimoda.keizai.biz/headline/302/
+  :date: 2023.12.22
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1703194692_photo.jpg
+  :title: 二科展入選のワニの陶芸作品、iZooに展示　高校生が生態系の乱れを表現
+- :id: 301
+  :src: https://shimoda.keizai.biz/mapnews/301
+  :lat: 34.7478208
+  :lng: 138.9937284
+  :link: https://shimoda.keizai.biz/headline/301/
+  :date: 2023.12.21
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1703128921_photo.jpg
+  :title: 10周年の「河津寄って軽トラ市」が盛況　警察音楽隊の記念コンサートも
 - :id: 300
   :src: https://shimoda.keizai.biz/mapnews/300
   :lat: 34.6511984
