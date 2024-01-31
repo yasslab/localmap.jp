@@ -1,4 +1,20 @@
 ---
+- :id: 330
+  :src: https://shimoda.keizai.biz/mapnews/330
+  :lat: 34.7507905
+  :lng: 138.9919471
+  :link: https://shimoda.keizai.biz/headline/330/
+  :date: 2024.01.31
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1706651867_photo.jpg
+  :title: "「河津桜まつり」開催迫る　桜並木を見下ろせる特別予約席も"
+- :id: 329
+  :src: https://shimoda.keizai.biz/mapnews/329
+  :lat: 34.67941359100851
+  :lng: 138.94534320440602
+  :link: https://shimoda.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/shimoda.png"
+  :title: 404_Not_Found
 - :id: 328
   :src: https://shimoda.keizai.biz/mapnews/328
   :lat: 34.6677254
