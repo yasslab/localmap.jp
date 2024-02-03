@@ -1,4 +1,12 @@
 ---
+- :id: 3306
+  :src: https://funabashi.keizai.biz/mapnews/3306
+  :lat: 35.7096994
+  :lng: 139.9706607
+  :link: https://funabashi.keizai.biz/headline/3306/
+  :date: 2024.02.02
+  :image: https://images.keizai.biz/funabashi_keizai/headline/1706838197_photo.jpg
+  :title: 船橋・海神で公園のかまどベンチを使った炊き出し訓練
 - :id: 3305
   :src: https://funabashi.keizai.biz/mapnews/3305
   :lat: 35.6947103
