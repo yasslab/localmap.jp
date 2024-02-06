@@ -1,4 +1,12 @@
 ---
+- :id: 333
+  :src: https://shimoda.keizai.biz/mapnews/333
+  :lat: 34.6511984
+  :lng: 138.858466
+  :link: https://shimoda.keizai.biz/headline/333/
+  :date: 2024.02.06
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1707168712_photo.jpg
+  :title: 南伊豆町のミカン農家・佐藤豪芳さん、知事賞受賞を町長に報告
 - :id: 332
   :src: https://shimoda.keizai.biz/mapnews/332
   :lat: 34.7763156
