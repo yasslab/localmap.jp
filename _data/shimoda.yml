@@ -1,4 +1,12 @@
 ---
+- :id: 345
+  :src: https://shimoda.keizai.biz/mapnews/345
+  :lat: 34.7847339
+  :lng: 139.0261692
+  :link: https://shimoda.keizai.biz/headline/345/
+  :date: 2024.02.22
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1708549964_photo.jpg
+  :title: 伊豆稲取駅に「まちのレセプション ようよう」　新たな交流拠点に
 - :id: 344
   :src: https://shimoda.keizai.biz/mapnews/344
   :lat: 34.6776803
