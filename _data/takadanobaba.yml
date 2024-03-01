@@ -1,4 +1,12 @@
 ---
+- :id: 1234
+  :src: https://takadanobaba.keizai.biz/mapnews/1234
+  :lat: 35.7149177
+  :lng: 139.7061606
+  :link: https://takadanobaba.keizai.biz/headline/1234/
+  :date: 2024.02.29
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1709181337_photo.jpg
+  :title: 高田の韓国料理店「はなkキッチン」が料理教室　韓国の食や文化を料理で知る
 - :id: 1233
   :src: https://takadanobaba.keizai.biz/mapnews/1233
   :lat: 35.7102449
