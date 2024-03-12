@@ -1,4 +1,20 @@
 ---
+- :id: 935
+  :src: https://fukushima.keizai.biz/mapnews/935
+  :lat: 37.7561087
+  :lng: 140.4620103
+  :link: https://fukushima.keizai.biz/headline/935/
+  :date: 2024.03.11
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1710144473_photo.jpg
+  :title: 置賜町の和食店「炭火焼きおばら」が1周年　うなぎ料理を看板メニューに
+- :id: 934
+  :src: https://fukushima.keizai.biz/mapnews/934
+  :lat: 37.7550962
+  :lng: 140.4658917
+  :link: https://fukushima.keizai.biz/headline/934/
+  :date: 2024.03.11
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1710127982_photo.jpg
+  :title: 置賜町に焼き肉店「焼肉ホルモンひろき」　福島牛を売りに
 - :id: 933
   :src: https://fukushima.keizai.biz/mapnews/933
   :lat: 37.7600165
