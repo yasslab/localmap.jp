@@ -1,4 +1,12 @@
 ---
+- :id: 360
+  :src: https://shimoda.keizai.biz/mapnews/360
+  :lat: 34.7420571
+  :lng: 138.9268753
+  :link: https://shimoda.keizai.biz/headline/360/
+  :date: 2024.03.14
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1710375711_photo.jpg
+  :title: 下田・稲梓に「えんがわビュッフェオコ」　野菜を生かした創作おばんざい
 - :id: 359
   :src: https://shimoda.keizai.biz/mapnews/359
   :lat: 34.6556882
