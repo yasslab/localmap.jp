@@ -1,4 +1,12 @@
 ---
+- :id: 456
+  :src: https://narashino.keizai.biz/mapnews/456
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz/headline/456/
+  :date: 2024.03.21
+  :image: https://images.keizai.biz/narashino_keizai/headline/1710982726_photo.jpg
+  :title: クラブチームサッカー選手権開幕　習志野シティFCはアベーリャス千葉と
 - :id: 455
   :src: https://narashino.keizai.biz/mapnews/455
   :lat: 35.6901946
