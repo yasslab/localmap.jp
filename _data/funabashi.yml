@@ -1,4 +1,12 @@
 ---
+- :id: 3333
+  :src: https://funabashi.keizai.biz/mapnews/3333
+  :lat: 35.7294115
+  :lng: 140.0518966
+  :link: https://funabashi.keizai.biz/headline/3333/
+  :date: 2024.04.19
+  :image: https://images.keizai.biz/funabashi_keizai/headline/1713475404_photo.jpg
+  :title: 千葉ジェッツ「ありがとう船アリ」　最後の「船橋アリーナ」ホームゲーム
 - :id: 3332
   :src: https://funabashi.keizai.biz/mapnews/3332
   :lat: 35.7398205
