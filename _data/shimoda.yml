@@ -1,4 +1,12 @@
 ---
+- :id: 400
+  :src: https://shimoda.keizai.biz/mapnews/400
+  :lat: 34.7531432
+  :lng: 139.0086467
+  :link: https://shimoda.keizai.biz/headline/400/
+  :date: 2024.04.29
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1714345493_photo.jpg
+  :title: 河津町で「まちなかフォトウォーク」　初夏の漁師町巡る
 - :id: 399
   :src: https://shimoda.keizai.biz/mapnews/399
   :lat: 34.752685691525905
