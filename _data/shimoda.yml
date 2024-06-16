@@ -1,4 +1,28 @@
 ---
+- :id: 444
+  :src: https://shimoda.keizai.biz/mapnews/444
+  :lat: 34.672602
+  :lng: 138.9434286
+  :link: https://shimoda.keizai.biz/headline/444/
+  :date: 2024.06.16
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1718484787_photo.jpg
+  :title: 下田で「あじさい祭」　満開迎えて多くの人でにぎわう
+- :id: 443
+  :src: https://shimoda.keizai.biz/mapnews/443
+  :lat: 34.6815578
+  :lng: 138.9293979
+  :link: https://shimoda.keizai.biz/headline/443/
+  :date: 2024.06.15
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1718411855_photo.jpg
+  :title: 下田の中学生が市内でものづくり体験　地元職人から地域産業を学ぶ
+- :id: 442
+  :src: https://shimoda.keizai.biz/mapnews/442
+  :lat: 34.67941359100851
+  :lng: 138.94534320440602
+  :link: https://shimoda.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/shimoda.png"
+  :title: 404_Not_Found
 - :id: 441
   :src: https://shimoda.keizai.biz/mapnews/441
   :lat: 34.6764706
