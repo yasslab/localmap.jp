@@ -1,4 +1,12 @@
 ---
+- :id: 666
+  :src: https://chichibu.keizai.biz/mapnews/666
+  :lat: 35.990426
+  :lng: 139.1020417
+  :link: https://chichibu.keizai.biz/headline/666/
+  :date: 2024.06.26
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1719397546_photo.jpg
+  :title: 横瀬町の武甲温泉、25日を「武甲の日」に　毎月イベント開催へ
 - :id: 665
   :src: https://chichibu.keizai.biz/mapnews/665
   :lat: 36.0788379
