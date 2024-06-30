@@ -1,4 +1,12 @@
 ---
+- :id: 456
+  :src: https://shimoda.keizai.biz/mapnews/456
+  :lat: 34.6511984
+  :lng: 138.858466
+  :link: https://shimoda.keizai.biz/headline/456/
+  :date: 2024.06.29
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1719620570_photo.jpg
+  :title: 伊豆半島沖地震被災者が登壇した防災講座　能登半島地震現場の体験者も登場
 - :id: 455
   :src: https://shimoda.keizai.biz/mapnews/455
   :lat: 34.8479561
