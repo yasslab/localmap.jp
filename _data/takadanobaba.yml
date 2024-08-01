@@ -1,4 +1,20 @@
 ---
+- :id: 1313
+  :src: https://takadanobaba.keizai.biz/mapnews/1313
+  :lat: 35.7071817
+  :lng: 139.7254162
+  :link: https://takadanobaba.keizai.biz/headline/1313/
+  :date: 2024.07.31
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1722397292_photo.jpg
+  :title: 鶴巻図書館が「本の帯デザイン賞」作品募集　開館50周年で対象者を広げて
+- :id: 1312
+  :src: https://takadanobaba.keizai.biz/mapnews/1312
+  :lat: 35.7120933
+  :lng: 139.7047394
+  :link: https://takadanobaba.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takadanobaba.png"
+  :title: 404_Not_Found
 - :id: 1311
   :src: https://takadanobaba.keizai.biz/mapnews/1311
   :lat: 35.7102645

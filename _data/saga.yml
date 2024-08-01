@@ -1,4 +1,12 @@
 ---
+- :id: 1900
+  :src: https://saga.keizai.biz/mapnews/1900
+  :lat: 33.2640192
+  :lng: 130.2968293
+  :link: https://saga.keizai.biz/headline/1900/
+  :date: 2024.07.31
+  :image: https://images.keizai.biz/saga_keizai/headline/1722461435_photo.jpg
+  :title: 佐賀駅・サガハツに「串かつ劇場」　大阪・新世界で経験店主、松原から移転
 - :id: 1899
   :src: https://saga.keizai.biz/mapnews/1899
   :lat: 33.234445
