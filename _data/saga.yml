@@ -1,4 +1,12 @@
 ---
+- :id: 1901
+  :src: https://saga.keizai.biz/mapnews/1901
+  :lat: 33.2279217
+  :lng: 130.341537
+  :link: https://saga.keizai.biz/headline/1901/
+  :date: 2024.08.01
+  :image: https://images.keizai.biz/saga_keizai/headline/1722529675_photo.jpg
+  :title: 佐賀・諸富に油そば専門店「けんしろう」　熊本・富喜製麺研究所の麺使用
 - :id: 1900
   :src: https://saga.keizai.biz/mapnews/1900
   :lat: 33.2640192
