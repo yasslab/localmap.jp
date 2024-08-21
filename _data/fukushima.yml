@@ -1,4 +1,12 @@
 ---
+- :id: 999
+  :src: https://fukushima.keizai.biz/mapnews/999
+  :lat: 37.80264409999999
+  :lng: 140.4926731
+  :link: https://fukushima.keizai.biz/headline/999/
+  :date: 2024.08.20
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1724143566_photo.jpg
+  :title: ドックラン＆カフェで犬の運動会「コムチャレンジ」　4種目競う
 - :id: 998
   :src: https://fukushima.keizai.biz/mapnews/998
   :lat: 37.75567789999999
