@@ -1,4 +1,12 @@
 ---
+- :id: 1000
+  :src: https://fukushima.keizai.biz/mapnews/1000
+  :lat: 37.7539161
+  :lng: 140.4630591
+  :link: https://fukushima.keizai.biz/headline/1000/
+  :date: 2024.08.21
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1724200865_photo.jpg
+  :title: 福島駅前通りでイベント「肉フェスティバル」 県内13店集う
 - :id: 999
   :src: https://fukushima.keizai.biz/mapnews/999
   :lat: 37.80264409999999
