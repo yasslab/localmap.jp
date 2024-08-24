@@ -1,4 +1,12 @@
 ---
+- :id: 1001
+  :src: https://fukushima.keizai.biz/mapnews/1001
+  :lat: 37.596831
+  :lng: 140.4336583
+  :link: https://fukushima.keizai.biz/headline/1001/
+  :date: 2024.08.23
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1724387359_photo.jpg
+  :title: フラワーサークル「花カフェ」、二本松で10周年記念「花のある暮らし展」
 - :id: 1000
   :src: https://fukushima.keizai.biz/mapnews/1000
   :lat: 37.7539161
