@@ -1,4 +1,12 @@
 ---
+- :id: 1919
+  :src: https://saga.keizai.biz/mapnews/1919
+  :lat: 33.2641743
+  :lng: 130.297405
+  :link: https://saga.keizai.biz/headline/1919/
+  :date: 2024.08.30
+  :image: https://images.keizai.biz/saga_keizai/headline/1725019531_photo.jpg
+  :title: 台風10号が佐賀でも影響　交通機関の多くが2日連続終日運休
 - :id: 1918
   :src: https://saga.keizai.biz/mapnews/1918
   :lat: 33.2518224

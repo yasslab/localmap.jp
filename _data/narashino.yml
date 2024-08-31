@@ -1,4 +1,20 @@
 ---
+- :id: 555
+  :src: https://narashino.keizai.biz/mapnews/555
+  :lat: 35.6888976
+  :lng: 140.012414
+  :link: https://narashino.keizai.biz/headline/555/
+  :date: 2024.08.30
+  :image: https://images.keizai.biz/narashino_keizai/headline/1724985064_photo.jpg
+  :title: 習志野・奏の杜公園で夏祭り　盆踊りで地域住民が交流
+- :id: 554
+  :src: https://narashino.keizai.biz/mapnews/554
+  :lat: 35.6803929
+  :lng: 140.0662662
+  :link: https://narashino.keizai.biz/headline/554/
+  :date: 2024.08.29
+  :image: https://images.keizai.biz/narashino_keizai/headline/1724907035_photo.jpg
+  :title: 実籾パークサイドハウス上棟式　餅まきに300人超　地域住民との交流深まる
 - :id: 553
   :src: https://narashino.keizai.biz/mapnews/553
   :lat: 35.6802198
