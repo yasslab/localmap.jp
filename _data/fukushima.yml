@@ -1,4 +1,20 @@
 ---
+- :id: 1003
+  :src: https://fukushima.keizai.biz/mapnews/1003
+  :lat: 37.7562503
+  :lng: 140.4649967
+  :link: https://fukushima.keizai.biz/headline/1003/
+  :date: 2024.09.06
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1725592560_photo.jpg
+  :title: 福島・万世町に飲食店「だるま」　地元精肉店が出店
+- :id: 1002
+  :src: https://fukushima.keizai.biz/mapnews/1002
+  :lat: 37.75485159999999
+  :lng: 140.4460801
+  :link: https://fukushima.keizai.biz/headline/1002/
+  :date: 2024.09.06
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1725582314_photo.jpg
+  :title: 福島・野田町に結婚式場「アマンダンアイル」　昼夜各1組限定
 - :id: 1001
   :src: https://fukushima.keizai.biz/mapnews/1001
   :lat: 37.596831
