@@ -1,4 +1,12 @@
 ---
+- :id: 1004
+  :src: https://fukushima.keizai.biz/mapnews/1004
+  :lat: 37.7545568
+  :lng: 140.4602057
+  :link: https://fukushima.keizai.biz/headline/1004/
+  :date: 2024.09.09
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1725841491_photo.jpg
+  :title: 福島駅前通りで「オールドカー＆バイクショー」　往年の名車35台展示
 - :id: 1003
   :src: https://fukushima.keizai.biz/mapnews/1003
   :lat: 37.7562503

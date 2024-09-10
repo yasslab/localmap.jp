@@ -1,4 +1,20 @@
 ---
+- :id: 700
+  :src: https://chichibu.keizai.biz/mapnews/700
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz/headline/700/
+  :date: 2024.09.09
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1725868357_photo.jpg
+  :title: 秩父「つる福祉タクシー」が1周年　 介護福祉士の経験生かし地元に恩返し
+- :id: 699
+  :src: https://chichibu.keizai.biz/mapnews/699
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz/headline/699/
+  :date: 2024.09.09
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1725845639_photo.png
+  :title: 秩父で「平日湯めぐりスタンプラリー」　3温浴施設が地元客向けに合同企画
 - :id: 698
   :src: https://chichibu.keizai.biz/mapnews/698
   :lat: 36.1147677
