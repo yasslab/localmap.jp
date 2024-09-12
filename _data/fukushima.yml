@@ -1,4 +1,20 @@
 ---
+- :id: 1006
+  :src: https://fukushima.keizai.biz/mapnews/1006
+  :lat: 37.7549325
+  :lng: 140.4629759
+  :link: https://fukushima.keizai.biz/headline/1006/
+  :date: 2024.09.11
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1726038069_photo.jpg
+  :title: 福島・栄町のイタリアン「クッチーナ」が5周年
+- :id: 1005
+  :src: https://fukushima.keizai.biz/mapnews/1005
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz/headline/1005/
+  :date: 2024.09.11
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1726034119_photo.png
+  :title: 福島市出身の大学生・山崎湊さん、全日本ボクシング東北大会で優勝
 - :id: 1004
   :src: https://fukushima.keizai.biz/mapnews/1004
   :lat: 37.7545568
