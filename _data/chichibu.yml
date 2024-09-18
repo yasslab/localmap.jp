@@ -1,4 +1,20 @@
 ---
+- :id: 705
+  :src: https://chichibu.keizai.biz/mapnews/705
+  :lat: 36.0189888
+  :lng: 138.9186594
+  :link: https://chichibu.keizai.biz/headline/705/
+  :date: 2024.09.17
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1726555490_photo.jpg
+  :title: 小鹿野のダリア園、広大な土地に極小輪から巨大輪まで350種5000株
+- :id: 704
+  :src: https://chichibu.keizai.biz/mapnews/704
+  :lat: 35.9986417
+  :lng: 139.0857777
+  :link: https://chichibu.keizai.biz/headline/704/
+  :date: 2024.09.17
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1726539331_photo.jpg
+  :title: 秩父で「ロボコンFIND秩父杯」　20機参戦、企画作りで高校生も参加
 - :id: 703
   :src: https://chichibu.keizai.biz/mapnews/703
   :lat: 35.9988245

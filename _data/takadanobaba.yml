@@ -1,4 +1,12 @@
 ---
+- :id: 1337
+  :src: https://takadanobaba.keizai.biz/mapnews/1337
+  :lat: 35.7096019
+  :lng: 139.7230381
+  :link: https://takadanobaba.keizai.biz/headline/1337/
+  :date: 2024.09.17
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1726540500_photo.jpg
+  :title: 早大で新9号館起工式　教育・総合科学学術院の新拠点、2027年9月供用開始予定
 - :id: 1336
   :src: https://takadanobaba.keizai.biz/mapnews/1336
   :lat: 35.7108615
