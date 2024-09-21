@@ -1,4 +1,20 @@
 ---
+- :id: 1008
+  :src: https://fukushima.keizai.biz/mapnews/1008
+  :lat: 37.7505902
+  :lng: 140.4582872
+  :link: https://fukushima.keizai.biz/headline/1008/
+  :date: 2024.09.20
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1726830378_photo.jpg
+  :title: 福島・太田町にフランス料理店　銀座での修業経て、ふるさとで開業
+- :id: 1007
+  :src: https://fukushima.keizai.biz/mapnews/1007
+  :lat: 37.7531013
+  :lng: 140.4666595
+  :link: https://fukushima.keizai.biz/headline/1007/
+  :date: 2024.09.20
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1726791061_photo.jpg
+  :title: チェンバおおまちにハーブティー販売店「ハナネ」　韓国茶をメインに
 - :id: 1006
   :src: https://fukushima.keizai.biz/mapnews/1006
   :lat: 37.7549325
