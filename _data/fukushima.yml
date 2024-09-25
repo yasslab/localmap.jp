@@ -1,4 +1,20 @@
 ---
+- :id: 1010
+  :src: https://fukushima.keizai.biz/mapnews/1010
+  :lat: 37.7944602
+  :lng: 140.4878292
+  :link: https://fukushima.keizai.biz/headline/1010/
+  :date: 2024.09.24
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1727155240_photo.jpg
+  :title: 福島・鎌田に喜多方ラーメン専門店「喜鈴」　朝ラーを売りに
+- :id: 1009
+  :src: https://fukushima.keizai.biz/mapnews/1009
+  :lat: 37.5848714
+  :lng: 140.4312591
+  :link: https://fukushima.keizai.biz/headline/1009/
+  :date: 2024.09.24
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1727139049_photo.jpg
+  :title: 二本松のサッカー教室「オーレ」、来春中学生チーム設立へ
 - :id: 1008
   :src: https://fukushima.keizai.biz/mapnews/1008
   :lat: 37.7505902
