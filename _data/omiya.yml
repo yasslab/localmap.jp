@@ -1,4 +1,20 @@
 ---
+- :id: 1890
+  :src: https://omiya.keizai.biz/mapnews/1890
+  :lat: 35.8922089
+  :lng: 139.6332441
+  :link: https://omiya.keizai.biz/headline/1890/
+  :date: 2024.09.26
+  :image: https://images.keizai.biz/omiya_keizai/headline/1727334283_photo.jpg
+  :title: さいたま新都心で「アート洗い」　地域住民ら40人が野外彫刻を清掃　
+- :id: 1889
+  :src: https://omiya.keizai.biz/mapnews/1889
+  :lat: 35.8933795
+  :lng: 139.6309249
+  :link: https://omiya.keizai.biz/headline/1889/
+  :date: 2024.09.24
+  :image: https://images.keizai.biz/omiya_keizai/headline/1727244629_photo.jpg
+  :title: さいたま新都心でインクルーシブフェスタ　誰もが生き生きと暮らせる地域へ
 - :id: 1888
   :src: https://omiya.keizai.biz/mapnews/1888
   :lat: 35.8933586
