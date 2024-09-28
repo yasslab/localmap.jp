@@ -1,4 +1,12 @@
 ---
+- :id: 1012
+  :src: https://fukushima.keizai.biz/mapnews/1012
+  :lat: 37.7545134
+  :lng: 140.4626633
+  :link: https://fukushima.keizai.biz/headline/1012/
+  :date: 2024.09.27
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1727419430_photo.jpg
+  :title: 福島・栄町にすし居酒屋「や台ずし」　東北初出店
 - :id: 1011
   :src: https://fukushima.keizai.biz/mapnews/1011
   :lat: 37.5948986
