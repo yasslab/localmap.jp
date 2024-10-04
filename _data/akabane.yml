@@ -1,4 +1,12 @@
 ---
+- :id: 666
+  :src: https://akabane.keizai.biz/mapnews/666
+  :lat: 35.777615
+  :lng: 139.7209868
+  :link: https://akabane.keizai.biz/headline/666/
+  :date: 2024.10.03
+  :image: https://images.keizai.biz/akabane_keizai/headline/1727944438_photo.jpg
+  :title: 北区内で文学・産業遺産を巡る謎解きクエスト　エリア制覇ごとに抽選権
 - :id: 665
   :src: https://akabane.keizai.biz/mapnews/665
   :lat: 35.785554
