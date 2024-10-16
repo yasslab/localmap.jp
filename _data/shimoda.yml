@@ -1,4 +1,12 @@
 ---
+- :id: 555
+  :src: https://shimoda.keizai.biz/mapnews/555
+  :lat: 34.8543445
+  :lng: 138.7764385
+  :link: https://shimoda.keizai.biz/headline/555/
+  :date: 2024.10.16
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1729025598_photo.jpg
+  :title: 西伊豆町で「グラスナイトガーデン」　ガラス作品使ったキャンドルナイト
 - :id: 554
   :src: https://shimoda.keizai.biz/mapnews/554
   :lat: 34.6845086
