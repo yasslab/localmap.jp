@@ -1,4 +1,20 @@
 ---
+- :id: 1021
+  :src: https://fukushima.keizai.biz/mapnews/1021
+  :lat: 37.7549402
+  :lng: 140.4659919
+  :link: https://fukushima.keizai.biz/headline/1021/
+  :date: 2024.11.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1730449520_photo.jpg
+  :title: 福島のタイ料理店「タラヤ」、2周年でアートイベント開催へ
+- :id: 1020
+  :src: https://fukushima.keizai.biz/mapnews/1020
+  :lat: 37.8209196
+  :lng: 140.5560464
+  :link: https://fukushima.keizai.biz/headline/1020/
+  :date: 2024.11.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1730425158_photo.jpg
+  :title: "「だてなフェス」開催へ　学生コミュニティー「ダテノワ」が地域活性化企画"
 - :id: 1019
   :src: https://fukushima.keizai.biz/mapnews/1019
   :lat: 37.6643288
