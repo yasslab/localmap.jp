@@ -1,4 +1,20 @@
 ---
+- :id: 3440
+  :src: https://funabashi.keizai.biz/mapnews/3440
+  :lat: 35.6988879
+  :lng: 139.9832644
+  :link: https://funabashi.keizai.biz/headline/3440/
+  :date: 2024.11.04
+  :image: https://images.keizai.biz/funabashi_keizai/headline/1730690324_photo.jpg
+  :title: 船橋駅近くにクラフトビールの店「クラフトポート船橋」　
+- :id: 3439
+  :src: https://funabashi.keizai.biz/mapnews/3439
+  :lat: 35.70174
+  :lng: 139.9831875
+  :link: https://funabashi.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/funabashi.png"
+  :title: 404_Not_Found
 - :id: 3438
   :src: https://funabashi.keizai.biz/mapnews/3438
   :lat: 35.7875402
