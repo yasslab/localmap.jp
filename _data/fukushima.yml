@@ -1,4 +1,12 @@
 ---
+- :id: 1024
+  :src: https://fukushima.keizai.biz/mapnews/1024
+  :lat: 37.7682777
+  :lng: 140.457567
+  :link: https://fukushima.keizai.biz/headline/1024/
+  :date: 2024.11.08
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1731024040_photo.jpg
+  :title: 福島県立美術館でコーヒーイベント「ザ・コーヒーズ」　街なか周遊の契機に
 - :id: 1023
   :src: https://fukushima.keizai.biz/mapnews/1023
   :lat: 37.5829713
