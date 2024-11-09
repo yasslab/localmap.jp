@@ -1,4 +1,20 @@
 ---
+- :id: 1910
+  :src: https://omiya.keizai.biz/mapnews/1910
+  :lat: 35.9059712
+  :lng: 139.6250169
+  :link: https://omiya.keizai.biz/headline/1910/
+  :date: 2024.11.08
+  :image: https://images.keizai.biz/omiya_keizai/headline/1731051548_photo.jpg
+  :title: エスカレーターで歩く人をAI技術で減らす　大宮駅で実験、音声で注意も
+- :id: 1909
+  :src: https://omiya.keizai.biz/mapnews/1909
+  :lat: 35.8919496
+  :lng: 139.6252263
+  :link: https://omiya.keizai.biz/headline/1909/
+  :date: 2024.11.06
+  :image: https://images.keizai.biz/omiya_keizai/headline/1730946823_photo.jpg
+  :title: さいたま新都心で「まちのハロウィーン」　仮装大賞発表も
 - :id: 1908
   :src: https://omiya.keizai.biz/mapnews/1908
   :lat: 35.9495267
