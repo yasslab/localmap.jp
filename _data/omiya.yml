@@ -1,4 +1,20 @@
 ---
+- :id: 1914
+  :src: https://omiya.keizai.biz/mapnews/1914
+  :lat: 35.9070391
+  :lng: 139.6201048
+  :link: https://omiya.keizai.biz/headline/1914/
+  :date: 2024.11.20
+  :image: https://images.keizai.biz/omiya_keizai/headline/1732060187_photo.jpg
+  :title: 大宮駅西口に町焼肉「焼肉ニューひうち」
+- :id: 1913
+  :src: https://omiya.keizai.biz/mapnews/1913
+  :lat: 35.8943546
+  :lng: 139.6337808
+  :link: https://omiya.keizai.biz/headline/1913/
+  :date: 2024.11.19
+  :image: https://images.keizai.biz/omiya_keizai/headline/1732011397_photo.jpg
+  :title: さいたま新都心にイノベーション創出拠点「渋沢MIX」　埼玉県が開設へ
 - :id: 1912
   :src: https://omiya.keizai.biz/mapnews/1912
   :lat: 35.9321012
