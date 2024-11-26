@@ -1,0 +1,801 @@
+---
+- :id: 100
+  :src: https://takamatsu.keizai.biz/mapnews/100
+  :lat: 34.3421274
+  :lng: 134.0500292
+  :link: https://takamatsu.keizai.biz/headline/100/
+  :date: 2021.12.07
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1638865085_photo.jpg
+  :title: 丸亀町グリーンでドイツ式クリスマスマーケット　ドイツからの輸入雑貨も
+- :id: 99
+  :src: https://takamatsu.keizai.biz/mapnews/99
+  :lat: 34.3429816
+  :lng: 134.0417427
+  :link: https://takamatsu.keizai.biz/headline/99/
+  :date: 2021.12.06
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1638777663_photo.jpg
+  :title: 高松におむすび専門店「お米のツヤ子さん」　アートギャラリー併設
+- :id: 98
+  :src: https://takamatsu.keizai.biz/mapnews/98
+  :lat: 34.3528438
+  :lng: 134.047109
+  :link: https://takamatsu.keizai.biz/headline/98/
+  :date: 2021.12.04
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1638604752_photo.jpg
+  :title: 高松のダンススクール「B.D.C」、2年ぶりの公演「With You」
+- :id: 97
+  :src: https://takamatsu.keizai.biz/mapnews/97
+  :lat: 34.3447064
+  :lng: 134.0504628
+  :link: https://takamatsu.keizai.biz/headline/97/
+  :date: 2021.12.03
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1638518052_photo.jpg
+  :title: 高松市美術館ブランチギャラリーでカミイケタクヤさんの作品展示を開始
+- :id: 96
+  :src: https://takamatsu.keizai.biz/mapnews/96
+  :lat: 34.3463607
+  :lng: 134.0491512
+  :link: https://takamatsu.keizai.biz/headline/96/
+  :date: 2021.12.02
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1638434230_photo.jpg
+  :title: 高松にコワーキングスペース「co-musubi」　陶芸ポップアップストアも
+- :id: 95
+  :src: https://takamatsu.keizai.biz/mapnews/95
+  :lat: 34.2958456
+  :lng: 134.0430981
+  :link: https://takamatsu.keizai.biz/headline/95/
+  :date: 2021.12.01
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1638345995_photo.jpg
+  :title: カワニシカバンが本革製お年玉集金袋「ジョーズ」　もらい方マニュアルも
+- :id: 94
+  :src: https://takamatsu.keizai.biz/mapnews/94
+  :lat: 34.3528438
+  :lng: 134.047109
+  :link: https://takamatsu.keizai.biz/headline/94/
+  :date: 2021.11.30
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1638255552_photo.jpg
+  :title: 触れずに奏でる「テルミン」「マトリョミン」　高松でコンサートと演奏体験
+- :id: 93
+  :src: https://takamatsu.keizai.biz/mapnews/93
+  :lat: 34.3436207
+  :lng: 134.0487781
+  :link: https://takamatsu.keizai.biz/headline/93/
+  :date: 2021.11.30
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1638255250_photo.jpg
+  :title: 高松でアーティスト4人による「M展」　一点物のアート作品200点超
+- :id: 92
+  :src: https://takamatsu.keizai.biz/mapnews/92
+  :lat: 34.2954303
+  :lng: 134.0714617
+  :link: https://takamatsu.keizai.biz/headline/92/
+  :date: 2021.11.29
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1638174185_photo.jpg
+  :title: サンメッセ香川で「全国年明けうどん大会」　全国からうどん19種が一堂に
+- :id: 91
+  :src: https://takamatsu.keizai.biz/mapnews/91
+  :lat: 34.3507102
+  :lng: 134.0529217
+  :link: https://takamatsu.keizai.biz/headline/91/
+  :date: 2021.11.26
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1637912102_photo.jpg
+  :title: 高松で親子向けコンサート「音楽､舞踊､朗読､美術による『動物讃歌』」
+- :id: 90
+  :src: https://takamatsu.keizai.biz/mapnews/90
+  :lat: 34.3293842
+  :lng: 134.0445345
+  :link: https://takamatsu.keizai.biz/headline/90/
+  :date: 2021.11.25
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1637830358_photo.jpg
+  :title: ライトアップ期間中の栗林公園で和楽器演奏会「深みゆく秋によせて」
+- :id: 89
+  :src: https://takamatsu.keizai.biz/mapnews/89
+  :lat: 34.3460298
+  :lng: 134.0505369
+  :link: https://takamatsu.keizai.biz/headline/89/
+  :date: 2021.11.24
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1637741113_photo.jpg
+  :title: 高松丸亀町壱番街で「SANUKI育てるマーケット」　商工会議所が初開催
+- :id: 88
+  :src: https://takamatsu.keizai.biz/mapnews/88
+  :lat: 34.3528438
+  :lng: 134.047109
+  :link: https://takamatsu.keizai.biz/headline/88/
+  :date: 2021.11.22
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1637570128_photo.jpg
+  :title: サンポートホール高松でコラボ音楽劇　チャラン・ポ・ランタンとto R mansion
+- :id: 87
+  :src: https://takamatsu.keizai.biz/mapnews/87
+  :lat: 34.361305
+  :lng: 134.212552
+  :link: https://takamatsu.keizai.biz/headline/87/
+  :date: 2021.11.20
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1637398189_photo.jpg
+  :title: 香川大学ブランドワイン「ソヴァジョーヌ・サヴルーズ」　さぬきワイナリーで瓶詰め
+- :id: 86
+  :src: https://takamatsu.keizai.biz/mapnews/86
+  :lat: 34.3508908
+  :lng: 134.0465025
+  :link: https://takamatsu.keizai.biz/headline/86/
+  :date: 2021.11.19
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1637310605_photo.jpg
+  :title: 高松駅「連絡船うどん」、11月末で閉店へ　航路時代から続く歴史に幕
+- :id: 85
+  :src: https://takamatsu.keizai.biz/mapnews/85
+  :lat: 34.3399914
+  :lng: 134.0597003
+  :link: https://takamatsu.keizai.biz/headline/85/
+  :date: 2021.11.18
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1637222840_photo.jpg
+  :title: 高松こども未来館で「こども未来館まつり」　5周年記念イベントも
+- :id: 84
+  :src: https://takamatsu.keizai.biz/mapnews/84
+  :lat: 34.3504949
+  :lng: 134.0530227
+  :link: https://takamatsu.keizai.biz/headline/84/
+  :date: 2021.11.17
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1637136865_photo.jpg
+  :title: 高松で「かがわ郷土芸能フェスタ」　伝統芸能の魅力を発信
+- :id: 83
+  :src: https://takamatsu.keizai.biz/mapnews/83
+  :lat: 34.2260555
+  :lng: 133.7829403
+  :link: https://takamatsu.keizai.biz/headline/83/
+  :date: 2021.11.16
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1637050048_photo.png
+  :title: 四国学院大で「アートシティ高松」文化創出事業公演　若者の孤独に寄り添う
+- :id: 82
+  :src: https://takamatsu.keizai.biz/mapnews/82
+  :lat: 34.3503157
+  :lng: 134.0516188
+  :link: https://takamatsu.keizai.biz/headline/82/
+  :date: 2021.11.15
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1636964282_photo.jpg
+  :title: 職人とクリエーターのコラボプロジェクト「SANUKI ReMIX」　玉藻城公園で第1弾イベント
+- :id: 81
+  :src: https://takamatsu.keizai.biz/mapnews/81
+  :lat: 34.3090005
+  :lng: 134.0388439
+  :link: https://takamatsu.keizai.biz/headline/81/
+  :date: 2021.11.12
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1636696880_photo.jpg
+  :title: 高松にムレスナティー専門店「エシュロンティーハウス」
+- :id: 80
+  :src: https://takamatsu.keizai.biz/mapnews/80
+  :lat: 34.3948432
+  :lng: 134.0508518
+  :link: https://takamatsu.keizai.biz/headline/80/
+  :date: 2021.11.11
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1636621596_photo.jpg
+  :title: 高松・女木島で「獣ヶ島」　着ぐるみで島内散策や写真撮影会
+- :id: 79
+  :src: https://takamatsu.keizai.biz/mapnews/79
+  :lat: 34.2892036
+  :lng: 134.0139009
+  :link: https://takamatsu.keizai.biz/headline/79/
+  :date: 2021.11.10
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1636532285_photo.jpg
+  :title: 高松・築100年の酒蔵カフェ「クローバーカフェ」がリニューアル
+- :id: 78
+  :src: https://takamatsu.keizai.biz/mapnews/78
+  :lat: 34.1571325
+  :lng: 134.1055372
+  :link: https://takamatsu.keizai.biz/headline/78/
+  :date: 2021.11.09
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1636446006_photo.jpg
+  :title: 高松で「塩江温泉鉄道 ガソリンカー展」　実寸大型模型の展示も
+- :id: 77
+  :src: https://takamatsu.keizai.biz/mapnews/77
+  :lat: 34.340957
+  :lng: 134.0506879
+  :link: https://takamatsu.keizai.biz/headline/77/
+  :date: 2021.11.08
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1636361317_photo.jpg
+  :title: 高松に「ラーメン浜堂」姉妹店　親鶏といりこを使った煮干白湯麺提供
+- :id: 76
+  :src: https://takamatsu.keizai.biz/mapnews/76
+  :lat: 34.3507102
+  :lng: 134.0529217
+  :link: https://takamatsu.keizai.biz/headline/76/
+  :date: 2021.11.06
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1636186704_photo.jpg
+  :title: 高松出身のピアニスト上原彩子さん、7年ぶりに高松でピアノリサイタル
+- :id: 75
+  :src: https://takamatsu.keizai.biz/mapnews/75
+  :lat: 34.2958456
+  :lng: 134.0430981
+  :link: https://takamatsu.keizai.biz/headline/75/
+  :date: 2021.11.05
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1636100447_photo.jpg
+  :title: 高松市のかばん工房、ミラーレス一眼カメラ用バッグ発売　地元ユーチューバーとコラボ
+- :id: 74
+  :src: https://takamatsu.keizai.biz/mapnews/74
+  :lat: 34.2954303
+  :lng: 134.0714617
+  :link: https://takamatsu.keizai.biz/headline/74/
+  :date: 2021.11.04
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1636014544_photo.jpg
+  :title: サンメッセ香川で「ママ∞フェスタ」　コクバンカー、注目集める
+- :id: 73
+  :src: https://takamatsu.keizai.biz/mapnews/73
+  :lat: 34.2385974
+  :lng: 134.0985378
+  :link: https://takamatsu.keizai.biz/headline/73/
+  :date: 2021.11.02
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1635840835_photo.jpg
+  :title: 高松のシェアオフィスで「讃岐乃風マルシェ」　若手経営者らが特産品アピール
+- :id: 72
+  :src: https://takamatsu.keizai.biz/mapnews/72
+  :lat: 34.3581848
+  :lng: 134.1022797
+  :link: https://takamatsu.keizai.biz/headline/72/
+  :date: 2021.11.01
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1635754562_photo.jpg
+  :title: 高松・屋島山上で野外サーカス「エ・コ・ラボ・シアター『森のトコトコ』」
+- :id: 71
+  :src: https://takamatsu.keizai.biz/mapnews/71
+  :lat: 34.31075939999999
+  :lng: 134.0454059
+  :link: https://takamatsu.keizai.biz/headline/71/
+  :date: 2021.10.29
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1635496047_photo.jpg
+  :title: 高松にパーソナルジム「グッドエクササイズ」　リラックスした雰囲気で運動
+- :id: 70
+  :src: https://takamatsu.keizai.biz/mapnews/70
+  :lat: 34.346648
+  :lng: 134.0473141
+  :link: https://takamatsu.keizai.biz/headline/70/
+  :date: 2021.10.28
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1635411228_photo.jpg
+  :title: 高松・宗家くつわ堂が「瓦クランチチョコ」を限定販売　ザクザク食感を売りに
+- :id: 69
+  :src: https://takamatsu.keizai.biz/mapnews/69
+  :lat: 34.3431363
+  :lng: 134.0486493
+  :link: https://takamatsu.keizai.biz/headline/69/
+  :date: 2021.10.27
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1635322256_photo.jpg
+  :title: トフラップ、「骨付鳥の素」全国発売　香川のソウルフードを手軽に再現
+- :id: 68
+  :src: https://takamatsu.keizai.biz/mapnews/68
+  :lat: 34.2825572
+  :lng: 134.0460776
+  :link: https://takamatsu.keizai.biz/headline/68/
+  :date: 2021.10.26
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1635235998_photo.jpg
+  :title: ことでんのレトロ電車「120号・300号」さよならイベント　電車まつりも
+- :id: 67
+  :src: https://takamatsu.keizai.biz/mapnews/67
+  :lat: 34.3481398
+  :lng: 134.0286553
+  :link: https://takamatsu.keizai.biz/headline/67/
+  :date: 2021.10.25
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1635149300_photo.jpg
+  :title: プロテイン入りちくわ「筋肉ちくわ」　高松の練り物専門店・矢野商店が発売
+- :id: 66
+  :src: https://takamatsu.keizai.biz/mapnews/66
+  :lat: 34.3428641
+  :lng: 134.0460144
+  :link: https://takamatsu.keizai.biz/headline/66/
+  :date: 2021.10.22
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1634891386_photo.jpg
+  :title: 高松市内40カ所で「たかまつ工芸ウィーク」　伝統工芸の魅力を多彩に発信
+- :id: 65
+  :src: https://takamatsu.keizai.biz/mapnews/65
+  :lat: 34.3168918
+  :lng: 134.0416324
+  :link: https://takamatsu.keizai.biz/headline/65/
+  :date: 2021.10.21
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1634806290_photo.jpg
+  :title: ゆめタウン高松に四国初「ガシャポンのデパート」　カプセルトイ700面設置
+- :id: 64
+  :src: https://takamatsu.keizai.biz/mapnews/64
+  :lat: 34.3526854
+  :lng: 134.1340133
+  :link: https://takamatsu.keizai.biz/headline/64/
+  :date: 2021.10.20
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1634715636_photo.jpg
+  :title: 高松・石の民俗資料館で「庵治石」をテーマに2つの企画展
+- :id: 63
+  :src: https://takamatsu.keizai.biz/mapnews/63
+  :lat: 34.2019609
+  :lng: 134.0413628
+  :link: https://takamatsu.keizai.biz/headline/63/
+  :date: 2021.10.19
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1634632642_photo.jpg
+  :title: 塩江の萩寺・最明寺で「お寺ヨガ」　今月から再開
+- :id: 62
+  :src: https://takamatsu.keizai.biz/mapnews/62
+  :lat: 34.2863622
+  :lng: 133.8010093
+  :link: https://takamatsu.keizai.biz/headline/62/
+  :date: 2021.10.18
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1634546126_photo.jpg
+  :title: 丸亀市で宝刀展示とゲーム「刀剣乱舞」コラボイベント　こんのすけも登場
+- :id: 61
+  :src: https://takamatsu.keizai.biz/mapnews/61
+  :lat: 34.343954
+  :lng: 134.0344472
+  :link: https://takamatsu.keizai.biz/headline/61/
+  :date: 2021.10.15
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1634285777_photo.jpg
+  :title: "「くまのプーさん」などを翻訳　菊池寛記念館で石井桃子さん企画展"
+- :id: 60
+  :src: https://takamatsu.keizai.biz/mapnews/60
+  :lat: 34.3636332
+  :lng: 133.9598118
+  :link: https://takamatsu.keizai.biz/headline/60/
+  :date: 2021.10.14
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1634199760_photo.jpg
+  :title: 高松・総合運動公園で野外ハロウィーン・イベント　53店舗出店
+- :id: 59
+  :src: https://takamatsu.keizai.biz/mapnews/59
+  :lat: 34.3050991
+  :lng: 134.0638605
+  :link: https://takamatsu.keizai.biz/headline/59/
+  :date: 2021.10.13
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1634112623_photo.jpg
+  :title: 高松・パティスリーアラキ、「和栗のモンブランはねフィーユ」限定販売
+- :id: 58
+  :src: https://takamatsu.keizai.biz/mapnews/58
+  :lat: 34.3087525
+  :lng: 134.0258847
+  :link: https://takamatsu.keizai.biz/headline/58/
+  :date: 2021.10.12
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1634025761_photo.jpg
+  :title: 高松に「ヤシの木がある民宿 パームヴィラ」　一棟貸しで南国気分を体験
+- :id: 57
+  :src: https://takamatsu.keizai.biz/mapnews/57
+  :lat: 34.3455766
+  :lng: 134.0514175
+  :link: https://takamatsu.keizai.biz/headline/57/
+  :date: 2021.10.11
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1633939053_photo.jpg
+  :title: ホテル川六高松、ユーチューブチャンネルで地元グルメ紹介
+- :id: 56
+  :src: https://takamatsu.keizai.biz/mapnews/56
+  :lat: 34.3387709
+  :lng: 134.0487445
+  :link: https://takamatsu.keizai.biz/headline/56/
+  :date: 2021.10.09
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1633767717_photo.jpg
+  :title: アクセサリー作家1000sさん、高松で個展　おいりアクセサリー新作も
+- :id: 55
+  :src: https://takamatsu.keizai.biz/mapnews/55
+  :lat: 34.261206
+  :lng: 134.0367896
+  :link: https://takamatsu.keizai.biz/headline/55/
+  :date: 2021.10.08
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1633681889_photo.jpg
+  :title: 野外音楽フェス「みいロック」　保育施設「保育の家みいろ」が開催へ　
+- :id: 54
+  :src: https://takamatsu.keizai.biz/mapnews/54
+  :lat: 34.3435992
+  :lng: 134.0500082
+  :link: https://takamatsu.keizai.biz/headline/54/
+  :date: 2021.10.07
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1633594612_photo.jpg
+  :title: 高松・丸亀町商店街に来春「讃岐おもちゃ美術館」　CFで支援募る
+- :id: 53
+  :src: https://takamatsu.keizai.biz/mapnews/53
+  :lat: 34.3395365
+  :lng: 134.0522111
+  :link: https://takamatsu.keizai.biz/headline/53/
+  :date: 2021.10.06
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1646054015_photo.jpg
+  :title: ライブハウス「高松モンスター」のアイドルステージ「IDOL PARADISE」が600回に
+- :id: 52
+  :src: https://takamatsu.keizai.biz/mapnews/52
+  :lat: 34.3525108
+  :lng: 134.0465112
+  :link: https://takamatsu.keizai.biz/headline/52/
+  :date: 2021.10.05
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1633421472_photo.jpg
+  :title: サンポート新鮮らくご会　オンライン配信へ
+- :id: 51
+  :src: https://takamatsu.keizai.biz/mapnews/51
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz/headline/51/
+  :date: 2021.10.04
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1633344504_photo.jpg
+  :title: 庵治石で千年先まで残るラブレター　プロモーション動画制作へ、出演者募集
+- :id: 50
+  :src: https://takamatsu.keizai.biz/mapnews/50
+  :lat: 34.1755917
+  :lng: 134.0813306
+  :link: https://takamatsu.keizai.biz/headline/50/
+  :date: 2021.10.01
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1633075378_photo.jpg
+  :title: 結成35周年　香川の美術グループ「思可牟」、今年もグループ展開催
+- :id: 49
+  :src: https://takamatsu.keizai.biz/mapnews/49
+  :lat: 34.2648735
+  :lng: 133.7888844
+  :link: https://takamatsu.keizai.biz/headline/49/
+  :date: 2021.09.30
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1632988770_photo.jpg
+  :title: コロナ禍で中止になった「MONSTER baSH」　カマタマーレ讃岐がCFで応援
+- :id: 48
+  :src: https://takamatsu.keizai.biz/mapnews/48
+  :lat: 34.3406473
+  :lng: 134.0528126
+  :link: https://takamatsu.keizai.biz/headline/48/
+  :date: 2021.09.29
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1632905303_photo.jpg
+  :title: 高松にフルーツサンド専門店「京都古都果」　九州・中四国地方初出店
+- :id: 47
+  :src: https://takamatsu.keizai.biz/mapnews/47
+  :lat: 34.3386854
+  :lng: 134.0517439
+  :link: https://takamatsu.keizai.biz/headline/47/
+  :date: 2021.09.28
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1632816824_photo.jpg
+  :title: 高松に韓国マカロン×キンパ専門店「私はトゥンカロンに恋をした×キンパワン」
+- :id: 46
+  :src: https://takamatsu.keizai.biz/mapnews/46
+  :lat: 34.3527192
+  :lng: 134.0471767
+  :link: https://takamatsu.keizai.biz/headline/46/
+  :date: 2021.09.27
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1632733378_photo.jpg
+  :title: CFで支援募る「うどん脳エステ・肉体改造プロジェクト」　イベントで結果を報告へ
+- :id: 45
+  :src: https://takamatsu.keizai.biz/mapnews/45
+  :lat: 34.3167762
+  :lng: 134.041959
+  :link: https://takamatsu.keizai.biz/headline/45/
+  :date: 2021.09.24
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1632469989_photo.jpg
+  :title: 高松・三条町にPCR検査センターができ1カ月　陰性証明書発行も
+- :id: 44
+  :src: https://takamatsu.keizai.biz/mapnews/44
+  :lat: 34.3404048
+  :lng: 134.0495305
+  :link: https://takamatsu.keizai.biz/headline/44/
+  :date: 2021.09.22
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1632289470_photo.jpg
+  :title: 高松に韓国フライドチキン専門店「イルタンチキン」　四国初出店
+- :id: 43
+  :src: https://takamatsu.keizai.biz/mapnews/43
+  :lat: 34.3379786
+  :lng: 134.0514465
+  :link: https://takamatsu.keizai.biz/headline/43/
+  :date: 2021.09.21
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1632208756_photo.jpg
+  :title: アフリカの子どもたちが「写ルンです」で撮影　高松・常盤町で作品展「共鳴」
+- :id: 42
+  :src: https://takamatsu.keizai.biz/mapnews/42
+  :lat: 34.3372775
+  :lng: 134.0132009
+  :link: https://takamatsu.keizai.biz/headline/42/
+  :date: 2021.09.18
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631956535_photo.jpg
+  :title: 高松に「焼肉ホルモンしんみょう精肉店鶴市店」　精肉店ならではの価格で提供
+- :id: 41
+  :src: https://takamatsu.keizai.biz/mapnews/41
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz/headline/41/
+  :date: 2021.09.18
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631955487_photo.jpg
+  :title: 高松市、「野良猫を増やさないため」のガバメントCF　支援金募る
+- :id: 40
+  :src: https://takamatsu.keizai.biz/mapnews/40
+  :lat: 34.3437934
+  :lng: 134.0502461
+  :link: https://takamatsu.keizai.biz/headline/40/
+  :date: 2021.09.17
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631872699_photo.jpg
+  :title: 高松・丸亀町にわらび餅専門店　トロトロ食感の「飲むわらびもち」提供
+- :id: 39
+  :src: https://takamatsu.keizai.biz/mapnews/39
+  :lat: 34.2953679
+  :lng: 134.0713746
+  :link: https://takamatsu.keizai.biz/headline/39/
+  :date: 2021.09.17
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631862769_photo.jpg
+  :title: サンメッセ香川でハンドメード作家の祭典「カントリーフェスタ in かがわ」
+- :id: 38
+  :src: https://takamatsu.keizai.biz/mapnews/38
+  :lat: 34.3001933
+  :lng: 134.0511155
+  :link: https://takamatsu.keizai.biz/headline/38/
+  :date: 2021.09.16
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631788220_photo.jpg
+  :title: 高松・サンフラワー通りに和洋菓子店「シャトレーゼ」　四国3県目
+- :id: 37
+  :src: https://takamatsu.keizai.biz/mapnews/37
+  :lat: 34.3419645
+  :lng: 134.044954
+  :link: https://takamatsu.keizai.biz/headline/37/
+  :date: 2021.09.16
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631779851_photo.jpg
+  :title: 香川文化会館で「番町らくご会」　高座にアマチュア落語家4人
+- :id: 36
+  :src: https://takamatsu.keizai.biz/mapnews/36
+  :lat: 34.346829
+  :lng: 134.044674
+  :link: https://takamatsu.keizai.biz/headline/36/
+  :date: 2021.09.15
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631674208_photo.jpg
+  :title: NHK高松放送局ふれあいギャラリーで「ぼくの絵わたしの絵」展
+- :id: 35
+  :src: https://takamatsu.keizai.biz/mapnews/35
+  :lat: 34.3420025
+  :lng: 134.04602
+  :link: https://takamatsu.keizai.biz/headline/35/
+  :date: 2021.09.14
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631596872_photo.jpg
+  :title: 高松市、米セント・ピーターズバーグ市とオンライン交流へ　姉妹都市60周年で
+- :id: 34
+  :src: https://takamatsu.keizai.biz/mapnews/34
+  :lat: 34.2862462
+  :lng: 134.0270933
+  :link: https://takamatsu.keizai.biz/headline/34/
+  :date: 2021.09.13
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631524680_photo.jpg
+  :title: 野外劇団「楽市楽座」、高松・田村神社の円形舞台で現代神楽劇
+- :id: 33
+  :src: https://takamatsu.keizai.biz/mapnews/33
+  :lat: 34.2833517
+  :lng: 134.0239095
+  :link: https://takamatsu.keizai.biz/headline/33/
+  :date: 2021.09.11
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631352175_photo.jpg
+  :title: 高松の人気割烹料理店「ホクロ屋」内に菓子店
+- :id: 32
+  :src: https://takamatsu.keizai.biz/mapnews/32
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz/headline/32/
+  :date: 2021.09.11
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631351100_photo.jpg
+  :title: 高松市内の県有・市有施設、休業・利用自粛期間延長　まん延防止等重点措置で
+- :id: 31
+  :src: https://takamatsu.keizai.biz/mapnews/31
+  :lat: 34.3528438
+  :lng: 134.047109
+  :link: https://takamatsu.keizai.biz/headline/31/
+  :date: 2021.09.10
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631252360_photo.jpg
+  :title: 瀬戸フィルハーモニー交響楽団が定期演奏会　創立20周年記念
+- :id: 30
+  :src: https://takamatsu.keizai.biz/mapnews/30
+  :lat: 34.3506795
+  :lng: 134.0469281
+  :link: https://takamatsu.keizai.biz/headline/30/
+  :date: 2021.09.09
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631178582_photo.jpg
+  :title: JR四国「瀬戸大橋アンパンマントロッコ」、年内運行は11月まで　瀬戸内海を一望
+- :id: 29
+  :src: https://takamatsu.keizai.biz/mapnews/29
+  :lat: 34.2558873
+  :lng: 134.036706
+  :link: https://takamatsu.keizai.biz/headline/29/
+  :date: 2021.09.08
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1631088410_photo.jpg
+  :title: 高松の飲食店巡る「めぐりまいスタンプラリー」始まる　うどんコレクションと連携　
+- :id: 28
+  :src: https://takamatsu.keizai.biz/mapnews/28
+  :lat: 34.3491543
+  :lng: 134.0287536
+  :link: https://takamatsu.keizai.biz/headline/28/
+  :date: 2021.09.07
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630987311_photo.jpg
+  :title: 高松・うみまち商店街に食パン専門店「ル・ミトロン」　香川初出店
+- :id: 27
+  :src: https://takamatsu.keizai.biz/mapnews/27
+  :lat: 34.253533
+  :lng: 134.0280231
+  :link: https://takamatsu.keizai.biz/headline/27/
+  :date: 2021.09.06
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630916425_photo.jpg
+  :title: 香川県初ミセスジャパン地方選考会開催　14名が美を競う
+- :id: 26
+  :src: https://takamatsu.keizai.biz/mapnews/26
+  :lat: 34.3440513
+  :lng: 134.0491146
+  :link: https://takamatsu.keizai.biz/headline/26/
+  :date: 2021.09.04
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630745215_photo.jpg
+  :title: 高松市美術館が「おうちでアート」動画公開　休館中も美術に親しんで
+- :id: 25
+  :src: https://takamatsu.keizai.biz/mapnews/25
+  :lat: 34.3412853
+  :lng: 134.0516882
+  :link: https://takamatsu.keizai.biz/headline/25/
+  :date: 2021.09.03
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630657619_photo.jpg
+  :title: 高松の酵素スムージー店が「フルーツケーキ缶」　テークアウト需要の高まり受け
+- :id: 24
+  :src: https://takamatsu.keizai.biz/mapnews/24
+  :lat: 34.2958456
+  :lng: 134.0430981
+  :link: https://takamatsu.keizai.biz/headline/24/
+  :date: 2021.09.02
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630573240_photo.jpg
+  :title: カワニシカバンプロダクトが海外クラウドファンディングに初挑戦　一日で目標額達成
+- :id: 23
+  :src: https://takamatsu.keizai.biz/mapnews/23
+  :lat: 34.3413062
+  :lng: 134.050649
+  :link: https://takamatsu.keizai.biz/headline/23/
+  :date: 2021.09.01
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630474534_photo.jpg
+  :title: 高松のカフェバー、1日1組限定で「コーヒー教室」　一人ずつドリップも
+- :id: 22
+  :src: https://takamatsu.keizai.biz/mapnews/22
+  :lat: 34.3688092
+  :lng: 134.1590827
+  :link: https://takamatsu.keizai.biz/headline/22/
+  :date: 2021.08.31
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630397264_photo.jpg
+  :title: 歯ART美術館で「球体関節人形展」　創作人形作家マルヤマミホさんの個展
+- :id: 21
+  :src: https://takamatsu.keizai.biz/mapnews/21
+  :lat: 34.3525108
+  :lng: 134.0465112
+  :link: https://takamatsu.keizai.biz/headline/21/
+  :date: 2021.08.30
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630314641_photo.jpg
+  :title: 高松で書道パフォーマンス大会　19校が腕競う
+- :id: 20
+  :src: https://takamatsu.keizai.biz/mapnews/20
+  :lat: 34.17076
+  :lng: 133.8697101
+  :link: https://takamatsu.keizai.biz/headline/20/
+  :date: 2021.08.27
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630052007_photo.jpg
+  :title: 開催直前で中止になった「モンスターバッシュ」　CFで支援の輪広がる
+- :id: 19
+  :src: https://takamatsu.keizai.biz/mapnews/19
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz/headline/19/
+  :date: 2021.08.27
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1630048064_photo.jpg
+  :title: 香川ファイブアローズがオンライントークイベント
+- :id: 18
+  :src: https://takamatsu.keizai.biz/mapnews/18
+  :lat: 34.3381523
+  :lng: 134.0523573
+  :link: https://takamatsu.keizai.biz/headline/18/
+  :date: 2021.08.26
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629952432_photo.jpg
+  :title: 常磐町商店街にセルフ写真館「インスタントソウル」　韓国で人気の自撮りスタイルで
+- :id: 17
+  :src: https://takamatsu.keizai.biz/mapnews/17
+  :lat: 34.2827154
+  :lng: 134.022277
+  :link: https://takamatsu.keizai.biz/headline/17/
+  :date: 2021.08.25
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629807309_photo.jpg
+  :title: 高松のハンドメード雑貨委託販売店で「東洋展」　アジアン、エスニックな作品も
+- :id: 16
+  :src: https://takamatsu.keizai.biz/mapnews/16
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz/headline/16/
+  :date: 2021.08.24
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629718301_photo.jpg
+  :title: 高松市内の県有施設、休業・利用自粛期間延長　まん延防止等重点措置で
+- :id: 15
+  :src: https://takamatsu.keizai.biz/mapnews/15
+  :lat: 34.3219215
+  :lng: 134.0681505
+  :link: https://takamatsu.keizai.biz/headline/15/
+  :date: 2021.07.21
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629790390_photo.jpg
+  :title: 高松にホリエモン発案のエンタメパン店「小麦の奴隷」　中四国初出店
+- :id: 14
+  :src: https://takamatsu.keizai.biz/mapnews/14
+  :lat: 34.3525997
+  :lng: 134.0469858
+  :link: https://takamatsu.keizai.biz/headline/14/
+  :date: 2021.08.22
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629610854_photo.jpg
+  :title: 高松で四国初「日本SF大会」　星雲賞授賞式やSTU48メンバーの朗読劇も
+- :id: 13
+  :src: https://takamatsu.keizai.biz/mapnews/13
+  :lat: 34.3617161
+  :lng: 134.0655323
+  :link: https://takamatsu.keizai.biz/headline/13/
+  :date: 2021.08.22
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629583610_photo.jpg
+  :title: 大型バス3台を市民らでペイント　東交バスがCFで協力呼び掛け
+- :id: 12
+  :src: https://takamatsu.keizai.biz/mapnews/12
+  :lat: 34.343954
+  :lng: 134.0344472
+  :link: https://takamatsu.keizai.biz/headline/12/
+  :date: 2021.08.22
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629583242_photo.jpg
+  :title: 高松市歴史資料館でトークイベント「ハロー明治、グッバイ令和」　オンライン配信へ
+- :id: 11
+  :src: https://takamatsu.keizai.biz/mapnews/11
+  :lat: 34.3428641
+  :lng: 134.0460144
+  :link: https://takamatsu.keizai.biz/headline/11/
+  :date: 2021.08.18
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629582769_photo.jpg
+  :title: 高松市、成人式のパンフレット表紙デザイン公募　テーマは「肇」
+- :id: 10
+  :src: https://takamatsu.keizai.biz/mapnews/10
+  :lat: 34.3428279
+  :lng: 134.0487702
+  :link: https://takamatsu.keizai.biz/headline/10/
+  :date: 2021.08.17
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629579840_photo.jpg
+  :title: フードデリバリー「フードパンダ」が高松進出　「うどんカット」で出発式も
+- :id: 9
+  :src: https://takamatsu.keizai.biz/mapnews/9
+  :lat: 34.2938659
+  :lng: 134.0725977
+  :link: https://takamatsu.keizai.biz/headline/9/
+  :date: 2021.08.18
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629893283_photo.jpg
+  :title: 高松のベンチャー企業、離島へドローン定期航路開設　世界初
+- :id: 8
+  :src: https://takamatsu.keizai.biz/mapnews/8
+  :lat: 34.2186656
+  :lng: 134.0185017
+  :link: https://takamatsu.keizai.biz/headline/8/
+  :date: 2021.08.12
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629539197_photo.jpg
+  :title: 高松空港に医療従事者支援のための自販機設置　全国初の取り組み
+- :id: 7
+  :src: https://takamatsu.keizai.biz/mapnews/7
+  :lat: 34.3636332
+  :lng: 133.9598118
+  :link: https://takamatsu.keizai.biz/headline/7/
+  :date: 2021.08.10
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629538589_photo.jpg
+  :title: 医療従事者にエールを　レクザムスタジアムに県内6高校の応援団員ら集結
+- :id: 6
+  :src: https://takamatsu.keizai.biz/mapnews/6
+  :lat: 34.3507115
+  :lng: 134.0567439
+  :link: https://takamatsu.keizai.biz/headline/6/
+  :date: 2021.08.06
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629538059_photo.jpg
+  :title: 高松「デザインラボラトリー蒼」で合同展示会　暮らしに寄り添う作品そろえる
+- :id: 5
+  :src: https://takamatsu.keizai.biz/mapnews/5
+  :lat: 34.3389556
+  :lng: 134.0526232
+  :link: https://takamatsu.keizai.biz/headline/5/
+  :date: 2021.08.06
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629537614_photo.jpg
+  :title: ジュンク堂書店高松店で「ねこに元気をもらっちゃおう！フェア」
+- :id: 4
+  :src: https://takamatsu.keizai.biz/mapnews/4
+  :lat: 34.3491543
+  :lng: 134.0287536
+  :link: https://takamatsu.keizai.biz/headline/4/
+  :date: 2021.07.28
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1629537052_photo.jpg
+  :title: 高松卸売市場内うみまち商店街に「上戸うどん」　観音寺の有名店が高松初出店
+- :id: 3
+  :src: https://takamatsu.keizai.biz/mapnews/3
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takamatsu.png"
+  :title: 404_Not_Found
+- :id: 2
+  :src: https://takamatsu.keizai.biz/mapnews/2
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takamatsu.png"
+  :title: 404_Not_Found
+- :id: 1
+  :src: https://takamatsu.keizai.biz/mapnews/1
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takamatsu.png"
+  :title: 404_Not_Found

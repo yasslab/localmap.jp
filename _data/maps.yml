@@ -1,23 +1,26 @@
 ---
-# These data below are used by default and allowed to scraping in advanced.
-- area:    高田馬場
-  title:   馬場経
-  twitter: baba_keizai
-  pref: 東京
-  id:   takadanobaba
-  lat:  35.7120933
-  lng:  139.7047394
-  logo: /images/takadanobaba.png
-  zoom: 14
-- area: 赤羽
-  pref: 東京
-  twitter: akabanekeizai
-  id:   akabane
-  lat:  35.777615
-  lng:  139.7209868
-  logo: /images/akabane.png
-  zoom: 14
-  #draft: true # Published at 2023/02/10
+# データ入稿テンプレート。詳細は README をご参照ください。
+# https://github.com/yasslab/localmap.jp#readme
+#
+#- area:    高田馬場     # 管轄地域名
+#  title:   馬場経       # メディア名 (省略化。省略した場合は「area 名 + 経済新聞」がタイトルになる)
+#  pref:    東京         # 都道府県名
+#  twitter: baba_keizai  # SNS アカウント (省略化)
+#  id:   takadanobaba    # ID。URL や YAML などで使用
+#  lat:  35.7120933      # ページ表示時の最初の緯度
+#  lng:  139.7047394     # ページ表示時の最初の軽度
+#  zoom: 14              # ページ表示時の最初の拡大率
+#  logo: /images/takadanobaba.png # サムネイル画像が表示されなかった場合のデフォルト画像（記事削除の場合など）
+
+# NOTE: 以下は事前に掲載許諾またはご依頼いただいた各種メディアとなります。
+- area: 福島
+  pref: 福島
+  twitter: FKeizai
+  id:   fukushima
+  lat:  37.75434
+  lng:  140.4592361
+  logo: /images/fukushima.png
+  zoom: 12
 - area: 大宮
   pref: 埼玉
   twitter: omiyakeizai
@@ -42,6 +45,24 @@
   lng:  139.0794146
   logo: /images/chichibu.png
   zoom: 12
+- area:    高田馬場
+  title:   馬場経
+  pref:    東京
+  twitter: baba_keizai
+  id:   takadanobaba
+  lat:  35.7120933
+  lng:  139.7047394
+  zoom: 14
+  logo: /images/takadanobaba.png
+- area: 赤羽
+  pref: 東京
+  twitter: akabanekeizai
+  id:   akabane
+  lat:  35.777615
+  lng:  139.7209868
+  logo: /images/akabane.png
+  zoom: 14
+  #draft: true # Published at 2023/02/10
 - area: 船橋
   pref: 千葉
   twitter: Funabashikeizai
@@ -66,14 +87,14 @@
   lng:  138.94534320440602
   logo: /images/shimoda.png
   zoom: 12
-- area: 福島
-  pref: 福島
-  twitter: FKeizai
-  id:   fukushima
-  lat:  37.75434
-  lng:  140.4592361
-  logo: /images/fukushima.png
-  zoom: 12
+- area:    高松
+  pref:    香川
+  twitter: takamatsubiz
+  id:   takamatsu
+  lat:  34.28292369
+  lng:  134.026524007824
+  zoom: 10
+  logo: /images/takamatsu.png
 - area: 佐賀
   pref: 佐賀
   twitter: sagakeizai
