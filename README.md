@@ -56,9 +56,11 @@ https://user-images.githubusercontent.com/155807/216297592-119bf7b5-6a09-4460-b0
 
 4. 問題なければコミットし、プルリクエストなどにする
 
-   - 例: 
+   - 例: [:world_map:️ Add 高松経済新聞 to localmap.jp #22](https://github.com/yasslab/localmap.jp/pull/22)
 
 5. マージ後、本番環境にデプロイされたら、[localmap.jp](https://localmap.jp/) で確認する
+
+   ![高田馬場経済新聞の表示例](https://github.com/yasslab/localmap.jp/blob/main/images/cover.png?raw=true)
 
 トップページおよび個別ページが無事表示されたら、追加完了です！✅✨
 
