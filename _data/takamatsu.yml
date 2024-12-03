@@ -1,4 +1,20 @@
 ---
+- :id: 1014
+  :src: https://takamatsu.keizai.biz/mapnews/1014
+  :lat: 34.358287
+  :lng: 134.0998285
+  :link: https://takamatsu.keizai.biz/headline/1014/
+  :date: 2024.12.02
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1733141940_photo.jpg
+  :title: 高松・新屋島水族館が来年4月から休館　2027年春のオープン目指す
+- :id: 1013
+  :src: https://takamatsu.keizai.biz/mapnews/1013
+  :lat: 34.3117464
+  :lng: 134.0602139
+  :link: https://takamatsu.keizai.biz/headline/1013/
+  :date: 2024.12.02
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1733108891_photo.jpg
+  :title: 高松・レインボーロードで15回目の「イルミネーションフェスティバル」
 - :id: 1012
   :src: https://takamatsu.keizai.biz/mapnews/1012
   :lat: 34.3154526

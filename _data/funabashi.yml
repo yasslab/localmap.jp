@@ -1,4 +1,12 @@
 ---
+- :id: 3456
+  :src: https://funabashi.keizai.biz/mapnews/3456
+  :lat: 35.728942
+  :lng: 140.0300349
+  :link: https://funabashi.keizai.biz/headline/3456/
+  :date: 2024.12.02
+  :image: https://images.keizai.biz/funabashi_keizai/headline/1733125432_photo.jpg
+  :title: 高根公団駅近くに「シェアキッチン・クレアシオン」　販売ブースも時間貸し
 - :id: 3455
   :src: https://funabashi.keizai.biz/mapnews/3455
   :lat: 35.705374
