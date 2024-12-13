@@ -1,4 +1,12 @@
 ---
+- :id: 1983
+  :src: https://saga.keizai.biz/mapnews/1983
+  :lat: 33.2641743
+  :lng: 130.297405
+  :link: https://saga.keizai.biz/headline/1983/
+  :date: 2024.12.12
+  :image: https://images.keizai.biz/saga_keizai/headline/1734040854_photo.jpg
+  :title: JR九州が運賃改定へ　佐賀駅から博多駅の「ネットきっぷ」1,300円に
 - :id: 1982
   :src: https://saga.keizai.biz/mapnews/1982
   :lat: 33.2764713
