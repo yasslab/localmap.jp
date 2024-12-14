@@ -1,4 +1,12 @@
 ---
+- :id: 1024
+  :src: https://takamatsu.keizai.biz/mapnews/1024
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz/headline/1024/
+  :date: 2024.12.13
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1734060423_photo.jpg
+  :title: 高松経済新聞・年間PVランキング1位は「シーサイドボウル高松」閉店
 - :id: 1023
   :src: https://takamatsu.keizai.biz/mapnews/1023
   :lat: 34.3427727

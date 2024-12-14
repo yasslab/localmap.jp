@@ -1,4 +1,20 @@
 ---
+- :id: 1046
+  :src: https://fukushima.keizai.biz/mapnews/1046
+  :lat: 37.7297671
+  :lng: 140.4430879
+  :link: https://fukushima.keizai.biz/headline/1046/
+  :date: 2024.12.13
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1734077485_photo.jpg
+  :title: 福島経済新聞・年間PV1位は上半期に続き「コストコ再販店エムズストア」
+- :id: 1045
+  :src: https://fukushima.keizai.biz/mapnews/1045
+  :lat: 37.7538971
+  :lng: 140.4642981
+  :link: https://fukushima.keizai.biz/headline/1045/
+  :date: 2024.12.13
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1734067448_photo.jpg
+  :title: "「Lamp120」でクリスマスイベント　福島の中心市街地ににぎわいを"
 - :id: 1044
   :src: https://fukushima.keizai.biz/mapnews/1044
   :lat: 37.5621191
