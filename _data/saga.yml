@@ -1,4 +1,12 @@
 ---
+- :id: 1992
+  :src: https://saga.keizai.biz/mapnews/1992
+  :lat: 33.2645025
+  :lng: 130.298862
+  :link: https://saga.keizai.biz/headline/1992/
+  :date: 2024.12.25
+  :image: https://images.keizai.biz/saga_keizai/headline/1735165328_photo.jpg
+  :title: 佐賀市営バス利用が過去26年で最多へ　サンライズパーク臨時便などが要因
 - :id: 1991
   :src: https://saga.keizai.biz/mapnews/1991
   :lat: 33.39417350000001
