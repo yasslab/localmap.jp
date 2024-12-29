@@ -1,4 +1,20 @@
 ---
+- :id: 789
+  :src: https://chichibu.keizai.biz/mapnews/789
+  :lat: 35.9976189
+  :lng: 139.0841388
+  :link: https://chichibu.keizai.biz/headline/789/
+  :date: 2024.12.28
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1735375514_photo.jpg
+  :title: ライトアップした秩父の街を回る「秩父夜街」始まる　平日もライトアップ
+- :id: 788
+  :src: https://chichibu.keizai.biz/mapnews/788
+  :lat: 35.9985867
+  :lng: 139.0317269
+  :link: https://chichibu.keizai.biz/headline/788/
+  :date: 2024.12.28
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1735374125_photo.jpg
+  :title: 小鹿野町の民俗を大学生が2年間調査　暮らし・方言・伝承文化を記録
 - :id: 787
   :src: https://chichibu.keizai.biz/mapnews/787
   :lat: 36.0660891
