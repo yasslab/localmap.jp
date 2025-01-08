@@ -1,4 +1,12 @@
 ---
+- :id: 1996
+  :src: https://saga.keizai.biz/mapnews/1996
+  :lat: 33.2419735
+  :lng: 130.24727
+  :link: https://saga.keizai.biz/headline/1996/
+  :date: 2025.01.07
+  :image: https://images.keizai.biz/saga_keizai/headline/1736290796_photo.jpg
+  :title: 佐賀でリアルRPGイベント「ドリームクエスト」　冒険者になり魔王討伐へ
 - :id: 1995
   :src: https://saga.keizai.biz/mapnews/1995
   :lat: 33.2466371
