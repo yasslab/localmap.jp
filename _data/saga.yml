@@ -1,4 +1,12 @@
 ---
+- :id: 1998
+  :src: https://saga.keizai.biz/mapnews/1998
+  :lat: 33.2617162
+  :lng: 130.2950967
+  :link: https://saga.keizai.biz/headline/1998/
+  :date: 2025.01.09
+  :image: https://images.keizai.biz/saga_keizai/headline/1736461501_photo.jpg
+  :title: 佐賀駅南に海鮮料理店「喝彩」　佐賀大医学部近くの定食店「かっさい」も移転
 - :id: 1997
   :src: https://saga.keizai.biz/mapnews/1997
   :lat: 33.2604299
