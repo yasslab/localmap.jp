@@ -1,4 +1,12 @@
 ---
+- :id: 1999
+  :src: https://saga.keizai.biz/mapnews/1999
+  :lat: 33.2619726380714
+  :lng: 130.2577858181871
+  :link: https://saga.keizai.biz/headline/1999/
+  :date: 2025.01.10
+  :image: https://images.keizai.biz/saga_keizai/headline/1736514390_photo.jpg
+  :title: 2025佐賀バルーンフェスタ、10月30日～11月3日に開催へ
 - :id: 1998
   :src: https://saga.keizai.biz/mapnews/1998
   :lat: 33.2617162

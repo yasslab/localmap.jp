@@ -1,4 +1,12 @@
 ---
+- :id: 666
+  :src: https://narashino.keizai.biz/mapnews/666
+  :lat: 35.6797364
+  :lng: 139.7124051
+  :link: https://narashino.keizai.biz/headline/666/
+  :date: 2025.01.10
+  :image: https://images.keizai.biz/narashino_keizai/headline/1736472586_photo.jpg
+  :title: 習志野高校バレー部、「春高バレー」に男女で出場　2年連続
 - :id: 665
   :src: https://narashino.keizai.biz/mapnews/665
   :lat: 35.6861537
