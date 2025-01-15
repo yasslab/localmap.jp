@@ -1,4 +1,12 @@
 ---
+- :id: 2000
+  :src: https://saga.keizai.biz/mapnews/2000
+  :lat: 33.2535735
+  :lng: 130.3029738
+  :link: https://saga.keizai.biz/headline/2000/
+  :date: 2025.01.14
+  :image: https://images.keizai.biz/saga_keizai/headline/1736893800_photo.jpg
+  :title: 佐賀中心街にカフェ＆雑貨「アイリーンのお店」　地域に根ざした店目指す
 - :id: 1999
   :src: https://saga.keizai.biz/mapnews/1999
   :lat: 33.2619726380714
