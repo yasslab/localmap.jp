@@ -1,4 +1,12 @@
 ---
+- :id: 2001
+  :src: https://saga.keizai.biz/mapnews/2001
+  :lat: 33.2764713
+  :lng: 130.2903121
+  :link: https://saga.keizai.biz/headline/2001/
+  :date: 2025.01.15
+  :image: https://images.keizai.biz/saga_keizai/headline/1736926859_photo.jpg
+  :title: 佐賀でのPerfumeライブに合わせバスに限定方向幕、タペストリーも
 - :id: 2000
   :src: https://saga.keizai.biz/mapnews/2000
   :lat: 33.2535735
