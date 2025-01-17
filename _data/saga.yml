@@ -1,4 +1,12 @@
 ---
+- :id: 2002
+  :src: https://saga.keizai.biz/mapnews/2002
+  :lat: 33.2585731
+  :lng: 130.3014038
+  :link: https://saga.keizai.biz/headline/2002/
+  :date: 2025.01.16
+  :image: https://images.keizai.biz/saga_keizai/headline/1737034392_photo.jpg
+  :title: 佐賀・愛敬の居酒屋「ふるかわ」が閉店　43年の歴史に幕、県内外に客多く
 - :id: 2001
   :src: https://saga.keizai.biz/mapnews/2001
   :lat: 33.2764713
