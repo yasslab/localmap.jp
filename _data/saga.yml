@@ -1,4 +1,12 @@
 ---
+- :id: 2004
+  :src: https://saga.keizai.biz/mapnews/2004
+  :lat: 33.2585005
+  :lng: 130.3010949
+  :link: https://saga.keizai.biz/headline/2004/
+  :date: 2025.01.20
+  :image: https://images.keizai.biz/saga_keizai/headline/1737410899_photo.jpg
+  :title: 佐賀・愛敬に食堂・居酒屋「びっくり旨いもん亭ひかる」　鉄板焼きメインに
 - :id: 2003
   :src: https://saga.keizai.biz/mapnews/2003
   :lat: 33.3107141

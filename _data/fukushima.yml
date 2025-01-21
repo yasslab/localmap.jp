@@ -1,4 +1,20 @@
 ---
+- :id: 1054
+  :src: https://fukushima.keizai.biz/mapnews/1054
+  :lat: 37.7497943
+  :lng: 140.4507229
+  :link: https://fukushima.keizai.biz/headline/1054/
+  :date: 2025.01.20
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1737358218_photo.jpg
+  :title: 福島・八木田に「さとう歯科クリニック」　歯周病専門医が開業
+- :id: 1053
+  :src: https://fukushima.keizai.biz/mapnews/1053
+  :lat: 37.7567865
+  :lng: 140.4744157
+  :link: https://fukushima.keizai.biz/headline/1053/
+  :date: 2025.01.20
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1737334618_photo.jpg
+  :title: 福島市浜田町に焼き芋専門店「つぼ焼き芋 冒険者」 たこ焼き・おでんも
 - :id: 1052
   :src: https://fukushima.keizai.biz/mapnews/1052
   :lat: 37.7523473
