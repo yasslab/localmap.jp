@@ -1,4 +1,20 @@
 ---
+- :id: 800
+  :src: https://chichibu.keizai.biz/mapnews/800
+  :lat: 35.995812
+  :lng: 139.0890907
+  :link: https://chichibu.keizai.biz/headline/800/
+  :date: 2025.01.21
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1737438375_photo.jpg
+  :title: 秩父で多様性描く映画を県内初上映　初日はアフタートークも
+- :id: 799
+  :src: https://chichibu.keizai.biz/mapnews/799
+  :lat: 36.0617849
+  :lng: 139.0709509
+  :link: https://chichibu.keizai.biz/headline/799/
+  :date: 2025.01.21
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1737423749_photo.jpg
+  :title: 秩父エリア　イチゴ観光農園で開園式　人気の希少品種「べにたま」販売も
 - :id: 798
   :src: https://chichibu.keizai.biz/mapnews/798
   :lat: 35.9988245
