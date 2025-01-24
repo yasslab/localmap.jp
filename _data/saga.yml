@@ -1,4 +1,12 @@
 ---
+- :id: 2007
+  :src: https://saga.keizai.biz/mapnews/2007
+  :lat: 33.2735945
+  :lng: 130.3053725
+  :link: https://saga.keizai.biz/headline/2007/
+  :date: 2025.01.23
+  :image: https://images.keizai.biz/saga_keizai/headline/1737634228_photo.jpg
+  :title: ゆめタウン佐賀近くにドーナツ店「Melty屋」　約30種類販売
 - :id: 2006
   :src: https://saga.keizai.biz/mapnews/2006
   :lat: 33.1533749
