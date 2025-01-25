@@ -1,4 +1,12 @@
 ---
+- :id: 2008
+  :src: https://saga.keizai.biz/mapnews/2008
+  :lat: 33.2321986
+  :lng: 130.2795008
+  :link: https://saga.keizai.biz/headline/2008/
+  :date: 2025.01.24
+  :image: https://images.keizai.biz/saga_keizai/headline/1737758916_photo.jpg
+  :title: 佐賀にピザ店「パロンチーノ」　箱根・福岡で修業し独立、揚げピザメインに
 - :id: 2007
   :src: https://saga.keizai.biz/mapnews/2007
   :lat: 33.2735945
