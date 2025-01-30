@@ -1,4 +1,12 @@
 ---
+- :id: 2011
+  :src: https://saga.keizai.biz/mapnews/2011
+  :lat: 33.2763794
+  :lng: 130.3036189
+  :link: https://saga.keizai.biz/headline/2011/
+  :date: 2025.01.29
+  :image: https://images.keizai.biz/saga_keizai/headline/1738188930_photo.jpg
+  :title: ゆめタウン佐賀近くにスタバ新店　佐賀市内2店舗目のドライブスルー対応店
 - :id: 2010
   :src: https://saga.keizai.biz/mapnews/2010
   :lat: 33.2539255
