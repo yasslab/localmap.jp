@@ -1,4 +1,12 @@
 ---
+- :id: 2012
+  :src: https://saga.keizai.biz/mapnews/2012
+  :lat: 33.2622581
+  :lng: 130.3128477
+  :link: https://saga.keizai.biz/headline/2012/
+  :date: 2025.01.31
+  :image: https://images.keizai.biz/saga_keizai/headline/1738330135_photo.jpg
+  :title: 佐賀・兵庫南に「ダイソー」3ブランド複合店　既存店舗をリニューアル
 - :id: 2011
   :src: https://saga.keizai.biz/mapnews/2011
   :lat: 33.2763794
