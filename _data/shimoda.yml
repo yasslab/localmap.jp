@@ -1,4 +1,12 @@
 ---
+- :id: 666
+  :src: https://shimoda.keizai.biz/mapnews/666
+  :lat: 34.7285293
+  :lng: 138.9251352
+  :link: https://shimoda.keizai.biz/headline/666/
+  :date: 2025.02.05
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1738704688_photo.jpg
+  :title: くじ付き豆まきに大きな歓声　下田達磨大師で節分恒例「豆まき大祭」
 - :id: 665
   :src: https://shimoda.keizai.biz/mapnews/665
   :lat: 34.6496811

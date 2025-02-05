@@ -1,4 +1,12 @@
 ---
+- :id: 2014
+  :src: https://saga.keizai.biz/mapnews/2014
+  :lat: 33.3430302
+  :lng: 130.395781
+  :link: https://saga.keizai.biz/headline/2014/
+  :date: 2025.02.04
+  :image: https://images.keizai.biz/saga_keizai/headline/1738685711_photo.jpg
+  :title: キッチンカー「ユキチャンキッチン」が吉野ヶ里に実店舗　地域の集いの場に
 - :id: 2013
   :src: https://saga.keizai.biz/mapnews/2013
   :lat: 33.3015571
