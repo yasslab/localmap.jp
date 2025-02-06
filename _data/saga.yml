@@ -1,4 +1,12 @@
 ---
+- :id: 2015
+  :src: https://saga.keizai.biz/mapnews/2015
+  :lat: 33.2635947
+  :lng: 130.315522
+  :link: https://saga.keizai.biz/headline/2015/
+  :date: 2025.02.05
+  :image: https://images.keizai.biz/saga_keizai/headline/1738794893_photo.jpg
+  :title: 佐賀「中華そば ていく」が1周年　東京で開業経験あるUターン店主が開く
 - :id: 2014
   :src: https://saga.keizai.biz/mapnews/2014
   :lat: 33.3430302
