@@ -1,4 +1,12 @@
 ---
+- :id: 2016
+  :src: https://saga.keizai.biz/mapnews/2016
+  :lat: 33.3070196
+  :lng: 130.3710256
+  :link: https://saga.keizai.biz/headline/2016/
+  :date: 2025.02.06
+  :image: https://images.keizai.biz/saga_keizai/headline/1738880847_photo.jpg
+  :title: 神埼「キムチ工場アナログ」が2周年　韓国キムチと総菜を販売、ランチも
 - :id: 2015
   :src: https://saga.keizai.biz/mapnews/2015
   :lat: 33.2635947
