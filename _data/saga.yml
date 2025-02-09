@@ -1,4 +1,12 @@
 ---
+- :id: 2017
+  :src: https://saga.keizai.biz/mapnews/2017
+  :lat: 33.2530726
+  :lng: 130.3056012
+  :link: https://saga.keizai.biz/headline/2017/
+  :date: 2025.02.08
+  :image: https://images.keizai.biz/saga_keizai/headline/1739006733_photo.jpg
+  :title: 佐賀・松原に「肉飾やま田」　「肉料理メインの居酒屋開きたい」と出店
 - :id: 2016
   :src: https://saga.keizai.biz/mapnews/2016
   :lat: 33.3070196
