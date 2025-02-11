@@ -1,4 +1,12 @@
 ---
+- :id: 2018
+  :src: https://saga.keizai.biz/mapnews/2018
+  :lat: 33.2389279
+  :lng: 130.3019928
+  :link: https://saga.keizai.biz/headline/2018/
+  :date: 2025.02.10
+  :image: https://images.keizai.biz/saga_keizai/headline/1739202879_photo.jpg
+  :title: 佐賀市本庄町に「しあわせタルト」　介護事業手がける企業が新業態
 - :id: 2017
   :src: https://saga.keizai.biz/mapnews/2017
   :lat: 33.2530726
