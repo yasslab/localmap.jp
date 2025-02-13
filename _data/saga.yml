@@ -1,4 +1,12 @@
 ---
+- :id: 2019
+  :src: https://saga.keizai.biz/mapnews/2019
+  :lat: 33.1533511
+  :lng: 130.3029407
+  :link: https://saga.keizai.biz/headline/2019/
+  :date: 2025.02.12
+  :image: https://images.keizai.biz/saga_keizai/headline/1739365564_photo.jpg
+  :title: 佐賀空港で航空管制教室　管制官の仕事紹介や航空管制シミュレーション
 - :id: 2018
   :src: https://saga.keizai.biz/mapnews/2018
   :lat: 33.2389279
