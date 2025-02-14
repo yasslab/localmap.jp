@@ -1,4 +1,12 @@
 ---
+- :id: 2020
+  :src: https://saga.keizai.biz/mapnews/2020
+  :lat: 33.2661265
+  :lng: 130.2938462
+  :link: https://saga.keizai.biz/headline/2020/
+  :date: 2025.02.13
+  :image: https://images.keizai.biz/saga_keizai/headline/1739484529_photo.jpg
+  :title: 佐賀駅北に北九州発・工具リサイクル店「ハンズクラフト」　買い取りにも対応
 - :id: 2019
   :src: https://saga.keizai.biz/mapnews/2019
   :lat: 33.1533511
