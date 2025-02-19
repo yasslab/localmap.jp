@@ -1,4 +1,12 @@
 ---
+- :id: 2023
+  :src: https://saga.keizai.biz/mapnews/2023
+  :lat: 33.25241
+  :lng: 130.3003252
+  :link: https://saga.keizai.biz/headline/2023/
+  :date: 2025.02.18
+  :image: https://images.keizai.biz/saga_keizai/headline/1739888022_photo.jpg
+  :title: 佐賀バルーンミュージアムで小学生向け熱気球教室　熱気球が浮かぶ実験も
 - :id: 2022
   :src: https://saga.keizai.biz/mapnews/2022
   :lat: 33.2548765
