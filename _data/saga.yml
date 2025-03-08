@@ -1,4 +1,20 @@
 ---
+- :id: 2035
+  :src: https://saga.keizai.biz/mapnews/2035
+  :lat: 33.2911882
+  :lng: 130.2002793
+  :link: https://saga.keizai.biz/headline/2035/
+  :date: 2025.03.07
+  :image: https://images.keizai.biz/saga_keizai/headline/1741348639_photo.jpg
+  :title: ブラックモンブランに新商品「焼きプリンモンブラン」　モンテールとコラボ
+- :id: 2034
+  :src: https://saga.keizai.biz/mapnews/2034
+  :lat: 33.2625159
+  :lng: 130.2969361
+  :link: https://saga.keizai.biz/headline/2034/
+  :date: 2025.03.07
+  :image: https://images.keizai.biz/saga_keizai/headline/1741321478_photo.jpg
+  :title: 佐賀の食品ベンチャーが「あの日の佐賀らーめん」　長く親しまれた味を再現
 - :id: 2033
   :src: https://saga.keizai.biz/mapnews/2033
   :lat: 33.2544852
