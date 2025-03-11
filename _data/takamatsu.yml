@@ -1,4 +1,20 @@
 ---
+- :id: 1100
+  :src: https://takamatsu.keizai.biz/mapnews/1100
+  :lat: 34.3524169
+  :lng: 134.0466141
+  :link: https://takamatsu.keizai.biz/headline/1100/
+  :date: 2025.03.10
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1741584090_photo.jpg
+  :title: スタートアップ支援受けた7社、高松で成長戦略発表　3カ月かけプラン練る
+- :id: 1099
+  :src: https://takamatsu.keizai.biz/mapnews/1099
+  :lat: 34.354535
+  :lng: 134.046903
+  :link: https://takamatsu.keizai.biz/headline/1099/
+  :date: 2025.03.10
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1741575477_photo.jpg
+  :title: あなぶきアリーナ香川で「ハローアリーナ」　1万6000人熱狂
 - :id: 1098
   :src: https://takamatsu.keizai.biz/mapnews/1098
   :lat: 34.175685
