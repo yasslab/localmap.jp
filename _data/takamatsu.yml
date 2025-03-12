@@ -1,4 +1,20 @@
 ---
+- :id: 1102
+  :src: https://takamatsu.keizai.biz/mapnews/1102
+  :lat: 34.3386148
+  :lng: 134.0505067
+  :link: https://takamatsu.keizai.biz/headline/1102/
+  :date: 2025.03.11
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1741676825_photo.jpg
+  :title: 高松の商店街で「想いの手紙プロジェクト」　中高生らの本音の手紙展示
+- :id: 1101
+  :src: https://takamatsu.keizai.biz/mapnews/1101
+  :lat: 34.350856
+  :lng: 134.0465183
+  :link: https://takamatsu.keizai.biz/headline/1101/
+  :date: 2025.03.11
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1741662382_photo.jpg
+  :title: 高松オルネで地元小学生のアート展　アーティストとコラボし香川の魅力紹介
 - :id: 1100
   :src: https://takamatsu.keizai.biz/mapnews/1100
   :lat: 34.3524169
