@@ -1,4 +1,20 @@
 ---
+- :id: 1105
+  :src: https://takamatsu.keizai.biz/mapnews/1105
+  :lat: 34.34578279999999
+  :lng: 134.0502199
+  :link: https://takamatsu.keizai.biz/headline/1105/
+  :date: 2025.03.13
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1741846028_photo.jpg
+  :title: 高松で商店街ウオーキング　8カ町3.4キロ、店での体験や街の歴史紹介も
+- :id: 1104
+  :src: https://takamatsu.keizai.biz/mapnews/1104
+  :lat: 34.3460855
+  :lng: 134.0542287
+  :link: https://takamatsu.keizai.biz/headline/1104/
+  :date: 2025.03.13
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1741835397_photo.jpg
+  :title: マルヨシセンター片原町駅店が閉店　駅併設のスーパー、24年の歴史に幕
 - :id: 1103
   :src: https://takamatsu.keizai.biz/mapnews/1103
   :lat: 34.3412435
