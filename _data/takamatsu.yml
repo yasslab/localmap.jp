@@ -1,4 +1,28 @@
 ---
+- :id: 1110
+  :src: https://takamatsu.keizai.biz/mapnews/1110
+  :lat: 34.3524169
+  :lng: 134.0466141
+  :link: https://takamatsu.keizai.biz/headline/1110/
+  :date: 2025.03.19
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1742351679_photo.jpg
+  :title: 高松シンボルタワーに海鮮和食店「雛げし」　瀬戸内の海鮮を絶景と共に
+- :id: 1109
+  :src: https://takamatsu.keizai.biz/mapnews/1109
+  :lat: 34.3391973
+  :lng: 134.0527847
+  :link: https://takamatsu.keizai.biz/headline/1109/
+  :date: 2025.03.18
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1742272325_photo.jpg
+  :title: 高松・瓦町フラッグでパンとスイーツのマルシェ　県内外19店出店
+- :id: 1108
+  :src: https://takamatsu.keizai.biz/mapnews/1108
+  :lat: 34.3293246
+  :lng: 134.050645
+  :link: https://takamatsu.keizai.biz/headline/1108/
+  :date: 2025.03.18
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1742257582_photo.jpg
+  :title: ことでんが来年秋運行予定の新造車両デザイン　香川に「フレッシュ」な風を
 - :id: 1107
   :src: https://takamatsu.keizai.biz/mapnews/1107
   :lat: 34.354535
