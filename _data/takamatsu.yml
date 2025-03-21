@@ -1,4 +1,12 @@
 ---
+- :id: 1111
+  :src: https://takamatsu.keizai.biz/mapnews/1111
+  :lat: 34.3488314
+  :lng: 134.0260801
+  :link: https://takamatsu.keizai.biz/headline/1111/
+  :date: 2025.03.20
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1742430807_photo.jpg
+  :title: 高松にそばと日本酒の店「ごゆるり」　香川からそばと日本酒の魅力伝えたい
 - :id: 1110
   :src: https://takamatsu.keizai.biz/mapnews/1110
   :lat: 34.3524169
