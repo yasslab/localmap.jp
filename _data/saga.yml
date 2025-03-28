@@ -1,4 +1,12 @@
 ---
+- :id: 2048
+  :src: https://saga.keizai.biz/mapnews/2048
+  :lat: 33.29544
+  :lng: 130.20117
+  :link: https://saga.keizai.biz/headline/2048/
+  :date: 2025.03.27
+  :image: https://images.keizai.biz/saga_keizai/headline/1743090003_photo.jpg
+  :title: 小城中心街に「やきとり 桜咲く」　メーカー技術職が独立、念願の店開く
 - :id: 2047
   :src: https://saga.keizai.biz/mapnews/2047
   :lat: 33.24150030000001
