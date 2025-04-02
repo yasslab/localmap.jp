@@ -1,4 +1,20 @@
 ---
+- :id: 1123
+  :src: https://takamatsu.keizai.biz/mapnews/1123
+  :lat: 34.2186656
+  :lng: 134.0185017
+  :link: https://takamatsu.keizai.biz/headline/1123/
+  :date: 2025.04.01
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1743480775_photo.jpg
+  :title: 高松空港で「ユルリット」ポップアップ　愛媛県産ほうじ茶のラテシロップ
+- :id: 1122
+  :src: https://takamatsu.keizai.biz/mapnews/1122
+  :lat: 34.348106
+  :lng: 134.0286157
+  :link: https://takamatsu.keizai.biz/headline/1122/
+  :date: 2025.04.01
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1743468974_photo.jpg
+  :title: 高松市中央卸売市場にペンギン　新屋島水族館がリニューアルに伴い出張
 - :id: 1121
   :src: https://takamatsu.keizai.biz/mapnews/1121
   :lat: 34.3194365
