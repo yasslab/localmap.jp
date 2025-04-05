@@ -1,4 +1,20 @@
 ---
+- :id: 1127
+  :src: https://takamatsu.keizai.biz/mapnews/1127
+  :lat: 34.3385574
+  :lng: 134.0492338
+  :link: https://takamatsu.keizai.biz/headline/1127/
+  :date: 2025.04.04
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1743744236_photo.jpg
+  :title: "「うどん脳」がはなまるうどんの宣伝隊長に　高松の本社で任命式"
+- :id: 1126
+  :src: https://takamatsu.keizai.biz/mapnews/1126
+  :lat: 34.2820586
+  :lng: 134.0429342
+  :link: https://takamatsu.keizai.biz/headline/1126/
+  :date: 2025.04.04
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1743733969_photo.jpg
+  :title: ことでんが琴平線で子ども車掌体験　走行する電車でアナウンスに挑戦
 - :id: 1125
   :src: https://takamatsu.keizai.biz/mapnews/1125
   :lat: 34.351905
