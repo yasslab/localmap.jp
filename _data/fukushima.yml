@@ -1,4 +1,28 @@
 ---
+- :id: 1090
+  :src: https://fukushima.keizai.biz/mapnews/1090
+  :lat: 37.6778508
+  :lng: 140.3388584
+  :link: https://fukushima.keizai.biz/headline/1090/
+  :date: 2025.04.22
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1745280504_photo.jpg
+  :title: 福島・土湯温泉に屋外イベント空間「スカイブルー土湯」　DASH村ロケ地跡
+- :id: 1089
+  :src: https://fukushima.keizai.biz/mapnews/1089
+  :lat: 37.6042351
+  :lng: 140.4429461
+  :link: https://fukushima.keizai.biz/headline/1089/
+  :date: 2025.04.21
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1745214172_photo.png
+  :title: 二本松・表に学習支援塾「トイ塾」　ソーシャルスキルトレーニングも
+- :id: 1088
+  :src: https://fukushima.keizai.biz/mapnews/1088
+  :lat: 37.751226
+  :lng: 140.4612719
+  :link: https://fukushima.keizai.biz/headline/1088/
+  :date: 2025.04.21
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1745206422_photo.jpg
+  :title: 福島・早稲町に「立ちそば倉吉」　地元製麺所がオープン
 - :id: 1087
   :src: https://fukushima.keizai.biz/mapnews/1087
   :lat: 37.7525568
