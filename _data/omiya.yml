@@ -1,4 +1,20 @@
 ---
+- :id: 1974
+  :src: https://omiya.keizai.biz/mapnews/1974
+  :lat: 35.9061648
+  :lng: 139.6220195
+  :link: https://omiya.keizai.biz/headline/1974/
+  :date: 2025.05.07
+  :image: https://images.keizai.biz/omiya_keizai/headline/1746523946_photo.jpg
+  :title: トレーディングカードゲーム「さいたま伝」発売　大宮・浦和に分かれ陣取り
+- :id: 1973
+  :src: https://omiya.keizai.biz/mapnews/1973
+  :lat: 35.9200297
+  :lng: 139.6388331
+  :link: https://omiya.keizai.biz/headline/1973/
+  :date: 2025.05.06
+  :image: https://images.keizai.biz/omiya_keizai/headline/1746521488_photo.jpg
+  :title: 大宮第二公園内にテニススクール　スポーツを気軽に楽しめる場作りを
 - :id: 1972
   :src: https://omiya.keizai.biz/mapnews/1972
   :lat: 35.9436751
