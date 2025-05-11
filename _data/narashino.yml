@@ -1,4 +1,20 @@
 ---
+- :id: 751
+  :src: https://narashino.keizai.biz/mapnews/751
+  :lat: 35.669696
+  :lng: 140.0124136
+  :link: https://narashino.keizai.biz/headline/751/
+  :date: 2025.05.10
+  :image: https://images.keizai.biz/narashino_keizai/headline/1746843138_photo.jpg
+  :title: パールボウル開幕　オービックシーガルズが圧倒、IBMビッグブルーに勝利
+- :id: 750
+  :src: https://narashino.keizai.biz/mapnews/750
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/narashino.png"
+  :title: 404_Not_Found
 - :id: 749
   :src: https://narashino.keizai.biz/mapnews/749
   :lat: 35.6831126
