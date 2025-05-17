@@ -1,4 +1,12 @@
 ---
+- :id: 1100
+  :src: https://fukushima.keizai.biz/mapnews/1100
+  :lat: 37.7625148
+  :lng: 140.4859561
+  :link: https://fukushima.keizai.biz/headline/1100/
+  :date: 2025.05.16
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1747369699_photo.jpg
+  :title: 福島・東浜町に「万代蔵珈琲店」　朝6時台から営業、アロマサロン併設
 - :id: 1099
   :src: https://fukushima.keizai.biz/mapnews/1099
   :lat: 37.771175
