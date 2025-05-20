@@ -1,4 +1,12 @@
 ---
+- :id: 1101
+  :src: https://fukushima.keizai.biz/mapnews/1101
+  :lat: 37.6183628
+  :lng: 140.5576862
+  :link: https://fukushima.keizai.biz/headline/1101/
+  :date: 2025.05.19
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1747619498_photo.jpg
+  :title: 二本松・木幡に「喫茶Shiro」 サイホンコーヒーとソフトクリーム提供
 - :id: 1100
   :src: https://fukushima.keizai.biz/mapnews/1100
   :lat: 37.7625148
