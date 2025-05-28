@@ -1,4 +1,20 @@
 ---
+- :id: 1106
+  :src: https://fukushima.keizai.biz/mapnews/1106
+  :lat: 37.7601833
+  :lng: 140.4487286
+  :link: https://fukushima.keizai.biz/headline/1106/
+  :date: 2025.05.27
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1748338534_photo.png
+  :title: 福島市・野田町「オーク」 アパレル店敷地内に県産食品のセレクトショップ
+- :id: 1105
+  :src: https://fukushima.keizai.biz/mapnews/1105
+  :lat: 37.7652843
+  :lng: 140.4628819
+  :link: https://fukushima.keizai.biz/headline/1105/
+  :date: 2025.05.27
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1748309660_photo.jpg
+  :title: 川俣のニットブランド「ラニット」が10周年　福島・東光寺で記念受注会
 - :id: 1104
   :src: https://fukushima.keizai.biz/mapnews/1104
   :lat: 37.7617309
