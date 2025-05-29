@@ -1,4 +1,12 @@
 ---
+- :id: 1107
+  :src: https://fukushima.keizai.biz/mapnews/1107
+  :lat: 37.7545048
+  :lng: 140.4651637
+  :link: https://fukushima.keizai.biz/headline/1107/
+  :date: 2025.05.28
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1748419870_photo.jpg
+  :title: 福島・パセオ通りに「亜細亜割烹 蓮月」　東北初出店
 - :id: 1106
   :src: https://fukushima.keizai.biz/mapnews/1106
   :lat: 37.7601833
