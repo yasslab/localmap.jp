@@ -1,4 +1,20 @@
 ---
+- :id: 1981
+  :src: https://omiya.keizai.biz/mapnews/1981
+  :lat: 35.8887782
+  :lng: 139.6293322
+  :link: https://omiya.keizai.biz/headline/1981/
+  :date: 2025.05.30
+  :image: https://images.keizai.biz/omiya_keizai/headline/1748598441_photo.jpg
+  :title: さいたまで埼玉ニュービジネス大賞授賞式　大賞は「完全生分解おしぼり」
+- :id: 1980
+  :src: https://omiya.keizai.biz/mapnews/1980
+  :lat: 35.8933795
+  :lng: 139.6309249
+  :link: https://omiya.keizai.biz/headline/1980/
+  :date: 2025.05.30
+  :image: https://images.keizai.biz/omiya_keizai/headline/1748566840_photo.jpg
+  :title: さいたま新都心で「ビール祭り」　クラフトビール300種、ご当地フードも
 - :id: 1979
   :src: https://omiya.keizai.biz/mapnews/1979
   :lat: 35.9539711

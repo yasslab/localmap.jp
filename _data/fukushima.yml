@@ -1,4 +1,20 @@
 ---
+- :id: 1110
+  :src: https://fukushima.keizai.biz/mapnews/1110
+  :lat: 37.75577440000001
+  :lng: 140.4652815
+  :link: https://fukushima.keizai.biz/headline/1110/
+  :date: 2025.05.30
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1748592269_photo.jpg
+  :title: 福島・パセナカミッセに「イタリアンバル ペコペコ」　ロゴに赤べこ
+- :id: 1109
+  :src: https://fukushima.keizai.biz/mapnews/1109
+  :lat: 37.7246693
+  :lng: 140.4568824
+  :link: https://fukushima.keizai.biz/headline/1109/
+  :date: 2025.05.30
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1748574212_photo.jpg
+  :title: 福島・永井川に焼きそば専門店「冒険者」　のれん分けで独立開業
 - :id: 1108
   :src: https://fukushima.keizai.biz/mapnews/1108
   :lat: 37.831372
