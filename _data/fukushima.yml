@@ -1,4 +1,12 @@
 ---
+- :id: 1111
+  :src: https://fukushima.keizai.biz/mapnews/1111
+  :lat: 37.74829
+  :lng: 140.4486955
+  :link: https://fukushima.keizai.biz/headline/1111/
+  :date: 2025.06.02
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1748855805_photo.png
+  :title: 福島市に結婚相談所「シエルボヌール」　AI活用したマッチングも
 - :id: 1110
   :src: https://fukushima.keizai.biz/mapnews/1110
   :lat: 37.75577440000001
