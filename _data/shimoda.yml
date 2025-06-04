@@ -1,4 +1,12 @@
 ---
+- :id: 777
+  :src: https://shimoda.keizai.biz/mapnews/777
+  :lat: 34.6769916
+  :lng: 138.9443538
+  :link: https://shimoda.keizai.biz/headline/777/
+  :date: 2025.06.04
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1748987247_photo.jpg
+  :title: 下田にカフェバー「ハトバ」　伊豆下田白浜蒸留所の直営店がリニューアル
 - :id: 776
   :src: https://shimoda.keizai.biz/mapnews/776
   :lat: 34.7518873
