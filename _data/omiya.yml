@@ -1,4 +1,20 @@
 ---
+- :id: 1984
+  :src: https://omiya.keizai.biz/mapnews/1984
+  :lat: 35.8943546
+  :lng: 139.6337808
+  :link: https://omiya.keizai.biz/headline/1984/
+  :date: 2025.06.04
+  :image: https://images.keizai.biz/omiya_keizai/headline/1749017197_photo.jpg
+  :title: 埼玉県、渋沢MIXスタートアップ創出・成長支援プログラム参加者募集　説明会開催へ
+- :id: 1983
+  :src: https://omiya.keizai.biz/mapnews/1983
+  :lat: 35.950119
+  :lng: 139.6932583
+  :link: https://omiya.keizai.biz/headline/1983/
+  :date: 2025.06.03
+  :image: https://images.keizai.biz/omiya_keizai/headline/1749009839_photo.jpg
+  :title: 岩槻駅東口で新しい和文化体験イベント「和華祭」
 - :id: 1982
   :src: https://omiya.keizai.biz/mapnews/1982
   :lat: 35.9052385
