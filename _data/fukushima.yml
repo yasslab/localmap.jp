@@ -1,4 +1,20 @@
 ---
+- :id: 1117
+  :src: https://fukushima.keizai.biz/mapnews/1117
+  :lat: 37.7555414
+  :lng: 140.4633111
+  :link: https://fukushima.keizai.biz/headline/1117/
+  :date: 2025.06.10
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1749547425_photo.jpg
+  :title: 福島・置賜町に「お好み鉄板焼き 海坊主」　大阪育ちの店主、関西弁交え接客
+- :id: 1116
+  :src: https://fukushima.keizai.biz/mapnews/1116
+  :lat: 37.7557725
+  :lng: 140.4652834
+  :link: https://fukushima.keizai.biz/headline/1116/
+  :date: 2025.06.10
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1749533493_photo.jpg
+  :title: 福島・置賜町に「ふくしまめだかやさん」　元養護教師が就労支援で開業
 - :id: 1115
   :src: https://fukushima.keizai.biz/mapnews/1115
   :lat: 37.7607991
