@@ -1,4 +1,20 @@
 ---
+- :id: 777
+  :src: https://narashino.keizai.biz/mapnews/777
+  :lat: 35.6902778
+  :lng: 140.025
+  :link: https://narashino.keizai.biz/headline/777/
+  :date: 2025.06.19
+  :image: https://images.keizai.biz/narashino_keizai/headline/1750310464_photo.jpg
+  :title: 千葉工大・よさこいソーラン風神部、「千葉県民の日」にイオン津田沼で演舞
+- :id: 776
+  :src: https://narashino.keizai.biz/mapnews/776
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz/headline/776/
+  :date: 2025.06.19
+  :image: https://images.keizai.biz/narashino_keizai/headline/1750297052_photo.jpg
+  :title: 中学生チアダンサー望月杏実さんが世界大会で二冠　習志野市長に報告
 - :id: 775
   :src: https://narashino.keizai.biz/mapnews/775
   :lat: 35.6832354
