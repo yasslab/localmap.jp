@@ -1,4 +1,20 @@
 ---
+- :id: 1201
+  :src: https://takamatsu.keizai.biz/mapnews/1201
+  :lat: 34.3398547
+  :lng: 134.0480902
+  :link: https://takamatsu.keizai.biz/headline/1201/
+  :date: 2025.06.26
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1750921958_photo.jpg
+  :title: 高松で漆芸×音楽イベント　ベーシスト・照井利幸さんの演奏も
+- :id: 1200
+  :src: https://takamatsu.keizai.biz/mapnews/1200
+  :lat: 34.3464581
+  :lng: 134.0511864
+  :link: https://takamatsu.keizai.biz/headline/1200/
+  :date: 2025.06.26
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1750905949_photo.jpg
+  :title: 高松の雑貨店「パレード」、高松三越にポップアップ　全国13ブランド出店
 - :id: 1199
   :src: https://takamatsu.keizai.biz/mapnews/1199
   :lat: 34.3386854
