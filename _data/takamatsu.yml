@@ -1,4 +1,20 @@
 ---
+- :id: 1203
+  :src: https://takamatsu.keizai.biz/mapnews/1203
+  :lat: 34.3458253
+  :lng: 134.0480267
+  :link: https://takamatsu.keizai.biz/headline/1203/
+  :date: 2025.06.27
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1751017406_photo.jpg
+  :title: 香川で「讃岐うどんだし茶づけ」　瀬戸内産いりこ使い、うどんトッピングも
+- :id: 1202
+  :src: https://takamatsu.keizai.biz/mapnews/1202
+  :lat: 34.2764346
+  :lng: 134.0949951
+  :link: https://takamatsu.keizai.biz/headline/1202/
+  :date: 2025.06.27
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1750995105_photo.jpg
+  :title: 高松に「Sea Coffee」　世界各国のコーヒー豆販売とテイクアウト
 - :id: 1201
   :src: https://takamatsu.keizai.biz/mapnews/1201
   :lat: 34.3398547
