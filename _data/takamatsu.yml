@@ -1,4 +1,20 @@
 ---
+- :id: 1207
+  :src: https://takamatsu.keizai.biz/mapnews/1207
+  :lat: 34.3396844
+  :lng: 134.0515484
+  :link: https://takamatsu.keizai.biz/headline/1207/
+  :date: 2025.07.01
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1751348497_photo.jpg
+  :title: 高松・瓦町に焼き鳥チェーン「鳥貴族」　香川初出店
+- :id: 1206
+  :src: https://takamatsu.keizai.biz/mapnews/1206
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz/headline/1206/
+  :date: 2025.07.01
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1751340412_photo.jpg
+  :title: 高松経済新聞上半期PV数ランキング1位は「マクドナルド栗林店」閉店
 - :id: 1205
   :src: https://takamatsu.keizai.biz/mapnews/1205
   :lat: 34.339841

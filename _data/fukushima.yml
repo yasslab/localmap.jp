@@ -1,4 +1,12 @@
 ---
+- :id: 1123
+  :src: https://fukushima.keizai.biz/mapnews/1123
+  :lat: 37.7551453
+  :lng: 140.460487
+  :link: https://fukushima.keizai.biz/headline/1123/
+  :date: 2025.07.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1751331348_photo.jpg
+  :title: 福島経済新聞・上半期PV1位は「クリスピー・クリーム・ドーナツ再上陸」
 - :id: 1122
   :src: https://fukushima.keizai.biz/mapnews/1122
   :lat: 37.7519778
