@@ -1,4 +1,20 @@
 ---
+- :id: 1125
+  :src: https://fukushima.keizai.biz/mapnews/1125
+  :lat: 37.7523473
+  :lng: 140.4365383
+  :link: https://fukushima.keizai.biz/headline/1125/
+  :date: 2025.07.04
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1751621735_photo.jpg
+  :title: 福島トヨタクラウンアリーナで「ペットフェス」　県内外から9000人来場
+- :id: 1124
+  :src: https://fukushima.keizai.biz/mapnews/1124
+  :lat: 37.8210529
+  :lng: 140.5047801
+  :link: https://fukushima.keizai.biz/headline/1124/
+  :date: 2025.07.04
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1751607369_photo.jpg
+  :title: 伊達・岡前に飲食店「だん」　福島出身の同級生2人が開業
 - :id: 1123
   :src: https://fukushima.keizai.biz/mapnews/1123
   :lat: 37.7551453

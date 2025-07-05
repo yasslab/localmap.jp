@@ -1,4 +1,20 @@
 ---
+- :id: 1211
+  :src: https://takamatsu.keizai.biz/mapnews/1211
+  :lat: 34.3407797
+  :lng: 134.0501546
+  :link: https://takamatsu.keizai.biz/headline/1211/
+  :date: 2025.07.04
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1751619085_photo.jpg
+  :title: 高松のタイ料理店が夏季限定「テンモーパン」　現地で飲まれるスイカジュースを提供
+- :id: 1210
+  :src: https://takamatsu.keizai.biz/mapnews/1210
+  :lat: 34.3519286
+  :lng: 134.0458923
+  :link: https://takamatsu.keizai.biz/headline/1210/
+  :date: 2025.07.04
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1751606023_photo.jpg
+  :title: サンポート高松でアーバンスポーツフェス　BTSのバックダンサーも参加
 - :id: 1209
   :src: https://takamatsu.keizai.biz/mapnews/1209
   :lat: 34.3391973
