@@ -1,4 +1,20 @@
 ---
+- :id: 888
+  :src: https://chichibu.keizai.biz/mapnews/888
+  :lat: 36.0079003
+  :lng: 138.9746722
+  :link: https://chichibu.keizai.biz/headline/888/
+  :date: 2025.07.07
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1751899165_photo.jpg
+  :title: 両神小森・川ひろばのホタルが見頃　地元有志が「ホッとできる空間」守る
+- :id: 887
+  :src: https://chichibu.keizai.biz/mapnews/887
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz/headline/887/
+  :date: 2025.07.06
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1751880315_photo.jpg
+  :title: 皆野町でスギの伐採跡地に苗木植樹　森林の循環目指す
 - :id: 886
   :src: https://chichibu.keizai.biz/mapnews/886
   :lat: 35.9988245
