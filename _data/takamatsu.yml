@@ -1,4 +1,20 @@
 ---
+- :id: 1214
+  :src: https://takamatsu.keizai.biz/mapnews/1214
+  :lat: 34.3155542
+  :lng: 134.0267084
+  :link: https://takamatsu.keizai.biz/headline/1214/
+  :date: 2025.07.08
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1752014382_photo.jpg
+  :title: J3カマタマーレ讃岐が米山篤志監督解任　後任に金鍾成さん
+- :id: 1213
+  :src: https://takamatsu.keizai.biz/mapnews/1213
+  :lat: 34.3240622
+  :lng: 134.0345501
+  :link: https://takamatsu.keizai.biz/headline/1213/
+  :date: 2025.07.08
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1751951036_photo.jpg
+  :title: 高松で七夕の追悼イベント　震災犠牲者しのび線香花火灯す
 - :id: 1212
   :src: https://takamatsu.keizai.biz/mapnews/1212
   :lat: 34.1744419
