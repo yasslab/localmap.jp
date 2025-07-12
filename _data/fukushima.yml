@@ -1,4 +1,20 @@
 ---
+- :id: 1128
+  :src: https://fukushima.keizai.biz/mapnews/1128
+  :lat: 37.7907564
+  :lng: 140.4604632
+  :link: https://fukushima.keizai.biz/headline/1128/
+  :date: 2025.07.11
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1752226387_photo.jpg
+  :title: 福島の果物を使ったかき氷「凍蜜」　サプライズが夏限定メニュー
+- :id: 1127
+  :src: https://fukushima.keizai.biz/mapnews/1127
+  :lat: 37.6452173
+  :lng: 140.4871218
+  :link: https://fukushima.keizai.biz/headline/1127/
+  :date: 2025.07.11
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1752216636_photo.png
+  :title: 福島・松川のバウムラボ樹楽里が「桃バウム」　JAふくしま未来とコラボ
 - :id: 1126
   :src: https://fukushima.keizai.biz/mapnews/1126
   :lat: 37.755859
