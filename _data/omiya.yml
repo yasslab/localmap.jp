@@ -1,4 +1,12 @@
 ---
+- :id: 1994
+  :src: https://omiya.keizai.biz/mapnews/1994
+  :lat: 35.9473967
+  :lng: 139.6400787
+  :link: https://omiya.keizai.biz/headline/1994/
+  :date: 2025.07.14
+  :image: https://images.keizai.biz/omiya_keizai/headline/1752457937_photo.jpg
+  :title: さいたまのバナナジュース店「恋するバナナ」が5周年
 - :id: 1993
   :src: https://omiya.keizai.biz/mapnews/1993
   :lat: 35.9082522
