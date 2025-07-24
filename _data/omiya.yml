@@ -1,4 +1,20 @@
 ---
+- :id: 1998
+  :src: https://omiya.keizai.biz/mapnews/1998
+  :lat: 35.8961307
+  :lng: 139.6362829
+  :link: https://omiya.keizai.biz/headline/1998/
+  :date: 2025.07.24
+  :image: https://images.keizai.biz/omiya_keizai/headline/1753280414_photo.jpg
+  :title: さいたま新都心に埼玉県が県内初のイノベーション創出拠点
+- :id: 1997
+  :src: https://omiya.keizai.biz/mapnews/1997
+  :lat: 35.9073402
+  :lng: 139.6271701
+  :link: https://omiya.keizai.biz/headline/1997/
+  :date: 2025.07.23
+  :image: https://images.keizai.biz/omiya_keizai/headline/1753274630_photo.jpg
+  :title: 大宮で、0歳から親子で参加できる木管コンサート　クラシックを身近に
 - :id: 1996
   :src: https://omiya.keizai.biz/mapnews/1996
   :lat: 35.9148889
