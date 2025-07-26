@@ -1,4 +1,12 @@
 ---
+- :id: 1999
+  :src: https://omiya.keizai.biz/mapnews/1999
+  :lat: 35.9063166
+  :lng: 139.6240087
+  :link: https://omiya.keizai.biz/headline/1999/
+  :date: 2025.07.25
+  :image: https://images.keizai.biz/omiya_keizai/headline/1753429063_photo.jpg
+  :title: 大宮駅で市内産の唐辛子使った限定メニュー　唐辛子専門農家とコラボ　
 - :id: 1998
   :src: https://omiya.keizai.biz/mapnews/1998
   :lat: 35.8961307
