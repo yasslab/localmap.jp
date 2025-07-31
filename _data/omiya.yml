@@ -1,4 +1,12 @@
 ---
+- :id: 2000
+  :src: https://omiya.keizai.biz/mapnews/2000
+  :lat: 35.9063166
+  :lng: 139.6240087
+  :link: https://omiya.keizai.biz/headline/2000/
+  :date: 2025.07.30
+  :image: https://images.keizai.biz/omiya_keizai/headline/1753869956_photo.jpg
+  :title: 大宮で「20歳未満喫煙防止」キャンペーン　若者中心に呼びかけ
 - :id: 1999
   :src: https://omiya.keizai.biz/mapnews/1999
   :lat: 35.9063166
