@@ -1,4 +1,20 @@
 ---
+- :id: 1138
+  :src: https://fukushima.keizai.biz/mapnews/1138
+  :lat: 37.7602753
+  :lng: 140.4652682
+  :link: https://fukushima.keizai.biz/headline/1138/
+  :date: 2025.08.12
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1754989989_photo.jpg
+  :title: セレクトショップ「カウル」、福島・宮下町に移転オープン　規模拡大
+- :id: 1137
+  :src: https://fukushima.keizai.biz/mapnews/1137
+  :lat: 37.7671263
+  :lng: 140.4683177
+  :link: https://fukushima.keizai.biz/headline/1137/
+  :date: 2025.08.12
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1754981194_photo.jpg
+  :title: 福島・信夫山でロゲイニングイベント初開催へ　信夫山の魅力再発見
 - :id: 1136
   :src: https://fukushima.keizai.biz/mapnews/1136
   :lat: 37.7547036
