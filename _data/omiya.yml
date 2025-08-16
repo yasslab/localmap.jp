@@ -1,4 +1,12 @@
 ---
+- :id: 2008
+  :src: https://omiya.keizai.biz/mapnews/2008
+  :lat: 35.9294995
+  :lng: 139.6056885
+  :link: https://omiya.keizai.biz/headline/2008/
+  :date: 2025.08.15
+  :image: https://images.keizai.biz/omiya_keizai/headline/1755265096_photo.jpg
+  :title: さいたまで「大宮日進七夕まつり」　商店街から地域の祭りへ
 - :id: 2007
   :src: https://omiya.keizai.biz/mapnews/2007
   :lat: 35.9509534
