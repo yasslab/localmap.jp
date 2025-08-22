@@ -1,4 +1,12 @@
 ---
+- :id: 2011
+  :src: https://omiya.keizai.biz/mapnews/2011
+  :lat: 35.9267594
+  :lng: 139.6332544
+  :link: https://omiya.keizai.biz/headline/2011/
+  :date: 2025.08.21
+  :image: https://images.keizai.biz/omiya_keizai/headline/1755759230_photo.jpg
+  :title: さいたま市でメディアアート展　地名の物語をAIで映像化し障子に投影
 - :id: 2010
   :src: https://omiya.keizai.biz/mapnews/2010
   :lat: 35.9072897
