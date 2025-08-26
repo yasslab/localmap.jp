@@ -1,4 +1,12 @@
 ---
+- :id: 2013
+  :src: https://omiya.keizai.biz/mapnews/2013
+  :lat: 35.90398830000001
+  :lng: 139.6203463
+  :link: https://omiya.keizai.biz/headline/2013/
+  :date: 2025.08.25
+  :image: https://images.keizai.biz/omiya_keizai/headline/1756139873_photo.jpg
+  :title: 大宮で映画「沼影市民プール」先行上映　都市開発の裏で迎えた最後の夏
 - :id: 2012
   :src: https://omiya.keizai.biz/mapnews/2012
   :lat: 35.9064528
