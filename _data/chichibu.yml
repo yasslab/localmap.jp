@@ -1,4 +1,12 @@
 ---
+- :id: 911
+  :src: https://chichibu.keizai.biz/mapnews/911
+  :lat: 36.0952232
+  :lng: 139.1121159
+  :link: https://chichibu.keizai.biz/headline/911/
+  :date: 2025.08.29
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1756457297_photo.jpg
+  :title: 長瀞で「秋の七草寺」巡るバスツアー開催へ　花と味覚を楽しむ
 - :id: 910
   :src: https://chichibu.keizai.biz/mapnews/910
   :lat: 35.9942234
