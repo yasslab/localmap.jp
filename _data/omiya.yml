@@ -1,4 +1,12 @@
 ---
+- :id: 2015
+  :src: https://omiya.keizai.biz/mapnews/2015
+  :lat: 35.901783
+  :lng: 139.6306352
+  :link: https://omiya.keizai.biz/headline/2015/
+  :date: 2025.09.04
+  :image: https://images.keizai.biz/omiya_keizai/headline/1756968559_photo.jpg
+  :title: 大宮で地域交流企画マチミチミーツ　「カルチャーがはじまるまち」テーマに
 - :id: 2014
   :src: https://omiya.keizai.biz/mapnews/2014
   :lat: 35.9189126
