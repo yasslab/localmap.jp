@@ -1,4 +1,12 @@
 ---
+- :id: 2016
+  :src: https://omiya.keizai.biz/mapnews/2016
+  :lat: 35.8944141
+  :lng: 139.6337921
+  :link: https://omiya.keizai.biz/headline/2016/
+  :date: 2025.09.09
+  :image: https://images.keizai.biz/omiya_keizai/headline/1757428555_photo.jpg
+  :title: 埼玉県がオープンイノベーションプログラム　パートナー企業募る
 - :id: 2015
   :src: https://omiya.keizai.biz/mapnews/2015
   :lat: 35.901783
