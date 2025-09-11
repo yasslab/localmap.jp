@@ -1,4 +1,12 @@
 ---
+- :id: 2017
+  :src: https://omiya.keizai.biz/mapnews/2017
+  :lat: 35.9064528
+  :lng: 139.6216608
+  :link: https://omiya.keizai.biz/headline/2017/
+  :date: 2025.09.10
+  :image: https://images.keizai.biz/omiya_keizai/headline/1757482546_photo.jpg
+  :title: 岩槻で子ども服の交換会「おかねのいらないおたから市」
 - :id: 2016
   :src: https://omiya.keizai.biz/mapnews/2016
   :lat: 35.8944141
