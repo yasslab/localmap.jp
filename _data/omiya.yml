@@ -1,4 +1,12 @@
 ---
+- :id: 2018
+  :src: https://omiya.keizai.biz/mapnews/2018
+  :lat: 35.9244139
+  :lng: 139.597545
+  :link: https://omiya.keizai.biz/headline/2018/
+  :date: 2025.09.11
+  :image: https://images.keizai.biz/omiya_keizai/headline/1757577216_photo.jpg
+  :title: さいたまの焼き菓子店が2周年　住宅街の「隠れたおやつやさん」目指す
 - :id: 2017
   :src: https://omiya.keizai.biz/mapnews/2017
   :lat: 35.9064528
