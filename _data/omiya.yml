@@ -1,4 +1,12 @@
 ---
+- :id: 2020
+  :src: https://omiya.keizai.biz/mapnews/2020
+  :lat: 35.8949557
+  :lng: 139.6307672
+  :link: https://omiya.keizai.biz/headline/2020/
+  :date: 2025.09.19
+  :image: https://images.keizai.biz/omiya_keizai/headline/1758292642_photo.jpg
+  :title: さいたま新都心で「秋のビール祭り」　30回記念オリジナルソングも
 - :id: 2019
   :src: https://omiya.keizai.biz/mapnews/2019
   :lat: 35.8770746
