@@ -1,4 +1,12 @@
 ---
+- :id: 2021
+  :src: https://omiya.keizai.biz/mapnews/2021
+  :lat: 35.9189126
+  :lng: 139.6318202
+  :link: https://omiya.keizai.biz/headline/2021/
+  :date: 2025.09.20
+  :image: https://images.keizai.biz/omiya_keizai/headline/1758373144_photo.jpg
+  :title: NACK5スタジアム大宮に新スポーツ学童　10月開業に向けプレ体験会　
 - :id: 2020
   :src: https://omiya.keizai.biz/mapnews/2020
   :lat: 35.8949557
