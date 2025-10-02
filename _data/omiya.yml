@@ -1,4 +1,20 @@
 ---
+- :id: 2026
+  :src: https://omiya.keizai.biz/mapnews/2026
+  :lat: 35.9072048
+  :lng: 139.6277922
+  :link: https://omiya.keizai.biz/headline/2026/
+  :date: 2025.10.01
+  :image: https://images.keizai.biz/omiya_keizai/headline/1759330938_photo.jpg
+  :title: 大宮で22年ぶり「地図展」　大宮駅140年とさいたま市誕生25年を前に
+- :id: 2025
+  :src: https://omiya.keizai.biz/mapnews/2025
+  :lat: 35.9064528
+  :lng: 139.6216608
+  :link: https://omiya.keizai.biz/headline/2025/
+  :date: 2025.10.01
+  :image: https://images.keizai.biz/omiya_keizai/headline/1759329822_photo.jpg
+  :title: 毎日興業、さいたま新都心の創業の地で地域交流イベント　「表現」テーマに
 - :id: 2024
   :src: https://omiya.keizai.biz/mapnews/2024
   :lat: 35.9499843

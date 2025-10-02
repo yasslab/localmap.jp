@@ -1,4 +1,12 @@
 ---
+- :id: 1000
+  :src: https://urawa.keizai.biz/mapnews/1000
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz/headline/1000/
+  :date: 2025.10.01
+  :image: https://images.keizai.biz/urawa_keizai/headline/1759303967_photo.jpg
+  :title: 埼玉りそな銀行さいたま研修センターで「認知症を知る」体験型ワークショップ
 - :id: 999
   :src: https://urawa.keizai.biz/mapnews/999
   :lat: 35.8725293

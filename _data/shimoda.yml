@@ -1,4 +1,12 @@
 ---
+- :id: 888
+  :src: https://shimoda.keizai.biz/mapnews/888
+  :lat: 34.6805774
+  :lng: 138.9460445
+  :link: https://shimoda.keizai.biz/headline/888/
+  :date: 2025.10.02
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1759356222_photo.jpg
+  :title: 下田ロープウェイ、「とんかつ一」コラボトートバッグ発売　200個限定
 - :id: 887
   :src: https://shimoda.keizai.biz/mapnews/887
   :lat: 34.775033
