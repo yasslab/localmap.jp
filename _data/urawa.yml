@@ -1,4 +1,12 @@
 ---
+- :id: 1001
+  :src: https://urawa.keizai.biz/mapnews/1001
+  :lat: 35.8715035
+  :lng: 139.6386737
+  :link: https://urawa.keizai.biz/headline/1001/
+  :date: 2025.10.02
+  :image: https://images.keizai.biz/urawa_keizai/headline/1759397604_photo.jpg
+  :title: イオン北浦和店が一時休業 45年の歴史にいったん幕、最終日にセレモニー
 - :id: 1000
   :src: https://urawa.keizai.biz/mapnews/1000
   :lat: 35.8587763
