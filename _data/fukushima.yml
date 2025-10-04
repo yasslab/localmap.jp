@@ -1,4 +1,20 @@
 ---
+- :id: 1157
+  :src: https://fukushima.keizai.biz/mapnews/1157
+  :lat: 37.7868503
+  :lng: 140.4393031
+  :link: https://fukushima.keizai.biz/headline/1157/
+  :date: 2025.10.03
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1759458392_photo.jpg
+  :title: 福島・笹谷に「とみふく整体院」 独立1年半で新拠点
+- :id: 1156
+  :src: https://fukushima.keizai.biz/mapnews/1156
+  :lat: 37.7549869
+  :lng: 140.4662652
+  :link: https://fukushima.keizai.biz/headline/1156/
+  :date: 2025.10.03
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1759450641_photo.jpg
+  :title: 福島・文化通りで「お祭りグルメフェス」　飲食・物販合わせて50店出店
 - :id: 1155
   :src: https://fukushima.keizai.biz/mapnews/1155
   :lat: 37.7542303
