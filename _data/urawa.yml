@@ -1,4 +1,12 @@
 ---
+- :id: 1002
+  :src: https://urawa.keizai.biz/mapnews/1002
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz/headline/1002/
+  :date: 2025.10.06
+  :image: https://images.keizai.biz/urawa_keizai/headline/1759740593_photo.jpg
+  :title: 北浦和阿波おどりに10連超が出演　商店街にぎわう
 - :id: 1001
   :src: https://urawa.keizai.biz/mapnews/1001
   :lat: 35.8715035
