@@ -1,4 +1,20 @@
 ---
+- :id: 1004
+  :src: https://urawa.keizai.biz/mapnews/1004
+  :lat: 35.8770746
+  :lng: 139.6220044
+  :link: https://urawa.keizai.biz/headline/1004/
+  :date: 2025.10.08
+  :image: https://images.keizai.biz/urawa_keizai/headline/1759849595_photo.jpg
+  :title: さいたま市で映画「オレンジ・ランプ」上映　認知症正しく知るきっかけに
+- :id: 1003
+  :src: https://urawa.keizai.biz/mapnews/1003
+  :lat: 35.8602761
+  :lng: 139.6535072
+  :link: https://urawa.keizai.biz/headline/1003/
+  :date: 2025.10.07
+  :image: https://images.keizai.biz/urawa_keizai/headline/1759848888_photo.jpg
+  :title: 浦和で「おこめイベント」　米にまつわる商品紹介や炊き方講座
 - :id: 1002
   :src: https://urawa.keizai.biz/mapnews/1002
   :lat: 35.8587763
