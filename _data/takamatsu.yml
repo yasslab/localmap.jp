@@ -1,4 +1,20 @@
 ---
+- :id: 1303
+  :src: https://takamatsu.keizai.biz/mapnews/1303
+  :lat: 34.3781811
+  :lng: 133.9310065
+  :link: https://takamatsu.keizai.biz/headline/1303/
+  :date: 2025.10.17
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1760680318_photo.jpg
+  :title: 高松「れきみん」で「新民芸の創出」展　暮らしを彩った昭和のデザインに光
+- :id: 1302
+  :src: https://takamatsu.keizai.biz/mapnews/1302
+  :lat: 34.3582379
+  :lng: 134.0992449
+  :link: https://takamatsu.keizai.biz/headline/1302/
+  :date: 2025.10.17
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1760669788_photo.jpg
+  :title: 屋島の風景と文化の系譜をたどる　やしまーるでローカルデザイン探る企画展
 - :id: 1301
   :src: https://takamatsu.keizai.biz/mapnews/1301
   :lat: 34.2855178
