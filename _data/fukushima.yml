@@ -1,4 +1,20 @@
 ---
+- :id: 1173
+  :src: https://fukushima.keizai.biz/mapnews/1173
+  :lat: 37.7999338
+  :lng: 140.489521
+  :link: https://fukushima.keizai.biz/headline/1173/
+  :date: 2025.11.06
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1762391622_photo.jpg
+  :title: 福島・瀬上町にカフェ＆ギャラリー「アットピース」
+- :id: 1172
+  :src: https://fukushima.keizai.biz/mapnews/1172
+  :lat: 37.7408677
+  :lng: 140.4690785
+  :link: https://fukushima.keizai.biz/headline/1172/
+  :date: 2025.11.06
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1762388197_photo.jpg
+  :title: 福島・渡利にランチ専門店「アボカーレ」　パスタ店復活の要望から再出店
 - :id: 1171
   :src: https://fukushima.keizai.biz/mapnews/1171
   :lat: 37.7540155
