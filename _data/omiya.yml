@@ -1,4 +1,20 @@
 ---
+- :id: 2048
+  :src: https://omiya.keizai.biz/mapnews/2048
+  :lat: 35.8933795
+  :lng: 139.6309249
+  :link: https://omiya.keizai.biz/headline/2048/
+  :date: 2025.11.12
+  :image: https://images.keizai.biz/omiya_keizai/headline/1762930790_photo.jpg
+  :title: さいたま新都心で仮装イベント「まちのハロウィーン」
+- :id: 2047
+  :src: https://omiya.keizai.biz/mapnews/2047
+  :lat: 35.9083348
+  :lng: 139.6254456
+  :link: https://omiya.keizai.biz/headline/2047/
+  :date: 2025.11.12
+  :image: https://images.keizai.biz/omiya_keizai/headline/1762928213_photo.jpg
+  :title: 大宮にサステナブルな「食」がテーマの商業施設「ムスブルミネ」
 - :id: 2046
   :src: https://omiya.keizai.biz/mapnews/2046
   :lat: 35.9697228
