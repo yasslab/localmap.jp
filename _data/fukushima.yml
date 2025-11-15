@@ -1,4 +1,20 @@
 ---
+- :id: 1177
+  :src: https://fukushima.keizai.biz/mapnews/1177
+  :lat: 37.7412558
+  :lng: 140.4375024
+  :link: https://fukushima.keizai.biz/headline/1177/
+  :date: 2025.11.14
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1763088849_photo.jpg
+  :title: 福島・成川にカフェ「燻ZIN」　植物・器・コーヒーの複合施設に
+- :id: 1176
+  :src: https://fukushima.keizai.biz/mapnews/1176
+  :lat: 37.7903622
+  :lng: 140.4890917
+  :link: https://fukushima.keizai.biz/headline/1176/
+  :date: 2025.11.14
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1763079585_photo.jpg
+  :title: ドン・キホーテ福島店内に「アッティーボジム福島」　県内初出店
 - :id: 1175
   :src: https://fukushima.keizai.biz/mapnews/1175
   :lat: 37.7568353
