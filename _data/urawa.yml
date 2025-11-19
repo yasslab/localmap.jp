@@ -1,4 +1,20 @@
 ---
+- :id: 1013
+  :src: https://urawa.keizai.biz/mapnews/1013
+  :lat: 35.858568
+  :lng: 139.6590796
+  :link: https://urawa.keizai.biz/headline/1013/
+  :date: 2025.11.18
+  :image: https://images.keizai.biz/urawa_keizai/headline/1763455020_photo.jpg
+  :title: 浦和で「オーガニックシティフェス」　さいたま市長が有機農業推進を宣言
+- :id: 1012
+  :src: https://urawa.keizai.biz/mapnews/1012
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/urawa.png"
+  :title: 404_Not_Found
 - :id: 1011
   :src: https://urawa.keizai.biz/mapnews/1011
   :lat: 35.871724
