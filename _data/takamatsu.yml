@@ -1,4 +1,12 @@
 ---
+- :id: 1337
+  :src: https://takamatsu.keizai.biz/mapnews/1337
+  :lat: 34.27058030000001
+  :lng: 134.1399807
+  :link: https://takamatsu.keizai.biz/headline/1337/
+  :date: 2025.11.20
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1763530751_photo.jpg
+  :title: 三木町に古着店「スコーグ」　欧州古着や米国デッドストックも
 - :id: 1336
   :src: https://takamatsu.keizai.biz/mapnews/1336
   :lat: 34.3379876
