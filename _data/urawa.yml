@@ -1,4 +1,20 @@
 ---
+- :id: 1015
+  :src: https://urawa.keizai.biz/mapnews/1015
+  :lat: 35.8924984
+  :lng: 139.6598768
+  :link: https://urawa.keizai.biz/headline/1015/
+  :date: 2025.12.02
+  :image: https://images.keizai.biz/urawa_keizai/headline/1764629713_photo.jpg
+  :title: 見沼田んぼで「冬のヒマワリ畑」　12月に入り開花
+- :id: 1014
+  :src: https://urawa.keizai.biz/mapnews/1014
+  :lat: 35.8722517
+  :lng: 139.6380758
+  :link: https://urawa.keizai.biz/headline/1014/
+  :date: 2025.12.01
+  :image: https://images.keizai.biz/urawa_keizai/headline/1764570599_photo.jpg
+  :title: 北浦和で「久遠チョコレート」映画上映会　「共に働く」考える機会に
 - :id: 1013
   :src: https://urawa.keizai.biz/mapnews/1013
   :lat: 35.858568
