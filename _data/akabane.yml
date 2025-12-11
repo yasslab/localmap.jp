@@ -1,4 +1,20 @@
 ---
+- :id: 777
+  :src: https://akabane.keizai.biz/mapnews/777
+  :lat: 35.7648868
+  :lng: 139.7499952
+  :link: https://akabane.keizai.biz/headline/777/
+  :date: 2025.12.10
+  :image: https://images.keizai.biz/akabane_keizai/headline/1765353226_photo.jpg
+  :title: 北区・豊島でアートイベント「ココキタまつり」　過去最多の92団体参加
+- :id: 776
+  :src: https://akabane.keizai.biz/mapnews/776
+  :lat: 35.7504086
+  :lng: 139.735065
+  :link: https://akabane.keizai.biz/headline/776/
+  :date: 2025.12.10
+  :image: https://images.keizai.biz/akabane_keizai/headline/1765332019_photo.jpg
+  :title: 飛鳥山酵母を使った新作日本酒「白狐」　滝野川で発表会、「酒都」宣言も
 - :id: 775
   :src: https://akabane.keizai.biz/mapnews/775
   :lat: 35.7860104
