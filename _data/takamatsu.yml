@@ -1,4 +1,20 @@
 ---
+- :id: 1369
+  :src: https://takamatsu.keizai.biz/mapnews/1369
+  :lat: 34.3508863
+  :lng: 134.0567524
+  :link: https://takamatsu.keizai.biz/headline/1369/
+  :date: 2025.12.22
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1766381711_photo.jpg
+  :title: 北浜アリーで「瀬戸内のおいしいテーブル市」冬の食卓彩る雑貨や食材一堂に
+- :id: 1368
+  :src: https://takamatsu.keizai.biz/mapnews/1368
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takamatsu.png"
+  :title: 404_Not_Found
 - :id: 1367
   :src: https://takamatsu.keizai.biz/mapnews/1367
   :lat: 34.2769193
