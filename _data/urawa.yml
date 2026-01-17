@@ -1,4 +1,12 @@
 ---
+- :id: 1024
+  :src: https://urawa.keizai.biz/mapnews/1024
+  :lat: 35.8953718
+  :lng: 139.7049304
+  :link: https://urawa.keizai.biz/headline/1024/
+  :date: 2026.01.16
+  :image: https://images.keizai.biz/urawa_keizai/headline/1768532838_photo.jpg
+  :title: 東浦和で多世代交流イベント「総持院で卓球」　
 - :id: 1023
   :src: https://urawa.keizai.biz/mapnews/1023
   :lat: 35.90262380000001
