@@ -1,4 +1,12 @@
 ---
+- :id: 999
+  :src: https://shimoda.keizai.biz/mapnews/999
+  :lat: 34.7832075
+  :lng: 138.7673562
+  :link: https://shimoda.keizai.biz/headline/999/
+  :date: 2026.01.26
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1769377230_photo.jpg
+  :title: 西伊豆コーヒースタンド、堂ヶ島へ移転　揚げたてチュロスで食べ歩き提案
 - :id: 998
   :src: https://shimoda.keizai.biz/mapnews/998
   :lat: 34.7814415
