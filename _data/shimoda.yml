@@ -1,4 +1,12 @@
 ---
+- :id: 1000
+  :src: https://shimoda.keizai.biz/mapnews/1000
+  :lat: 34.7577269
+  :lng: 138.8258299
+  :link: https://shimoda.keizai.biz/headline/1000/
+  :date: 2026.01.27
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1769462253_photo.jpg
+  :title: 松崎町で「2地域居住」普及への集中企画　都内セミナーや体験ツアーで交流
 - :id: 999
   :src: https://shimoda.keizai.biz/mapnews/999
   :lat: 34.7832075
