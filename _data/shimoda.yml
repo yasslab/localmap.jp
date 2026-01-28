@@ -1,4 +1,12 @@
 ---
+- :id: 1001
+  :src: https://shimoda.keizai.biz/mapnews/1001
+  :lat: 34.6499327
+  :lng: 138.8660002
+  :link: https://shimoda.keizai.biz/headline/1001/
+  :date: 2026.01.28
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1769548567_photo.jpg
+  :title: 南伊豆で「みなみの桜と菜の花まつり」開幕へ　10年ぶり「夜桜流れ星」も
 - :id: 1000
   :src: https://shimoda.keizai.biz/mapnews/1000
   :lat: 34.7577269
