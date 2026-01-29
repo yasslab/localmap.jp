@@ -1,4 +1,20 @@
 ---
+- :id: 1401
+  :src: https://takamatsu.keizai.biz/mapnews/1401
+  :lat: 34.3464132
+  :lng: 134.051415
+  :link: https://takamatsu.keizai.biz/headline/1401/
+  :date: 2026.01.28
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1769592213_photo.jpg
+  :title: 高松三越でスコーンの祭典　万博パビリオンの味や地元店など51ブランド
+- :id: 1400
+  :src: https://takamatsu.keizai.biz/mapnews/1400
+  :lat: 34.3412704
+  :lng: 134.0466024
+  :link: https://takamatsu.keizai.biz/headline/1400/
+  :date: 2026.01.28
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1769574106_photo.jpg
+  :title: 高松・菊池寛通り交差点で「歩車分離式」社会実験　スクランブル化見据え
 - :id: 1399
   :src: https://takamatsu.keizai.biz/mapnews/1399
   :lat: 34.351365
