@@ -1,4 +1,20 @@
 ---
+- :id: 1407
+  :src: https://takamatsu.keizai.biz/mapnews/1407
+  :lat: 34.3501774
+  :lng: 134.0477943
+  :link: https://takamatsu.keizai.biz/headline/1407/
+  :date: 2026.02.03
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1770096157_photo.jpg
+  :title: JR高松駅前に骨付鳥「酉の丸」　「おや・ひな」、瀬戸内鮮魚を一度に
+- :id: 1406
+  :src: https://takamatsu.keizai.biz/mapnews/1406
+  :lat: 34.3516179
+  :lng: 134.0475449
+  :link: https://takamatsu.keizai.biz/headline/1406/
+  :date: 2026.02.03
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1770083369_photo.jpg
+  :title: 高松で「まちなか直行バス」社会実験　高松駅～商店街を20分間隔で運行
 - :id: 1405
   :src: https://takamatsu.keizai.biz/mapnews/1405
   :lat: 34.3421144

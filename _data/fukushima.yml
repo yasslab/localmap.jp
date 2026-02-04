@@ -1,4 +1,20 @@
 ---
+- :id: 1202
+  :src: https://fukushima.keizai.biz/mapnews/1202
+  :lat: 37.7544495
+  :lng: 140.4682734
+  :link: https://fukushima.keizai.biz/headline/1202/
+  :date: 2026.02.03
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1770109241_photo.jpg
+  :title: 福島・上町にヨガスタジオ「マイソール」　キッチンスタジオ併設
+- :id: 1201
+  :src: https://fukushima.keizai.biz/mapnews/1201
+  :lat: 37.8045513
+  :lng: 140.4114907
+  :link: https://fukushima.keizai.biz/headline/1201/
+  :date: 2026.02.03
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1770086156_photo.jpg
+  :title: 道の駅ふくしまフードコートにカレー店「笑夢」　店舗限定「ミールサンド」も
 - :id: 1200
   :src: https://fukushima.keizai.biz/mapnews/1200
   :lat: 37.7669208
