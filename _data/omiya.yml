@@ -1,4 +1,20 @@
 ---
+- :id: 2086
+  :src: https://omiya.keizai.biz/mapnews/2086
+  :lat: 35.9356818
+  :lng: 139.6209837
+  :link: https://omiya.keizai.biz/headline/2086/
+  :date: 2026.02.05
+  :image: https://images.keizai.biz/omiya_keizai/headline/1770301473_photo.jpg
+  :title: さいたまヨーロッパ野菜料理コンテストが10周年　プロ・アマ160人競う
+- :id: 2085
+  :src: https://omiya.keizai.biz/mapnews/2085
+  :lat: 35.9064528
+  :lng: 139.6216608
+  :link: https://omiya.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/omiya.png"
+  :title: 404_Not_Found
 - :id: 2084
   :src: https://omiya.keizai.biz/mapnews/2084
   :lat: 35.9273339

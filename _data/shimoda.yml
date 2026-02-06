@@ -1,4 +1,12 @@
 ---
+- :id: 1009
+  :src: https://shimoda.keizai.biz/mapnews/1009
+  :lat: 34.7507905
+  :lng: 138.9919471
+  :link: https://shimoda.keizai.biz/headline/1009/
+  :date: 2026.02.06
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1770325816_photo.jpg
+  :title: AIカメラで「河津桜まつり」の駐車場混雑を可視化　来訪者の渋滞緩和へ
 - :id: 1008
   :src: https://shimoda.keizai.biz/mapnews/1008
   :lat: 34.6788301
