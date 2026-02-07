@@ -1,4 +1,28 @@
 ---
+- :id: 1206
+  :src: https://fukushima.keizai.biz/mapnews/1206
+  :lat: 37.7140165
+  :lng: 140.3636883
+  :link: https://fukushima.keizai.biz/headline/1206/
+  :date: 2026.02.06
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1770353850_photo.jpg
+  :title: 福島・四季の里で「熱辛グルメまつり」 熱・辛とスイーツ 冬の味覚集結
+- :id: 1205
+  :src: https://fukushima.keizai.biz/mapnews/1205
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/fukushima.png"
+  :title: 404_Not_Found
+- :id: 1204
+  :src: https://fukushima.keizai.biz/mapnews/1204
+  :lat: 37.8045513
+  :lng: 140.4114907
+  :link: https://fukushima.keizai.biz/headline/1204/
+  :date: 2026.02.04
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1770191024_photo.jpg
+  :title: 道の駅ふくしまに「吹島食堂」　ギフターズが「メード・イン・福島」発信
 - :id: 1203
   :src: https://fukushima.keizai.biz/mapnews/1203
   :lat: 37.7514919
