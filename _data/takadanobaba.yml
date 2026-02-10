@@ -1,4 +1,20 @@
 ---
+- :id: 1605
+  :src: https://takadanobaba.keizai.biz/mapnews/1605
+  :lat: 35.71455400000001
+  :lng: 139.7077815
+  :link: https://takadanobaba.keizai.biz/headline/1605/
+  :date: 2026.02.09
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1770611293_photo.jpg
+  :title: 高田馬場の「吉報堂」が「はんこアクセサリー」　はんこ文化は耳元で生き続ける
+- :id: 1604
+  :src: https://takadanobaba.keizai.biz/mapnews/1604
+  :lat: 35.7120933
+  :lng: 139.7047394
+  :link: https://takadanobaba.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takadanobaba.png"
+  :title: 404_Not_Found
 - :id: 1603
   :src: https://takadanobaba.keizai.biz/mapnews/1603
   :lat: 35.7125581
