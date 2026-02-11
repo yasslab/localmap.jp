@@ -1,4 +1,20 @@
 ---
+- :id: 1415
+  :src: https://takamatsu.keizai.biz/mapnews/1415
+  :lat: 34.3526635
+  :lng: 134.0470156
+  :link: https://takamatsu.keizai.biz/headline/1415/
+  :date: 2026.02.10
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1770698470_photo.jpg
+  :title: "「バレンタインはゾンビと」　高松シンボルタワーで「ゾンビパニック」"
+- :id: 1414
+  :src: https://takamatsu.keizai.biz/mapnews/1414
+  :lat: 34.3421144
+  :lng: 134.0485528
+  :link: https://takamatsu.keizai.biz/headline/1414/
+  :date: 2026.02.10
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1770692779_photo.jpg
+  :title: 高松でU-18ピッチ「イグニッション」　香川の高校生5人が夢や活動熱弁
 - :id: 1413
   :src: https://takamatsu.keizai.biz/mapnews/1413
   :lat: 34.3507102
