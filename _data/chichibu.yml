@@ -1,4 +1,12 @@
 ---
+- :id: 1000
+  :src: https://chichibu.keizai.biz/mapnews/1000
+  :lat: 35.9925604
+  :lng: 139.0752388
+  :link: https://chichibu.keizai.biz/headline/1000/
+  :date: 2026.02.17
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1771294804_photo.jpg
+  :title: 秩父高で1年生が地域の社会人と対話型授業　次年度の探究学習に向け
 - :id: 999
   :src: https://chichibu.keizai.biz/mapnews/999
   :lat: 35.99587950000001

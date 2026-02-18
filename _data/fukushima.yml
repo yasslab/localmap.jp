@@ -1,4 +1,12 @@
 ---
+- :id: 1211
+  :src: https://fukushima.keizai.biz/mapnews/1211
+  :lat: 37.75677200000001
+  :lng: 140.4628521
+  :link: https://fukushima.keizai.biz/headline/1211/
+  :date: 2026.02.17
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1771319449_photo.jpg
+  :title: 福島・陣場町に「SOBA 花音」　地域活性と就労支援目指し開店
 - :id: 1210
   :src: https://fukushima.keizai.biz/mapnews/1210
   :lat: 37.6796843
