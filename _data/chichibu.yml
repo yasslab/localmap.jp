@@ -1,4 +1,12 @@
 ---
+- :id: 1001
+  :src: https://chichibu.keizai.biz/mapnews/1001
+  :lat: 35.9976189
+  :lng: 139.0841388
+  :link: https://chichibu.keizai.biz/headline/1001/
+  :date: 2026.02.18
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1771400442_photo.jpg
+  :title: 秩父神社で「みんなのふだしょDAY」　秩父札所午歳総開帳前に機運高める
 - :id: 1000
   :src: https://chichibu.keizai.biz/mapnews/1000
   :lat: 35.9925604

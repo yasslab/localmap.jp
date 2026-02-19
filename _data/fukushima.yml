@@ -1,4 +1,20 @@
 ---
+- :id: 1213
+  :src: https://fukushima.keizai.biz/mapnews/1213
+  :lat: 37.7579315
+  :lng: 140.4626273
+  :link: https://fukushima.keizai.biz/headline/1213/
+  :date: 2026.02.18
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1771410803_photo.jpg
+  :title: 福島・陣場町に米ぬか酵素風呂「ペコーラ」　プライベート感にも配慮
+- :id: 1212
+  :src: https://fukushima.keizai.biz/mapnews/1212
+  :lat: 37.7506936
+  :lng: 140.4643416
+  :link: https://fukushima.keizai.biz/headline/1212/
+  :date: 2026.02.18
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1771388369_photo.jpg
+  :title: 福島駅東口に「アパホテル福島駅東」　事業承継で再生、車利用客の需要狙う
 - :id: 1211
   :src: https://fukushima.keizai.biz/mapnews/1211
   :lat: 37.75677200000001
