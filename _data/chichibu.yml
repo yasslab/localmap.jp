@@ -1,4 +1,12 @@
 ---
+- :id: 1002
+  :src: https://chichibu.keizai.biz/mapnews/1002
+  :lat: 35.986775
+  :lng: 139.10292
+  :link: https://chichibu.keizai.biz/headline/1002/
+  :date: 2026.02.19
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1771491430_photo.jpg
+  :title: 横瀬で「よこらぼ大会議」　秩父広域への連携や持続的な挑戦を議論
 - :id: 1001
   :src: https://chichibu.keizai.biz/mapnews/1001
   :lat: 35.9976189

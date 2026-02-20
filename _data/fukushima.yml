@@ -1,4 +1,28 @@
 ---
+- :id: 1216
+  :src: https://fukushima.keizai.biz/mapnews/1216
+  :lat: 37.7607991
+  :lng: 140.4747856
+  :link: https://fukushima.keizai.biz/headline/1216/
+  :date: 2026.02.20
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1771545934_photo.jpg
+  :title: 福島市のローカル情報を発信するZINE「ユニーク」　市内小中学校へ寄贈
+- :id: 1215
+  :src: https://fukushima.keizai.biz/mapnews/1215
+  :lat: 37.7587003
+  :lng: 140.4295511
+  :link: https://fukushima.keizai.biz/headline/1215/
+  :date: 2026.02.19
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1771464633_photo.jpg
+  :title: 福島・西中央にペットサロン「バンダ」　デザインカットやカラーで個性提案
+- :id: 1214
+  :src: https://fukushima.keizai.biz/mapnews/1214
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/fukushima.png"
+  :title: 404_Not_Found
 - :id: 1213
   :src: https://fukushima.keizai.biz/mapnews/1213
   :lat: 37.7579315
