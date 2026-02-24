@@ -1,4 +1,12 @@
 ---
+- :id: 1024
+  :src: https://shimoda.keizai.biz/mapnews/1024
+  :lat: 34.7507905
+  :lng: 138.9919471
+  :link: https://shimoda.keizai.biz/headline/1024/
+  :date: 2026.02.24
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1771881645_photo.jpg
+  :title: "「河津桜まつり」、春の陽気で桜がほぼ満開　3連休は「最高潮の人出」に"
 - :id: 1023
   :src: https://shimoda.keizai.biz/mapnews/1023
   :lat: 34.6732168
