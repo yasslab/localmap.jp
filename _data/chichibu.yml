@@ -1,4 +1,12 @@
 ---
+- :id: 1004
+  :src: https://chichibu.keizai.biz/mapnews/1004
+  :lat: 35.986775
+  :lng: 139.10292
+  :link: https://chichibu.keizai.biz/headline/1004/
+  :date: 2026.02.24
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1771911943_photo.jpg
+  :title: "「靴磨きトラベラー」佐原総将さん、横瀬で講演会　世界38カ国での経験語る"
 - :id: 1003
   :src: https://chichibu.keizai.biz/mapnews/1003
   :lat: 36.0708608

@@ -1,4 +1,12 @@
 ---
+- :id: 1217
+  :src: https://fukushima.keizai.biz/mapnews/1217
+  :lat: 37.7242675
+  :lng: 140.4598602
+  :link: https://fukushima.keizai.biz/headline/1217/
+  :date: 2026.02.24
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1771892301_photo.jpg
+  :title: "「麺や飯や 仁」、伊達から福島・伏拝に移転　自家製麺でコスト抑え麺増量"
 - :id: 1216
   :src: https://fukushima.keizai.biz/mapnews/1216
   :lat: 37.7607991
