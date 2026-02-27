@@ -1,4 +1,20 @@
 ---
+- :id: 1007
+  :src: https://chichibu.keizai.biz/mapnews/1007
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz/headline/1007/
+  :date: 2026.02.26
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1772101528_photo.jpg
+  :title: 秩父経済新聞が累計1000記事配信　開設から4年8カ月、地域の記録続ける
+- :id: 1006
+  :src: https://chichibu.keizai.biz/mapnews/1006
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz/headline/1006/
+  :date: 2026.02.26
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1772097919_photo.jpg
+  :title: 秩父・横瀬で12年に1度の秩父札所巡りを親子で体験　若手ガイドが企画
 - :id: 1005
   :src: https://chichibu.keizai.biz/mapnews/1005
   :lat: 35.9906173
