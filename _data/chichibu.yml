@@ -1,4 +1,20 @@
 ---
+- :id: 1009
+  :src: https://chichibu.keizai.biz/mapnews/1009
+  :lat: 35.9966638
+  :lng: 139.0129404
+  :link: https://chichibu.keizai.biz/headline/1009/
+  :date: 2026.02.27
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1772180187_photo.jpg
+  :title: 小鹿野・法性寺「お船岩」の景観復活　伐採で数十年ぶりに「船の形」現す
+- :id: 1008
+  :src: https://chichibu.keizai.biz/mapnews/1008
+  :lat: 35.9949812
+  :lng: 139.0840106
+  :link: https://chichibu.keizai.biz/headline/1008/
+  :date: 2026.02.27
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1772168423_photo.jpg
+  :title: 秩父「じんじんばあ」のいのしし汁がレトルトに　自社ジビエ工場で製造
 - :id: 1007
   :src: https://chichibu.keizai.biz/mapnews/1007
   :lat: 35.9988245
