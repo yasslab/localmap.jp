@@ -1,4 +1,20 @@
 ---
+- :id: 1220
+  :src: https://fukushima.keizai.biz/mapnews/1220
+  :lat: 37.73959809999999
+  :lng: 140.4308423
+  :link: https://fukushima.keizai.biz/headline/1220/
+  :date: 2026.03.02
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1772439379_photo.jpg
+  :title: 自動車のリペア専門店「ケーズワークス」が新店　国道沿いへの出店の夢実現
+- :id: 1219
+  :src: https://fukushima.keizai.biz/mapnews/1219
+  :lat: 37.821058
+  :lng: 140.5416187
+  :link: https://fukushima.keizai.biz/headline/1219/
+  :date: 2026.03.02
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1772428075_photo.jpg
+  :title: 伊達・保原町にトリミングサロン「アイリ」　トレーラーハウスを店舗に
 - :id: 1218
   :src: https://fukushima.keizai.biz/mapnews/1218
   :lat: 37.8506365
