@@ -1,4 +1,12 @@
 ---
+- :id: 1221
+  :src: https://fukushima.keizai.biz/mapnews/1221
+  :lat: 37.8177399
+  :lng: 140.5034309
+  :link: https://fukushima.keizai.biz/headline/1221/
+  :date: 2026.03.03
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1772509446_photo.jpg
+  :title: 伊達に定食店「満天食堂」　ご飯・おしんこ食べ放題、県北エリア初進出
 - :id: 1220
   :src: https://fukushima.keizai.biz/mapnews/1220
   :lat: 37.73959809999999
