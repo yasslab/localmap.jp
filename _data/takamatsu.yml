@@ -1,4 +1,20 @@
 ---
+- :id: 1440
+  :src: https://takamatsu.keizai.biz/mapnews/1440
+  :lat: 34.35255
+  :lng: 134.0464033
+  :link: https://takamatsu.keizai.biz/headline/1440/
+  :date: 2026.03.09
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1773029583_photo.jpg
+  :title: 高松で事業成長支援プログラム最終ピッチ　AI業務改善事業がグランプリ
+- :id: 1439
+  :src: https://takamatsu.keizai.biz/mapnews/1439
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takamatsu.png"
+  :title: 404_Not_Found
 - :id: 1438
   :src: https://takamatsu.keizai.biz/mapnews/1438
   :lat: 34.352368

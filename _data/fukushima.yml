@@ -1,4 +1,20 @@
 ---
+- :id: 1225
+  :src: https://fukushima.keizai.biz/mapnews/1225
+  :lat: 37.7231342
+  :lng: 140.3983651
+  :link: https://fukushima.keizai.biz/headline/1225/
+  :date: 2026.03.10
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1773034873_photo.jpg
+  :title: 福島で「わくわくまるしぇ」　平和×福祉をテーマに身近にSDGs体験
+- :id: 1224
+  :src: https://fukushima.keizai.biz/mapnews/1224
+  :lat: 37.7390384
+  :lng: 140.4209756
+  :link: https://fukushima.keizai.biz/headline/1224/
+  :date: 2026.03.09
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1773015387_photo.jpg
+  :title: 福島にフリースクール「ブリリアント」　クリエーティブで「好き」を伸ばす
 - :id: 1223
   :src: https://fukushima.keizai.biz/mapnews/1223
   :lat: 37.7607991
