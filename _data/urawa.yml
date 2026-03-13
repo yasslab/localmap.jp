@@ -1,4 +1,20 @@
 ---
+- :id: 1040
+  :src: https://urawa.keizai.biz/mapnews/1040
+  :lat: 35.8584265
+  :lng: 139.6558907
+  :link: https://urawa.keizai.biz/headline/1040/
+  :date: 2026.03.13
+  :image: https://images.keizai.biz/urawa_keizai/headline/1773330567_photo.jpg
+  :title: 浦和で「クッキーバザール」　県内の福祉作業所で作られたクッキーを販売
+- :id: 1039
+  :src: https://urawa.keizai.biz/mapnews/1039
+  :lat: 35.8725419
+  :lng: 139.6648104
+  :link: https://urawa.keizai.biz/headline/1039/
+  :date: 2026.03.12
+  :image: https://images.keizai.biz/urawa_keizai/headline/1773307488_photo.jpg
+  :title: 浦和・青少年宇宙科学館で「星景」写真展　講演会で星空撮影の魅力伝える
 - :id: 1038
   :src: https://urawa.keizai.biz/mapnews/1038
   :lat: 35.8586161
