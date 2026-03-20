@@ -1,4 +1,28 @@
 ---
+- :id: 1048
+  :src: https://urawa.keizai.biz/mapnews/1048
+  :lat: 35.8696036
+  :lng: 139.6430328
+  :link: https://urawa.keizai.biz/headline/1048/
+  :date: 2026.03.20
+  :image: https://images.keizai.biz/urawa_keizai/headline/1773933560_photo.jpg
+  :title: 北浦和・近代美術館で「領家手づくり絵本の会50周年記念展」　民話を題材に
+- :id: 1047
+  :src: https://urawa.keizai.biz/mapnews/1047
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/urawa.png"
+  :title: 404_Not_Found
+- :id: 1046
+  :src: https://urawa.keizai.biz/mapnews/1046
+  :lat: 35.8507511
+  :lng: 139.6313836
+  :link: https://urawa.keizai.biz/headline/1046/
+  :date: 2026.03.19
+  :image: https://images.keizai.biz/urawa_keizai/headline/1773906628_photo.jpg
+  :title: さいたま・田島氷川神社で獅子舞奉納　400年の伝統を今に　
 - :id: 1045
   :src: https://urawa.keizai.biz/mapnews/1045
   :lat: 35.8527428
