@@ -1,4 +1,28 @@
 ---
+- :id: 968
+  :src: https://narashino.keizai.biz/mapnews/968
+  :lat: 35.6815678
+  :lng: 140.0616108
+  :link: https://narashino.keizai.biz/headline/968/
+  :date: 2026.04.01
+  :image: https://images.keizai.biz/narashino_keizai/headline/1775011429_photo.jpg
+  :title: 習志野の屋敷近隣公園で桜が見頃　花見客でにぎわう
+- :id: 967
+  :src: https://narashino.keizai.biz/mapnews/967
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/narashino.png"
+  :title: 404_Not_Found
+- :id: 966
+  :src: https://narashino.keizai.biz/mapnews/966
+  :lat: 35.6919678
+  :lng: 140.0551901
+  :link: https://narashino.keizai.biz/headline/966/
+  :date: 2026.03.31
+  :image: https://images.keizai.biz/narashino_keizai/headline/1774933627_photo.jpg
+  :title: "「習志野の森」で春の一般開放イベント　新企画「自然のなんの木」も"
 - :id: 965
   :src: https://narashino.keizai.biz/mapnews/965
   :lat: 35.6835

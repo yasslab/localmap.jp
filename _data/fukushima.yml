@@ -1,4 +1,20 @@
 ---
+- :id: 1234
+  :src: https://fukushima.keizai.biz/mapnews/1234
+  :lat: 37.6194454
+  :lng: 140.4651953
+  :link: https://fukushima.keizai.biz/headline/1234/
+  :date: 2026.04.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1775034682_photo.jpg
+  :title: 二本松・油井で「油井マルシェ」初開催へ　庭と暮らしの相談に35店出店
+- :id: 1233
+  :src: https://fukushima.keizai.biz/mapnews/1233
+  :lat: 37.7543595
+  :lng: 140.4609508
+  :link: https://fukushima.keizai.biz/headline/1233/
+  :date: 2026.04.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1775018254_photo.jpg
+  :title: 福島駅東口で「職人日和」初開催へ　作り手と使い手をつなぐ対話の場に
 - :id: 1232
   :src: https://fukushima.keizai.biz/mapnews/1232
   :lat: 37.7531039
