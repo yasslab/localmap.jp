@@ -1,4 +1,28 @@
 ---
+- :id: 1239
+  :src: https://fukushima.keizai.biz/mapnews/1239
+  :lat: 37.7749429
+  :lng: 140.4647714
+  :link: https://fukushima.keizai.biz/headline/1239/
+  :date: 2026.04.08
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1775607375_photo.jpg
+  :title: 福島・御山に女性専用24時間フィットネスジム「アミーゴスタイル」
+- :id: 1238
+  :src: https://fukushima.keizai.biz/mapnews/1238
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/fukushima.png"
+  :title: 404_Not_Found
+- :id: 1237
+  :src: https://fukushima.keizai.biz/mapnews/1237
+  :lat: 37.7505412
+  :lng: 140.4393786
+  :link: https://fukushima.keizai.biz/headline/1237/
+  :date: 2026.04.07
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1775523219_photo.jpg
+  :title: 福島・八木田「サロンスピカ」がリニューアル　ブライダルメニュー提供開始
 - :id: 1236
   :src: https://fukushima.keizai.biz/mapnews/1236
   :lat: 37.6579609
