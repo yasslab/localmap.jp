@@ -1,4 +1,20 @@
 ---
+- :id: 2122
+  :src: https://omiya.keizai.biz/mapnews/2122
+  :lat: 35.9498589
+  :lng: 139.6925733
+  :link: https://omiya.keizai.biz/headline/2122/
+  :date: 2026.04.08
+  :image: https://images.keizai.biz/omiya_keizai/headline/1775633366_photo.jpg
+  :title: 岩槻駅で観光デジタルサイネージ稼働　観光客の利便性・回遊性向上へ
+- :id: 2121
+  :src: https://omiya.keizai.biz/mapnews/2121
+  :lat: 35.9064528
+  :lng: 139.6216608
+  :link: https://omiya.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/omiya.png"
+  :title: 404_Not_Found
 - :id: 2120
   :src: https://omiya.keizai.biz/mapnews/2120
   :lat: 35.9063166
