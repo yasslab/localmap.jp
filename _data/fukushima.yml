@@ -1,4 +1,20 @@
 ---
+- :id: 1244
+  :src: https://fukushima.keizai.biz/mapnews/1244
+  :lat: 37.7540556
+  :lng: 140.4633758
+  :link: https://fukushima.keizai.biz/headline/1244/
+  :date: 2026.04.16
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1776330473_photo.jpg
+  :title: 福島・栄町に「みちのく酒場 蓬」　地産地消掲げ、福島県産品をPR
+- :id: 1243
+  :src: https://fukushima.keizai.biz/mapnews/1243
+  :lat: 37.5915999
+  :lng: 140.4371405
+  :link: https://fukushima.keizai.biz/headline/1243/
+  :date: 2026.04.16
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1776302316_photo.jpg
+  :title: 二本松に「3時のドーナツ」　熊本のドーナツ店が二本松の旅館と共同出店
 - :id: 1242
   :src: https://fukushima.keizai.biz/mapnews/1242
   :lat: 37.7571317
