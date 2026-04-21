@@ -1,4 +1,20 @@
 ---
+- :id: 1247
+  :src: https://fukushima.keizai.biz/mapnews/1247
+  :lat: 37.76079920000001
+  :lng: 140.4748169
+  :link: https://fukushima.keizai.biz/headline/1247/
+  :date: 2026.04.20
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1776645546_photo.jpg
+  :title: 福島市役所に「みんなの食堂 あんさんぶる」　一般利用やカフェ利用も
+- :id: 1246
+  :src: https://fukushima.keizai.biz/mapnews/1246
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/fukushima.png"
+  :title: 404_Not_Found
 - :id: 1245
   :src: https://fukushima.keizai.biz/mapnews/1245
   :lat: 37.7551743
