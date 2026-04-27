@@ -1,4 +1,20 @@
 ---
+- :id: 1250
+  :src: https://fukushima.keizai.biz/mapnews/1250
+  :lat: 37.754528
+  :lng: 140.4587687
+  :link: https://fukushima.keizai.biz/headline/1250/
+  :date: 2026.04.26
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1777248835_photo.jpg
+  :title: 福島駅西口に「ロピア」　県内初進出、初日に500人が行列
+- :id: 1249
+  :src: https://fukushima.keizai.biz/mapnews/1249
+  :lat: 37.7963472
+  :lng: 140.4861612
+  :link: https://fukushima.keizai.biz/headline/1249/
+  :date: 2026.04.26
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1777176326_photo.jpg
+  :title: 福島・鎌田の複合書店「SASYU」が閉店へ　29年の歴史に幕
 - :id: 1248
   :src: https://fukushima.keizai.biz/mapnews/1248
   :lat: 37.7961507
