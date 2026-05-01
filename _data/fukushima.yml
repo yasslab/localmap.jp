@@ -1,4 +1,28 @@
 ---
+- :id: 1257
+  :src: https://fukushima.keizai.biz/mapnews/1257
+  :lat: 37.7588804
+  :lng: 140.4601685
+  :link: https://fukushima.keizai.biz/headline/1257/
+  :date: 2026.05.01
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1777594389_photo.jpg
+  :title: 福島・アオウゼで「パッチワークキルト展」　7年ぶりに開催
+- :id: 1256
+  :src: https://fukushima.keizai.biz/mapnews/1256
+  :lat: 37.8039518
+  :lng: 140.4933765
+  :link: https://fukushima.keizai.biz/headline/1256/
+  :date: 2026.04.30
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1777511641_photo.jpg
+  :title: 福島・瀬上に「ごはん屋モア」　美うら食堂跡に出店、築地で修行した鶏料理提供
+- :id: 1255
+  :src: https://fukushima.keizai.biz/mapnews/1255
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/fukushima.png"
+  :title: 404_Not_Found
 - :id: 1254
   :src: https://fukushima.keizai.biz/mapnews/1254
   :lat: 37.7538961
