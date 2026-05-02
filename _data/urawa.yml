@@ -1,4 +1,28 @@
 ---
+- :id: 1066
+  :src: https://urawa.keizai.biz/mapnews/1066
+  :lat: 35.8795024
+  :lng: 139.7336687
+  :link: https://urawa.keizai.biz/headline/1066/
+  :date: 2026.05.01
+  :image: https://images.keizai.biz/urawa_keizai/headline/1777637063_photo.jpg
+  :title: 浦和レッズOBが幼稚園でサッカー教室　スポーツの楽しさ伝える
+- :id: 1065
+  :src: https://urawa.keizai.biz/mapnews/1065
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/urawa.png"
+  :title: 404_Not_Found
+- :id: 1064
+  :src: https://urawa.keizai.biz/mapnews/1064
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/urawa.png"
+  :title: 404_Not_Found
 - :id: 1063
   :src: https://urawa.keizai.biz/mapnews/1063
   :lat: 35.841016
