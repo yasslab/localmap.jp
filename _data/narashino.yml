@@ -1,4 +1,12 @@
 ---
+- :id: 1000
+  :src: https://narashino.keizai.biz/mapnews/1000
+  :lat: 35.6903091
+  :lng: 140.0222143
+  :link: https://narashino.keizai.biz/headline/1000/
+  :date: 2026.05.22
+  :image: https://images.keizai.biz/narashino_keizai/headline/1779416341_photo.jpg
+  :title: "「ナラシドまちゼミ」結果検証会　次回開催も決定"
 - :id: 999
   :src: https://narashino.keizai.biz/mapnews/999
   :lat: 35.66363279999999
