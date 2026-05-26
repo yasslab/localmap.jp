@@ -1,4 +1,12 @@
 ---
+- :id: 1001
+  :src: https://narashino.keizai.biz/mapnews/1001
+  :lat: 35.6815978
+  :lng: 140.0259223
+  :link: https://narashino.keizai.biz/headline/1001/
+  :date: 2026.05.25
+  :image: https://images.keizai.biz/narashino_keizai/headline/1779672244_photo.jpg
+  :title: "「図説 習志野市の歴史」　教育委が販売開始、3万年の歩みを書籍化"
 - :id: 1000
   :src: https://narashino.keizai.biz/mapnews/1000
   :lat: 35.6903091
