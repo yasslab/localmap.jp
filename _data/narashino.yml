@@ -1,4 +1,20 @@
 ---
+- :id: 1003
+  :src: https://narashino.keizai.biz/mapnews/1003
+  :lat: 35.683998
+  :lng: 140.0072741
+  :link: https://narashino.keizai.biz/headline/1003/
+  :date: 2026.05.26
+  :image: https://images.keizai.biz/narashino_keizai/headline/1779766300_photo.jpg
+  :title: 谷津遊路商店街で「アートフリマ」 ハンドメード作品販売、クイズラリーも
+- :id: 1002
+  :src: https://narashino.keizai.biz/mapnews/1002
+  :lat: 35.6637871
+  :lng: 140.0289524
+  :link: https://narashino.keizai.biz/headline/1002/
+  :date: 2026.05.25
+  :image: https://images.keizai.biz/narashino_keizai/headline/1779672554_photo.jpg
+  :title: 習志野市内3公園のハナショウブ　香澄・藤崎・実籾で順次開花
 - :id: 1001
   :src: https://narashino.keizai.biz/mapnews/1001
   :lat: 35.6815978
