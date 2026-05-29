@@ -1,4 +1,12 @@
 ---
+- :id: 1111
+  :src: https://shimoda.keizai.biz/mapnews/1111
+  :lat: 34.626507
+  :lng: 138.88338
+  :link: https://shimoda.keizai.biz/headline/1111/
+  :date: 2026.05.29
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1780006086_photo.jpg
+  :title: 南伊豆町、「短期型ふるさとワーホリ」開始へ　関係人口の拡大狙う
 - :id: 1110
   :src: https://shimoda.keizai.biz/mapnews/1110
   :lat: 34.6683097
