@@ -1,4 +1,20 @@
 ---
+- :id: 1010
+  :src: https://narashino.keizai.biz/mapnews/1010
+  :lat: 35.6692982
+  :lng: 140.0120515
+  :link: https://narashino.keizai.biz/headline/1010/
+  :date: 2026.05.29
+  :image: https://images.keizai.biz/narashino_keizai/headline/1780018854_photo.jpg
+  :title: オービックシーガルズ、ホーム開幕戦で東京ガスに快勝　スタンドと一体に
+- :id: 1009
+  :src: https://narashino.keizai.biz/mapnews/1009
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz/headline/1009/
+  :date: 2026.05.29
+  :image: https://images.keizai.biz/narashino_keizai/headline/1780018117_photo.jpg
+  :title: キッチンカー「らーめん三つ葉」、習志野を中心に営業を始めて3カ月
 - :id: 1008
   :src: https://narashino.keizai.biz/mapnews/1008
   :lat: 35.6900311
