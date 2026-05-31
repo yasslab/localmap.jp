@@ -1,4 +1,28 @@
 ---
+- :id: 1513
+  :src: https://takamatsu.keizai.biz/mapnews/1513
+  :lat: 34.339538
+  :lng: 134.0980253
+  :link: https://takamatsu.keizai.biz/headline/1513/
+  :date: 2026.05.30
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1780102370_photo.jpg
+  :title: 高松に生ドーナツ「ミルクドドレイク」　屋島店限定いちご大福味も
+- :id: 1512
+  :src: https://takamatsu.keizai.biz/mapnews/1512
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takamatsu.png"
+  :title: 404_Not_Found
+- :id: 1511
+  :src: https://takamatsu.keizai.biz/mapnews/1511
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takamatsu.png"
+  :title: 404_Not_Found
 - :id: 1510
   :src: https://takamatsu.keizai.biz/mapnews/1510
   :lat: 34.3426874
