@@ -1,4 +1,20 @@
 ---
+- :id: 1268
+  :src: https://fukushima.keizai.biz/mapnews/1268
+  :lat: 37.7542303
+  :lng: 140.4696435
+  :link: https://fukushima.keizai.biz/headline/1268/
+  :date: 2026.06.08
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1780885356_photo.jpg
+  :title: 福島市でダンスイベント「ポップインシャワー」　スクール生らが成果披露
+- :id: 1267
+  :src: https://fukushima.keizai.biz/mapnews/1267
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/fukushima.png"
+  :title: 404_Not_Found
 - :id: 1266
   :src: https://fukushima.keizai.biz/mapnews/1266
   :lat: 37.84985
