@@ -1,4 +1,20 @@
 ---
+- :id: 1666
+  :src: https://takadanobaba.keizai.biz/mapnews/1666
+  :lat: 35.7096396
+  :lng: 139.7231306
+  :link: https://takadanobaba.keizai.biz/headline/1666/
+  :date: 2026.06.10
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1781067411_photo.jpg
+  :title: 早大通りの「文具のサンワ」が6月末に閉店へ　論文製本で行列だった風景も
+- :id: 1665
+  :src: https://takadanobaba.keizai.biz/mapnews/1665
+  :lat: 35.7120933
+  :lng: 139.7047394
+  :link: https://takadanobaba.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takadanobaba.png"
+  :title: 404_Not_Found
 - :id: 1664
   :src: https://takadanobaba.keizai.biz/mapnews/1664
   :lat: 35.7101412
