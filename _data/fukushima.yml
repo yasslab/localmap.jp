@@ -1,4 +1,28 @@
 ---
+- :id: 1273
+  :src: https://fukushima.keizai.biz/mapnews/1273
+  :lat: 37.8208097
+  :lng: 140.508326
+  :link: https://fukushima.keizai.biz/headline/1273/
+  :date: 2026.06.17
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1781659651_photo.jpg
+  :title: 伊達市ふるさと会館で「こどナフェス」　「こどももオトナも主人公」掲げて
+- :id: 1272
+  :src: https://fukushima.keizai.biz/mapnews/1272
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/fukushima.png"
+  :title: 404_Not_Found
+- :id: 1271
+  :src: https://fukushima.keizai.biz/mapnews/1271
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/fukushima.png"
+  :title: 404_Not_Found
 - :id: 1270
   :src: https://fukushima.keizai.biz/mapnews/1270
   :lat: 37.745089
