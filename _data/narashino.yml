@@ -1,4 +1,28 @@
 ---
+- :id: 1025
+  :src: https://narashino.keizai.biz/mapnews/1025
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz/headline/1025/
+  :date: 2026.06.18
+  :image: https://images.keizai.biz/narashino_keizai/headline/1781745533_photo.jpg
+  :title: 大原神社・菊田神社で「夏越の祓の茅の輪くぐり」始まる　6月の御朱印も
+- :id: 1024
+  :src: https://narashino.keizai.biz/mapnews/1024
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/narashino.png"
+  :title: 404_Not_Found
+- :id: 1023
+  :src: https://narashino.keizai.biz/mapnews/1023
+  :lat: 35.6864484
+  :lng: 140.0085673
+  :link: https://narashino.keizai.biz/headline/1023/
+  :date: 2026.06.17
+  :image: https://images.keizai.biz/narashino_keizai/headline/1781661124_photo.jpg
+  :title: 習志野・谷津「カフェルンルン」が1周年 記念で限定ランチも
 - :id: 1022
   :src: https://narashino.keizai.biz/mapnews/1022
   :lat: 35.6909715
