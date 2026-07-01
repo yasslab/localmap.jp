@@ -1,4 +1,28 @@
 ---
+- :id: 1279
+  :src: https://fukushima.keizai.biz/mapnews/1279
+  :lat: 37.75577440000001
+  :lng: 140.4652815
+  :link: https://fukushima.keizai.biz/headline/1279/
+  :date: 2026.06.30
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1782814237_photo.jpg
+  :title: 福島・パセナカミッセに買い取り店「だっちゃの杜」
+- :id: 1278
+  :src: https://fukushima.keizai.biz/mapnews/1278
+  :lat: 37.7588804
+  :lng: 140.4601685
+  :link: https://fukushima.keizai.biz/headline/1278/
+  :date: 2026.06.30
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1782793941_photo.jpg
+  :title: MAXふくしまに「MEGAドンキ」　メガ盛り肉や250円丼などで差別化
+- :id: 1277
+  :src: https://fukushima.keizai.biz/mapnews/1277
+  :lat: 37.75434
+  :lng: 140.4592361
+  :link: https://fukushima.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/fukushima.png"
+  :title: 404_Not_Found
 - :id: 1276
   :src: https://fukushima.keizai.biz/mapnews/1276
   :lat: 37.8151087
