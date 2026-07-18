@@ -1,4 +1,12 @@
 ---
+- :id: 2345
+  :src: https://saga.keizai.biz/mapnews/2345
+  :lat: 33.3731642
+  :lng: 130.2055038
+  :link: https://saga.keizai.biz/headline/2345/
+  :date: 2026.07.17
+  :image: https://images.keizai.biz/saga_keizai/headline/1784326580_photo.jpg
+  :title: "「古湯キングダム温泉郷」始まる　フォトスポット設置、スタンプラリーも"
 - :id: 2344
   :src: https://saga.keizai.biz/mapnews/2344
   :lat: 33.3937047

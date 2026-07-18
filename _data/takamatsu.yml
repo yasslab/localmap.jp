@@ -1,4 +1,28 @@
 ---
+- :id: 1555
+  :src: https://takamatsu.keizai.biz/mapnews/1555
+  :lat: 34.3410855
+  :lng: 134.1017305
+  :link: https://takamatsu.keizai.biz/headline/1555/
+  :date: 2026.07.17
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1784274811_photo.jpg
+  :title: マイボトルで脱炭素へ　高松市が屋島競技場など2カ所に給水スポット
+- :id: 1554
+  :src: https://takamatsu.keizai.biz/mapnews/1554
+  :lat: 34.3143168
+  :lng: 134.0563492
+  :link: https://takamatsu.keizai.biz/headline/1554/
+  :date: 2026.07.17
+  :image: https://images.keizai.biz/takamatsu_keizai/headline/1784258166_photo.jpg
+  :title: 高松の「チーズカフェ」が20周年　フォンデュ用の器1000個プレゼントも
+- :id: 1553
+  :src: https://takamatsu.keizai.biz/mapnews/1553
+  :lat: 34.28292369
+  :lng: 134.026524007824
+  :link: https://takamatsu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takamatsu.png"
+  :title: 404_Not_Found
 - :id: 1552
   :src: https://takamatsu.keizai.biz/mapnews/1552
   :lat: 34.328842
