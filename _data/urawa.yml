@@ -1,4 +1,20 @@
 ---
+- :id: 1111
+  :src: https://urawa.keizai.biz/mapnews/1111
+  :lat: 35.8746101
+  :lng: 139.7029864
+  :link: https://urawa.keizai.biz/headline/1111/
+  :date: 2026.08.06
+  :image: https://images.keizai.biz/urawa_keizai/headline/1785984114_photo.jpg
+  :title: 東浦和のカフェでダウン症の織物作家個展　地元染め物作家とコラボグッズも
+- :id: 1110
+  :src: https://urawa.keizai.biz/mapnews/1110
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/urawa.png"
+  :title: 404_Not_Found
 - :id: 1109
   :src: https://urawa.keizai.biz/mapnews/1109
   :lat: 35.8434631
