@@ -1,4 +1,20 @@
 ---
+- :id: 1115
+  :src: https://urawa.keizai.biz/mapnews/1115
+  :lat: 35.8602719
+  :lng: 139.6535383
+  :link: https://urawa.keizai.biz/headline/1115/
+  :date: 2026.08.11
+  :image: https://images.keizai.biz/urawa_keizai/headline/1786415403_photo.jpg
+  :title: 浦和で「冒険武器」作るワークショップ　入手しやすい材料使い憧れを形に
+- :id: 1114
+  :src: https://urawa.keizai.biz/mapnews/1114
+  :lat: 35.8708289
+  :lng: 139.65047
+  :link: https://urawa.keizai.biz/headline/1114/
+  :date: 2026.08.11
+  :image: https://images.keizai.biz/urawa_keizai/headline/1786412625_photo.jpg
+  :title: 北浦和の和カフェ「あんかふぇ・元町」が1周年　地域の憩いの場に
 - :id: 1113
   :src: https://urawa.keizai.biz/mapnews/1113
   :lat: 35.8924984
