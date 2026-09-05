@@ -1,4 +1,20 @@
 ---
+- :id: 1123
+  :src: https://urawa.keizai.biz/mapnews/1123
+  :lat: 35.8681581
+  :lng: 139.6453459
+  :link: https://urawa.keizai.biz/headline/1123/
+  :date: 2026.09.04
+  :image: https://images.keizai.biz/urawa_keizai/headline/1788511572_photo.png
+  :title: シニア世代の活動後押し　「シニアスイッチ」始動、キックオフイベントも
+- :id: 1122
+  :src: https://urawa.keizai.biz/mapnews/1122
+  :lat: 35.8576339
+  :lng: 139.6522529
+  :link: https://urawa.keizai.biz/headline/1122/
+  :date: 2026.09.03
+  :image: https://images.keizai.biz/urawa_keizai/headline/1788416628_photo.jpg
+  :title: 浦和で「Hikariba芸術祭」　芸術家と地域・企業が協働し街をアートに
 - :id: 1121
   :src: https://urawa.keizai.biz/mapnews/1121
   :lat: 35.8634889

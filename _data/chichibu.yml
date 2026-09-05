@@ -1,4 +1,20 @@
 ---
+- :id: 1110
+  :src: https://chichibu.keizai.biz/mapnews/1110
+  :lat: 35.987286
+  :lng: 139.100051
+  :link: https://chichibu.keizai.biz/headline/1110/
+  :date: 2026.09.04
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1788507235_photo.jpg
+  :title: 横瀬町で札所と地域巡るスタンプラリー　多彩な色とデザインで周遊促す
+- :id: 1109
+  :src: https://chichibu.keizai.biz/mapnews/1109
+  :lat: 35.986775
+  :lng: 139.10292
+  :link: https://chichibu.keizai.biz/headline/1109/
+  :date: 2026.09.03
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1788444717_photo.jpg
+  :title: 横瀬町の官民連携「よこらぼ」が10周年　記念イベントでビジコンも
 - :id: 1108
   :src: https://chichibu.keizai.biz/mapnews/1108
   :lat: 35.9916305
