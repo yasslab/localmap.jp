@@ -1,4 +1,20 @@
 ---
+- :id: 1306
+  :src: https://fukushima.keizai.biz/mapnews/1306
+  :lat: 37.7573759
+  :lng: 140.4390815
+  :link: https://fukushima.keizai.biz/headline/1306/
+  :date: 2026.09.07
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1788772366_photo.jpg
+  :title: 福島駅西口に「100円レンタカー」　車種指定で「車を楽しむ体験」を
+- :id: 1305
+  :src: https://fukushima.keizai.biz/mapnews/1305
+  :lat: 37.596831
+  :lng: 140.4336583
+  :link: https://fukushima.keizai.biz/headline/1305/
+  :date: 2026.09.07
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1788772158_photo.jpg
+  :title: 二本松でチャリティー販売会　プリザーブドフラワー作品、支援につなげる
 - :id: 1304
   :src: https://fukushima.keizai.biz/mapnews/1304
   :lat: 37.6159035
