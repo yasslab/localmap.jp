@@ -1,4 +1,20 @@
 ---
+- :id: 1126
+  :src: https://urawa.keizai.biz/mapnews/1126
+  :lat: 35.8576176
+  :lng: 139.6523399
+  :link: https://urawa.keizai.biz/headline/1126/
+  :date: 2026.09.12
+  :image: https://images.keizai.biz/urawa_keizai/headline/1789171723_photo.jpg
+  :title: 浦和・埼玉会館に「KISSA BistroYama」　老舗フレンチが喫茶
+- :id: 1125
+  :src: https://urawa.keizai.biz/mapnews/1125
+  :lat: 35.8910278
+  :lng: 139.6621389
+  :link: https://urawa.keizai.biz/headline/1125/
+  :date: 2026.09.11
+  :image: https://images.keizai.biz/urawa_keizai/headline/1789105549_photo.jpg
+  :title: 浦和・見沼たんぼのヒマワリ迷路畑で種の収穫体験
 - :id: 1124
   :src: https://urawa.keizai.biz/mapnews/1124
   :lat: 35.8689985
