@@ -1,4 +1,28 @@
 ---
+- :id: 1104
+  :src: https://narashino.keizai.biz/mapnews/1104
+  :lat: 35.6733319
+  :lng: 140.0059445
+  :link: https://narashino.keizai.biz/headline/1104/
+  :date: 2026.09.14
+  :image: https://images.keizai.biz/narashino_keizai/headline/1789350429_photo.jpg
+  :title: 高校生アメフトチーム「習志野クラブシーガルズ」誕生　全国2番目
+- :id: 1103
+  :src: https://narashino.keizai.biz/mapnews/1103
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/narashino.png"
+  :title: 404_Not_Found
+- :id: 1102
+  :src: https://narashino.keizai.biz/mapnews/1102
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/narashino.png"
+  :title: 404_Not_Found
 - :id: 1101
   :src: https://narashino.keizai.biz/mapnews/1101
   :lat: 35.6802198
