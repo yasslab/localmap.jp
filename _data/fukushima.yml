@@ -1,4 +1,20 @@
 ---
+- :id: 1310
+  :src: https://fukushima.keizai.biz/mapnews/1310
+  :lat: 37.7705058
+  :lng: 140.4954386
+  :link: https://fukushima.keizai.biz/headline/1310/
+  :date: 2026.09.15
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1789455930_photo.jpg
+  :title: 福島・岡部に飲食店「モリヤ」　思い出の「もりや食堂」跡で開業
+- :id: 1309
+  :src: https://fukushima.keizai.biz/mapnews/1309
+  :lat: 37.7555434
+  :lng: 140.463308
+  :link: https://fukushima.keizai.biz/headline/1309/
+  :date: 2026.09.15
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1789431943_photo.jpg
+  :title: 福島・置賜町に「呑み処 だべした」　せんべろを楽しめる価格帯に設定
 - :id: 1308
   :src: https://fukushima.keizai.biz/mapnews/1308
   :lat: 37.7586907

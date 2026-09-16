@@ -1,4 +1,20 @@
 ---
+- :id: 2228
+  :src: https://omiya.keizai.biz/mapnews/2228
+  :lat: 35.9135724
+  :lng: 139.6151327
+  :link: https://omiya.keizai.biz/headline/2228/
+  :date: 2026.09.15
+  :image: https://images.keizai.biz/omiya_keizai/headline/1789449733_photo.jpg
+  :title: 大宮で災害復興チャリティーバザー　今できることを地域の仲間で
+- :id: 2227
+  :src: https://omiya.keizai.biz/mapnews/2227
+  :lat: 35.9064528
+  :lng: 139.6216608
+  :link: https://omiya.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/omiya.png"
+  :title: 404_Not_Found
 - :id: 2226
   :src: https://omiya.keizai.biz/mapnews/2226
   :lat: 35.9713453
