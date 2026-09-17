@@ -1,4 +1,20 @@
 ---
+- :id: 1312
+  :src: https://fukushima.keizai.biz/mapnews/1312
+  :lat: 37.763266
+  :lng: 140.4578727
+  :link: https://fukushima.keizai.biz/headline/1312/
+  :date: 2026.09.16
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1789550357_photo.jpg
+  :title: 森合に靴店「クツトカフェ タカマツ」　創業70年の老舗、カフェ併設し移転
+- :id: 1311
+  :src: https://fukushima.keizai.biz/mapnews/1311
+  :lat: 37.715132
+  :lng: 140.3236319
+  :link: https://fukushima.keizai.biz/headline/1311/
+  :date: 2026.09.16
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1789524600_photo.jpg
+  :title: あづま総合運動公園で「てしごと市場」　イチョウ並木に約130店集結
 - :id: 1310
   :src: https://fukushima.keizai.biz/mapnews/1310
   :lat: 37.7705058

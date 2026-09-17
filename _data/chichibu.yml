@@ -1,4 +1,20 @@
 ---
+- :id: 1116
+  :src: https://chichibu.keizai.biz/mapnews/1116
+  :lat: 35.987286
+  :lng: 139.100051
+  :link: https://chichibu.keizai.biz/headline/1116/
+  :date: 2026.09.16
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1789565269_photo.jpg
+  :title: 横瀬町と明治安田生命が健康増進協定 シニアの社会参加と介護予防へ
+- :id: 1115
+  :src: https://chichibu.keizai.biz/mapnews/1115
+  :lat: 35.9665883
+  :lng: 138.9778269
+  :link: https://chichibu.keizai.biz/headline/1115/
+  :date: 2026.09.16
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1789518623_photo.jpg
+  :title: 秩父・荒川西小で閉校記念しライトアップ　地域住民ら400人集う
 - :id: 1114
   :src: https://chichibu.keizai.biz/mapnews/1114
   :lat: 35.9916305
