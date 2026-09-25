@@ -1,4 +1,20 @@
 ---
+- :id: 1132
+  :src: https://urawa.keizai.biz/mapnews/1132
+  :lat: 35.8832255
+  :lng: 139.6516941
+  :link: https://urawa.keizai.biz/headline/1132/
+  :date: 2026.09.24
+  :image: https://images.keizai.biz/urawa_keizai/headline/1790236395_photo.jpg
+  :title: 浦和に「さんかく街仲食堂」　地元シニアが作るおむすびと一汁一菜提供
+- :id: 1131
+  :src: https://urawa.keizai.biz/mapnews/1131
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/urawa.png"
+  :title: 404_Not_Found
 - :id: 1130
   :src: https://urawa.keizai.biz/mapnews/1130
   :lat: 35.8448685
