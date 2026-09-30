@@ -1,4 +1,28 @@
 ---
+- :id: 1135
+  :src: https://urawa.keizai.biz/mapnews/1135
+  :lat: 35.859918
+  :lng: 139.6599539
+  :link: https://urawa.keizai.biz/headline/1135/
+  :date: 2026.09.29
+  :image: https://images.keizai.biz/urawa_keizai/headline/1790661573_photo.jpg
+  :title: 浦和で「ぷらっとマルシェ」　地元の店や見沼田んぼの生産者が出店
+- :id: 1134
+  :src: https://urawa.keizai.biz/mapnews/1134
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/urawa.png"
+  :title: 404_Not_Found
+- :id: 1133
+  :src: https://urawa.keizai.biz/mapnews/1133
+  :lat: 35.8587763
+  :lng: 139.6534162
+  :link: https://urawa.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/urawa.png"
+  :title: 404_Not_Found
 - :id: 1132
   :src: https://urawa.keizai.biz/mapnews/1132
   :lat: 35.8832255

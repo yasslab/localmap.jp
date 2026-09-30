@@ -1,4 +1,20 @@
 ---
+- :id: 2233
+  :src: https://omiya.keizai.biz/mapnews/2233
+  :lat: 35.9073402
+  :lng: 139.6271701
+  :link: https://omiya.keizai.biz/headline/2233/
+  :date: 2026.09.29
+  :image: https://images.keizai.biz/omiya_keizai/headline/1790659545_photo.jpg
+  :title: 大宮で「ライフ・デザイン・クラフツ」　作家40組がオリジナル商品販売
+- :id: 2232
+  :src: https://omiya.keizai.biz/mapnews/2232
+  :lat: 35.9064528
+  :lng: 139.6216608
+  :link: https://omiya.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/omiya.png"
+  :title: 404_Not_Found
 - :id: 2231
   :src: https://omiya.keizai.biz/mapnews/2231
   :lat: 35.9299747
