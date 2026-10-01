@@ -1,4 +1,20 @@
 ---
+- :id: 1724
+  :src: https://takadanobaba.keizai.biz/mapnews/1724
+  :lat: 35.7098874
+  :lng: 139.7186604
+  :link: https://takadanobaba.keizai.biz/headline/1724/
+  :date: 2026.09.30
+  :image: https://images.keizai.biz/takadanobaba_keizai/headline/1790751931_photo.jpg
+  :title: 早大演劇博物館開館記念、児玉館長の連続講座「演劇博物館の百年を語る」
+- :id: 1723
+  :src: https://takadanobaba.keizai.biz/mapnews/1723
+  :lat: 35.7120933
+  :lng: 139.7047394
+  :link: https://takadanobaba.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/takadanobaba.png"
+  :title: 404_Not_Found
 - :id: 1722
   :src: https://takadanobaba.keizai.biz/mapnews/1722
   :lat: 35.7116777

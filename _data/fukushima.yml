@@ -1,4 +1,20 @@
 ---
+- :id: 1318
+  :src: https://fukushima.keizai.biz/mapnews/1318
+  :lat: 37.7552659
+  :lng: 140.463219
+  :link: https://fukushima.keizai.biz/headline/1318/
+  :date: 2026.09.30
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1790759171_photo.jpg
+  :title: 福島・さんかく広場で「オールドカー＆バイクショー」　名車40台集結
+- :id: 1317
+  :src: https://fukushima.keizai.biz/mapnews/1317
+  :lat: 37.7676181
+  :lng: 140.4482843
+  :link: https://fukushima.keizai.biz/headline/1317/
+  :date: 2026.09.30
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1790753491_photo.jpg
+  :title: 福島・森合に「プリン工房はちまん」　富良野仕込みの瓶プリン提供
 - :id: 1316
   :src: https://fukushima.keizai.biz/mapnews/1316
   :lat: 37.7544341
