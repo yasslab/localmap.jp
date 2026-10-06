@@ -1,4 +1,12 @@
 ---
+- :id: 1119
+  :src: https://narashino.keizai.biz/mapnews/1119
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/narashino.png"
+  :title: 404_Not_Found
 - :id: 1118
   :src: https://narashino.keizai.biz/mapnews/1118
   :lat: 35.6900348
