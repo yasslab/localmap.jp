@@ -1,4 +1,12 @@
 ---
+- :id: 1234
+  :src: https://shimoda.keizai.biz/mapnews/1234
+  :lat: 34.7313478
+  :lng: 138.8645785
+  :link: https://shimoda.keizai.biz/headline/1234/
+  :date: 2026.10.07
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1791320288_photo.jpg
+  :title: 下田で「林福連携」モデル事業　いなずさ林業が作業所に測量用木杭を発注
 - :id: 1233
   :src: https://shimoda.keizai.biz/mapnews/1233
   :lat: 34.6845086
