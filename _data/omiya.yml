@@ -1,4 +1,12 @@
 ---
+- :id: 2237
+  :src: https://omiya.keizai.biz/mapnews/2237
+  :lat: 35.9064528
+  :lng: 139.6216608
+  :link: https://omiya.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/omiya.png"
+  :title: 404_Not_Found
 - :id: 2236
   :src: https://omiya.keizai.biz/mapnews/2236
   :lat: 35.8933795
