@@ -27,3 +27,4 @@ exclude:
   - patch_articles.rb
   - patch_articles.txt
   - build_page.rb
+  - test
