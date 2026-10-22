@@ -53,7 +53,7 @@ begin
 rescue Mechanize::ResponseCodeError => error
   # メンテナンス中は maintenance.html へ転送され、その先が 404 を返す。
   # この地域は飛ばして既存のマーカーを残し、ほかの地域の更新を続ける
-  raise unless error.page.uri.path == '/maintenance.html'
+  raise unless error.page.uri&.path == '/maintenance.html'
   puts "::warning::#{TARGET_AREA[:id]}: #{BASE_URL} がメンテナンス中のため、マーカーの更新を飛ばしました"
   exit
 end
