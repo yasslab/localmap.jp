@@ -31,3 +31,7 @@ jobs:
     - name: 🔍 Test
       run: |
         SKIP_BUILD=true bundle exec rake test
+
+    - name: 🧪 Test scripts
+      run: |
+        bundle exec rake test_scripts

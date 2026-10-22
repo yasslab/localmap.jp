@@ -63,3 +63,9 @@ desc 'Clean static pages by Jekyll'
 task :clean do
   system 'JEKYLL_END=production bundle exec jekyll clean' unless ENV['SKIP_BUILD'] == 'true'
 end
+
+require 'rake/testtask'
+desc 'Test scripts that fetch map data (without network)'
+Rake::TestTask.new(:test_scripts) do |t|
+  t.test_files = FileList['test/**/*_test.rb']
+end

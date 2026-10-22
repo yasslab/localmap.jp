@@ -48,7 +48,16 @@ end
 # Start fetching articles from allowed and targeted Minkei papers
 mechanize                  = Mechanize.new
 mechanize.user_agent_alias = 'Windows Chrome'
-latest_article = mechanize.get(BASE_URL).search('div.main a').attribute('href').value.split('/').last
+begin
+  top_page = mechanize.get(BASE_URL)
+rescue Mechanize::ResponseCodeError => error
+  # メンテナンス中は maintenance.html へ転送され、その先が 404 を返す。
+  # この地域は飛ばして既存のマーカーを残し、ほかの地域の更新を続ける
+  raise unless error.page.uri.path == '/maintenance.html'
+  puts "::warning::#{TARGET_AREA[:id]}: #{BASE_URL} がメンテナンス中のため、マーカーの更新を飛ばしました"
+  exit
+end
+latest_article = top_page.search('div.main a').attribute('href').value.split('/').last
 count_request  = 0
 debug_mode     = ENV['DEBUG_MODE'].to_s.downcase == 'true'
 (1..).each do |id|

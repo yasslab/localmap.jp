@@ -6,6 +6,7 @@ gem 'jekyll'       # Build, render, and serve static pages
 gem 'mechanize'    # Fetch map data from Minkei websites
 gem 'rake'         # Enable to exec tasks declared in Rakefile
 gem 'html-proofer' # Static check run all environment
+gem 'minitest'     # Test scripts that fetch map data
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
