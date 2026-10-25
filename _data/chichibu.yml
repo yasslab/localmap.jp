@@ -1,4 +1,20 @@
 ---
+- :id: 1135
+  :src: https://chichibu.keizai.biz/mapnews/1135
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/chichibu.png"
+  :title: 404_Not_Found
+- :id: 1134
+  :src: https://chichibu.keizai.biz/mapnews/1134
+  :lat: 36.0196597
+  :lng: 139.0861273
+  :link: https://chichibu.keizai.biz/headline/1134/
+  :date: 2026.10.24
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1792802763_photo.jpg
+  :title: 旧秩父橋望むカフェが開業半年　元オイスターバー店主が創作カキ料理
 - :id: 1133
   :src: https://chichibu.keizai.biz/mapnews/1133
   :lat: 35.982065
