@@ -1,4 +1,20 @@
 ---
+- :id: 1146
+  :src: https://chichibu.keizai.biz/mapnews/1146
+  :lat: 35.9917644
+  :lng: 139.0854619
+  :link: https://chichibu.keizai.biz/headline/1146/
+  :date: 2026.11.02
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1793622439_photo.jpg
+  :title: 秩父出身のシンガー・ソングライター三上隼さん、15周年公演に50人
+- :id: 1145
+  :src: https://chichibu.keizai.biz/mapnews/1145
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/chichibu.png"
+  :title: 404_Not_Found
 - :id: 1144
   :src: https://chichibu.keizai.biz/mapnews/1144
   :lat: 36.0181805
