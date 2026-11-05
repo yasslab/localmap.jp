@@ -43,6 +43,14 @@ if File.exist? RADIO_YAML
   end
 end
 
+# ポップアップでは「ラジオで聴く」の札が付くので、題名の定型部分を省く
+def short_radio_title(title)
+  reader = title[/（朗読：[^）]+）\z/]
+  return "記事の朗読#{reader}" if reader
+
+  title.sub(/【#?馬場経ラジオ】/, '').sub('今宵もゆるりと高田馬場から雑談', '雑談').strip
+end
+
 features    = []
 description = ''
 
@@ -60,10 +68,19 @@ marker_data.each do |marker|
     <small>（#{marker[:date]}）</small>
     DESCRIPTION
 
-  radio_videos[marker[:id]].each do |video|
-    description += <<~RADIO
-      <br><small>🎙️ <a target='_blank' rel='noopener' href='https://www.youtube.com/watch?v=#{video[:video]}'>#{CGI.escapeHTML video[:title]}</a></small>
-      RADIO
+  # ラジオの回がある記事は、記事（📰）とラジオ（🎙️・サムネイル付き）を見た目で分ける。
+  # 見た目は _layouts/map.html の .lm-* で定める
+  videos = radio_videos[marker[:id]]
+  unless videos.empty?
+    description = "<div class='lm-article'><span class='lm-label lm-label-article'>📰 記事を読む</span>#{description}</div>"
+    videos.each do |video|
+      description += <<~RADIO
+        <a class='lm-radio' target='_blank' rel='noopener' href='https://www.youtube.com/watch?v=#{video[:video]}'>
+        <span class='lm-thumb'><img src='https://i.ytimg.com/vi/#{video[:video]}/mqdefault.jpg' alt='' loading='lazy' /><span class='lm-play'>▶</span></span>
+        <span class='lm-radio-body'><span class='lm-label lm-label-radio'>🎙️ ラジオで聴く</span><span class='lm-radio-title'>#{CGI.escapeHTML short_radio_title(video[:title])}</span></span>
+        </a>
+        RADIO
+    end
   end
 
   # Prototype: https://github.com/yasslab/localmap.jp/pull/11
