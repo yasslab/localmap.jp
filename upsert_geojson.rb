@@ -3,6 +3,7 @@
 
 require 'yaml'
 require 'json'
+require 'cgi'
 
 if ARGV.length != 1
   puts "Usage: ./upsert_geojson.rb MINKEI_TARGET"
@@ -32,6 +33,16 @@ unless File.exist? MARKERS_YAML
 end
 
 marker_data = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
+
+# 記事に関連する YouTube の回（例: 馬場経ラジオ）があれば、マーカーの説明に足す
+RADIO_YAML   = "_data/#{TARGET_AREA[:id]}_radio.yml"
+radio_videos = Hash.new { |h, k| h[k] = [] }
+if File.exist? RADIO_YAML
+  YAML.unsafe_load_file(RADIO_YAML, symbolize_names: true).each do |video|
+    video[:articles].each { |id| radio_videos[id] << video }
+  end
+end
+
 features    = []
 description = ''
 
@@ -48,6 +59,12 @@ marker_data.each do |marker|
     <a target='_blank' rel='noopener' href='#{marker[:link]}'>#{marker[:title]}</a>
     <small>（#{marker[:date]}）</small>
     DESCRIPTION
+
+  radio_videos[marker[:id]].each do |video|
+    description += <<~RADIO
+      <br><small>🎙️ <a target='_blank' rel='noopener' href='https://www.youtube.com/watch?v=#{video[:video]}'>#{CGI.escapeHTML video[:title]}</a></small>
+      RADIO
+  end
 
   # Prototype: https://github.com/yasslab/localmap.jp/pull/11
   #if not dups_coords[[marker[:lng], marker[:lat]]].nil?
