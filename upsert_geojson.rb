@@ -3,6 +3,7 @@
 
 require 'yaml'
 require 'json'
+require 'cgi'
 
 if ARGV.length != 1
   puts "Usage: ./upsert_geojson.rb MINKEI_TARGET"
@@ -32,6 +33,24 @@ unless File.exist? MARKERS_YAML
 end
 
 marker_data = YAML.unsafe_load_file(MARKERS_YAML, symbolize_names: true)
+
+# 記事に関連する YouTube の回（例: 馬場経ラジオ）があれば、マーカーの説明に足す
+RADIO_YAML   = "_data/#{TARGET_AREA[:id]}_radio.yml"
+radio_videos = Hash.new { |h, k| h[k] = [] }
+if File.exist? RADIO_YAML
+  YAML.unsafe_load_file(RADIO_YAML, symbolize_names: true).each do |video|
+    video[:articles].each { |id| radio_videos[id] << video }
+  end
+end
+
+# ポップアップでは「ラジオで聴く」の札が付くので、題名の定型部分を省く
+def short_radio_title(title)
+  reader = title[/（朗読：[^）]+）\z/]
+  return "記事の朗読#{reader}" if reader
+
+  title.sub(/【#?馬場経ラジオ】/, '').sub('今宵もゆるりと高田馬場から雑談', '雑談').strip
+end
+
 features    = []
 description = ''
 
@@ -48,6 +67,21 @@ marker_data.each do |marker|
     <a target='_blank' rel='noopener' href='#{marker[:link]}'>#{marker[:title]}</a>
     <small>（#{marker[:date]}）</small>
     DESCRIPTION
+
+  # ラジオの回がある記事は、記事（📰）とラジオ（🎙️・サムネイル付き）を見た目で分ける。
+  # 見た目は _layouts/map.html の .lm-* で定める
+  videos = radio_videos[marker[:id]]
+  unless videos.empty?
+    description = "<div class='lm-article'><span class='lm-label lm-label-article'>📰 記事を読む</span>#{description}</div>"
+    videos.each do |video|
+      description += <<~RADIO
+        <a class='lm-radio' target='_blank' rel='noopener' href='https://www.youtube.com/watch?v=#{video[:video]}'>
+        <span class='lm-thumb'><img src='https://i.ytimg.com/vi/#{video[:video]}/mqdefault.jpg' alt='' loading='lazy' /><span class='lm-play'>▶</span></span>
+        <span class='lm-radio-body'><span class='lm-label lm-label-radio'>🎙️ ラジオで聴く</span><span class='lm-radio-title'>#{CGI.escapeHTML short_radio_title(video[:title])}</span></span>
+        </a>
+        RADIO
+    end
+  end
 
   # Prototype: https://github.com/yasslab/localmap.jp/pull/11
   #if not dups_coords[[marker[:lng], marker[:lat]]].nil?

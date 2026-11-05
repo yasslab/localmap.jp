@@ -14,7 +14,7 @@
 <html lang="ja">
   <head>
     {% include head.html %}
-    
+
     <style>
       body,
       html {
@@ -37,6 +37,66 @@
       #custom-marker img {
 	max-width: 100%;
 	height:    auto;
+      }
+
+      /* ポップアップ: 記事（青）とラジオ（赤・サムネイル付き）を見た目で分ける */
+      .lm-label {
+        display: inline-block;
+        margin-bottom: 4px;
+        padding: 1px 6px;
+        border-radius: 3px;
+        color: #fff;
+        font-size: 11px;
+        font-weight: bold;
+      }
+      .lm-label-article { background: #2d69b0; }
+      .lm-label-radio   { background: #c4302b; }
+      .lm-article {
+        padding-left: 8px;
+        border-left: 4px solid #2d69b0;
+      }
+      .lm-radio {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        margin-top: 8px;
+        padding: 6px 6px 6px 8px;
+        border-left: 4px solid #c4302b;
+        border-radius: 0 4px 4px 0;
+        background: #fdf0ef;
+        color: #333;
+        text-decoration: none;
+      }
+      .lm-radio:hover { background: #f9dcda; }
+      .lm-thumb {
+        position: relative;
+        flex: 0 0 96px;
+        line-height: 0;
+      }
+      .lm-thumb img {
+        width: 96px;
+        border-radius: 3px;
+      }
+      .lm-play {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 28px;
+        height: 20px;
+        border-radius: 5px;
+        background: rgba(196, 48, 43, 0.9);
+        color: #fff;
+        font-size: 11px;
+        line-height: 20px;
+        text-align: center;
+      }
+      .lm-radio-body {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        font-size: 11px;
+        line-height: 1.4;
       }
     </style>
   </head>
