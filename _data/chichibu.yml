@@ -1,4 +1,20 @@
 ---
+- :id: 1149
+  :src: https://chichibu.keizai.biz/mapnews/1149
+  :lat: 33.1856823
+  :lng: 131.5413009
+  :link: https://chichibu.keizai.biz/headline/1149/
+  :date: 2026.11.06
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1793921936_photo.jpg
+  :title: 横瀬小児童が伝統文化を体験　秩父屋台ばやしを演奏指導
+- :id: 1148
+  :src: https://chichibu.keizai.biz/mapnews/1148
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/chichibu.png"
+  :title: 404_Not_Found
 - :id: 1147
   :src: https://chichibu.keizai.biz/mapnews/1147
   :lat: 36.1091797
