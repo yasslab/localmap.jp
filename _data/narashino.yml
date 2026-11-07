@@ -1,4 +1,36 @@
 ---
+- :id: 1150
+  :src: https://narashino.keizai.biz/mapnews/1150
+  :lat: 35.681005
+  :lng: 140.02236
+  :link: https://narashino.keizai.biz/headline/1150/
+  :date: 2026.11.06
+  :image: https://images.keizai.biz/narashino_keizai/headline/1793931325_photo.jpg
+  :title: みはし湯ホールでお風呂屋さんコンサート　かつての銭湯に豊かな歌声響く
+- :id: 1149
+  :src: https://narashino.keizai.biz/mapnews/1149
+  :lat: 35.6857084
+  :lng: 140.0076435
+  :link: https://narashino.keizai.biz/headline/1149/
+  :date: 2026.11.06
+  :image: https://images.keizai.biz/narashino_keizai/headline/1793928801_photo.jpg
+  :title: 習志野・谷津の3店舗で「こども縁日」 仮装の親子連れでにぎわう
+- :id: 1148
+  :src: https://narashino.keizai.biz/mapnews/1148
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/narashino.png"
+  :title: 404_Not_Found
+- :id: 1147
+  :src: https://narashino.keizai.biz/mapnews/1147
+  :lat: 35.6802198
+  :lng: 140.0160045
+  :link: https://narashino.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/narashino.png"
+  :title: 404_Not_Found
 - :id: 1146
   :src: https://narashino.keizai.biz/mapnews/1146
   :lat: 35.68812
