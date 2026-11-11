@@ -1,4 +1,12 @@
 ---
+- :id: 1337
+  :src: https://fukushima.keizai.biz/mapnews/1337
+  :lat: 37.7914073
+  :lng: 140.4769427
+  :link: https://fukushima.keizai.biz/headline/1337/
+  :date: 2026.11.10
+  :image: https://images.keizai.biz/fukushima_keizai/headline/1794293223_photo.jpg
+  :title: 福島・市場食堂が半年でメニュー刷新　特上牛たんや上海鮮丼を新設
 - :id: 1336
   :src: https://fukushima.keizai.biz/mapnews/1336
   :lat: 37.7607991
