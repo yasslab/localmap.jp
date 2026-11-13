@@ -19,9 +19,9 @@ dependencies:
         commit: 'sha1-3d3c42e5aac5ba805825da76410c181273ba90b1'
         owner_id: 44036562
         repo_id: 197814629
-    'dependabot/fetch-metadata@21025c705c08248db411dc16f3619e6b5f9ea21a':
-        ref: 'v2.5.0'
-        commit: 'sha1-21025c705c08248db411dc16f3619e6b5f9ea21a'
+    'dependabot/fetch-metadata@25dd0e34f4fe68f24cc83900b1fe3fe149efef98':
+        ref: 'v3.1.0'
+        commit: 'sha1-25dd0e34f4fe68f24cc83900b1fe3fe149efef98'
         owner_id: 27347476
         repo_id: 371068214
     'ruby/setup-ruby@v1.335.0':
@@ -31,8 +31,8 @@ dependencies:
         repo_id: 231208785
     'yasslab/dependabot_auto_merge@main':
         ref: 'main'
-        commit: 'sha1-e09c93d482b8fe8dacaccd3534e018165be546cc'
+        commit: 'sha1-e985a73048ee8287cd3c4380a91a70bd283a9e16'
         owner_id: 7250215
         repo_id: 1030793390
         uses:
-            - 'dependabot/fetch-metadata@21025c705c08248db411dc16f3619e6b5f9ea21a'
+            - 'dependabot/fetch-metadata@25dd0e34f4fe68f24cc83900b1fe3fe149efef98'
