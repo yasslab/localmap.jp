@@ -1,4 +1,28 @@
 ---
+- :id: 1159
+  :src: https://chichibu.keizai.biz/mapnews/1159
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/chichibu.png"
+  :title: 404_Not_Found
+- :id: 1158
+  :src: https://chichibu.keizai.biz/mapnews/1158
+  :lat: 36.1314734
+  :lng: 139.1400553
+  :link: https://chichibu.keizai.biz/headline/1158/
+  :date: 2026.11.16
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1794828553_photo.jpg
+  :title: 長瀞の工房が銘仙113年ぶりに特許取得　経糸と緯糸で異なる柄「ヤナセ絣」
+- :id: 1157
+  :src: https://chichibu.keizai.biz/mapnews/1157
+  :lat: 35.986775
+  :lng: 139.10292
+  :link: https://chichibu.keizai.biz/headline/1157/
+  :date: 2026.11.16
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1794826491_photo.jpg
+  :title: 横瀬で「よこらぼ」10周年イベント　ビジコンに11組、来場者投票も
 - :id: 1156
   :src: https://chichibu.keizai.biz/mapnews/1156
   :lat: 36.1113053

@@ -1,4 +1,20 @@
 ---
+- :id: 1280
+  :src: https://shimoda.keizai.biz/mapnews/1280
+  :lat: 34.8259003
+  :lng: 139.0576238
+  :link: https://shimoda.keizai.biz/headline/1280/
+  :date: 2026.11.17
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1794860023_photo.jpg
+  :title: 東伊豆・奈良本で10回目の「けやきマルシェ」　21ブースが並び活気
+- :id: 1279
+  :src: https://shimoda.keizai.biz/mapnews/1279
+  :lat: 34.6868003
+  :lng: 138.9714942
+  :link: https://shimoda.keizai.biz/headline/1279/
+  :date: 2026.11.16
+  :image: https://images.keizai.biz/shimoda_keizai/headline/1794790993_photo.jpg
+  :title: 下田で「デジタルノマドシンポジウム」　伊豆半島を「ノマドの聖地」に
 - :id: 1278
   :src: https://shimoda.keizai.biz/mapnews/1278
   :lat: 34.6760921
