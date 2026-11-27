@@ -1,4 +1,12 @@
 ---
+- :id: 1166
+  :src: https://chichibu.keizai.biz/mapnews/1166
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/chichibu.png"
+  :title: 404_Not_Found
 - :id: 1165
   :src: https://chichibu.keizai.biz/mapnews/1165
   :lat: 36.1157227
