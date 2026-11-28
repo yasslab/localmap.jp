@@ -1,4 +1,20 @@
 ---
+- :id: 1168
+  :src: https://chichibu.keizai.biz/mapnews/1168
+  :lat: 35.9988245
+  :lng: 139.0794146
+  :link: https://chichibu.keizai.biz
+  :date: 2000.01.23
+  :image: "/images/chichibu.png"
+  :title: 404_Not_Found
+- :id: 1167
+  :src: https://chichibu.keizai.biz/mapnews/1167
+  :lat: 35.990426
+  :lng: 139.1020417
+  :link: https://chichibu.keizai.biz/headline/1167/
+  :date: 2026.11.27
+  :image: https://images.keizai.biz/chichibu_keizai/headline/1795751790_photo.jpg
+  :title: 横瀬町・武甲温泉、跡見女子大生考案のちょうちん貸し出し　秩父夜祭で披露
 - :id: 1166
   :src: https://chichibu.keizai.biz/mapnews/1166
   :lat: 35.9988245
